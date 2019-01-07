@@ -1,0 +1,62 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB076193_01
+!! NLB record number: 76193
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	'tIs
+=1	=1
+(8b	van
+8dd)	.
+8b	een
+(8a	koop-
+8cc)	.
+8a	-mans-
+=2	=2
+(8g	-doch-
+8b)	.
+8g	-ter-
+4d;}	-tje
+!! verse 1
+{8d	Die
+=3	=3
+4cc	daar
+8cc	ge-
+(8b	-stor-
+8dd)	.
+8b	-ven
+=4	=4
+[4.a	is.
+4a];}	.
+!! verse 2
+{8dd	Zal
+=5	=5
+4b	ik
+8b	u
+(8cc	een
+8b)	.
+8cc	ver-
+=6	=6
+4dd	-kon-
+8dd	-di-
+(8ee	-gen
+8cc);}	.
+!! verse 3
+{8a	Wie
+=7	=7
+4g	daar
+8dd	de
+4dd	schuld
+8cc	van
+=8	=8
+[4.b	is.
+4b];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

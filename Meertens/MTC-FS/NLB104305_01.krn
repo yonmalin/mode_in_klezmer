@@ -1,0 +1,68 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB104305_01
+!! NLB record number: 104305
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#c#]	*
+*D:	*
+!! verse 0
+{8a	In
+=1	=1
+4a	Hol-
+8a	-land
+4b	staat
+8b	een
+=2	=2
+[4.a	huis
+4a];}	.
+!! verse 1
+{8f#	In
+=3	=3
+4a	Hol-
+8a	-land
+4b	staat
+8b	een
+=4	=4
+[4.a	huis
+4a];}	.
+!! verse 2
+{8f#	In
+=5	=5
+4f#	Hol-
+8f#	-land
+4f#	staat
+8f#	een
+=6	=6
+4g	huis
+16g	fal-
+16g	-de-
+4g;}	-ra
+!! verse 3
+{8f#	Van
+=7	=7
+4e	vijf-
+8e	-maal
+8e	zin-
+8e	-gen
+8e	la
+=8	=8
+4a	hup-
+8a	-sa-
+4a;}	-sa
+!! verse 4
+{8g	In
+=9	=9
+4f#	Hol-
+8f#	-land
+4e	staat
+8e	een
+=10	=10
+[4.d	huis.
+4d];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

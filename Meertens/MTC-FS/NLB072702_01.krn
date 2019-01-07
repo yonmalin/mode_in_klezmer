@@ -1,0 +1,80 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072702_01
+!! NLB record number: 72702
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	t Is
+8d	nog
+=1	=1
+4g	niet
+4g	zo
+4f#	lang
+4g	ge-
+=2	=2
+4a	-le-
+4d	-den
+4r;}	.
+!! verse 1
+{4d	Be-
+=3	=3
+4a	-stond
+4a	in
+4g	de-
+4a	-ze
+=4	=4
+2b	stad
+4r;}	.
+!! verse 2
+{4b	Een
+=5	=5
+4.b	meis-
+8b	-je
+4b	naar
+4dd	haar
+=6	=6
+4dd	zeg-
+2cc;}	-gen
+!! verse 3
+{8b	Die
+8a	haar
+=7	=7
+4.g	on-
+8g	-schuld
+4.a	nog
+8a	be-
+=8	=8
+2b	-zat
+4r;}	.
+!! verse 4
+{4b	Een
+=9	=9
+4.b	meis-
+8b	-je
+4b	naar
+4ff#	haar
+=10	=10
+4ff#	zeg-
+2ee;}	-gen
+!! verse 5
+{8b	Die
+8b	haar
+=11	=11
+4dd	on-
+4dd	-schuld
+(8dd	nog
+8cc)	.
+(8b	be-
+8a)	.
+=12	=12
+2g	-zat.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

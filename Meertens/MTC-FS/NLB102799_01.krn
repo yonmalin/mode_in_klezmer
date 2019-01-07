@@ -1,0 +1,142 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB102799_01
+!! NLB record number: 102799
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{4c	Klaas
+=1	=1
+4.f	Vaak
+8g	die
+4f	komt
+4g	Klaas
+=2	=2
+4.a	Vaak
+8b-	die
+4a;}	komt
+!! verse 1
+{(8a	Hij
+8b-)	.
+=3	=3
+4cc	komt
+4cc	de
+4b-	schoor-
+4b-	-steen
+=4	=4
+2.a;}	in
+!! verse 2
+{8a	En
+8b-	hij
+=5	=5
+4cc	zegt:
+8cc	Goe-
+8cc	-den
+4cc	a-
+4cc	-vond,
+=6	=6
+2dd	Nel-
+4b-;}	-ly
+!! verse 3
+{4a	met
+=7	=7
+4g	o
+4g	zoo'n
+4cc	zoe-
+4cc	-te
+=8	=8
+2f	zin.
+4r;}	.
+!! verse 4
+{4c	Kom
+=9	=9
+4.f	ga
+8g	te
+4f	bed
+4g	kom
+=10	=10
+4.a	ga
+8b-	te
+4a;}	bed
+!! verse 5
+{8a	Want
+8b-	je
+=11	=11
+4cc	oog-
+4cc	-jes
+4b-	val-
+4b-	-len
+=12	=12
+2.a;}	toe
+!! verse 6
+{8a	En
+8b-	we
+=13	=13
+4cc	zul-
+8cc	-len
+8cc	van-
+4cc	-a-
+4cc	-vond
+=14	=14
+4.dd	melk-
+8dd	-je
+4b-	drin-
+8b-;}	-ken
+!! verse 7
+{8a	Al
+=15	=15
+4g	van
+4g	de
+4cc	bon-
+4cc	-te
+=16	=16
+2f	koe.
+4r;}	.
+!! verse 8
+{8a	En
+8b-	de
+=17	=17
+4cc	koe
+4cc	is
+4cc	bont
+8dd	en
+8cc	de
+=18	=18
+8cc	mel-
+8b-	-lik
+8b-	is
+8a	ge-
+4b-;}	-zond
+!! verse 9
+{8g	En
+8a	die
+=19	=19
+4b-	loopt
+4b-	in
+4b-	Nel-
+4cc	-ly's
+=20	=20
+8b-	mon-
+8a	-ne-
+8a	-mon-
+8g	-ne-
+4a;}	-mond
+!! verse 10
+{8c	En
+8c	die
+=21	=21
+4f	loopt
+4b-	in
+4a	Nel-
+4g	-ly's
+=22	=22
+2f	mond.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

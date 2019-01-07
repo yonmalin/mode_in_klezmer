@@ -1,0 +1,79 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB141323_01
+!! NLB record number: 141323
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4g	Drie
+8b	schuin-
+8a	-tam-
+=2	=2
+4.d	-boers
+16r;}	.
+!! verse 1
+{16d	Die
+=3	=3
+8.g	kwa-
+16a	-men
+8.b	uit
+16cc	het
+=4	=4
+4dd	Oos-
+8.cc;}	-ten
+!! verse 2
+{16b	Zij
+=5	=5
+8.a	kwa-
+16a	-men
+8.a	aan
+16a	den
+=6	=6
+4.a;}	wal
+!! verse 3
+{16a	om
+16a	de
+=7	=7
+8.a	meis-
+16b	-jes
+8.cc	te
+16dd	ver-
+=8	=8
+4ee	-troos-
+8.dd;}	-ten
+!! verse 4
+{16cc	Van
+=9	=9
+4b	rom
+8.b	bom
+16a	wat
+=10	=10
+8g	maal
+16f#	ik
+16e	er
+8d;}	om?
+!! verse 5
+{16d	Om
+16d	de
+=11	=11
+8.g	meis-
+16a	-jes
+8.b	te
+16cc	ver-
+=12	=12
+4dd	-troos-
+(8dd	-ten
+8cc)	.
+=13	=13
+16a	rom
+4g	bom
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

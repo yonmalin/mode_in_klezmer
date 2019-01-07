@@ -1,0 +1,109 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113254_01
+!! NLB record number: 113254
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*G:mix	*
+!! verse 0
+{2a	Naar
+=1	=1
+4dd	Oost-
+4dd	-land
+2b	wil
+=2	=2
+(8a	ik
+8g)	.
+2f	va-
+8g;}	-ren
+!! verse 1
+{8a	Daar
+=3	=3
+2b	woont
+4a	er
+4cc	mijn
+=4	=4
+4cc	zoe-
+4b	-te-
+2a;}	-lief
+!! verse 2
+=5	=5
+*M2/4	*
+{8g	O-
+8g	-ver
+8a	ber-
+8g	-gen
+=6	=6
+*M4/4	*
+8a	o-
+8b	-ver
+4cc	da-
+4.dd	-len
+8ee	ja
+=7	=7
+4cc#	da-
+2dd;}	-len
+!! verse 3
+{4a	Schier
+=8	=8
+2b	o-
+4a	-ver
+4g	der
+=9	=9
+4f	hei-
+2d;}	-den
+!! verse 4
+{(8f	Daar
+8a)	.
+=10	=10
+2b	woont
+4a	er
+4cc	mijn
+=11	=11
+4dd	zoe-
+4b	-te-
+2g;}	-lief
+!! verse 5
+=12	=12
+*M2/4	*
+{8g	O-
+8g	-ver
+8a	ber-
+8g	-gen
+=13	=13
+*M4/4	*
+8a	o-
+8b	-ver
+4cc	da-
+4.dd	-len
+8ee	ja
+=14	=14
+4cc#	da-
+2dd;}	-len
+!! verse 6
+{4a	Schier
+=15	=15
+2b	o-
+4a	-ver
+4g	der
+=16	=16
+4f	hei-
+2d;}	-den
+!! verse 7
+{(8f	Daar
+8a)	.
+=17	=17
+2b	woont
+4a	er
+4cc	mijn
+=18	=18
+4dd	zoe-
+4b	-te-
+2g;}	-lief
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

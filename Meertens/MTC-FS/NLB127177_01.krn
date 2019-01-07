@@ -1,0 +1,101 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB127177_01
+!! NLB record number: 127177
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+=1	=1
+{8f	Pie-
+8f	-re-
+8f	-la-
+4f	-la
+8g	leî
+=2	=2
+4a	in
+8a	de
+4a;}	kist,
+!! verse 1
+{8f	al
+=3	=3
+4g	met
+8a	zijn
+8.b-	bil-
+16a	-le-
+8g	-tjes
+=4	=4
+4.f	bloot;
+4r;}	.
+!! verse 2
+{8c	en
+=5	=5
+4f	nie-
+8f	-mand,
+4g	die
+8g	het
+=6	=6
+4a	be-
+8a	-ter
+4a;}	wist,
+!! verse 3
+{8f	of
+=7	=7
+4g	Pier-
+8a	-la-
+(8.b-	-la
+16a)	.
+8g	was
+=8	=8
+4.f	dood.
+4r;}	.
+!! verse 4
+{8cc	Hij
+=9	=9
+4b-	schop-
+8a	-te
+4g	't dek-
+8f	-sel
+=10	=10
+4e	van
+8f	de
+4g;}	kist;
+!! verse 5
+{8cc	En
+=11	=11
+4b-	sprong
+8a	er
+4g	uit,
+8f	dat
+=12	=12
+4e	nie-
+8f	-mand
+4g;}	wist;
+!! verse 6
+{8cc	Ha,
+=13	=13
+4cc	ha!
+8a	zeî
+4f	Pier-
+8ff	-la-
+=14	=14
+(4.ff	-la;
+4dd);}	.
+!! verse 7
+{8dd	ha,
+=15	=15
+4cc	ha!
+8cc	zeî
+(8b-	Pier-
+8a)	.
+8g	-la-
+=16	=16
+4.f	-la.
+4.r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,90 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140305_01
+!! NLB record number: 140305
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4g	Nu
+4g	zijt
+4g	wel-
+4f#	-le-
+=2	=2
+2e	-ko-
+2d;}	-me,
+!! verse 1
+=3	=3
+{4g	Je-
+4g	-su
+4a	lie-
+4a	-ven
+=4	=4
+2.b;}	Heer,
+!! verse 2
+{4b	Gij
+=5	=5
+4b	komt
+4b	van
+4b	al-
+4b	-zoo
+=6	=6
+2dd	hoo-
+4b;}	-ge,
+!! verse 3
+{4b	van
+=7	=7
+2a	al-
+2b	-zoo
+=8	=8
+1g;}	veer;
+!! verse 4
+=9	=9
+{4g	Nu
+4g	zijt
+4a	wel-
+4b	-le-
+=10	=10
+4.cc	-ko-
+8b	-me
+4a	van
+4g	den
+=11	=11
+4g	ho-
+4f#	-gen
+4e	he-
+4e	-mel
+=12	=12
+1d;}	neer,
+!! verse 5
+=13	=13
+{4a	Hier
+4g	al
+4a	in
+4b	dit
+=14	=14
+2cc	aard-
+4b	-rijk
+4a	zijt
+=15	=15
+4g	gij
+4e	ge-
+4f#	-zien
+4g	nooit
+=16	=16
+1a;}	meer
+!! verse 6
+=17	=17
+{2d	Ky-
+4e	-ri-
+4f#	-e-
+=18	=18
+1g;}	-leis!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

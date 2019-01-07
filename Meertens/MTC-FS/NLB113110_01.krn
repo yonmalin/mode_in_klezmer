@@ -1,0 +1,85 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113110_01
+!! NLB record number: 113110
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{8.e	En
+16d	daar
+=1	=1
+4c	ach-
+4e	-ter
+4c	in
+4a	die
+=2	=2
+(4.g	vel-
+8f)	.
+4e;}	-den
+!! verse 1
+{4g	Daar
+=3	=3
+4.a	staat
+8a	een
+(8a	hee-
+8cc	.
+8b)	.
+8a	-ren-
+=4	=4
+2.g	-huis
+4r;}	.
+!! verse 2
+=5	=5
+{2a	Daar
+4f	ging
+4a	een
+=6	=6
+8.g	drie-
+16a	-tal
+8.g	uit
+16f	het
+8.e	wan-
+16e;}	-d'len
+!! verse 3
+{8.g	en
+16g	dat
+=7	=7
+4a	was
+8.d	er
+16e	voor
+4f	mij
+4g	zoo'n
+=8	=8
+2.e	kruis.
+4r;}	.
+!! verse 4
+=9	=9
+{2a	Daar
+4f	ging
+4a	een
+=10	=10
+8.g	drie-
+16a	-tal
+8.g	uit
+16f	het
+8.e	wan-
+16e;}	-d'len
+!! verse 5
+{8.g	en
+16g	dat
+=11	=11
+4a	was
+8.d	er
+16e	voor
+4f	mij
+4g	zoo'n
+=12	=12
+2.e;}	kruis.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

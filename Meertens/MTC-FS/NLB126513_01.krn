@@ -1,0 +1,58 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB126513_01
+!! NLB record number: 126513
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{4.d	Twee
+8e	kin-
+8e	-der-
+8e	-tjes
+=2	=2
+4d	bij
+8d	me
+4c;}	kaâr,
+!! verse 1
+{8c	een
+=3	=3
+4d	zus-
+8d	-je
+4e	en
+8e	een
+=4	=4
+4.d	broêr-
+8c	-tje;
+8r;}	.
+!! verse 2
+{8c	ik
+=5	=5
+4e	wou
+8c	niet
+8c	dat
+8c	ik
+8c	er
+=6	=6
+4e	meer
+8e	van
+4e;}	had
+!! verse 3
+{8e	val
+=7	=7
+4d	al
+8c	dat
+4d	klei-
+8e	-ne
+=8	=8
+4.c	goed-
+4c	-je.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

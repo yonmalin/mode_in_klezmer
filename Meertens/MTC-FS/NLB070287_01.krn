@@ -1,0 +1,78 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070287_01
+!! NLB record number: 70287
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4g	Klein
+4b	klein
+8dd	kleu-
+8dd	-ter-
+8dd	-tje
+8dd	wat
+=2	=2
+8ee	doe
+8ee	je
+8ee	in
+8ee	mijn
+4dd	hof?
+8r;}	.
+!! verse 1
+{8dd	Je
+=3	=3
+8cc	plukt
+8cc	er
+8cc	al
+8cc	mijn
+8b	bloemp-
+8b	-jes
+8b	af
+8b	je
+=4	=4
+8a	maakt
+8a	het
+8a	veel
+8a	te
+2g;}	grof
+!! verse 2
+=5	=5
+{4g	Och
+12b	lie-
+12b	-ve
+12b	Ma-
+4dd	-ma-
+4dd	-tje,
+=6	=6
+12ee	zeg
+12ee	het
+12ee	niet
+8ee	aan
+8ee	Pa-
+4dd	-pa-
+4dd;}	-tje
+!! verse 3
+=7	=7
+{8cc	Ik
+8cc	zal
+8cc	zoet
+8cc	naar
+8b	school
+8b	toe
+8b	gaan,
+8b	de
+=8	=8
+8a	bloemp-
+8a	-jes
+8a	la-
+8a	-ten
+2g;}	staan.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

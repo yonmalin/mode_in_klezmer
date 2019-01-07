@@ -1,0 +1,114 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB016057_01
+!! NLB record number: 16057
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/4	*
+*MM120	*
+*k[b-]	*
+*d:	*
+!! verse 0
+{4g	Een
+=1	=1
+4.g	ruy-
+8g	-ter-
+4dd	-tjen
+(4.dd	jongh
+8ee)	.
+4ff	van
+=2	=2
+2.ee	ja-
+2dd;}	-ren
+!! verse 1
+{4dd	hy
+=3	=3
+2cc	vry-
+4b-	-de
+4.a	een
+8b-	meys-
+4cc	-je
+=4	=4
+[2.dd	soet
+2dd];}	.
+!! verse 2
+{4g	hy
+=5	=5
+4.g	vry-
+8g	-de-
+4dd	-se
+4.dd	vier-
+8ee	-de
+4ff	half
+=6	=6
+2.ee	ja-
+2dd;}	-re,
+!! verse 3
+{4dd	te
+=7	=7
+4.cc	ko-
+8cc	-men
+4b-	in
+(4.a	haer
+8b-)	.
+4cc	ge-
+=8	=8
+[2.dd	-moet;
+2dd];}	.
+!! verse 4
+{4a	hy
+=9	=9
+4.b-	bood-
+8a	-se
+4b-	de
+4.g	trouw
+8a	en
+4b-	de
+=10	=10
+4.cc	min-
+8cc	-ne
+4b-	was
+2a;}	soet;
+!! verse 5
+{4a	hij
+=11	=11
+4.b-	bood-
+8a	-se
+4b-	de
+4.g	trouw
+8a	en
+4b-	de
+=12	=12
+4.cc	min-
+8cc	-ne
+4b-	was
+2a;}	soet;
+!! verse 6
+{4a	als
+=13	=13
+(4.dd	sy
+8ee)	.
+4ff	mal-
+2ee	-kan-
+4dd	-der
+=14	=14
+4.cc#	sa-
+8cc#	-gen,
+4cc#	schoon
+2dd;}	lief,
+!! verse 7
+{4cc	ver-
+=15	=15
+4.b-	-an-
+8a	-der-
+4b-	-de
+4.a	bey-
+8g	-de-
+4f#	-haer
+=16	=16
+[2.g	bloet.
+2g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

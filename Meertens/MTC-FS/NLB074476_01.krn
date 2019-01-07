@@ -1,0 +1,112 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074476_01
+!! NLB record number: 74476
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	En
+8d	een
+=1	=1
+4g	ja-
+4a	-ger-
+4b	-tje
+=2	=2
+4a	wou
+4d;}	laatst
+!! verse 1
+{4d	Uit
+=3	=3
+(4a	ja-
+4b)	.
+4cc	-gen
+=4	=4
+4b	gaan,
+4r;}	.
+!! verse 2
+{4b	Uit
+=5	=5
+4b	ja-
+4ee	-gen
+4ee	zo
+=6	=6
+4cc	wou
+4a	hij
+4dd	er
+=7	=7
+4b	gaan,
+4r;}	.
+!! verse 3
+{8b	Hij
+8b	ont-
+=8	=8
+4.dd	-moet-
+8cc	-te
+4b	al
+=9	=9
+4b	op
+4a	zij-
+4g	-ne
+=10	=10
+4b	we-
+4g	-gen,
+4e	tsjeng
+=11	=11
+4d	tsjeng,
+4r;}	.
+!! verse 4
+{4b	Een
+=12	=12
+4.dd	aar-
+8cc	-dig
+4b	lief
+=13	=13
+4b	meis-
+4a	-je
+4g	ter-
+=14	=14
+4b	-de-
+4g	-ge,
+4e	tsjeng
+=15	=15
+4d	tsjeng,
+4r;}	.
+!! verse 5
+{8b	En
+8cc	ze
+=16	=16
+4.dd	was
+8cc	er
+4b	zo
+=17	=17
+4cc	fraai
+4dd	aan-
+4ee	-ge-
+=18	=18
+2ee	-daan,
+4gg	ge-
+=19	=19
+4dd	-daan,
+4r;}	.
+!! verse 6
+{8b	En
+8cc	ze
+=20	=20
+4.dd	was
+8ee	er
+4dd	zo
+=21	=21
+4cc	fraai
+4b	aan-
+4a	-ge-
+=22	=22
+4g	-daan.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

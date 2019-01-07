@@ -1,0 +1,84 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075312_01
+!! NLB record number: 75312
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8b	Een
+=1	=1
+8b	moe-
+8b	-der
+8a	van
+4g	al
+8b	die
+=2	=2
+4dd	val-
+8ee	-se
+(4dd	vrou-
+8b)	.
+=3	=3
+[4.a	-wen
+4a];}	.
+!! verse 1
+{8dd	Die
+=4	=4
+4dd	sprak
+8ff#	haar
+4ee	zoon
+8dd	zo
+=5	=5
+8dd	schan-
+8cc	-de-
+8b	-loos
+4a;}	aan
+!! verse 2
+{8b	Zeg
+=6	=6
+8b	jon-
+8b	-gen
+8ee	wat
+4.dd	heb
+=7	=7
+4b	ik
+8dd	van
+4dd	jou
+8cc	ver-
+=8	=8
+[4.b	-staan
+4b];}	.
+!! verse 3
+{8dd	Die
+=9	=9
+4dd	sprak
+8ff#	haar
+4ee	zoon
+8dd	zo
+=10	=10
+8dd	schan-
+8cc	-de-
+8b	-loos
+4a;}	aan
+!! verse 4
+{8b	Zeg
+=11	=11
+8b	jon-
+8b	-gen
+8ee	wat
+4.dd	heb
+=12	=12
+4g	ik
+8cc	van
+4b	jou
+8a	ver-
+=13	=13
+[4.g	-staan
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

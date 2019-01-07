@@ -1,0 +1,57 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB133877_01
+!! NLB record number: 133877
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[b-]	*
+*d:	*
+!! verse 0
+{4d	Ic
+=1	=1
+4a	stont
+4a	op
+4b	ho-
+4cc#	-ghe
+=2	=2
+2dd	ber-
+4a;}	-ghen.
+!! verse 1
+{4b	Ic
+=3	=3
+4cc	sach
+4ee	ter
+4.b	see-
+8a	-waert
+=4	=4
+[2a	in,
+8a]	.
+8r;}	.
+!! verse 2
+{4a	Ic
+=5	=5
+4cc	sach
+4f	een
+4f	scheep-
+4a	-ken
+=6	=6
+2g	dri-
+4g;}	-ven,
+!! verse 3
+{4c#	Daer
+=7	=7
+(8d	wa-
+8e)	.
+8f	-ren
+8g	drie
+4.e	rui-
+8d	-ters
+=8	=8
+[2d	in.
+4d];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

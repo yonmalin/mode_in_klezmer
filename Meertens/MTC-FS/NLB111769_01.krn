@@ -1,0 +1,75 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB111769_01
+!! NLB record number: 111769
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[b-e-]	*
+*B-:	*
+!! verse 0
+=1	=1
+{4f	Hier
+8dd	leeft
+8b-	mij
+=2	=2
+4.g	Ro-
+8cc	-ze-
+=3	=3
+(8b-	-mont
+8a	.
+8g)	.
+8f	be-
+=4	=4
+4g	-schei-
+4f;}	-den;
+!! verse 1
+=5	=5
+{4g	Hier,
+8a	bij
+8b-	deez'
+=6	=6
+4a	boom,
+(12cc	die
+12b-	.
+12g)	.
+=7	=7
+(4f	we-
+8.a)	.
+16g	-ligh
+=8	=8
+4.f;}	wast.
+!! verse 2
+{8f	Waer
+=9	=9
+4.a	magh
+8a	de
+=10	=10
+4b-	schoo-
+4b-	-ne
+=11	=11
+4.cc	zoo
+8dd	lang
+=12	=12
+4cc	bei-
+4b-;}	-den,
+!! verse 3
+=13	=13
+{8r	.
+8a-	dat
+8a-	zy
+8a-	niet
+=14	=14
+4g	op
+4cc	het
+=15	=15
+4.dd	uur-
+8cc	-tje
+=16	=16
+4b-	past
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

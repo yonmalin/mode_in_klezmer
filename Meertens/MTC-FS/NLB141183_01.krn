@@ -1,0 +1,165 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB141183_01
+!! NLB record number: 141183
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/8	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8cc	Neen,
+8b-	mu-
+=1	=1
+8a	-ziek
+8cc#	van
+8dd	Che-
+8cc	-ru-
+=2	=2
+8b	-bi-
+8dd#	-ni
+8ee	is
+8dd	me
+=3	=3
+8cc	veel
+8ee	te
+8.ff	veel
+16dd	chro-
+=4	=4
+4cc	-ma-
+8b;}	-tisch!
+!! verse 1
+{16g	Daar-
+16g	-om
+=5	=5
+8g	prijs
+16g	ik
+16a	de
+8b	lied-
+16g	-jes
+16g	van
+=6	=6
+8g	Hol
+16cc	en
+16dd	de
+8ee	Lan-
+16cc;}	-ge,
+!! verse 2
+{16g	Die
+=7	=7
+8g	zijn
+16g	zoo
+16a	een-
+8b	-vou-
+16g	-dig
+16g	en
+=8	=8
+8.cc;}	gaaf.
+!! verse 3
+{16c	Ik
+8c	prijs
+16e	daar-
+16e	-om
+=9	=9
+8f	Hol
+16e-	en
+16e-	zijn
+8d	vriend-
+16f#	-je
+16f#	de
+=10	=10
+8g	Lan-
+16f;}	-ge
+!! verse 4
+{16f	Hun
+8e	lied-
+16g#	-jes
+16g#	zijn
+=11	=11
+8a	echt,
+16g	zoo
+16g	een-
+8f	-vou-
+16d	-dig
+16d	en
+=12	=12
+4g	braaf,
+8r;}	.
+!! verse 5
+{8g	Dus
+=13	=13
+8f	prijs
+8d	ik
+8r	.
+8g	de
+=14	=14
+8e	lied-
+8c	-jes
+8r	.
+8g	van
+=15	=15
+8f	Hol
+8d	en
+8r	.
+8g	de
+=16	=16
+8e	Lan-
+8c	-ge,
+8r;}	.
+!! verse 6
+{8c	Die
+=17	=17
+8a	zijn
+8g	zoo
+(8f#	braaf
+8d	.
+=18	=18
+8b-	.
+8a	.
+8g#	.
+8e	.
+=19	=19
+8cc	.
+8b-	.
+8a	.
+16g	.
+16f	.
+=20	=20
+*M5/8	*
+4e	.
+8d);}	.
+!! verse 7
+{8.g	Tra-
+16g	-la-
+=21	=21
+*M4/8	*
+(16g	-la-
+16a)	.
+16b-	-la-
+16cc	-la-
+8dd	-la-
+8b-	-la-
+=22	=22
+*M5/8	*
+(8cc	-la,
+4ee);}	.
+!! verse 8
+{8.g	tra-
+16g	-la-
+=23	=23
+*M4/8	*
+(16g	-la-
+16a)	.
+16b-	-la-
+16cc	-la-
+(16dd	-la-
+16ff)	.
+(16b-	-la-
+16dd)	.
+=24	=24
+4cc;}	-la!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

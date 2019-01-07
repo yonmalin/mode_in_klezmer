@@ -1,0 +1,78 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB111593_01
+!! NLB record number: 111593
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{4c	Jan
+8d	Rap
+8e	had
+4f	al
+4d	zijn
+=2	=2
+4c	geld
+4e	ver-
+(8d	-zo-
+8B)	.
+4G;}	-pen.
+!! verse 1
+=3	=3
+{4c	Daar
+8d	hij
+8e	nu
+4f	nog
+4d	wat
+=4	=4
+(8c	le-
+8d)	.
+(8e	-ven
+8f)	.
+2g;}	wou
+!! verse 2
+=5	=5
+{4c	Ging
+8e	hij
+8f	maar
+4g	weer
+4cc	met
+=6	=6
+4a	mos-
+4a	-terd
+(8a	loo-
+8g)	.
+4g;}	-pen
+!! verse 3
+=7	=7
+{4g	Op
+8d	hoop
+8f	dat
+4e	het
+4g	wat
+=8	=8
+4d	ge-
+4g	-ven
+2e;}	zou
+!! verse 4
+=9	=9
+{(8g	Op
+8f)	.
+8d	hoop
+8f	dat
+4e	het
+4g	wat
+=10	=10
+(8d	ge-
+8c)	.
+(8d	-ven
+8e)	.
+2c;}	zou.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

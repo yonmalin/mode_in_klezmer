@@ -1,0 +1,77 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140819_01
+!! NLB record number: 140819
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{8g	Ik
+=1	=1
+8cc	vraag
+8g	je
+8r	.
+8g	ik
+8e	vraag
+8c	je:
+8B	zing
+16c	mij
+16c	de
+=2	=2
+8e	C-
+8e	-toon-
+8g	-lad-
+8g	-der
+4cc	voor!
+4r;}	.
+!! verse 1
+=3	=3
+{8c	Do
+16d	re
+16e	mi
+16f	fa
+16g	sol
+16a	la
+16b	sis
+4cc	do
+4r;}	.
+!! verse 2
+=4	=4
+{8cc	Do
+16b	si
+16a	la
+16g	so
+16f	fa
+16e	mi
+16d	re
+4c	do,
+4r;}	.
+!! verse 3
+=5	=5
+{8e	Mi
+16f	fa
+16g	sol
+16a	la
+16b	si
+16cc	do
+16dd	re
+4ee	mi,
+4r;}	.
+!! verse 4
+=6	=6
+{8ee	Mi
+16dd	re
+16cc	do
+16b	si
+16a	la
+16g	sol
+16f	fa
+4e	mi.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

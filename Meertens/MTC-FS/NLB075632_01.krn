@@ -1,0 +1,92 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075632_01
+!! NLB record number: 75632
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4dd	En
+=1	=1
+4gg	Mast-
+4dd	-broek
+4b	voer
+4dd	ten
+=2	=2
+(4b	oor-
+4dd)	.
+8dd;}	-log
+!! verse 1
+{16dd	Van
+16dd	de
+8dd	ra-
+8dd	-re
+=3	=3
+8ee	zie-
+8ee	-me
+8dd	zi-
+8cc#	-o-
+8dd	-la,
+16dd	van
+16dd	de
+8dd	ra-
+8dd	-re
+=4	=4
+8ee	zie-
+8ee	-me
+8dd	zie-
+8cc#	-o-
+4dd;}	-la,
+!! verse 2
+{4dd	En
+=5	=5
+4gg	Mast-
+4dd	-broek
+4b	voer
+4dd	ten
+=6	=6
+(4.b	oor-
+8a)	.
+4g;}	-log
+!! verse 3
+{4gg	Maar
+=7	=7
+4aa	hij
+4gg	kwam
+4ff#	nooit
+4ee	weer-
+=8	=8
+(2dd	-om.
+2cc	.
+=9	=9
+2.b);}	.
+!! verse 4
+{4gg	Maar
+=10	=10
+4gg	hij
+4gg	kwam
+4gg	nooit
+4gg	weer-
+=11	=11
+(2bb	-om.
+2gg	.
+=12	=12
+*M6/4	*
+2.ee);}	.
+!! verse 5
+{4aa	Maar
+4aa	hij
+4aa	kwam
+=13	=13
+*M4/4	*
+2bb	nooit
+2aa	weer-
+=14	=14
+2.gg;}	-om.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

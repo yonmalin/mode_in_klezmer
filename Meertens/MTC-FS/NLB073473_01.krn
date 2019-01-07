@@ -1,0 +1,71 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073473_01
+!! NLB record number: 73473
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Hoe
+8dd	me-
+8dd	-nig
+=1	=1
+4.b	paar
+8b	ziet
+8b	men
+8b	in
+8g	on-
+8b	-deugd
+=2	=2
+8dd	vrij-
+2dd;}	-en
+!! verse 1
+{8dd	In
+8.ee	ons
+16ff#	ge-
+=3	=3
+4.aa	-bon-
+8b	-den
+8cc	tijd
+8dd	en
+8ee	al-
+8dd	-le
+=4	=4
+2b	kwaad
+8r;}	.
+!! verse 2
+{8dd	Want
+8dd	o
+8dd	zo
+=5	=5
+4.b	me-
+8b	-nig
+8b	paar
+8b	komt
+8g	in
+8b	het
+=6	=6
+8dd	lij-
+2dd;}	-den
+!! verse 3
+{16dd	In
+16dd	den
+8ee	druk
+8ff#	en
+=7	=7
+4.aa	in
+8b	den
+8cc	al-
+8dd	-ler-
+8ee	-droef-
+8dd	-sten
+=8	=8
+2b	staat
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

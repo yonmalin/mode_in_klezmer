@@ -1,0 +1,100 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072824_01
+!! NLB record number: 72824
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4dd	Er
+=1	=1
+4g	wou
+4b	eens
+4dd	een
+=2	=2
+4g	ja-
+4b	-ger
+4dd	uit
+=3	=3
+(4dd	ja-
+4ee)	.
+4dd	-gen
+=4	=4
+2b;}	gaan,
+!! verse 1
+{4dd	Uit
+=5	=5
+2dd	ja-
+4dd	-gen
+=6	=6
+4cc	wil-
+4cc	-de
+4dd	hij
+=7	=7
+2.b;}	gaan.
+!! verse 2
+=8	=8
+{2r	.
+4dd	Wat
+=9	=9
+4b	vond
+4cc	hij
+4dd	al
+=10	=10
+4b	op
+4cc	zij-
+4dd	-ne
+=11	=11
+2.ee	we-
+=12	=12
+2ee;}	-gen,
+!! verse 3
+{4cc	Een
+=13	=13
+4a	aar-
+4b	-dig
+4cc	lief
+=14	=14
+4a	meis-
+4b	-je
+4ee	ter-
+=15	=15
+(2dd	-de-
+4cc)	.
+=16	=16
+2b;}	-gen
+!! verse 4
+{4dd	Ze
+=17	=17
+4ee	was
+4dd	er
+4cc	fraai
+=18	=18
+2b	aan-
+4a	-ge-
+=19	=19
+(2b	-daan,
+4cc	.
+=20	=20
+2dd);}	.
+!! verse 5
+{4dd	Ze
+=21	=21
+4ee	was
+4dd	er
+4cc	fraai
+=22	=22
+2.b	aan-
+=23	=23
+2.a	-ge-
+=24	=24
+[2.g	-daan
+=25	=25
+2g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

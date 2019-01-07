@@ -1,0 +1,90 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075737_01
+!! NLB record number: 75737
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8b	Daar
+=1	=1
+8.dd	bo-
+16dd	-ven
+8b	in
+8b	dat
+=2	=2
+8dd	ven-
+8dd	-ster-
+8.b;}	-tje
+!! verse 1
+{16b	Daar
+=3	=3
+8cc	lag
+8cc	een
+8cc	meis-
+8ee	-je
+=4	=4
+4.dd;}	fijn.
+!! verse 2
+{8b	Daar
+=5	=5
+8cc	kwam
+16cc	e-
+16cc	-nen
+8cc	smid
+8cc	ge-
+=6	=6
+4dd	-lo-
+8a;}	-pen
+!! verse 3
+{8a	Zeg
+=7	=7
+8cc	meis-
+8cc	-je
+8a	bist
+8a	doe
+=8	=8
+2g;}	mijn.
+!! verse 4
+=9	=9
+{4d	Neen
+4B	smid
+=10	=10
+4d	zwart-
+8B;}	-baard
+!! verse 5
+{8b	Du
+=11	=11
+8cc	kiekst
+8cc	of
+8a	dich
+8a	de
+=12	=12
+8ee	du-
+8dd	-vel
+4dd;}	wers
+!! verse 6
+=13	=13
+{8g	Nim-
+8g	-mer
+8b	bist
+8b	doe
+=14	=14
+4.dd;}	mijn
+!! verse 7
+{16dd	En
+16dd	een
+=15	=15
+8dd	an-
+8cc	-der
+8cc	zal
+8cc	het
+=16	=16
+4.b;}	zijn.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

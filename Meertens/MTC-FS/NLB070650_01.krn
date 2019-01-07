@@ -1,0 +1,59 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070650_01
+!! NLB record number: 70650
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8dd	To-
+8dd	-ren-
+8dd	-tje
+8ee	to-
+8ee	-ren-
+8ee	-tje
+=2	=2
+4dd	bus-
+8dd	-se-
+4b;}	-kruid
+!! verse 1
+{8ee	Wat
+=3	=3
+4dd	hangt
+8dd	er
+4b	uit
+8ee	een
+=4	=4
+4dd	gou-
+8dd	-we
+4b;}	fluit
+!! verse 2
+{8a	Een
+=5	=5
+4cc	gou-
+8cc	-we
+4cc	fluit
+8a	met
+=6	=6
+4.cc	kno-
+4cc	-pen
+8r;}	.
+!! verse 3
+=7	=7
+{8ee	To-
+8ee	-ren-
+8dd	-tje
+4cc	is
+8b	ge-
+=8	=8
+4.a	-bro-
+4g	-ken.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

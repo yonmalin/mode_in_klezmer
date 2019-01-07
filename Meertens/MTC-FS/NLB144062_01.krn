@@ -1,0 +1,76 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB144062_01
+!! NLB record number: 144062
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{4gg	Komt
+=1	=1
+4dd	vrien-
+8dd	-den
+8dd	er
+4dd	is
+(8cc	al-
+8dd)	.
+=2	=2
+4ee	-weer
+8gg	een
+8gg	nieuw
+4dd	lied
+4r;}	.
+!! verse 1
+=3	=3
+{4dd	Wat
+4dd	er
+4dd	een-
+(8cc	-maal
+8dd)	.
+=4	=4
+4ee	is
+4gg	ge-
+4dd;}	-schied
+!! verse 2
+{4dd	al
+=5	=5
+4ee	van
+4gg	een
+4ff	koop-
+4ee	-mans-
+=6	=6
+2ee	-zoon-
+4dd;}	-tje
+!! verse 3
+{4gg	Die
+=7	=7
+4gg	met
+4gg	zo'n
+4cc	ar-
+4ee	-me
+=8	=8
+(8dd	huis-
+8cc)	.
+(8b	-maagd
+8a)	.
+4g;}	vrijt
+!! verse 4
+{4g	Hij
+=9	=9
+4cc	had
+8b	er
+8cc	zijn
+4dd	lief-
+8ee	-de
+8ff	ver-
+=10	=10
+(4ee	-lo-
+4dd)	.
+4cc;}	-ren
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

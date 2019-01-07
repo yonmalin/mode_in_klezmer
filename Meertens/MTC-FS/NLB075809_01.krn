@@ -1,0 +1,99 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075809_01
+!! NLB record number: 75809
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	In
+8d	het
+=1	=1
+4g	duis-
+(8b	-te-
+8g)	.
+(4d	-re
+8e)	.
+8d	der
+=2	=2
+(8B	bos-
+8d)	.
+2g;}	-sen
+!! verse 1
+{8f#	In
+8g	een
+=3	=3
+4a	hol
+4g	met
+4cc	loof
+4b	be-
+=4	=4
+8a	-dekt
+8dd	met
+8cc#	loof
+8dd	be-
+4a;}	-dekt
+!! verse 2
+{8f#	In
+8e	een
+=5	=5
+4d	hol
+4f#	met
+4a	loof
+4a	be-
+=6	=6
+2.d;}	-dekt
+!! verse 3
+{8d	Rust
+8d	de
+=7	=7
+4.cc	dap-
+8a	-per-
+4.b	-ste
+8cc	der
+=8	=8
+4dd	ro-
+2a;}	-vers
+!! verse 4
+{8d	Rust
+8d	de
+=9	=9
+4.cc	dap-
+8a	-per-
+4.b	-ste
+8cc	der
+=10	=10
+4dd	ro-
+2a;}	-vers
+!! verse 5
+{8b	Tot
+8a	hem
+=11	=11
+4g	zij-
+4g	-ne
+4a	Ro-
+4d	-sa
+=12	=12
+(6dd	wekt
+6ee	.
+6dd	.
+12cc	.
+12b	.
+12a);}	.
+!! verse 6
+{8g	Tot
+8f#	hem
+=13	=13
+4e	zij-
+4ee	-ne
+4dd	Ro-
+4f#	-za
+=14	=14
+2.g;}	wekt
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

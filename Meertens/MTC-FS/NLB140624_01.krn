@@ -1,0 +1,73 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140624_01
+!! NLB record number: 140624
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M8/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{1g	Be-
+2g	-waart,
+2g	Heer,
+=2	=2
+(4c	Hol-
+4d	.
+4e	.
+4f	.
+2g)	.
+4g;}	-land!
+!! verse 1
+{4g	Be-
+=3	=3
+2a	-waart,
+2a	Heer,
+1e	Hol-
+=4	=4
+1f	-land!
+1r;}	.
+!! verse 2
+=5	=5
+{(4d	En
+4e	.
+4f#	.
+4g	.
+2a)	.
+4a	ze-
+4a	-gent
+=6	=6
+(4d	Lei-
+4c	.
+4d	.
+4e	.
+4f	.
+4g	.
+2a)	.
+=7	=7
+2g;}	-den,
+!! verse 3
+{2g	En
+2f	ze-
+2f	-gent
+=8	=8
+(2.g	Lei-
+8f	.
+8e	.
+1d)	.
+=9	=9
+2e;}	-den,
+!! verse 4
+{2e	En
+4g	ze-
+4g	-gent
+2g	Lei-
+=10	=10
+[1c	-den!
+1c];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

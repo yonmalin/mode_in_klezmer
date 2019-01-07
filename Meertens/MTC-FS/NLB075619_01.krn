@@ -1,0 +1,82 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075619_01
+!! NLB record number: 75619
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM76	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Te
+=1	=1
+4g	Frank-
+8g	-rijk
+8g	bui-
+8b	-ten
+8dd	de
+=2	=2
+4.ee	poor-
+4dd;}	-ten
+!! verse 1
+{8dd	Daar
+=3	=3
+4ee	woond'
+8ee	een
+4ff#	her-
+8ff#	-ber-
+=4	=4
+[4.gg	-gier
+4gg];}	.
+!! verse 2
+{8dd	Waar
+=5	=5
+4gg	ook
+8gg	veel
+8gg	koop-
+8ff#	-lui
+8ee	lo-
+=6	=6
+4.dd	-geer-
+4b;}	-den
+!! verse 3
+{16dd	Ze
+16dd	ver-
+=7	=7
+8dd	-tap-
+8ee	-ten
+8dd	veel
+(8cc	wijn
+8b)	.
+8a	en
+=8	=8
+4.g;}	bier.
+!! verse 4
+{4.ee	Waar
+=9	=9
+4ee	ook
+8ff#	veel
+8gg	koop-
+8ff#	-lui
+8ee	lo-
+=10	=10
+4.dd	-geer-
+4b;}	-den
+!! verse 5
+{16dd	Ze
+16dd	ver-
+=11	=11
+8dd	-tap-
+8ee	-ten
+8dd	veel
+(8cc	wijn
+8b)	.
+8a	en
+=12	=12
+[4.g	bier.
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

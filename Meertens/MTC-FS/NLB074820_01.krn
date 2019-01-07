@@ -1,0 +1,65 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074820_01
+!! NLB record number: 74820
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8g	Ik
+8b	ging
+=1	=1
+4.dd	laatst
+8ee	al
+8dd	op
+8dd	een
+=2	=2
+4b	a-
+4g;}	-vond
+!! verse 1
+{8dd	En
+8dd	een
+=3	=3
+*M4/4	*
+4ee	wan-
+4ff#	-de-
+4gg	-link-
+(8ff#	-je
+8ee)	.
+=4	=4
+*M3/4	*
+2dd;}	doen.
+!! verse 2
+{8gg	en
+8dd	toen
+=5	=5
+*M6/8	*
+8b	raad
+8b	eens
+16b	wat
+16b	ik
+4b;}	zag
+!! verse 3
+{8dd	Een
+=6	=6
+8dd	he-
+8dd	-le
+8dd	lief
+8gg	meis-
+8dd;}	-je
+!! verse 4
+{16b	En
+16b	ik
+=7	=7
+16b	kwam
+16b	er
+8a	net
+8a	van
+4a;}	pas.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

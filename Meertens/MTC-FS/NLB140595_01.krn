@@ -1,0 +1,175 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140595_01
+!! NLB record number: 140595
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Jan
+=1	=1
+4g	Hin-
+(8f#	-nerk
+8e)	.
+4d	wahnt
+8d	up
+8d	de
+=2	=2
+8e	Lam-
+8e	-mer,
+8e	lam-
+8e	-mer-
+4d;}	-straat,
+!! verse 1
+{8d	up
+8d	de
+=3	=3
+8e	Lam-
+8e	-mer,
+8e	lam-
+8e	-mer-
+4d;}	-straat.
+!! verse 2
+{8d	Hi
+8d	kan
+=4	=4
+4g	ma-
+4g	-ken
+4a	wat
+4dd	hi
+=5	=5
+2b	wil,
+4r;}	.
+!! verse 3
+{8b	Hi
+8b	kan
+=6	=6
+4cc	ma-
+4cc	-ken
+4a	wat
+4a	hi
+=7	=7
+4g;}	wil,
+!! verse 4
+{8g	Swijg
+8g	man
+8a	jum-
+8a	-mer,
+8f#	jum-
+8f#	-mer
+=8	=8
+4g;}	stil,
+!! verse 5
+{8g	swijg
+8g	man
+8a	jum-
+8a	-mer,
+8dd	jum-
+8dd	-mer
+=9	=9
+2b	stil
+4r;}	.
+!! verse 6
+{8d	Un
+8d	da
+=10	=10
+4g	maakt
+(8f#	hij
+8e)	.
+4d	sich
+4d	een
+=11	=11
+4e	gei-
+4e	-ge-
+4d;}	-ken,
+!! verse 7
+{4d	een
+=12	=12
+4g	gei-
+4g	-ge-
+4a	-ken
+4dd	par-
+=13	=13
+2b	-does.
+4r;}	.
+!! verse 8
+{8dd	Vi-
+8dd	-go-
+=14	=14
+4b	-lien,
+8dd	vi-
+8dd	-go-
+4b	-lien,
+8dd	sei
+8dd	dat
+=15	=15
+8cc	gei-
+8b	-ge-
+4a	-ken,
+4r;}	.
+!! verse 9
+{8cc	Vi-
+8cc	-go-
+=16	=16
+4a	-lien,
+8cc	vi-
+8cc	-go-
+4a	-lien,
+8cc	sei
+8cc	dat
+=17	=17
+8b	gei-
+8a	-ge-
+4g	-ken.
+4r;}	.
+!! verse 10
+{4d	Un
+=18	=18
+8g	vi-
+8g	-go,
+8g	vi-
+8g	-go-
+4g	-lien,
+4a	un
+=19	=19
+8b	vi-
+8b	-go,
+8b	vi-
+8b	-go-
+4b;}	-lien
+!! verse 11
+{8dd	un
+8cc	sijn
+=20	=20
+4b	deern
+4b	die
+4a	heet
+4a	Ka-
+=21	=21
+4g;}	-trien,
+!! verse 12
+{8g	un
+8g	sijn
+8a	deern
+8a	die
+8f#	heet
+8f#	Ka-
+=22	=22
+4g;}	-trien,
+!! verse 13
+{8g	un
+8g	sijn
+8a	deern
+8a	die
+8dd	heet
+8dd	Ka-
+=23	=23
+2b	-trien.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

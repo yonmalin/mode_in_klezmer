@@ -1,0 +1,44 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072416_01
+!! NLB record number: 72416
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8b	Er
+=1	=1
+8b	sche-
+8g	-nen
+8a	drie
+8b	ster-
+8g	-ren
+8b	al
+=2	=2
+*M9/8	*
+4dd	op
+8dd	een
+4.b;}	nacht
+!! verse 1
+{4.dd	Vlak
+=3	=3
+*M6/8	*
+8cc	voor
+8b	een
+8a	heer
+8g	Ko-
+8g	-ning
+(16dd	zijn
+16cc)	.
+=4	=4
+(8b	ven-
+8cc)	.
+8a	-ster-
+4g;}	-glas
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

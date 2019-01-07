@@ -1,0 +1,67 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074226_02
+!! NLB record number: 74226
+!! NLB strophe/voice number: 2
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM102	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	De
+=1	=1
+8dd	doch-
+8ff#	-ter
+8dd	die
+8.b	had
+16b	er
+8dd	veel
+=2	=2
+8b	vrij-
+[4a	-ers
+4a];}	.
+!! verse 1
+{16a	En
+16a	de
+=3	=3
+*M9/8	*
+8b	dienst-
+8b	-meid
+8b	die
+8dd	had
+8dd	er
+8ee	geen
+8dd;}	een
+!! verse 2
+{8.b	En
+16a	de
+=4	=4
+*M6/8	*
+8.g	doch-
+16g	-ter
+8g	die
+8.a	had
+16g	er
+8a	veel
+=5	=5
+8b	vrij-
+[4g	-ers
+4g];}	.
+!! verse 3
+{16b	En
+16b	de
+=6	=6
+8dd	dienst-
+8dd	-meid
+8dd	die
+8cc	had
+8b	er
+8a	geen
+=7	=7
+[4.g	een.
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

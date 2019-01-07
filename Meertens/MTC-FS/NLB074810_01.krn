@@ -1,0 +1,67 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074810_01
+!! NLB record number: 74810
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Es
+=1	=1
+4g	wollt
+4g	ein
+4f#	mad-
+4f#	-chen
+=2	=2
+4e	fruh
+4e	auf-
+4d;}	-steh'n
+!! verse 1
+{4g	Drei-
+=3	=3
+4f#	-vier-
+4a	-tel
+4dd	Stund
+(8dd	vor
+8cc)	.
+=4	=4
+2.b;}	Tag
+!! verse 2
+{(8g	Sie
+8a)	.
+=5	=5
+4b	woll-
+4b	-te
+4b	Bram-
+4dd	-beer'n
+=6	=6
+(4dd	pfluck-
+4cc)	.
+4.a;}	-en
+!! verse 3
+{8dd	Ha-
+=7	=7
+4.dd	-li
+8ee	ha-
+4.ff#	-lo
+8ee	ja
+=8	=8
+(4ee	pfluck-
+4dd)	.
+4.b;}	-en
+!! verse 4
+{8dd	Bis
+=9	=9
+4dd	dasz
+4cc	der
+4e	Tag
+4f#	an-
+=10	=10
+2.g;}	-brach.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,52 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074875_01
+!! NLB record number: 74875
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Ik
+=1	=1
+8d	kwam
+8g	eens
+8g	door
+8g	een
+=2	=2
+8f#	stil-
+8e	-le
+4e;}	stad
+!! verse 1
+=3	=3
+{4f#	Trim,
+4f#	tram
+=4	=4
+8e	troe-
+8d	-la-
+8d;}	-la.
+!! verse 2
+{8d	Ik
+=5	=5
+8g	kwam
+8g	eens
+8g	door
+8b	een
+=6	=6
+8dd	stil-
+8cc	-le
+4cc;}	stad
+!! verse 3
+=7	=7
+{8e	Trim,
+8e	tram
+8f#	troe-
+8a	-la-
+=8	=8
+4.g;}	-la.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,94 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074520_01
+!! NLB record number: 74520
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Ik
+8g	wou
+8a	noar
+=1	=1
+8.b	Boa-
+16b	-kel-
+4b	-se
+=2	=2
+*M3/4	*
+8b	markt
+8a	toe
+8g;}	goan
+!! verse 1
+{8d	Ik
+8g	wou
+16a	noar
+16a	de
+=3	=3
+*M2/4	*
+8.b	Boa-
+16b	-kel-
+4b	-se
+=4	=4
+8b	markt
+8a	toe
+8g;}	goan
+!! verse 2
+{8b	En
+=5	=5
+16b	toen
+16b	ik
+8b	er
+8b	kwam
+8b	toen
+=6	=6
+16dd	was
+16b	het
+8b	ge-
+4b;}	-daan
+!! verse 3
+=7	=7
+{8b	fal-
+16b	-le-
+16b	-de-
+8dd	-riet-
+8dd	-som
+=8	=8
+*M3/4	*
+16b	sa-
+16dd	-toe-
+16dd	-rie-
+16dd	-de
+8dd	ral-
+8b	-dal-
+8.b;}	-da
+!! verse 4
+{16b	En
+=9	=9
+*M2/4	*
+16b	toen
+16b	ik
+8cc	er
+8.b	kwam
+16b	toen
+=10	=10
+16dd	was
+16b	't
+8b	ge-
+4b;}	-daan
+!! verse 5
+=11	=11
+{8dd	fal-
+16dd	-le-
+16dd	-de
+8dd	riet-
+8d	-som
+=12	=12
+4g	sa
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

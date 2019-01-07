@@ -1,0 +1,57 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073449_01
+!! NLB record number: 73449
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Wat
+=1	=1
+4b	straf
+8b	van
+4a	elk
+8a	te
+=2	=2
+4g	duch-
+8g	-ten
+4d;}	staat
+!! verse 1
+{8d	Die
+=3	=3
+4cc	vals
+8cc	met
+4b	e-
+8g	-de
+=4	=4
+[4.a	zweert
+4a];}	.
+!! verse 2
+{8dd	Dat
+=5	=5
+4b	heeft
+8b	in
+4cc	Hel-
+8cc	-lings-
+=6	=6
+4dd	-Hau-
+8dd	-sen
+(8ee	eens
+8cc);}	.
+!! verse 3
+{8a	Een
+=7	=7
+4g	won-
+8d	-der-
+4b	-werk
+8a	ge-
+=8	=8
+[4.g	-leerd
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

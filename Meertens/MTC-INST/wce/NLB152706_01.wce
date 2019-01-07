@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ExcelProcessingDefaults-beginSignatureRangeTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-beginSignatureScriptTextView</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-endSignatureRangeTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-endSignatureScriptTextView</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-fileNameTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-scoreLeftEdgeTextField</key>
+	<string>A1</string>
+	<key>ExcelProcessingDefaults-scoreRangeTextField</key>
+	<string>A1:Z100</string>
+	<key>ExcelProcessingDefaults-scoreScriptTextView</key>
+	<string></string>
+	<key>NLBController-incipitNormTextField</key>
+	<string></string>
+	<key>NLBController-melodyNormTextField</key>
+	<string></string>
+	<key>NLBController-recordIDTextField</key>
+	<string>152706</string>
+	<key>NLBController-tagsTextField</key>
+	<string></string>
+	<key>SignatureController-encoderNameTextField</key>
+	<string></string>
+	<key>SignatureController-footerTextView</key>
+	<string></string>
+	<key>SignatureController-hasChangesWithRespectToTranscriptionSwitch</key>
+	<false/>
+	<key>SignatureController-headerTextView</key>
+	<string></string>
+	<key>SignatureController-isEachPhraseNewStaffSwitch</key>
+        <true/>
+	<key>SignatureController-isMeterInvisibleSwitch</key>
+	<false/>
+	<key>SignatureController-isMultiVoiceDocumentSwitch</key>
+	<false/>
+	<key>SignatureController-keyTextField</key>
+	<string>e \major</string>
+	<key>SignatureController-partialTextField</key>
+	<string></string>
+	<key>SignatureController-relativeTextField</key>
+	<string>g'</string>
+	<key>SignatureController-stropheNumberTextField</key>
+	<string>1</string>
+	<key>SignatureController-tempoTextField</key>
+	<string>4=120</string>
+	<key>SignatureController-timeTextField</key>
+	<string>3/4</string>
+	<key>SignatureController-titleTextField</key>
+	<string>23</string>
+	<key>SignatureController-updateTextViewsWhenFieldChangedSwitch</key>
+	<true/>
+	<key>TextProcessingDefaults-beginSignatureTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-commentTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-endSignatureTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-inputTextView</key>
+	<string>e'4 e, e e e'8 fis \grace { gis } \times 2/3 { gis fis e } fis4 b,, b b fis''8 gis \grace { b } \times 2/3 { a gis fis } \sb gis4 e, e e e'8 fis gis a \times 2/3 { b a gis } \times 2/3 { a gis fis } \times 2/3 { gis fis e } fis2. \bar ":|:"
+
+fis4 b, b b \times 2/3 { fis'8 gis a } \times 2/3 { a gis fis } gis4 b, b b \times 2/3 { gis'8( a b) } \times 2/3 { b a gis } \sb \times 2/3 { a b gis^\staccatissimo } \times 2/3 { fis gis e^\staccatissimo } \times 2/3 { dis e cis } b cis dis e fis gis a b a fis gis e fis2.
+
+\times 2/3 { e8 b cis } \times 2/3 { dis cis b } \times 2/3 { e fis gis } \times 2/3 { fis b, cis } \times 2/3 { dis cis b } \times 2/3 { fis' gis a } \times 2/3 { gis b, cis } \times 2/3 { dis cis b } \times 2/3 { gis' a b } \times 2/3 { a b, cis } \times 2/3 { dis cis b } \times 2/3 { fis' gis a } \sb \times 2/3 { gis a b^\staccatissimo } \times 2/3 { a b gis^\staccatissimo } \times 2/3 { e gis e^\staccatissimo } \times 2/3 { dis e cis^\staccatissimo } \times 2/3 { b dis fis^\staccatissimo } \times 2/3 { a gis fis^\staccatissimo } \times 2/3 { gis fis e } fis2^\trill e2._"Fin" \bar ":|"</string>
+	<key>version</key>
+	<string>1.12</string>
+</dict>
+</plist>

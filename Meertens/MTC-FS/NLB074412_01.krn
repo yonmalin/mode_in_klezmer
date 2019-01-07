@@ -1,0 +1,100 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074412_01
+!! NLB record number: 74412
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM100	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4b	Daar
+=1	=1
+(4g	ach-
+4b)	.
+4dd	-ter
+=2	=2
+2dd	in
+4b	die
+=3	=3
+(2a	vel-
+4dd)	.
+=4	=4
+2g;}	-den
+!! verse 1
+{4a	Daar
+=5	=5
+(4b	staat
+4.dd)	.
+8dd	een
+=6	=6
+(4ee	he-
+4dd)	.
+4ee	-ren-
+=7	=7
+[2.dd	-huis
+=8	=8
+2dd];}	.
+!! verse 2
+{(8.b	Waar
+16cc)	.
+=9	=9
+4dd	ve-
+4gg	-le
+[8ff#	jon-
+8ff#]	-ge-
+=10	=10
+4ee	-he-
+4dd	-ren
+4b	lo-
+=11	=11
+(2cc	-ge-
+4b)	.
+=12	=12
+2a;}	-ren,
+!! verse 3
+{4ee	Daar
+=13	=13
+4ee	is
+4ff#	het
+4ee	voor-
+=14	=14
+(4.dd	-waar
+8ee)	.
+4dd	niet
+=15	=15
+2b;}	pluis
+!! verse 4
+{(8.b	Waar
+16cc)	.
+=16	=16
+4dd	ve-
+4gg	-le
+[8ff#	jon-
+8ff#]	-ge-
+=17	=17
+4ee	-he-
+4dd	-ren
+4b	lo-
+=18	=18
+(2cc	-ge-
+4b)	.
+=19	=19
+2a;}	-ren,
+!! verse 5
+{4ee	Daar
+=20	=20
+4ee	is
+4ff#	het
+4ee	voor-
+=21	=21
+(4.dd	-waar
+8cc)	.
+4a	niet
+=22	=22
+2g;}	pluis
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

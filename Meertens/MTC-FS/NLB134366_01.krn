@@ -1,0 +1,116 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB134366_01
+!! NLB record number: 134366
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{8e	Als
+8f	ik
+=1	=1
+4g	ain-
+4e	-moal
+4f	ais
+4d	op
+=2	=2
+4e	Dam-
+4cc	-ster-
+4cc;}	-daip
+!! verse 1
+{8e	Dou
+8e	't 'n
+=3	=3
+4d	bak-
+4b	-stain
+(8b	vroor
+8a)	.
+(8f	op
+8d)	.
+=4	=4
+4c	scheu-
+4e	-vels
+4g;}	laip,
+!! verse 2
+{(8e	Zaag
+8f)	.
+=5	=5
+4g	ik
+4ee	d'r
+4f	min-
+4dd	-nig
+=6	=6
+4e	jon-
+4cc	-ge
+4cc;}	borst
+!! verse 3
+{4e	Doar
+=7	=7
+4d	zwie-
+(8b	-ren
+8a)	.
+(8g	op
+8f)	.
+(8e	dij
+8d)	.
+=8	=8
+4c	glad-
+4e	-de
+4c	korst
+4r;}	.
+!! verse 4
+=9	=9
+{4g	Zaag
+4g	ik
+4a	min-
+(8b	-nig
+8a)	.
+=10	=10
+4g	jon-
+4f	-ge
+4d	kwaant
+4r;}	.
+!! verse 5
+=11	=11
+{4a	r Hit
+4a	zien
+4a	wi-
+8b	-chie
+8a	al
+=12	=12
+4g	aan
+4e	de
+4c	haand
+4r;}	.
+!! verse 6
+=13	=13
+{4g	Zoo
+8g	zaag
+8g	ik
+4cc	hai-
+(8dd	-le
+8cc)	.
+=14	=14
+4b	rie-
+4a	-gen
+4dd	goan
+4r;}	.
+!! verse 7
+=15	=15
+{4cc	Soms
+8b	ook
+8a	'n
+4g	bel-
+(8a	-slee
+8b)	.
+=16	=16
+4cc	op
+4ee	de
+4cc;}	baon!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

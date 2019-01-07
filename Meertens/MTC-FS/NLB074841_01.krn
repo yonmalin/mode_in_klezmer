@@ -1,0 +1,74 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074841_01
+!! NLB record number: 74841
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Ik
+=1	=1
+4b	liep
+8dd	eens
+4ee	lang
+8dd	ge-
+=2	=2
+4.b	-le-
+4b;}	-den
+!! verse 1
+{8dd	't Liep
+=3	=3
+4dd	te-
+8dd	-gen
+4cc	ne-
+8b	-gen
+=4	=4
+[4.a	uur.
+4a];}	.
+!! verse 2
+{8dd	Met
+=5	=5
+4dd	vlug-
+8ee	-ge
+4ff#	snel-
+8ee	-le
+=6	=6
+4.ee	schre-
+4dd;}	-den
+!! verse 3
+{8ee	Al
+=7	=7
+4dd	langs
+8cc	een
+4b	ho-
+8cc	-ge
+=8	=8
+[4.dd	muur.
+4dd];}	.
+!! verse 4
+{8dd	Met
+=9	=9
+4dd	vlug-
+8ee	-ge
+4ff#	snel-
+8ee	-le
+=10	=10
+4.ee	schre-
+4dd;}	-den
+!! verse 5
+{8ee	Al
+=11	=11
+4dd	langs
+8cc	een
+4b	ho-
+8a	-ge
+=12	=12
+[4.g	muur.
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

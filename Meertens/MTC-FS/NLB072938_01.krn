@@ -1,0 +1,64 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072938_01
+!! NLB record number: 72938
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Zo-
+=1	=1
+4e	-lang
+4f#	de
+4g	boom
+4a	zal
+=2	=2
+(4g	bloei-
+4f#)	.
+4e;}	-en
+!! verse 1
+{(8f#	Zo-
+8g)	.
+=3	=3
+4a	-lang
+4g	de
+4f#	boom
+4g	zal
+=4	=4
+(4.d	bloei-
+8g)	.
+4B;}	-en
+!! verse 2
+{8B	En
+8c	de
+=5	=5
+4d	le-
+4d	-lie
+4d	heer-
+4B	-lijk
+=6	=6
+4B	staan,
+4d	ja,
+4d	ja,
+4e	ja,
+=7	=7
+*M2/4	*
+4d;}	ja
+!! verse 3
+{8c	En
+8B	de
+=8	=8
+*M4/4	*
+4A	le-
+4c	-lie
+4B	heer-
+4A	-lijk
+=9	=9
+2.G;}	staan.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

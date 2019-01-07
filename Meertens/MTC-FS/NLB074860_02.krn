@@ -1,0 +1,63 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074860_02
+!! NLB record number: 74860
+!! NLB strophe/voice number: 2
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4dd	Neen
+8dd	mijn
+4dd	kind
+8dd	gij
+=2	=2
+8ee	zijt
+8dd	te
+8dd;}	jong
+!! verse 1
+{16dd	Om
+4b	te
+16dd	gaan
+=3	=3
+4.dd	trou-
+[4.cc	-wen
+=4	=4
+4cc];}	.
+!! verse 2
+{8cc	Om
+4cc	te
+8ee	gaan
+=5	=5
+(4ee	trou-
+8gg)	.
+4.dd;}	-wen
+!! verse 3
+=6	=6
+{4dd	Neen
+8gg	mijn
+4ff#	kind
+8ff#	gij
+=7	=7
+4ee	zijt
+8ee	te
+4dd;}	jong
+!! verse 4
+{8dd	Om
+=8	=8
+4dd	gaan
+8ee	te
+8ff#	trou-
+8ee	-wen
+8dd	ja
+=9	=9
+4cc	veel
+8b	te
+4.g;}	jong.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

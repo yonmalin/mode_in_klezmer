@@ -1,0 +1,72 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070524_01
+!! NLB record number: 70524
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4g	Mijn
+8a	Ju-
+8b	-li-
+4cc	-a
+4a	is
+=2	=2
+4g	mij
+4b	ont-
+4a	-no-
+4d;}	-men
+!! verse 1
+=3	=3
+{4g	Waar
+4b	is
+4dd	zij
+4a	waar
+=4	=4
+4g	vind
+8b	ik
+8cc	haar
+2dd;}	weer
+!! verse 2
+=5	=5
+{4dd	Zij
+8dd	heeft
+8dd	mijn
+4ee	zin-
+4ee	-nen
+=6	=6
+4ee	gans
+4ee	ont-
+(8ee	-no-
+8dd)	.
+4dd;}	-men
+!! verse 3
+=7	=7
+{4dd	Zij
+8cc	is
+8cc	mijn
+4b	Ju-
+4b	-li-
+=8	=8
+4a	-a
+4dd	niet
+2b;}	meer
+!! verse 4
+=9	=9
+{4dd	Zij
+8cc	is
+8cc	mijn
+4b	Ju-
+4b	-li-
+=10	=10
+4a	-a
+4dd	niet
+2g;}	meer
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

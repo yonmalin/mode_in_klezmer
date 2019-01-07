@@ -1,0 +1,59 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113292_01
+!! NLB record number: 113292
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	't Was
+=1	=1
+4f	op
+8c	een
+4f	vas-
+8c	-ten-
+=2	=2
+(4f	-a-
+8a)	.
+4cc;}	-vond
+!! verse 1
+{8a	't was
+=3	=3
+4g	op
+8f	een
+4e	aal-
+8d	-moes-
+=4	=4
+4c	-tijd
+8r	.
+4r;}	.
+!! verse 2
+{8g	Raad
+=5	=5
+4a	eens
+8a	wat
+4a	daar
+8b-	te
+=6	=6
+4cc	doe-
+8cc	-ne
+4cc;}	kwam
+!! verse 3
+{8b-	Daar
+=7	=7
+4a	kwam
+8a	op-
+4g	-eens
+16g	een
+16g	oud
+=8	=8
+4f	wijf
+4r	.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

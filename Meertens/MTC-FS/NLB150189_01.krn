@@ -1,0 +1,62 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB150189_01
+!! NLB record number: 150189
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8f	Mijn
+8e	va-
+8f	-der
+=1	=1
+4.c	zei
+8f	laatst
+8e	te-
+8f	-gen
+=2	=2
+4c	mij
+8r;}	.
+!! verse 1
+{8f	Ik
+8e	weet
+8f	een
+=3	=3
+4g	goe-
+4g	-ie
+8e	raad
+8d	voor
+=4	=4
+4.c;}	dij
+!! verse 2
+{8B-	Doe
+8A	moest
+8B-	maar
+=5	=5
+*M2/4	*
+8c	trou-
+8c	-wen
+4c	myn
+=6	=6
+4c	jon-
+4f	-ge
+=7	=7
+8r;}	.
+!! verse 3
+{8f	Doe
+8f	moest
+8g	maar
+=8	=8
+8a	trou-
+8a	-wen
+4a	myn
+=9	=9
+4g	jon-
+8f;}	-ge
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

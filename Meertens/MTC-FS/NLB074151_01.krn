@@ -1,0 +1,117 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074151_01
+!! NLB record number: 74151
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{2dd	Eens
+4.dd	op
+8cc	een
+=2	=2
+2b	mor-
+4.b	-gen
+8b	ging
+=3	=3
+4cc	ik
+4dd	naar
+4.ee	mijn
+8dd	ver-
+=4	=4
+2dd	-lang-
+[2cc	-en
+=5	=5
+4cc];}	.
+!! verse 1
+{4dd	naar
+4cc	de
+4b	ri-
+=6	=6
+2.a	-vier
+4a	om
+=7	=7
+4g	pa-
+4b	-ling
+4.dd	te
+8dd	gaan
+=8	=8
+(4cc	vang-
+4b)	.
+[2g	-en
+=9	=9
+4g];}	.
+!! verse 2
+{4dd	Ik
+4ee	werd
+4ff#	ver-
+=10	=10
+2gg	-heugd
+2gg	al
+=11	=11
+4gg	door
+4ff#	een
+4ee	zoet
+4dd	ge-
+=12	=12
+[1ee	-zang
+=13	=13
+4ee];}	.
+!! verse 3
+{4a	die
+4b	door
+4cc	het
+=14	=14
+4.dd	woud
+8dd	ging
+4gg	met
+4ff#	een
+=15	=15
+4ee	aan-
+4dd	-ge-
+4cc	-na-
+4b	-me
+=16	=16
+[1g	klank
+=17	=17
+4g];}	.
+!! verse 4
+{4dd	Ik
+4ee	werd
+4ff#	ver-
+=18	=18
+2gg	-heugd
+2gg	al
+=19	=19
+4gg	door
+4ff#	een
+4ee	zoet
+4dd	ge-
+=20	=20
+[1ee	-zang
+=21	=21
+4ee];}	.
+!! verse 5
+{4a	die
+4b	door
+4cc	het
+=22	=22
+4.dd	woud
+8dd	ging
+4gg	met
+4ff#	een
+=23	=23
+4ee	aan-
+4dd	-ge-
+4cc	-na-
+4b	-me
+=24	=24
+1g;}	klank
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

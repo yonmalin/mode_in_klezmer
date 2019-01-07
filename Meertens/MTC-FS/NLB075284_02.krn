@@ -1,0 +1,62 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075284_02
+!! NLB record number: 75284
+!! NLB strophe/voice number: 2
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4b	Ik
+=1	=1
+4a	groet-
+4b	-te
+4a	het
+=2	=2
+*M4/4	*
+4g	meis-
+4g	-je
+4r;}	.
+!! verse 1
+{8dd	Sprak
+8dd	haar
+=3	=3
+*M3/4	*
+4ee	vrien-
+4dd	-de-
+4cc#	-lijk
+=4	=4
+2dd	aan
+4r;}	.
+!! verse 2
+=5	=5
+*M4/4	*
+{4.ee	Wil-
+8ee	-de
+8.dd	gij
+16ee	eens
+8.dd	met
+16cc	mij
+=6	=6
+*M3/4	*
+4b	rij-
+4a;}	-den
+!! verse 3
+{8.g	Wil-
+16g	-de
+=7	=7
+(4a	gij
+4ee)	.
+4dd	eens
+=8	=8
+(4a	met
+4cc)	.
+4b	mij
+=9	=9
+2g;}	gaan.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,73 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075191_03
+!! NLB record number: 75191
+!! NLB strophe/voice number: 3
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8g	On-
+8g	-der
+8b	het
+8dd	ma-
+8dd	-len
+8dd	van
+=2	=2
+*M9/8	*
+8ee	grof
+8dd	en
+8dd	fijn
+8ee	grof
+8dd	en
+8dd;}	fijn
+!! verse 1
+{8b	zul-
+8b	-len
+8dd	wij
+=3	=3
+*M6/8	*
+4.dd	drin-
+[4.cc	-ken
+=4	=4
+4.cc]	.
+8cc	zul-
+8cc	-len
+8ee	wij
+=5	=5
+*M9/8	*
+(4ee	drin-
+8gg)	.
+2.dd;}	-ken
+!! verse 2
+=6	=6
+*M6/8	*
+{8g	On-
+8g	-der
+8b	het
+8.dd	ma-
+16dd	-len
+8gg	van
+=7	=7
+4ff#	grof
+8ff#	en
+4.ee;}	fijn
+!! verse 3
+=8	=8
+{8ee	Zul-
+8ee	-len
+8ff#	wij
+8gg	drin-
+8ff#	-ken
+8ee	een
+=9	=9
+4dd	glaa-
+8cc	-sje
+4.b;}	wijn
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

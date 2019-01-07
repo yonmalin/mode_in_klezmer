@@ -1,0 +1,76 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB139539_01
+!! NLB record number: 139539
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{4ee	Een
+=1	=1
+8.dd	lied...
+16cc	een
+4g	lied,
+4a	uw
+=2	=2
+8.g	le-
+16e	-ven
+4c	lang!
+8r;}	.
+!! verse 1
+{8e	Och
+=3	=3
+8e	mogt
+8g	gij
+8g	't we-
+8f	-ten,
+8.a	lie-
+16g	-ve
+=4	=4
+8g	vrien-
+8e	-den,
+4r;}	.
+!! verse 2
+{4ee	Dat
+=5	=5
+8.dd	zij
+16cc	uw
+4g	har-
+4a	-te
+=6	=6
+8.g	blij,
+16e	of
+4c	bang!
+8r;}	.
+!! verse 3
+{8e	Gij
+=7	=7
+8.cc	be-
+16b	-ter
+8a	weêr-
+8g	-klank
+8f#	niet
+8a	kunt
+=8	=8
+4dd	vin-
+8f;}	-den,
+!! verse 4
+{8e	Dan
+8f	in
+8g	Ge-
+=9	=9
+4a	-zang,
+8cc	Dan
+(8b	in
+8cc)	.
+8dd	Ge-
+=10	=10
+4cc	-zang!
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

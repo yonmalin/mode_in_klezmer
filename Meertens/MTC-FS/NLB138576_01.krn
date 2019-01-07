@@ -1,0 +1,93 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB138576_01
+!! NLB record number: 138576
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[b-]	*
+*d:	*
+!! verse 0
+{4d	Een
+=1	=1
+2d	boer-
+4d	-man
+=2	=2
+2a	hadd'
+4a	een'n
+=3	=3
+2f	dom-
+4g	-men
+=4	=4
+2a;}	sin,
+!! verse 1
+{4a	Daer
+=5	=5
+2a	op
+4a	so
+=6	=6
+2cc	schafte
+4a	hi
+=7	=7
+2f	zijn
+4e	ghe-
+=8	=8
+2f	-win.
+4r	.
+=9	=9
+*M4/4	*
+2r;}	.
+!! verse 2
+{4f	Het
+4f	voer een
+=10	=10
+(4f	boer-
+4e)	.
+4d	-man
+(8e	ut
+8d)	.
+=11	=11
+(4.f	mey-
+8e	.
+2d	.
+=12	=12
+4c)	.
+2d;}	-en;
+!! verse 3
+{4d	Hi
+=13	=13
+*M3/4	*
+2a	brocht
+4a	sin'n
+=14	=14
+4cc	hee-
+4cc	-re
+4a	een
+=15	=15
+2f	voe-
+4e	-der
+=16	=16
+*M4/4	*
+2f;}	houts,
+!! verse 4
+{4d	Sijn-
+4d	-der
+=17	=17
+8d	vrou-
+8d	-wen
+4e	den
+4d	coe-
+(8e	-len-
+8d)	.
+=18	=18
+(4.f	-mey.
+8e	.
+2d	.
+=19	=19
+4c	.
+2d);}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

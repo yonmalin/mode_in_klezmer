@@ -1,0 +1,56 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB145480_01
+!! NLB record number: 145480
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*d:	*
+!! verse 0
+{8d	Zeg
+=1	=1
+4d	mij
+8e	wat
+4f	is
+8g	een
+=2	=2
+(4a	ko-
+8f)	.
+4d;}	-ning
+!! verse 1
+{8d	een
+=3	=3
+4g	ko-
+8b-	-ning
+4dd	zon-
+8b-	-der
+=4	=4
+[4.a	land
+4a];}	.
+!! verse 2
+{8dd	Zeg
+=5	=5
+4dd	mij
+8cc	wat
+4cc	is
+8b-	een
+=6	=6
+(4b-	wa-
+8a)	.
+4a;}	-ter
+!! verse 3
+{8b-	een
+=7	=7
+4a	wa-
+8g	-ter
+4f	zon-
+8e	-der
+=8	=8
+[4.d	zand
+4d];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

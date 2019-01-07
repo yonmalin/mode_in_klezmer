@@ -1,0 +1,74 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072401_01
+!! NLB record number: 72401
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4g	Wie
+4a	mag
+4cc	toch
+=2	=2
+(4g	de-
+4cc)	.
+4ee	-ze
+=3	=3
+(4dd	ma-
+4ee)	.
+4cc	-ker
+=4	=4
+*M2/4	*
+4a	zijn
+4r;}	.
+!! verse 1
+=5	=5
+*M3/4	*
+{4ff#	Der
+4ee	eed'
+4dd	le
+=6	=6
+(4cc	blaad-
+4ee)	.
+4cc	-jes
+=7	=7
+(4g	schoon
+4cc)	.
+4g	en
+=8	=8
+*M2/4	*
+4e	fijn.
+4r;}	.
+!! verse 2
+=9	=9
+*M3/4	*
+{4g	Zo
+4cc	wijs-
+4dd	-lijk
+=10	=10
+2ee	in
+4dd	ont-
+=11	=11
+*M2/4	*
+4cc	-vou-
+4a;}	-wen
+!! verse 3
+=12	=12
+*M3/4	*
+{4ff#	Mocht
+4ee	ik
+4dd	hem
+=13	=13
+2cc	eens
+4b	aan-
+=14	=14
+4a	-schou-
+2g;}	-wen.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

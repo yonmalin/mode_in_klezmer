@@ -1,0 +1,75 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113195_01
+!! NLB record number: 113195
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*d:	*
+!! verse 0
+{8a	Te
+8.a	Vlis-
+16g	-sin-
+8a	-gen
+=1	=1
+*M9/8	*
+4.f	leit
+4d	er
+8e	een
+8.f	jacht-
+16f	-je
+8g	be-
+=2	=2
+[4.a	-reid
+4a];}	.
+!! verse 1
+{8g	Om
+4a	naar
+8b-	Oos-
+=3	=3
+*M6/8	*
+4cc	-tin-
+8cc	-je
+4dd	toe
+8cc	te
+=4	=4
+4.cc	va-
+4.a	-ren.
+=5	=5
+4r;}	.
+!! verse 2
+{8dd	Daar
+8.dd	op
+16ee	er
+8ff	zoo
+=6	=6
+*M9/8	*
+4.cc	rust
+4a	een
+8cc	klein
+(8.cc	Cu-
+16b-)	.
+8a	-pi-
+=7	=7
+[4.g	-do
+4g];}	.
+!! verse 3
+{8c	Die
+4f	speelt
+8g	op
+=8	=8
+*M6/8	*
+(8.a	zijn
+16g)	.
+8f	ver-
+4a	-gul-
+8g	-de
+=9	=9
+4.f	sna-
+4.d;}	-ren.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

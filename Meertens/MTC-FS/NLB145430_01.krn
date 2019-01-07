@@ -1,0 +1,75 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB145430_01
+!! NLB record number: 145430
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+=1	=1
+{4c	Daar
+8.f	was
+16f	een
+4f	boer
+8.g	in
+16f	het
+=2	=2
+4e	Wes-
+4g	-ter-
+2c;}	-land
+!! verse 1
+=3	=3
+{4g	die
+8.g	had
+16g	een
+4g	e-
+8.f	-zel
+16g	al
+=4	=4
+[4a	aan
+8.a]	.
+16g	zijn
+2f;}	hand
+!! verse 2
+=5	=5
+{4b-	Die
+8.b-	had
+16b-	een
+4b-	e-
+8.cc	-zel
+16cc	al
+=6	=6
+[4b-	aan
+8.b-]	.
+16a	zijn
+4g;}	liet
+!! verse 3
+{4g	zo
+=7	=7
+4g	liet,
+4g	zo
+4g	liet
+4cc	zo
+=8	=8
+8.a	tie-
+16a	-re-
+8.a	-lie-
+16g	-re-
+4f;}	-liet
+!! verse 4
+{8f	ja
+8g	al
+=9	=9
+2a	aan
+[4.g	zijn
+8g]	.
+=10	=10
+2.f	hand
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

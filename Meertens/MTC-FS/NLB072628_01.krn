@@ -1,0 +1,92 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072628_01
+!! NLB record number: 72628
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Maar
+8d	wat
+8d	een
+=1	=1
+4g	zee-
+4g	-man
+8.g	al
+16g	niet
+8b	on-
+8a	-der-
+=2	=2
+2g	-vindt,
+8r;}	.
+!! verse 1
+{8g	Da's
+8f#	bij
+8g	de
+=3	=3
+4a	meis-
+4a	-jes
+4.dd	duur
+8dd	be-
+=4	=4
+2b	-mind
+4r;}	.
+!! verse 2
+{8dd	Want
+8dd	die
+=5	=5
+4dd	we-
+4dd	-ten
+4b	wat
+4g	te
+=6	=6
+(4a	ha-
+4f#)	.
+4d;}	-len
+!! verse 3
+{8.dd	en
+16dd	een
+=7	=7
+4dd	zee-
+8dd	-man
+8dd	die
+8b	moet
+8b	het
+8g	maar
+8g	be-
+=8	=8
+(4a	-ta-
+4f#)	.
+8d;}	-len!
+!! verse 4
+{8d	Zo
+8d	zin-
+8d	-gen
+=9	=9
+4.g	zij
+8g	bij
+4a	wijn
+4ee	en
+=10	=10
+2dd	bier
+8r;}	.
+!! verse 5
+{8g	Hoe-
+8.g	-ra
+16g	de
+=11	=11
+(4a	meis-
+8cc)	.
+8cc	-jes
+4b	van
+4a	ple-
+=12	=12
+2g	-zier.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,92 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB142961_01
+!! NLB record number: 142961
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	Als
+=1	=1
+8f	ik
+8a	een
+8a	fris-
+8g	-sche
+=2	=2
+8g	jong-
+8f	-man
+8f;}	was
+!! verse 1
+{8g	trouwd
+=3	=3
+8a	ik
+8cc	een
+8cc	stok-
+8a	-oud
+=4	=4
+4g	wijf.
+8r;}	.
+!! verse 2
+{8c	Als
+=5	=5
+8f	ik
+8a	een
+8a	fris-
+8g	-sche
+=6	=6
+8g	jong-
+8f	-man
+8f;}	was
+!! verse 3
+{8g	trouwd
+=7	=7
+8a	ik
+8cc	een
+8cc	stok-
+8a	-oud
+=8	=8
+4g	wijf.
+8r;}	.
+!! verse 4
+{8g	Ik
+=9	=9
+8a	had
+8cc	ze
+8cc	nauw
+8dd	drie
+=10	=10
+4cc	da-
+4a	-gen,
+=11	=11
+(4ff	drie
+4dd)	.
+=12	=12
+4cc	da-
+8a;}	-gen
+!! verse 5
+{8cc	of 'k
+=13	=13
+8b-	haat-
+8g	-te
+8e	't lee-
+8c	-lijk
+=14	=14
+4f;}	wijf
+!! verse 6
+{8a	of 'k
+8cc	haat-
+=15	=15
+(8b-	-te
+8g)	.
+8e	't lee-
+8c	-lijk
+=16	=16
+4f	wijf.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,63 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071037_01
+!! NLB record number: 71037
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8a	Lut-
+8g	-ken
+8a	al-
+4g	-loa,
+8b	doar
+=2	=2
+8a	bit
+8g	mie
+8a	ne
+4g;}	vloa,
+!! verse 1
+{8g	Wie
+=3	=3
+4a	lust
+8a	zo
+8b	ge-
+8b	-re-
+8b	-jom
+=4	=4
+4a	poes,
+8a	jom
+4g;}	pas
+!! verse 2
+{8g	Wie
+=5	=5
+4a	drinkt
+8a	zo
+8b	geer
+8b	oet
+8b	't je-
+=6	=6
+4a	-ne-
+8a	-ver-
+4.g;}	-glas.
+!! verse 3
+=7	=7
+{8b	Lut-
+8a	-ken
+8b	al-
+4cc	-loa,
+8r	.
+=8	=8
+8a	lut-
+8g	-ken
+8a	al-
+4g	-loa.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

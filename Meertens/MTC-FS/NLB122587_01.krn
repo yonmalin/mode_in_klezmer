@@ -1,0 +1,114 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB122587_01
+!! NLB record number: 122587
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[]	*
+*a:	*
+!! verse 0
+=1	=1
+{2a	Ghe-
+4a	-quetst
+4a	ben
+=2	=2
+4g#	ic
+4e	van
+2a	bin-
+=3	=3
+2b;}	-nen
+!! verse 1
+{2dd	Duer-
+=4	=4
+4cc	-wont
+4b	mijn
+4a	hert
+4g#	soe
+=5	=5
+1a;}	seer,
+!! verse 2
+=6	=6
+{2a	Van
+4a	u-
+4a	-wer
+=7	=7
+4g#	gan-
+4e	-scher
+2a	min-
+=8	=8
+2b;}	-nen,
+!! verse 3
+{2dd	Ghe-
+=9	=9
+4cc	-quetst
+4b	soe
+4a	lanc
+4g#	soe
+=10	=10
+2a	meer.
+4r;}	.
+!! verse 4
+{4a	Waer
+=11	=11
+4ee	ic
+4ee	my
+4b	wend,
+4b	waer
+=12	=12
+4cc	ic
+4cc	my
+2dd	keer,
+=13	=13
+4r;}	.
+!! verse 5
+{4cc	'K en
+4b	kan
+4a	ghe-
+=14	=14
+4g#	-rus-
+4a	-ten
+4b	dach
+4e	noch
+=15	=15
+2f	nach-
+2e	-te;
+=16	=16
+4r;}	.
+!! verse 6
+{4b	Waer
+4cc	ic
+4dd	my
+=17	=17
+4ee	wend,
+(8dd	waer
+8ee)	.
+4cc	ic
+4b	my
+=18	=18
+4a;}	keer,
+!! verse 7
+{4dd	ghy
+4cc	sijt
+4b	al-
+=19	=19
+(2ee	-leen
+8ee	.
+8dd	.
+8cc	.
+8dd	.
+=20	=20
+4ee)	.
+4b	in
+4.dd	mijn
+8cc	ghe-
+=21	=21
+(4cc	-dach-
+2.b)	.
+=22	=22
+1a;}	-te.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,91 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB139123_01
+!! NLB record number: 139123
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{4c	Daar
+4a	was
+4g	laatst
+4f	een
+=2	=2
+4e	meis-
+4g	-je
+2c	Loos,
+=3	=3
+2a	Loos,
+4cc	Mi-
+4cc	-na
+=4	=4
+2.g;}	Loos,
+!! verse 1
+{4cc	Die
+=5	=5
+4b	wou
+4a	gaan
+4g	va-
+8f	-ren
+8f	als
+=6	=6
+4e	licht-
+4g	-ma-
+2c;}	-troos,
+!! verse 2
+=7	=7
+{4a	Loos,
+8a	Mi-
+8a	-na
+4a	Loos,
+8a	ze-
+8a	-ven
+=8	=8
+8a	kat-
+8a	-ten
+8a	in
+8a	een
+4a;}	doos,
+!! verse 3
+{4cc	Kris-
+=9	=9
+8g	-krie-
+8g	-bel,
+8g	don-
+8g	-ner-
+8g	-wet-
+8f	-ter
+8e	nog
+8d	eens
+=10	=10
+2.c;}	toe.
+!! verse 4
+{8c	En
+8c	ze
+=11	=11
+4f	heet-
+4f	-te
+4g	Mi-
+4b-	-na
+=12	=12
+(4a	Loos,
+2dd);}	.
+!! verse 5
+{8dd	En
+8dd	ze
+=13	=13
+4cc	heet-
+4cc	-te
+4b-	Mi-
+4e	-na
+=14	=14
+2.f	Loos.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

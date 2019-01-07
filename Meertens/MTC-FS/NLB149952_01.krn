@@ -1,0 +1,50 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB149952_01
+!! NLB record number: 149952
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{4g	Ra-
+=1	=1
+4g	-boud-
+4a	-je
+4g	wou
+=2	=2
+4g	spin-
+4a	-nen
+8g	en
+8g	het
+=3	=3
+4g	rad
+4a	wou
+4g	niet
+=4	=4
+4g	gaan.
+4r;}	.
+!! verse 1
+{4e	Ze
+=5	=5
+4e	zou
+4d	de
+4e	zaak
+=6	=6
+4g	ne-
+8f	-men
+8f	en
+8f	te-
+8f	-gen
+=7	=7
+4e	bed-
+4d	-schot
+4d	aan
+=8	=8
+2d;}	slaan.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

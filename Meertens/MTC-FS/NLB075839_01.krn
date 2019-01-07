@@ -1,0 +1,89 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075839_01
+!! NLB record number: 75839
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	't was
+=1	=1
+8g	op
+8g	een
+8g	vroe-
+8g	-gen
+=2	=2
+8g	mor-
+4g;}	-gen
+!! verse 1
+{8d	Kwam
+=3	=3
+8g	ik
+8g	tot
+8g	mijn
+8g	be-
+=4	=4
+4..g;}	-sluit
+!! verse 2
+{16g	Al
+=5	=5
+8a	om
+8a	eens
+8b	te
+8b	gaan
+=6	=6
+8cc	wan-
+8cc	-de-
+8cc;}	-len
+!! verse 3
+{8cc	Die
+=7	=7
+4b	poor-
+4a	-ten
+=8	=8
+8.g;}	uit
+!! verse 4
+{16g	Van
+16.f#	fal-
+32f#	-de-
+8g	-rie
+=9	=9
+4e	tra-
+4e	-la-
+=10	=10
+8e;}	-la
+!! verse 5
+{8e	Van
+16.f#	fal-
+32f#	-de-
+8g	-rie
+=11	=11
+4a	tra-
+4d	-la-
+=12	=12
+4..d;}	-la
+!! verse 6
+{16d	Al
+=13	=13
+8g	om
+8g	eens
+8a	te
+8a	gaan
+=14	=14
+8b	wan-
+8b	-de-
+8cc;}	-len
+!! verse 7
+{8cc	Die
+=15	=15
+4b	poor-
+4a	-ten
+=16	=16
+4.g;}	uit
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

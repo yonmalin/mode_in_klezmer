@@ -1,0 +1,84 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074001_02
+!! NLB record number: 74001
+!! NLB strophe/voice number: 2
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	De
+=1	=1
+4g	zon
+8g	die
+4g	scheen
+8a	op,
+=2	=2
+4.g	het
+(8a	werd
+8b)	.
+8cc	nu
+=3	=3
+4.b	klaar
+4b	lich-
+8a	-te
+=4	=4
+[4.g	dag
+4g];}	.
+!! verse 1
+{8b	De
+=5	=5
+4a	zon
+8g	die
+4a	scheen
+8b	nu
+=6	=6
+(4a	het
+8b)	.
+4cc	was
+8ee	nu
+=7	=7
+4.dd	klaar
+4dd	lich-
+8cc	-te
+=8	=8
+2.b;}	dag
+!! verse 2
+=9	=9
+*M9/8	*
+{4.dd	ik
+4ee	wist
+8dd	niet
+8a	wat
+8b	mij
+8cc	ge-
+=10	=10
+*M6/8	*
+4.b	-beu-
+(4a	-ren
+8cc)	.
+=11	=11
+2.b;}	mag
+!! verse 3
+=12	=12
+*M9/8	*
+{4.dd	ik
+4ee	wist
+8dd	niet
+8a	wat
+8b	mij
+8cc	ge-
+=13	=13
+*M6/8	*
+(4b	-beu-
+8dd)	.
+4.a	-ren
+=14	=14
+[4.g	mag
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

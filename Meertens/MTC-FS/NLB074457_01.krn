@@ -1,0 +1,110 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074457_01
+!! NLB record number: 74457
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8dd	Vrien-
+16dd	-den
+16dd	ik
+8gg	zal
+16gg	je
+16gg	een
+=2	=2
+8b	klucht-
+16b	-je
+16b	ver-
+8ee	-ha-
+8dd;}	-len
+!! verse 1
+=3	=3
+{8dd	Luis-
+8dd	-ter
+8dd	uit
+16dd	wat
+16dd	een
+=4	=4
+8ee	ra-
+8dd	-re
+4a;}	grap
+!! verse 2
+=5	=5
+{8dd	Van
+(16ee	een
+16ff#)	.
+8.gg	lo-
+16ff#	-ze
+=6	=6
+8ee	schip-
+8dd	-pers-
+4cc;}	-vent
+!! verse 3
+=7	=7
+{8dd	op
+8ff#	zijn
+8.aa	schip
+16gg	was
+=8	=8
+8ff#	hij
+8ee	be-
+4dd;}	-kend
+!! verse 4
+=9	=9
+{8dd	Hij
+16ee	kan
+16ff#	er
+8gg	zei-
+16ff#	-len
+16ee	ja
+=10	=10
+(16dd	bij
+16ee	.
+16dd)	.
+16cc	de
+8b;}	nacht
+!! verse 5
+{16a	ja
+16b	zo
+=11	=11
+8cc	goed
+8ee	als
+8dd	op
+8dd	den
+=12	=12
+4g	dag
+4r;}	.
+!! verse 6
+=13	=13
+{8dd	Hij
+16ee	kan
+16ff#	er
+8gg	zei-
+16ff#	-len
+16ee	ja
+=14	=14
+(16dd	bij
+16ee	.
+16dd)	.
+16cc	de
+8b;}	nacht
+!! verse 7
+{16a	ja
+16b	zo
+=15	=15
+8cc	goed
+8ee	als
+8dd	op
+8dd	den
+=16	=16
+4g	dag
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

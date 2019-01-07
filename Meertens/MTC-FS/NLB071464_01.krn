@@ -1,0 +1,69 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071464_01
+!! NLB record number: 71464
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	En
+8dd	er
+=1	=1
+4cc	was
+4b	al
+4a	e-
+4cc	-ne
+=2	=2
+4b	jonk-
+4a	-man
+4g;}	fijn,
+!! verse 1
+{4b	Die
+=3	=3
+8.a	vrij-
+16a	-de
+4a	met
+8a	e-
+8a	-nen
+8a	jon-
+8a	-ge
+=4	=4
+4g	doch-
+4b	-ter
+4g;}	fijn,
+!! verse 2
+{4b	van
+=5	=5
+8.a	re-
+16a	-de
+8a	me-
+8a	-di-
+4d;}	-cijn
+!! verse 3
+{4d	Die
+=6	=6
+8.g	vrij-
+16g	-de
+4g	met
+8.a	e-
+16a	-nen
+8.a	jon-
+16dd	-ge
+=7	=7
+4dd	doch-
+4dd	-ter
+4b;}	fijn.
+!! verse 4
+{4dd	Van
+=8	=8
+2dd	ri-
+2cc	-der-
+=9	=9
+2.b;}	-rom.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,70 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB127428_01
+!! NLB record number: 127428
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{16g	Hoe
+8.f#	me-
+16g	-nig
+=1	=1
+8.a	kind
+16dd	is
+8.dd	tot
+16dd	het
+8.cc	kwaad
+16a	ge-
+=2	=2
+4b	-bo-
+8.g;}	-ren
+!! verse 1
+{16d	En
+8.g	brengt
+16b	er
+=3	=3
+8.dd	zij-
+16dd	-ne
+8.ee	ou-
+16dd	-ders
+8.b	in't
+16g	ver-
+=4	=4
+4.a	-driet
+16r;}	.
+!! verse 2
+{16d	De
+8.d	hoog-
+16d	-moed
+=5	=5
+8.b	doet
+16b	dik-
+8.b	-wijls
+16a	het
+8.g	hert
+16f#	be-
+=6	=6
+(8.e	-ko-
+16cc)	.
+8.cc;}	-ren
+!! verse 3
+{16a	Bin-
+8.b	-nen
+16cc	de
+=7	=7
+8.dd	stad
+16dd	Ant-
+8.ee	-wer-
+16dd	-pen
+8.cc#	is 't
+16dd	ge-
+=8	=8
+4g;}	-schied
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,110 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113234_01
+!! NLB record number: 113234
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{8g	Daar
+8.g	kwam
+16e	een
+=1	=1
+4c	meis-
+8.g	-je
+16g	van
+8.a	Sint
+16a	Ni-
+=2	=2
+4.g;}	-klaas
+!! verse 1
+{8g	Daar
+8.g	kwam
+16e	een
+=3	=3
+4c	meis-
+8.g	-je
+16g	van
+8.a	Sint
+16a	Ni-
+=4	=4
+4.g;}	-klaas
+!! verse 2
+{8g	Die
+8.a	kwam
+16b	die
+=5	=5
+*M2/4	*
+(12cc	kwam
+12b)	.
+12a	een
+(6b	koop-
+12cc)	-man
+=6	=6
+*M4/4	*
+4dd	te-
+4g	-gen
+8r;}	.
+!! verse 3
+{8g	Die
+8.ee	vroeg
+16dd	of
+=7	=7
+*M3/4	*
+4.cc	zij
+8b	met
+8.a	hem
+16g	wou
+=8	=8
+4.g;}	gaan
+!! verse 4
+{8a	Van
+12g	lie-
+12f	-de-
+12e	-rum
+=9	=9
+4f	Lijs-
+8.a	-je
+16a	jou
+12g	hoe-
+12g	-ri-
+12f	-ge
+=10	=10
+*M2/4	*
+2e;}	knaap
+!! verse 5
+=11	=11
+*M4/4	*
+{4cc	Zes
+8.b	kro-
+16a	-nen
+8.g	goud
+16f	zal
+8.e	ik
+16f	jou
+=12	=12
+(8.g	ge-
+16ee)	.
+2cc	-ven
+4r;}	.
+!! verse 6
+=13	=13
+*M4/4	*
+{4cc	Zes
+8.b	kro-
+16a	-nen
+8.g	goud
+16f	zal
+8.e	ik
+16f	jou
+=14	=14
+(8.g	ge-
+16e)	.
+4c;}	-ven
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

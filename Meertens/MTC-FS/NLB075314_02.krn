@@ -1,0 +1,67 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075314_02
+!! NLB record number: 75314
+!! NLB strophe/voice number: 2
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Zeg
+8g	kind
+8b	zeg
+=1	=1
+8dd	kind
+8dd	zeg
+8dd	ween
+8dd	jij
+8ee	daar-
+8dd	-om
+=2	=2
+4.b;}	zo
+!! verse 1
+{8dd	Kun
+8ee	jij
+8ff#	me-
+=3	=3
+*M2/4	*
+8gg	-neer
+8dd	de
+8cc	graaf
+8b	niet
+=4	=4
+*M3/4	*
+8dd	krij-
+4a;}	-gen
+!! verse 2
+{8gg	Zeg
+8ff#	kind
+8gg	zeg
+=5	=5
+8aa	kind
+8gg	zeg
+8ff#	ween
+8ee	jij
+8dd	daar-
+8gg	-om
+=6	=6
+4.gg;}	zo?
+!! verse 3
+{8gg	Kun
+8ff#	jij
+8ee	me-
+=7	=7
+*M2/4	*
+8dd	-neer
+8ee	de
+8cc	Graaf
+8b	niet
+=8	=8
+8dd	krij-
+4b;}	-gen
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

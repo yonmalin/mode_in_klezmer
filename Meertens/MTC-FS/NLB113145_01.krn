@@ -1,0 +1,82 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113145_01
+!! NLB record number: 113145
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{4c	Ik
+=1	=1
+4f	voer
+4g	laatst
+4a	o-
+4b-	-ver
+=2	=2
+4cc	zee
+8cc	ga
+8cc	je
+4cc;}	mee
+!! verse 1
+{8cc	En
+8cc	ik
+=3	=3
+4dd	voer
+4cc	laatst
+4b-	o-
+4g	-ver
+=4	=4
+2f	zee
+4r;}	.
+!! verse 2
+{4c	al
+=5	=5
+4f	met
+4g	een
+4a	hou-
+4b-	-ten
+=6	=6
+4.cc	le-
+8dd	-pel-
+2cc;}	-tje
+!! verse 3
+=7	=7
+{4a	Le-
+4a	-o
+4a	lee
+4g	van
+=8	=8
+8f	fal-
+8f	-de-
+8d	-ral-
+8d	-de-
+4c;}	-ree
+!! verse 4
+{4c	Al
+=9	=9
+4f	met
+4g	zoo'n
+4a	klein
+4b-	hout
+=10	=10
+4.cc	le-
+8dd	-pel-
+4cc;}	-tje
+!! verse 5
+{4b-	En 't
+=11	=11
+4a	le-
+8a	-pel-
+8a	-tje
+4g	brak
+4cc	in
+=12	=12
+2f	twee.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

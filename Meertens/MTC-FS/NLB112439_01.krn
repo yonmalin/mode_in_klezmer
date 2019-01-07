@@ -1,0 +1,101 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB112439_01
+!! NLB record number: 112439
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*d:	*
+!! verse 0
+{8a	Komt
+=1	=1
+4d	hier
+8e	al
+4f	bij
+8g	en
+=2	=2
+4a	hoort
+8d	een
+4d;}	klucht
+!! verse 1
+{8e	Ik
+=3	=3
+4f	zing
+8f	van
+4g	Pier-
+8g	-la-
+=4	=4
+[4.a	-la
+4a];}	.
+!! verse 2
+{8a	Een
+=5	=5
+4d	drol-
+8e	-lig
+4f	vent-
+8g	-je
+=6	=6
+4a	vol
+8d	ge-
+4d;}	-nucht
+!! verse 3
+{8e	De
+=7	=7
+4f	vreugd
+8f	van
+4g	zijn
+8g	pa-
+=8	=8
+[4.a	-pa
+4a];}	.
+!! verse 4
+{8a	Wat
+=9	=9
+4a	in
+8b-	zijn
+4a	le-
+8g	-ven
+=10	=10
+4g	is
+8a	ge-
+4g;}	-schied
+!! verse 5
+{8a	Dat
+=11	=11
+(8f	zult
+8e)	.
+8d	gij
+4g	hoo-
+8f	-ren
+=12	=12
+4e	in
+8d	dit
+4e;}	lied
+!! verse 6
+{8e	't Is
+=13	=13
+4d	al
+8e	van
+4f	Pier-
+8g	-la-
+=14	=14
+4a	-la
+8d	sa
+4d;}	sa
+!! verse 7
+{8e	't Is
+=15	=15
+4f	al
+8f	van
+(8e	Pier-
+8d)	.
+8e	-la-
+=16	=16
+[4.d	-la.
+4d];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

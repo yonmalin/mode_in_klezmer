@@ -1,0 +1,106 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140618_01
+!! NLB record number: 140618
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	Komt
+=1	=1
+4f	hier
+8f	al
+4f	bij
+8g	en
+=2	=2
+4a	hoort
+8a	dees
+4a;}	klucht:
+!! verse 1
+{8f	Het
+=3	=3
+4g	is
+8a	van
+(8b-	Pier-
+8a)	.
+8g	-la-
+=4	=4
+[4.f	-la
+8f]	.
+8r;}	.
+!! verse 2
+{8c	Een
+=5	=5
+4f	drol-
+8f	-lig
+4f	vent-
+8g	-je
+=6	=6
+4a	vol
+8a	ge-
+4a;}	-nucht,
+!! verse 3
+{8f	De
+=7	=7
+4g	vreugd
+8a	van
+(8b-	zijn
+8a)	.
+8g	pa-
+=8	=8
+[4.f	-pa.
+8f]	.
+8r;}	.
+!! verse 4
+{8cc	Wat
+=9	=9
+4cc	in
+8a	zijn
+(8a	le-
+8b-)	.
+8cc	-ven
+=10	=10
+4dd	is
+8b-	ge-
+4b-;}	-schied,
+!! verse 5
+{8b-	Dat
+=11	=11
+4b-	zult
+8g	gij
+(8g	hoo-
+8a)	.
+8b-	-ren
+=12	=12
+4cc	in
+8a	diT
+4f;}	lied:
+!! verse 6
+{8f	't Is
+=13	=13
+4b-	al
+8a	van
+4g	Pier-
+8f	-la-
+=14	=14
+(8f	-la,
+8e)	.
+8f	sa
+4g;}	sa!
+!! verse 7
+{8a	't Is
+=15	=15
+4b-	al
+8b-	van
+4cc	Pier-
+8cc	-la-
+=16	=16
+[4.f	-la!
+4f];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

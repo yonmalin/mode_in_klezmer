@@ -1,0 +1,100 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB076304_01
+!! NLB record number: 76304
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{16b	Al
+8.g	van
+16b	twee
+=1	=1
+(8dd	meis-
+8ee)	.
+8.ee	-jes
+16dd	zeer
+8dd	hups
+8cc	en
+=2	=2
+4..b;}	fijn
+!! verse 1
+{16b	Al
+8.g	van
+16b	twee
+=3	=3
+*M4/4	*
+(8dd	meis-
+8ee)	.
+8.ee	-jes
+16dd	zeer
+8dd	hups
+8cc	en
+(8ee	fijn
+8dd);}	.
+!! verse 2
+=4	=4
+{8b	Die
+16b	er
+16b	zo
+8b	gaar-
+16b	-ne
+16dd	ge-
+8dd	-vrijd
+16cc	zou-
+16b	-den
+4cc;}	zijn
+!! verse 3
+=5	=5
+{16.a	Fal-
+32a	-de-
+16.a	-ral-
+32a	-de-
+16a	-rie-
+16a	-e
+16.dd	fal-
+32dd	-de-
+16.b	-ra-
+32a	-La
+24b	la
+24b	la
+24cc	la
+16.dd	la,
+32dd	la
+24dd	la
+24dd	la
+24ee	la
+=6	=6
+*M2/4	*
+2dd;}	la
+!! verse 4
+=7	=7
+*M4/4	*
+{8b	Die
+16b	er
+16b	zo
+8b	gaar-
+16b	-ne
+16dd	ge-
+8dd	-vrijd
+16cc	zou-
+16b	-den
+4cc;}	zijn
+!! verse 5
+=8	=8
+{16.a	Fal-
+32a	-de-
+16.a	-ral-
+32a	-de-
+16a	-rie-
+16a	-e
+16.dd	fal-
+32cc	-de-
+8.b;}	-ra
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,59 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB012387_01
+!! NLB record number: 12387
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8g	Al
+4g	die
+8b	daer
+=1	=1
+4dd	zeidt:
+8dd	de
+4ee	Reus
+8ee	die
+=2	=2
+4dd;}	kom',
+!! verse 1
+{8dd	de
+4ee	Reus
+8ee	die
+=3	=3
+4dd	kom',
+8cc	zy
+8b	lie-
+8cc	-gen
+8dd	daer
+=4	=4
+4.g;}	om.
+!! verse 2
+{8a	Kee-
+8b	-re
+8cc	weer-
+=5	=5
+4.b	-om,
+4a	Reus-
+8a	-ken,
+=6	=6
+4b	Reus-
+8g;}	-ken,
+!! verse 3
+{8a	kee-
+8b	-re
+8cc	weer-
+=7	=7
+4.b	-om,
+(8a	Reu-
+8b)	.
+8a	-ze-
+=8	=8
+4g;}	-gom'!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

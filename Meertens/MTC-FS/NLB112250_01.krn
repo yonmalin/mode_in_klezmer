@@ -1,0 +1,114 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB112250_01
+!! NLB record number: 112250
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Hoe
+=1	=1
+8g	hel-
+8g	-der
+8g	de
+8g	zon
+8g	en
+8a	hoe
+=2	=2
+8b	duis-
+8b	-ter
+8b	de
+(8b	maan
+8a);}	.
+!! verse 1
+{8g	Hoe
+=3	=3
+4a	zal
+8b	het
+(8cc	met
+8b)	.
+8a	mij
+=4	=4
+(4a	we-
+8b)	.
+4g;}	-zen
+!! verse 2
+{8d	Wan-
+=5	=5
+4g	-neer
+8g	de
+4g	zon
+8a	ter
+=6	=6
+4b	ne-
+8b	-der
+(8b	daalt
+8a);}	.
+!! verse 3
+{8g	Zal
+=7	=7
+4a	ik
+8b	er
+(8cc	niet
+8b)	.
+8a	meer
+=8	=8
+(4a	we-
+8b)	.
+4.g;}	-zen
+!! verse 4
+=9	=9
+{4.dd	Ik
+8dd	ben
+8cc	nog
+8b	zoo
+=10	=10
+4.a;}	jong
+!! verse 5
+{8cc	Pas
+8b	in
+8a	mijn
+=11	=11
+4g	ze-
+8g	-ven-
+(8g	-tien-
+8a)	.
+8b	-de
+=12	=12
+4.a;}	jaar
+!! verse 6
+{4.b	O
+=13	=13
+8b	bit-
+8cc	-te-
+8b	-re
+4.a;}	schand
+!! verse 7
+=14	=14
+{4.b	Ik
+8b	leef-
+8cc	-de
+8b	in
+=15	=15
+4.a;}	vreugd
+!! verse 8
+{8cc	En
+8b	moet
+8a	nu
+=16	=16
+(8g	ster-
+8b)	.
+8dd	-ven
+(8dd	in
+8cc)	.
+8a	mijn
+=17	=17
+[4.g	jeugd.
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

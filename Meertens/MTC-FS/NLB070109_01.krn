@@ -1,0 +1,56 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070109_01
+!! NLB record number: 70109
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8.b	In
+16a	een
+=1	=1
+4g	dorp-
+4g	-je
+8.g	woont
+16a	een
+=2	=2
+4b	moe-
+4b;}	-der
+!! verse 1
+{8.b	Met
+16ee	Ma-
+=3	=3
+4.dd	-rie
+8b	haar
+8a	e-
+8g	-nigst
+=4	=4
+2b;}	kind
+!! verse 2
+{8.dd	't Was
+16gg	een
+=5	=5
+4ff#	trots
+4ee	maar
+8.gg	dar-
+16ff#	-tel
+=6	=6
+4ee	meis-
+4dd;}	-je
+!! verse 3
+{8.g	Door
+16b	haar
+=7	=7
+4.dd	moe-
+8b	-der
+8.a	trouw
+16b	be-
+=8	=8
+2g;}	-mind
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

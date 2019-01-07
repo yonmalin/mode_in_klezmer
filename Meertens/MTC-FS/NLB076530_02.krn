@@ -1,0 +1,72 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB076530_02
+!! NLB record number: 76530
+!! NLB strophe/voice number: 2
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Toen
+=1	=1
+4g	stond
+4g	daar
+4g	nog
+(8a	'ne
+8cc)	.
+=2	=2
+4.b	ou-
+8a	-we
+4g;}	ruin
+!! verse 1
+{8.b	fi-
+16cc	-ge-
+=3	=3
+4dd	-dom
+8.dd	fi-
+16dd	-ge-
+8cc	-del-
+8cc	-le
+8f#	poes
+8f#	ga
+=4	=4
+8a	weg-
+8a	-ge
+8a	weg-
+8a	-ge
+4a;}	weg
+!! verse 2
+{4d	Hij
+=5	=5
+4g	stond
+8.g	daar
+16g	ge-
+4g	-bon-
+8.b	-den
+16cc	al
+=6	=6
+4.dd	aan
+8cc	den
+4b;}	tuin
+!! verse 3
+{8.dd	fi-
+16dd	-ge-
+=7	=7
+4ee	-dom
+8.ee	fi-
+16ee	-ge-
+8dd	-del-
+8dd	-le
+8g	poes
+8cc	ga
+=8	=8
+(2b	weg-
+2a)	.
+=9	=9
+2.g;}	-ge
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,57 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB112033_01
+!! NLB record number: 112033
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{8cc	'k Geef
+8cc	er
+8cc	een
+=1	=1
+4g	zoo-
+8g	-pie
+4a	aan
+8a	Co-
+=2	=2
+4.g;}	-sijn
+!! verse 1
+{4f	want
+8f	die
+=3	=3
+4e	lust
+8e	ze
+4d	want
+8d	die
+=4	=4
+4e	lust
+8c;}	ze
+!! verse 2
+{8cc	'k Geef
+8cc	er
+8cc	een
+=5	=5
+4g	zoo-
+8g	-pie
+4a	aan
+8a	Co-
+=6	=6
+4.g;}	-sijn
+!! verse 3
+{4cc	want
+8cc	die
+=7	=7
+4dd	lust
+8dd	ze
+4b	van
+8b	de
+=8	=8
+4.cc;}	wijn.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

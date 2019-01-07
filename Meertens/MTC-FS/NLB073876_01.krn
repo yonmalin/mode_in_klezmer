@@ -1,0 +1,89 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073876_01
+!! NLB record number: 73876
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4g	Ach
+=1	=1
+4b	moe-
+4b	-der
+4b	ik
+4g	ga
+=2	=2
+(4a	die-
+4b)	.
+4cc;}	-nen
+!! verse 1
+{8dd	bij
+8cc	een
+=3	=3
+4b	hoofd-
+8dd	-man
+8dd	al
+4dd	in
+8cc	zijn
+8b	kwar-
+=4	=4
+2.a;}	-tier
+!! verse 2
+{8a	en
+8b	ik
+=5	=5
+4cc	sprak
+8ee	er
+16ee	toen
+16ee	och
+4ee	lie-
+4ee	-ve
+=6	=6
+(4dd	hoofd-
+4b)	.
+4g;}	-man
+!! verse 3
+{4dd	geeft
+=7	=7
+4dd	gij
+8ee	er
+8dd	mijn
+4cc	zoon-
+8.dd	-tje
+16cc	maar
+=8	=8
+8b	hier
+8a	o
+8b	ja
+8cc	o
+4dd;}	ja
+!! verse 4
+{4dd	ik
+=9	=9
+4ee	sprak
+8ee	er
+8ee	och
+4ee	lie-
+4ee	-ve
+=10	=10
+(4dd	hoofd-
+4gg)	.
+4gg;}	-man
+!! verse 5
+{4dd	geeft
+=11	=11
+4dd	gij
+8ee	er
+8dd	mijn
+4cc	zoon-
+8.dd	-tje
+16cc	maar
+=12	=12
+2.b;}	hier
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

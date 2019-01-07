@@ -1,0 +1,82 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB112207_01
+!! NLB record number: 112207
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{8g	En
+8g	de
+=1	=1
+4e	rui-
+8e	-ter
+8d	die
+=2	=2
+4c	o-
+8d	-ver
+8d	de
+=3	=3
+(8e	val-
+8c)	.
+(8e	-brug
+8f)	.
+=4	=4
+4g;}	reed
+!! verse 1
+{8g	En
+8g	het
+=5	=5
+4a	maan-
+8a	-tje
+8a	dat
+=6	=6
+4cc	scheen
+8a	er
+8a	zo
+=7	=7
+(4a	hel-
+4g)	.
+=8	=8
+4g;}	-der
+!! verse 2
+{8g	En
+8g	hij
+=9	=9
+4cc	keek
+8g	bij
+8g	zijn
+=10	=10
+8a	zoe-
+8g	-te-
+8f	-lief
+8e	het
+=11	=11
+(8a	ven-
+8g)	.
+8f	-ster-
+8e	-tje
+=12	=12
+4d;}	in
+!! verse 3
+{8c	En
+8c	hij
+=13	=13
+4c	zag
+8e	er
+8e	een
+=14	=14
+4g	kist
+4c	op
+=15	=15
+(4d	stel-
+4e)	.
+=16	=16
+4c;}	-ten
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,136 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB112493_01
+!! NLB record number: 112493
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{4g	Stop-
+8.cc	-ga-
+16b	-ren
+=2	=2
+8a	ve-
+8b	-ter-
+4cc	-band
+=3	=3
+8.g	al-
+16a	-les
+8.g	gaat
+16a	naar
+=4	=4
+8g	En-
+8f	-ge-
+4d;}	-land
+!! verse 1
+=5	=5
+{8.g	Koei-
+16g	-en
+8.cc	scha-
+16b	-pen
+=6	=6
+8a	in
+8b	ge-
+4cc	-tal
+=7	=7
+8.dd	En-
+16ee	-ge-
+8dd	-land
+8g	dat
+=8	=8
+8b	haalt
+8a	het
+4g;}	al
+!! verse 2
+=9	=9
+{8.ee	xxx
+16ee	xxx
+8.ee	xxx
+16ee	xxx
+=10	=10
+8ee	xxx
+8g	xxx
+8g	xxx
+8ee	xxx
+=11	=11
+8.dd	xxx
+16cc	xxx
+8.b	xxx
+16cc	xxx
+=12	=12
+4b	xxx
+4a;}	xxx
+!! verse 3
+=13	=13
+{8.ff	xxx
+16ff	xxx
+8.ff	xxx
+16ff	xxx
+=14	=14
+8ff	xxx
+8g	xxx
+8g	xxx
+8ee	xxx
+=15	=15
+8.dd	xxx
+16cc	xxx
+8b	xxx
+8a	xxx
+=16	=16
+2g;}	xxx
+!! verse 4
+=17	=17
+{2e	Al-
+=18	=18
+4f	-tijd
+4e	maar
+=19	=19
+(4.g	kla-
+8f)	.
+=20	=20
+2d;}	-re
+!! verse 5
+=21	=21
+{2e	En
+=22	=22
+4d	schul-
+4c	-de-
+=23	=23
+2d	-na-
+=24	=24
+2G;}	-ren
+!! verse 6
+=25	=25
+{2e	Jij
+=26	=26
+4f	moet
+4e	maar
+=27	=27
+(4A	we-
+4e)	.
+=28	=28
+4d;}	-ten
+!! verse 7
+{8.e	Dat
+16f	ik
+=29	=29
+4g	niet
+8.d	op
+16e	cre-
+=30	=30
+4f	-diet
+8.A	meer
+16B	kan
+=31	=31
+(4c	koo-
+4e)	.
+=32	=32
+2c;}	-pen.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

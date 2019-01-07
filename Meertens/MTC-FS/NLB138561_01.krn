@@ -1,0 +1,83 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB138561_01
+!! NLB record number: 138561
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M5/4	*
+*MM120	*
+*k[]	*
+*d:dor	*
+!! verse 0
+{4d	Es
+=1	=1
+4d	sout
+4d	ein
+2c	Meis-
+4d	-kin
+=2	=2
+(2f	ha-
+8e	.
+8d	.
+4e)	.
+4e	-len
+=3	=3
+2d;}	wijn
+!! verse 1
+{(4d	sna-
+4f)	.
+4g	-vens
+=4	=4
+4a	al
+4a	so
+(8a	spa-
+8b	.
+8cc	.
+8b	.
+4a	.
+=5	=5
+*M13/8	*
+8g	.
+8f	.
+4g	.
+4a)	.
+4f	-de
+8r;}	.
+!! verse 2
+{4c	Si
+4f	hat
+=6	=6
+*M5/4	*
+4f	ein
+4g	so
+(2a	wit
+4g)	.
+=7	=7
+(2f	hembt-
+8e	.
+8d)	.
+4e	-de-
+4e	-kin
+=8	=8
+2d	an
+4r;}	.
+!! verse 3
+{(4c	Dar
+4f)	.
+=9	=9
+4f	duer
+4g	sach
+2a	ich
+4g	die
+=10	=10
+(2f	lust-
+8e)	.
+8d	-e-
+4e	-li-
+4e	-ke
+=11	=11
+2d;}	mane
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

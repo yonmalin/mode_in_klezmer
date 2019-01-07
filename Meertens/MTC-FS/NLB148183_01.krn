@@ -1,0 +1,93 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB148183_01
+!! NLB record number: 148183
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{(8e	Voor
+8f)	.
+=1	=1
+4g	Schel-
+8g	-lin-
+8g	-ge
+4f	lag
+(8g	een
+8f)	.
+=2	=2
+2e	schip,
+4r;}	.
+!! verse 1
+{4e	Een
+=3	=3
+4f	won-
+4a	-der
+(8g	te
+8f)	.
+4e	aan-
+=4	=4
+2d	-schou-
+4c;}	-wen,
+!! verse 2
+{(8c	Een
+8d)	.
+=5	=5
+4e	won-
+4a	-der
+(8g	te
+8f)	.
+4e	aan-
+=6	=6
+2d	-schou-
+4c;}	-wen,
+!! verse 3
+{4g	Zo
+=7	=7
+4a	sier-
+4a	-lijk
+4b	op-
+4b	-ge-
+=8	=8
+4cc;}	-bouwd
+!! verse 4
+{(8cc	Van
+8b)	.
+4a	Ko-
+4a	-ro-
+=9	=9
+*M3/4	*
+2g	-man-
+(8.g	-del-
+16f)	.
+=10	=10
+*M2/2	*
+2e	-hout,
+4r;}	.
+!! verse 5
+{4g	Zo
+=11	=11
+4a	sier-
+4a	-lijk
+4b	op-
+4b	-ge-
+=12	=12
+4cc;}	-bouwd,
+!! verse 6
+{(8cc	Van
+8b)	.
+4a	Ko-
+4f	-ro-
+=13	=13
+2e	-man-
+2d	-del-
+=14	=14
+2c	-hout.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

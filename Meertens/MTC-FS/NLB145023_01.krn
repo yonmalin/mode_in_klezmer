@@ -1,0 +1,95 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB145023_01
+!! NLB record number: 145023
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	Doar
+=1	=1
+8f	ach-
+8f	-ter
+8f	in
+8g	het
+=2	=2
+8a	ven-
+8f	-ster-
+8f;}	-lain.
+!! verse 1
+{8g	Doar
+=3	=3
+8a	lag
+8a	m'n
+8g	me-
+8g	-ke
+=4	=4
+4.f;}	fain
+!! verse 2
+{8a	Doar
+=5	=5
+8a	kwam
+8g	n'n
+16a	kup-
+16a	-per
+8b-	an-
+=6	=6
+4cc	-lo-
+8cc;}	-pen
+!! verse 3
+{8cc	Zeg
+=7	=7
+8cc	me-
+8cc	-ke
+8b-	bis
+8b-	doe
+=8	=8
+4.a	main
+8r;}	.
+!! verse 4
+=9	=9
+{4cc	Nee
+8a	kup-
+8a	-per
+=10	=10
+8cc	kiek
+16cc	in
+16cc	de
+8.a;}	ton
+!! verse 5
+{16a	Doe
+=11	=11
+8b-	lueps
+8a	den
+8b-	gan-
+8cc	-sen
+=12	=12
+8dd	dag
+8cc	rond-
+8.cc;}	-om
+!! verse 6
+{16cc	Doe
+=13	=13
+8f	zas
+16f	mie-
+16f	-nen
+8f	man
+8g	nich
+=14	=14
+4.a;}	zain
+!! verse 7
+{8b-	N'n
+=15	=15
+8a	an-
+8a	-der
+8g	zal
+8g	het
+=16	=16
+4.f;}	zain
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

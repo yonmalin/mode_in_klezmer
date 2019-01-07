@@ -1,0 +1,101 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140580_01
+!! NLB record number: 140580
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-e-]	*
+*g:	*
+!! verse 0
+{4.dd	Springt
+=1	=1
+4b-	op
+8b-	en
+4cc	toon
+8cc	je
+=2	=2
+4.dd;}	schoen,
+!! verse 1
+{4.dd	Springt
+=3	=3
+4b-	op
+8b-	en
+4cc	toon
+8cc	je
+=4	=4
+[4.dd	schoen
+8dd]	.
+8r;}	.
+!! verse 2
+{8dd	't Is
+=5	=5
+*M12/8	*
+4g	om
+8a	te
+4b-	zien
+8cc	wat
+4dd	dat
+8dd	de
+4dd	ou-
+8dd	-de
+=6	=6
+8cc	man-
+8b-	-nen
+8a	al
+[4.g	doen!
+8g]	.
+8r;}	.
+!! verse 3
+{8dd	De
+4dd	ou-
+8dd	-de
+=7	=7
+8dd	man-
+8cc	-nen
+8b-	he'n
+8cc	ve-
+8b-	-le
+8cc	ver-
+4dd;}	-stand,
+!! verse 4
+{8dd	De
+4dd	ou-
+8dd	-de
+=8	=8
+*M6/8	*
+8dd	man-
+8cc	-nen
+8b-	he'n
+8cc	ve-
+8b-	-le
+8cc	ver-
+=9	=9
+*M9/8	*
+4dd	-stand,
+8r;}	.
+!! verse 5
+{4g	't Is
+8a	maar
+4b-	om
+8cc	hun
+=10	=10
+*M6/8	*
+8dd	pijp-
+8dd	-je
+8dd	te
+8dd	roo-
+8cc	-ken
+8dd	den
+=11	=11
+4.b-	gan-
+4.a	-schen
+=12	=12
+[4.g	dag!
+4g]	.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

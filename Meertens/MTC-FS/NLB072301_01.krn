@@ -1,0 +1,76 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072301_01
+!! NLB record number: 72301
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Er
+=1	=1
+4g	was
+8.g	eens
+16g	een
+4g	meis-
+8a	-sien
+8b	dat
+=2	=2
+4b	vroeg
+8.b	op
+16a	wou
+4g	staan
+8r;}	.
+!! verse 1
+{8dd	Om
+=3	=3
+4dd	met
+8dd	har-
+8dd	-re
+4g	min-
+8a	-naar
+8b	uit
+=4	=4
+8a	wan-
+8g	-de-
+8f#	-len
+8e	te
+4d	gaan
+8r;}	.
+!! verse 2
+{8b	Zij
+=5	=5
+8dd	wan-
+8dd	-del-
+8dd	-de
+8dd	al
+4g	on-
+8.b	-der
+16dd	de
+=6	=6
+(4cc	lin-
+4b)	.
+4a;}	-de
+!! verse 3
+{8d	Maar
+8d	zij
+=7	=7
+8g	kon
+8g	haar
+8a	min-
+8b	-naar
+8b	ner-
+8b	-gens
+16cc	meer-
+16cc	-de-
+8cc	-re
+=8	=8
+(4b	vin-
+4a)	.
+4g;}	-den.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

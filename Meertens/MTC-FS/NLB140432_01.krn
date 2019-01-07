@@ -1,0 +1,80 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140432_01
+!! NLB record number: 140432
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[b-]	*
+*g:dor	*
+!! verse 0
+{4g	Het
+=1	=1
+4g	re-
+4g	-gen-
+4g	-de
+=2	=2
+4dd	zeer
+4dd	end'
+4cc	ik
+=3	=3
+2dd	wor-
+4b-	-de
+=4	=4
+*M4/4	*
+2a	nat!
+4r;}	.
+!! verse 1
+{4dd	Bij
+=5	=5
+*M3/2	*
+4dd	mij-
+4cc	-nen
+4b-	lief
+4a	was
+4g	ik
+4b-	te
+=6	=6
+*M3/4	*
+2a;}	nacht,
+!! verse 2
+{4g	Was
+=7	=7
+*M3/2	*
+4f	ik
+4g	te
+2d	nacht,
+4r;}	.
+!! verse 3
+{4a	Bij
+=8	=8
+2b-	mij-
+4b-	-nen
+2g	lief
+4g	al-
+=9	=9
+*M3/4	*
+(4.b-	-lein,
+8cc	.
+[4dd	.
+=10	=10
+*M3/2	*
+2dd])	.
+4r;}	.
+!! verse 4
+{4cc	Rijk
+4b-	God
+4dd	mocht
+=11	=11
+*M4/4	*
+4cc	ik
+4b-	die
+4a	lief-
+4a	-ste
+=12	=12
+2.g;}	zijn!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

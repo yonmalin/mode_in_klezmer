@@ -1,0 +1,79 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB146217_01
+!! NLB record number: 146217
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-e-]	*
+*B-:	*
+!! verse 0
+=1	=1
+{4b-	Daar
+4b-	waar
+4f	ve-
+4f	-le
+=2	=2
+4g	sche-
+(8f	-pe-
+8e-)	.
+(8d	-lin-
+8f)	.
+4b-	-gen
+=3	=3
+4.d	Zwal-
+8g	-ken
+4.f	op
+8dd	den
+=4	=4
+(8cc	wij-
+8b-)	.
+(8dd	-den
+8cc)	.
+2f;}	vloed,
+!! verse 1
+=5	=5
+*M6/8	*
+{4b-	En
+8b-	ge-
+(8b-	-va-
+8cc)	.
+8dd	-ren
+=6	=6
+4cc	hen
+8cc	om-
+(8cc	-rin-
+8b-)	.
+8cc	-gen,
+=7	=7
+4dd	Wacht
+8dd	de
+(8dd	loods
+8cc)	.
+8dd	met
+=8	=8
+4ee-	kalm
+8ee-	ge-
+(8ee-	-moed,
+8dd	.
+8cc);}	.
+!! verse 2
+=9	=9
+{4.dd	Wacht
+4.cc	de
+=10	=10
+(4.dd	loods
+8.ee-)	.
+8.cc	met
+=11	=11
+4.b-	kalm
+4.a	ge-
+=12	=12
+[4.b-	-moed.
+4b-]	.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,53 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140321_01
+!! NLB record number: 140321
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*e:	*
+!! verse 0
+{4e	Schoon
+=1	=1
+4e	bo-
+4f#	-ven
+4g	al-
+4a	-le
+=2	=2
+*M6/4	*
+4b	schoo-
+4g;}	-ne,
+!! verse 1
+{4b	Hoe
+4cc	mag 't
+2a	ge-
+=3	=3
+*M4/4	*
+2g	-schiên
+4r;}	.
+!! verse 2
+{4b	Dat
+=4	=4
+4a	gij
+4b	dus
+4g	hangt
+4a	ten
+=5	=5
+4f#	toor-
+4e;}	-ne
+!! verse 3
+{(8f#	Voor
+8g	.
+4a)	.
+=6	=6
+2g	al-
+2f#	-le
+=7	=7
+2e	liên?
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

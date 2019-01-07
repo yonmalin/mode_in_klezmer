@@ -1,0 +1,106 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB111589_01
+!! NLB record number: 111589
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{4c	Schenk
+8e	er
+8e	eens
+4g	in
+4cc	mijn
+=2	=2
+4a	school-
+8a	-ka-
+8a	-me-
+4a	-raad-
+4g;}	-je
+!! verse 1
+=3	=3
+{4f	Laat
+8f	er
+8f	eens
+4e	in
+4e	de
+=4	=4
+4d	rond-
+4d	-te
+2c;}	gaan
+!! verse 2
+=5	=5
+{4c	't Is
+4e	ge-
+4g	-tapt
+4cc	uit 't
+=6	=6
+4a	brui-
+4a	-lofts-
+4a	-vaat-
+8g;}	-je
+!! verse 3
+{8g	Wat
+=7	=7
+4f	on-
+4f	-der
+4e	is
+4e	moet
+=8	=8
+4d	bo-
+4d	-ven
+2c;}	staan
+!! verse 4
+=9	=9
+{4d	'k Hou
+4d	niet
+4d	van
+4d	die
+=10	=10
+8g	zie-
+8g	-de-
+8g	-wie-
+8g	-de-
+4g	-wied
+4r;}	.
+!! verse 5
+=11	=11
+{4d	Drink
+8d	er
+8d	eens
+4d	met
+4d	een
+=12	=12
+4g	slap-
+4g	-pe
+4g	lip
+8r;}	.
+!! verse 6
+{8g	We
+=13	=13
+4g	zijn
+4g	ge-
+4g	-ko-
+4g	-men
+=14	=14
+2.a;}	hier
+!! verse 7
+{8f	Om
+8f	te
+=15	=15
+4g	ma-
+8g	-ken
+8g	een
+4g	groot
+4g	ple-
+=16	=16
+2c	-zier.
+2r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,124 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB111269_01
+!! NLB record number: 111269
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4.g	Vrij-
+8f#	-e
+=1	=1
+4g	zo-
+4d	-nen
+4.g	de-
+8a	-zer
+=2	=2
+4b	stran-
+4g;}	-den,
+!! verse 1
+{4.dd	mild
+8dd	be-
+=3	=3
+4ee	-sproeid
+4dd	met
+4b	Wil-
+4g	-lems
+=4	=4
+2a;}	bloed,
+!! verse 2
+{4.a	kroost
+8g#	van 't
+=5	=5
+4a	volk
+4e	der
+4.a	Ze-
+8b	-ven
+=6	=6
+4cc	Lan-
+4a;}	-den,
+!! verse 3
+{4.a	groot
+8a	door
+=7	=7
+4dd	Mau-
+4cc	-rits'
+4.b	zwaard
+8a	en
+=8	=8
+2b;}	moed.
+!! verse 4
+{(8g	Hou-
+8f#)	.
+(8e	-den
+8g)	.
+=9	=9
+4b	wij
+4b	door
+4.cc#	al-
+8a#	-le
+=10	=10
+4b	tij-
+4f#;}	-den
+!! verse 5
+{(8g	't oud
+8f#)	.
+(8e	ver-
+8g)	.
+=11	=11
+4b	-bond
+4b	ge-
+4.cc#	-trouw
+8a#	in
+=12	=12
+2.b;}	eer:
+!! verse 6
+{8b	met
+8b	O-
+=13	=13
+4b	-ran-
+4g	-je in
+4.dd	vreugd
+8ee	en
+=14	=14
+4dd	lij-
+4b;}	-den!
+!! verse 7
+{4.d	blijv'
+8d	de
+=15	=15
+4g	leus,
+4b	wat
+4.dd	val-
+8a	-le of
+=16	=16
+2b	keer'.
+4r;}	.
+!! verse 8
+{8b	Met
+8b	O-
+=17	=17
+4b	-ran-
+4g	-je in
+4.dd	vreugd
+8ee	en
+=18	=18
+4dd	lij-
+4b;}	-den!
+!! verse 9
+{4.d	blijv'
+8d	de
+=19	=19
+4g	leus,
+4b	wat
+4dd	val-
+4d	-le of
+=20	=20
+2g;}	keer'.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

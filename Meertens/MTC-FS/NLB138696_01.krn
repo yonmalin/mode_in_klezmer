@@ -1,0 +1,79 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB138696_01
+!! NLB record number: 138696
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{2b	Ik
+=1	=1
+4cc	wil
+4a	van
+4cc	de-
+4dd	-sen
+=2	=2
+4ee	a-
+(2ee	-vond
+8dd	.
+8cc	.
+=3	=3
+2b);}	.
+!! verse 1
+{2dd	nog
+=4	=4
+4cc	eens
+(2a	uyt
+4g)	.
+=5	=5
+4a	vrij-
+4f	-en
+2e;}	gaan
+!! verse 2
+=6	=6
+*M1/4	*
+{4e	om
+=7	=7
+*M4/4	*
+4e	mijn
+8e	soe-
+8e	-te
+4a	Lief
+4a	te
+=8	=8
+4a	spre-
+4g;}	-ken
+!! verse 3
+{4a	of
+4b	mijn
+=9	=9
+2cc	jon-
+2b	-ger
+=10	=10
+4cc	hert
+4a	sal
+(4.cc	bre-
+8dd	.
+=11	=11
+4ee)	.
+2ee;}	-ken
+!! verse 4
+{8dd	moet
+8cc	ik
+=12	=12
+2b	voor
+2dd	haar
+=13	=13
+(4cc	ven-
+2a)	.
+4g	-ster
+=14	=14
+(2f	staan
+1e);}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,75 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070503_01
+!! NLB record number: 70503
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Al
+=1	=1
+4g	in
+8a	die
+4b	stad
+8ee	van
+=2	=2
+(4dd	We-
+8b)	.
+4g;}	-nen
+!! verse 1
+{8g	Al
+=3	=3
+4cc	in
+8ee	die
+4gg	gro-
+8gg	-te
+=4	=4
+[4.dd	stad
+4dd];}	.
+!! verse 2
+{8ff#	Waar
+=5	=5
+4ff#	me-
+8ff#	-nig-
+4ee	-een
+8dd	sol-
+=6	=6
+4.gh	-daat-
+4eeH;}	-je
+!! verse 3
+{8ee	Zijn
+=7	=7
+4dd	in-
+8dd	-kwar-
+4cc	-tie-
+8dd	-ring
+=8	=8
+[4.b	had
+4b];}	.
+!! verse 4
+{8dd	Waar
+=9	=9
+4ff#	me-
+8ff#	-nig-
+4ee	-een
+8dd	sol-
+=10	=10
+4.gh	-daat-
+4eeH;}	-je
+!! verse 5
+{8ee	Zijn
+=11	=11
+4dd	in-
+8dd	-kwar-
+4a	-tie-
+8b	-ring
+=12	=12
+[4.g	had
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

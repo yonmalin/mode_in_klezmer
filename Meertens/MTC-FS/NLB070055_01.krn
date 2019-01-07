@@ -1,0 +1,83 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070055_01
+!! NLB record number: 70055
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	De
+=1	=1
+4dd	lief-
+8dd	-de
+(8g	baart
+8b)	.
+8dd	veel
+=2	=2
+(4dd	won-
+8cc)	.
+4b;}	-der
+!! verse 1
+{8cc	De
+=3	=3
+8b	lief-
+8cc	-de
+8dd	is
+4ee	dwin-
+8dd	-ge-
+=4	=4
+[4.a	-loos
+4a];}	.
+!! verse 2
+{8b	Men
+=5	=5
+4dd	heeft
+8dd	het
+4ee	on-
+8dd	-der-
+=6	=6
+(4cc	-von-
+8dd)	.
+4ee;}	-den
+!! verse 3
+{8ee	Van
+=7	=7
+8dd	zul-
+8b	-lek
+8dd	een
+8dd	jon-
+8cc	-ge
+8a	ma-
+=8	=8
+[4.b	-troos
+4b];}	.
+!! verse 4
+{8b	Men
+=9	=9
+4dd	heeft
+8dd	het
+4ee	on-
+8dd	-der-
+=10	=10
+(4cc	-von-
+8dd)	.
+4ee;}	-den
+!! verse 5
+{8ee	Van
+=11	=11
+8dd	zul-
+8b	-lek
+8dd	een
+8dd	jon-
+8cc	-ge
+8a	ma-
+=12	=12
+[4.g	-troos
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

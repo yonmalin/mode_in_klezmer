@@ -1,0 +1,95 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB139370_01
+!! NLB record number: 139370
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4e	Zwar-
+8f#	-te
+4g	han-
+8e	-den,
+=2	=2
+4g	zwar-
+8a	-te
+4b	lok-
+8g;}	-ken,
+!! verse 1
+=3	=3
+{4b	Oo-
+8b	-gen,
+4cc	zwar-
+8b	-ter
+=4	=4
+4a	dan
+8a#	een
+4b	git.
+8r;}	.
+!! verse 2
+=5	=5
+{4a#	Heeft
+8a#	de
+4b	smid,
+8r	.
+=6	=6
+4ee	heeft
+8a#	de
+4b	smid;
+8r;}	.
+!! verse 3
+=7	=7
+{4b	Toch
+8b	zegt
+4cc	Klaar-
+8b	-tjen
+=8	=8
+4a	on-
+8b	-ver-
+4a	-schrok-
+8g;}	-ken
+!! verse 4
+=9	=9
+{4g	Lijkt
+8g	hij
+4a	ook
+8a	van
+=10	=10
+(8b	bui-
+8a)	.
+8b	-ten
+4cc	zwart,
+8r;}	.
+!! verse 5
+=11	=11
+{4b	'k Acht
+8b	hem
+4cc	blank
+8cc	en
+=12	=12
+(8dd	rein
+8cc)	.
+8dd	van
+4ee	hart,
+8r;}	.
+!! verse 6
+=13	=13
+{4ee	'k Acht
+8a	hem
+(8dd	blank
+8g)	.
+8a	en
+=14	=14
+(8b	rein
+8cc)	.
+8a	van
+4g	hart!
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,89 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074126_01
+!! NLB record number: 74126
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Een
+=1	=1
+8g	boer
+16b	en
+16b	een
+8dd	boer
+16ee	en
+16ee	een
+=2	=2
+12dd	e-
+12b	-de-
+12a	-le
+8g;}	boer
+!! verse 1
+{16b	en
+16b	een
+=3	=3
+8a	boer
+8dd	al
+8dd	van
+8cc	zijn
+=4	=4
+(8b	lan-
+8a)	.
+8g;}	-de
+!! verse 2
+{8b	die
+=5	=5
+8a	had
+16a	er
+16a	een
+8a	wa-
+16b	-gen
+16b	met
+=6	=6
+8g	hout
+8a	be-
+8b;}	-laan
+!! verse 3
+{8b	die
+=7	=7
+4a	ie
+8b	zou
+8a	ver-
+=8	=8
+8g	-ko-
+8a	-pen
+8b;}	gaan
+!! verse 4
+{16b	op
+16cc	de
+=9	=9
+8dd	markt
+8gg	daar
+16dd	kwam
+16cc	ie
+16b	te
+16g	be-
+=10	=10
+4a	-lan-
+8g;}	-den.
+!! verse 5
+{16b	op
+16cc	de
+=11	=11
+8dd	markt
+8gg	daar
+16dd	kwam
+16cc	ie
+16b	te
+16g	be-
+=12	=12
+4a	-lan-
+8g;}	-den.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

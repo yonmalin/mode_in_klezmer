@@ -1,0 +1,54 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB151211_01
+!! NLB record number: 151211
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Er
+=1	=1
+4.g	was
+8f#	een-
+4g	-maal
+4a	een
+=2	=2
+(4g	rid-
+4f#)	.
+4e	-der
+4d	In
+=3	=3
+4.g	o-
+8f#	-ver-
+4g	-ou-
+4a	-de
+=4	=4
+2d	tijd,
+4r;}	.
+!! verse 1
+{4d	Die
+=5	=5
+4.a	vroom
+8g#	was
+4a	in
+4b	de
+=6	=6
+(4cc	vre-
+4b)	.
+4a	-de
+4g	En
+=7	=7
+4.f#	dap-
+8d	-per
+4.b	in
+8a	de
+=8	=8
+2g	strijd.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

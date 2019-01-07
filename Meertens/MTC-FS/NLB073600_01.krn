@@ -1,0 +1,107 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073600_01
+!! NLB record number: 73600
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Ver-
+=1	=1
+8dd	-trouw
+8g	toch
+8g	lie-
+8g	-ve
+8a	meis-
+4a;}	-jes
+!! verse 1
+{8b	Nooit
+=2	=2
+8cc	op
+8b	je
+8cc	ei-
+8dd	-gen
+4.b;}	kracht
+!! verse 2
+{8dd	Want
+=3	=3
+8dd	som-
+8g	-tijds
+8g	kun
+8g	je
+8a	val-
+8a;}	-len
+!! verse 3
+{8b	'Eer
+8cc	een
+=4	=4
+8dd	an-
+8cc	-der
+8cc	er
+8b	om
+4.g;}	dacht
+!! verse 4
+{16a	En
+16a	be-
+=5	=5
+8a	-denk
+8dd	hoe
+8dd	zwak
+8dd	en
+8dd	te-
+8dd	-der
+8r;}	.
+!! verse 5
+{8dd	Toch
+=6	=6
+8dd	al-
+8cc#	-le
+8b	meis-
+8cc#	-jes
+4dd;}	zijn
+!! verse 6
+{8dd	En
+8dd	ver-
+=7	=7
+4b	-trouw
+4b	nooit
+4a	op
+4b	je
+=8	=8
+2dd	jong'-
+4cc;}	-ling
+!! verse 7
+{4a	Die
+=9	=9
+4.g	u
+8g	naar
+4.a	huis
+8a	toe
+=10	=10
+2.b;}	leidt
+!! verse 8
+{4dd	Ver-
+=11	=11
+4b	-trouw
+4b	nooit
+4cc	op
+4dd	je
+=12	=12
+2ee	jong'-
+4cc;}	-ling
+!! verse 9
+{4ee	Die
+=13	=13
+4.dd	u
+8g	naar
+4.b	huis
+8a	toe
+=14	=14
+2.g;}	leidt.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

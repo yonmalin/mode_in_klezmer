@@ -1,0 +1,284 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070695_01
+!! NLB record number: 70695
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4.dd	Roei
+4b	Jan
+8ee	in 't
+=2	=2
+4.dd	boot-
+4.b	-je,
+=3	=3
+8dd	Ap-
+8dd	-pel-
+8dd	-tjes
+4ee	in
+8ee	je
+=4	=4
+4.dd	schoot-
+4.b;}	-je
+!! verse 1
+=5	=5
+{4cc	Veer-
+8cc	-tjes
+4cc	in
+8a	je
+=6	=6
+4.cc	mand-
+4.cc	-je,
+=7	=7
+4ee	gro-
+8dd	-te
+8cc	koek
+8cc	in
+8b	je
+=8	=8
+4.a	haand-
+4.g;}	-je
+!! verse 2
+=9	=9
+{4dd	Gro-
+8dd	-te
+8ee	koek
+8ee	en
+8ee	een
+=10	=10
+8dd	lek-
+8dd	-ke-
+8dd	-re
+4.b	peer
+=11	=11
+4dd	Dan
+8dd	komt
+4ee	Jant-
+8ee	-jes
+=12	=12
+4dd	taat-
+8dd	-je
+4.b;}	weer
+!! verse 3
+=13	=13
+{4.dd	Roei
+4b	Jan
+8ee	met
+=14	=14
+4dd	bap-
+8dd	-pe
+4.b	toe
+=15	=15
+4dd	Bap-
+8dd	-pe
+4ee	het
+8ee	'n
+=16	=16
+4dd	voa-
+8dd	-re
+4.b;}	koe.
+!! verse 4
+=17	=17
+{4dd	Kee-
+8dd	-sie
+4ee	zel
+8ee	het
+=18	=18
+4dd	wa-
+8dd	-ter
+4b	dra-
+8g	-gen
+=19	=19
+8dd	Sijm-
+8dd	-pie
+8dd	de
+4ee	koe-
+8ee	-tjes
+=20	=20
+4dd	't land
+8dd	in-
+4b	-ja-
+8g;}	-gen
+!! verse 5
+=21	=21
+{4dd	Kee-
+8dd	-sie
+4ee	neemt
+8ee	een
+=22	=22
+4dd	dik-
+8dd	-ke
+4.b	stok,
+=23	=23
+4dd	Slaegt
+8dd	't
+4ee	koe-
+8ee	-tje
+=24	=24
+4dd	op
+8dd	z'n
+4.b;}	kop
+!! verse 6
+=25	=25
+{8dd	Koe-
+8dd	-tje
+8dd	be-
+4ee	-gon
+8ee	te
+=26	=26
+4.dd	lij-
+4.b	-te
+=27	=27
+8dd	Kee-
+8dd	-sie
+8dd	be-
+4ee	-gon
+8ee	te
+=28	=28
+4.dd	krij-
+4.b;}	-te
+!! verse 7
+=29	=29
+{4dd	Kee-
+8dd	-sie
+4ee	wou
+8ee	me
+=30	=30
+4dd	bap-
+8dd	-pe
+4.b	toe
+=31	=31
+4dd	Bap-
+8dd	-pe
+8ee	wou
+8ee	h'm
+8ee	nie
+=32	=32
+4.dd	heb-
+4.b;}	-be.
+!! verse 8
+=33	=33
+{4dd	Ke-
+8dd	-we
+4ee	mos-
+8ee	-te
+=34	=34
+4.dd	moa-
+4.b	-ke,
+=35	=35
+8dd	Gooi-
+8dd	-de
+8dd	ze
+4ee	m' in
+8ee	het
+=36	=36
+4.dd	loa-
+4.b;}	-ke
+!! verse 9
+=37	=37
+{4dd	Loa-
+8dd	-ke
+4ee	mos-
+8ee	-te
+=38	=38
+4.dd	was-
+4.b	-se,
+=39	=39
+8dd	Gooi-
+8dd	-de
+8dd	ze
+4ee	m' in
+8ee	de
+=40	=40
+4.dd	plas-
+4b;}	-se
+!! verse 10
+{8b	De
+=41	=41
+4dd	plas-
+8dd	-se
+4ee	wa-
+8ee	-ren
+=42	=42
+4dd	al
+8dd	te
+4.b	diep
+=43	=43
+8dd	Gooi-
+8dd	-de
+8dd	ze
+4ee	m' in
+8ee	het
+=44	=44
+4dd	lan-
+8dd	-ge
+4.b;}	riet
+!! verse 11
+=45	=45
+{4dd	't Lan-
+8dd	-ge
+4ee	riet
+8ee	was
+=46	=46
+4dd	al
+8dd	te
+4.b	lang
+=47	=47
+8dd	Gooi-
+8dd	-de
+8dd	ze
+4ee	m 'in
+8ee	de
+=48	=48
+8dd	vo-
+8dd	-ge-
+8dd	-le-
+4.b;}	-zang
+!! verse 12
+=49	=49
+{8dd	Vo-
+8dd	-ge-
+8dd	-le-
+4ee	-zang
+8ee	was
+=50	=50
+4dd	al
+8dd	te
+4.b	groot
+=51	=51
+8dd	Gooi-
+8dd	-de
+8dd	ze
+4ee	m' in
+8ee	de
+=52	=52
+8dd	juf-
+8dd	-frouw
+8dd	z'n
+4.b;}	schoot
+!! verse 13
+=53	=53
+{4cc	Juf-
+8cc	-frouw
+4cc	met
+8a	je
+=54	=54
+4.cc	tui-
+4.cc	-te,
+=55	=55
+4ee	'k Heb
+8dd	je
+4cc	ho-
+8b	-re
+=56	=56
+4.a	flui-
+4.g;}	-te.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

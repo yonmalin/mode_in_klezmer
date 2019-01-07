@@ -1,0 +1,109 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070516_01
+!! NLB record number: 70516
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8d	Tree
+8e	en
+4e	tree,
+=2	=2
+8d	tree
+8e	en
+8d	tree,
+8d	wie
+=3	=3
+8g	gaat
+8d	er
+8B	met
+8G	ons
+=4	=4
+*M3/4	*
+4d;}	mee
+!! verse 1
+{8d	Naar
+8d	me-
+8g	-juf-
+8d	-frouw
+=5	=5
+*M2/4	*
+4B	Fran-
+4G	-sen
+=6	=6
+8d	did'-
+8d	-lom
+8g	did'-
+8d	-lom
+=7	=7
+4B	dan-
+4G;}	-sen
+!! verse 2
+=8	=8
+{8d	Sprak
+8d	me-
+8d	-juf-
+8d	-frouw
+=9	=9
+8d	Si-
+8d	-na
+4d	aan
+=10	=10
+8d	Si-
+8d	-na
+8d	ging
+8e	toen
+=11	=11
+8d	voor
+8d	mij
+8B;}	staan
+!! verse 3
+{8G	Met
+=12	=12
+8d	strik-
+8d	-jes
+8d	op
+8e	d'r
+=13	=13
+4d	mou-
+8B	-wen
+8G	met
+=14	=14
+8d	gou-
+8d	-den
+8e	bel-
+8e	-len
+=15	=15
+4d	trou-
+4B;}	-wen
+!! verse 4
+=16	=16
+{4e	Twee
+8e	klein-
+8e	-tjes
+=17	=17
+8e	in
+8e	de
+4e	wieg
+=18	=18
+4d	twee
+12e	klein-
+12e	-tjes
+12d	op 't
+=19	=19
+8d	kerk-
+8c	-hof
+8d	wit
+8c	klaid
+=20	=20
+8d	zwart
+8c;}	klaid
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

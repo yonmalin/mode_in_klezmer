@@ -1,0 +1,88 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074374_01
+!! NLB record number: 74374
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8b	D'r
+=1	=1
+8dd	was
+8dd	er
+8dd	eens
+8dd	een
+4.g	dief,
+8f#	die
+=2	=2
+8a	steel-
+8g	-de
+8f#	ja
+8a	zo
+4dd;}	graag
+!! verse 1
+{8dd	En
+8dd	hij
+=3	=3
+4dd	vond
+8dd	er
+8dd	maar
+4b	niets
+4g	te
+=4	=4
+2b	ste-
+4a	-len
+8r;}	.
+!! verse 2
+{8dd	Al-
+=5	=5
+4dd	-leen
+4dd	de
+4g	jong-
+4g	-ste
+=6	=6
+8ee	doch-
+8ee	-ter
+8ee	van
+8ee	het
+4dd	huis
+8r;}	.
+!! verse 3
+{8dd	Die
+=7	=7
+8cc	zou
+8cc	er
+8cc	wel
+8cc	ge-
+8b	-sto-
+8b	-len
+8b	wil-
+8b	-len
+=8	=8
+(4a	we-
+4ee)	.
+4dd	-zen
+8r;}	.
+!! verse 4
+{8dd	Die
+=9	=9
+8ee	zou
+8ee	er
+8ff#	wel
+8ee	ge-
+8dd	-sto-
+8dd	-len
+8g	wil-
+8a	-len
+=10	=10
+(4b	we-
+4a)	.
+4g	-zen
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

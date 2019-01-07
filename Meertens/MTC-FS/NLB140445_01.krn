@@ -1,0 +1,75 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140445_01
+!! NLB record number: 140445
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*d:	*
+!! verse 0
+{4d	Daar
+4d	gin-
+4d	-gen
+=1	=1
+*M6/4	*
+2a	twee
+4a	ge-
+2cc	-speel-
+4a	-kens
+=2	=2
+*M4/4	*
+2f	goed
+4r;}	.
+!! verse 1
+{4a	Zoo
+=3	=3
+8a	ver-
+8a	-re
+4a	aan
+4b-	geen
+4a	groen
+=4	=4
+(2f	hei-
+2g)	.
+=5	=5
+2f	-de
+4r;}	.
+!! verse 2
+{4f	Die
+=6	=6
+4f	een
+4a	die
+8g	voer-
+8f	-de
+8g	ee-
+8a	-nen
+=7	=7
+(4g	hup-
+4f	.
+4e)	.
+4d	-schen
+=8	=8
+2c	moed,
+4r;}	.
+!! verse 3
+{4c	Die
+=9	=9
+4d	an-
+4e	-der
+4f	ween-
+4d	-de
+=10	=10
+(4.a	ze-
+8g	.
+4f	.
+8e	.
+8d	.
+=11	=11
+2e)	.
+2d;}	-re!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

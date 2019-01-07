@@ -1,0 +1,55 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073060_01
+!! NLB record number: 73060
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Za
+=1	=1
+4.g	wier
+8f#	derin
+4g	jon-
+4a	-ge
+=2	=2
+8g	boe-
+8f#	-re
+2e;}	faem,
+!! verse 1
+{4d	Se
+=3	=3
+4.g	trou-
+8f#	-de
+4g	mei in
+4a	âld
+=4	=4
+2.d;}	boer
+!! verse 2
+{4b	Ja,
+=5	=5
+4.a	jon-
+8g	-ger
+4a	hie
+4b	se
+=6	=6
+8cc	lea-
+8b	-ver
+2a;}	hawn,
+!! verse 3
+{8g	Mar
+8g	it
+=7	=7
+4f#	jild
+4d	siet
+4.b	op
+8a	'e
+=8	=8
+2.g;}	loer.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

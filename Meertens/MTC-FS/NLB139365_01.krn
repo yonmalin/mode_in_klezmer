@@ -1,0 +1,128 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB139365_01
+!! NLB record number: 139365
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+=1	=1
+{16f	Heb
+16g	je
+16a	van
+16b-	de
+8cc	Zil-
+16cc	-ve-
+16cc	-ren
+=2	=2
+8cc	vloot
+16cc	wel
+16dd	ge-
+8cc;}	-hoord,
+!! verse 1
+{8cc	De
+=3	=3
+8dd	Zil-
+16dd	-ve-
+16ee	-ren
+8ff	vloot
+8dd	van
+=4	=4
+8dd	Span-
+8cc	-je!
+8r;}	.
+!! verse 2
+{8cc	Die
+=5	=5
+8b-	had
+16a	er
+16b-	veel
+8g	Spaan-
+8b-	-sche
+=6	=6
+8dd	mat-
+16cc	-ten
+16b-	aan
+8a;}	boord
+!! verse 3
+{8a	En
+=7	=7
+8g	ap-
+16cc	-pel-
+16dd	-tjes
+8ee	van
+8dd	O-
+=8	=8
+8cc	-ran-
+8c	-je;
+8r;}	.
+!! verse 4
+{8cc	Piet-
+=9	=9
+4.cc	-Hein,
+8cc	Piet-
+=10	=10
+4.cc	-Hein,
+8cc	Peit-
+=11	=11
+8ff	-Hein,
+8cc	Zijn
+8a	naam
+8f	is
+=12	=12
+8c	klein,
+8r	.
+8r;}	.
+!! verse 5
+{8c	Zijn
+=13	=13
+16.f	da-
+32g	-den
+16.a	ben-
+32b-	-nen
+8cc	groot,
+8f	Zijn
+=14	=14
+16.b-	da-
+32a	-den
+16.b-	ben-
+32cc	-nen
+16.dd;}	groot;
+!! verse 6
+{32ee	Die
+16.ff	heeft
+32dd	ge-
+=15	=15
+8cc	-won-
+16a	-nen
+16a	de
+8b-	Zil-
+16g	-ve-
+16g	-ren
+=16	=16
+8f;}	Vloot,
+!! verse 7
+{8f	Die
+8a	heeft
+8cc	ge-
+=17	=17
+4ff	-won-
+8ff	-nen,
+8ff	ge-
+=18	=18
+4ff	-won-
+8dd	-nen
+8gg	de
+=19	=19
+4ff	Zil-
+4ee	-vren
+=20	=20
+4ff	Vloot.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

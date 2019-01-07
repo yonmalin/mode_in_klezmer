@@ -1,0 +1,89 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072561_01
+!! NLB record number: 72561
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-e-]	*
+*g:	*
+!! verse 0
+{8cc	Komt
+=1	=1
+8.dd	vrien-
+16cc	-den
+8dd	wij
+8b-	we-
+8a	-ten
+8g	al-
+=2	=2
+8a	-weer
+8b-	zo'n
+8cc	nieuw
+4dd;}	lied
+!! verse 1
+{8cc	Wat
+=3	=3
+4dd	hier
+8cc	op
+8dd	't ho-
+8ee	-ge-
+8ff	-land
+=4	=4
+4dd	is
+8ff	ge-
+4.cc;}	-schied
+=5	=5
+*M3/16	*
+!! verse 2
+{16g	't is
+16a	van
+16b-	een
+=6	=6
+*M6/8	*
+8dd	koop-
+8cc	-man
+8dd	zijn
+8dd	zoon-
+8ee-	-tje,
+8ff	laat
+=7	=7
+(4dd	ho-
+8ff)	.
+4cc;}	-ren,
+!! verse 3
+{16dd	Die
+16dd	be-
+=8	=8
+8b-	-vrijt
+8a	er
+8g	een
+8b-	scha-
+8a	-me-
+8g	-loos
+=9	=9
+(8a	dienst-
+8b-)	.
+8cc	-meid,
+4.dd;}	schoon,
+!! verse 4
+=10	=10
+{(4a	En
+8b-)	.
+(8cc	jonk-
+8dd)	.
+8ee	-vrouw
+=11	=11
+(8dd	uit-
+8cc)	.
+8b-	-ver-
+(4a	-ko-
+8b-)	.
+=12	=12
+4.g	-ren.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

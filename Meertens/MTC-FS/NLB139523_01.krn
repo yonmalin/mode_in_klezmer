@@ -1,0 +1,146 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB139523_01
+!! NLB record number: 139523
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{4cc	Wie
+=1	=1
+4.cc	rus-
+8cc	-ten
+8dd	wil
+8cc	in
+8b-	't groe-
+8a	-ne
+=2	=2
+2g	woud,
+4r;}	.
+!! verse 1
+{4g	Wie
+=3	=3
+4a	rus-
+4cc	-ten
+(4f	wil
+8b-)	.
+8a	met
+=4	=4
+2g	lus-
+4f;}	-ten,
+!! verse 2
+{4cc	Hij
+=5	=5
+4.cc	kie-
+8cc	-ze een
+8dd	plek-
+8cc	-je
+8b-	digt
+8a	in 't
+=6	=6
+2g	hout,
+4r;}	.
+!! verse 3
+{4g	En
+=7	=7
+4a	vlij-
+4b	-ê
+4cc	zich
+4dd	tot
+=8	=8
+(4.ee	rus-
+8dd)	.
+4cc;}	-ten:
+!! verse 4
+{4cc	Een
+=9	=9
+4g	pe-
+4cc	-luw-
+4a	-tje
+4cc	van
+=10	=10
+4.b-	mol-
+8cc	-lig
+4a;}	mos,
+!! verse 5
+{4cc	Een
+=11	=11
+4g	kus-
+4cc	-sen-
+4a	-tje
+4cc	van
+=12	=12
+2b-	va-
+4a;}	-ren
+!! verse 6
+{4f	En
+=13	=13
+4.cc	een
+8a	gor-
+4b-	-dijn
+4cc	van
+=14	=14
+2ee-	blâ-
+8dd;}	-ren
+!! verse 7
+{8dd	Geeft
+8ee	zoe-
+8ff	-ten
+=15	=15
+4cc	mid-
+4a	-dag-
+4g	-slaap
+4cc	in 't
+=16	=16
+2a	bosch.
+4r;}	.
+!! verse 8
+{4cc	Een
+=17	=17
+4g	pe-
+4cc	-luw-
+4a	-tje
+4cc	van
+=18	=18
+4.b-	mol-
+8cc	-lig
+4a;}	mos,
+!! verse 9
+{4cc	Een
+=19	=19
+4g	kus-
+4cc	-sen-
+4a	-tje
+4cc	van
+=20	=20
+2b-	va-
+4a;}	-ren
+!! verse 10
+{4f	En
+=21	=21
+4.cc	een
+8a	gor-
+4b-	-dijn
+4cc	van
+=22	=22
+2ee-	bla-
+8dd;}	-ren
+!! verse 11
+{8dd	Geeft
+8ee	zoe-
+8ff	-ten
+=23	=23
+4cc	mid-
+4a	-dag-
+4b-	-slaap
+4e	in 't
+=24	=24
+2f	bosch.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

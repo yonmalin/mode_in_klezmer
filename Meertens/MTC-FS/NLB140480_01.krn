@@ -1,0 +1,87 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140480_01
+!! NLB record number: 140480
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	Schoon
+=1	=1
+8.f	lie-
+16f	-ve-
+8f	-ken,
+8f	waar
+=2	=2
+8.a	waar-
+16f	-de
+8f	gij
+8f	den
+=3	=3
+8g	eer-
+8g	-sten
+8d	mei-
+8d	-en-
+=4	=4
+4c;}	-nacht,
+!! verse 1
+{8cc	Dat
+8cc	gij
+=5	=5
+4g	mij
+8cc	gee-
+8cc	-nen
+=6	=6
+4cc	mei
+4b	en
+=7	=7
+*M4/4	*
+2cc	bracht?
+4r	.
+8r;}	.
+!! verse 2
+{8cc	Den
+=8	=8
+*M2/4	*
+8.cc	eer-
+16dd	-sten
+8cc	mei-
+8b-	-en-
+=9	=9
+4a	-nacht,
+8r;}	.
+!! verse 3
+{8cc	Schoon
+=10	=10
+8.dd	lief,
+16cc	dan
+8b-	was
+8a	ik
+=11	=11
+4g	ziek!
+8r;}	.
+!! verse 4
+{8cc	Schoon
+=12	=12
+8cc	lie-
+8dd	-ve-
+8b-	-ken,
+8g	ik
+=13	=13
+8f	kost
+8g	er
+8a	van
+8b-	mijn
+=14	=14
+4a	bed-
+8g	-de-
+8g	-ken
+=15	=15
+4.f;}	niet!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

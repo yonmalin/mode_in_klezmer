@@ -1,0 +1,97 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB123790_01
+!! NLB record number: 123790
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8gg	Klein,
+=1	=1
+(8.dd	klein,
+16ee)	.
+(8dd	kleu-
+8gg)	.
+=2	=2
+(8.b	-ter-
+16cc)	.
+8b;}	-ken,
+!! verse 1
+{8dd	wat
+=3	=3
+8cc	doede
+8b	gy in
+8cc	mij-
+8dd	-nen
+=4	=4
+4b	hof?
+8r;}	.
+!! verse 2
+{8gg	Gy
+=5	=5
+8.dd	plukt
+16ee	er
+8dd	al
+8gg	de
+=6	=6
+8.b	bloem-
+16cc	-kens
+8b;}	af,
+!! verse 3
+{8dd	gy
+=7	=7
+8cc	maekt
+8b	het
+8cc	al
+8dd	te
+=8	=8
+4b	grof.
+8r;}	.
+!! verse 4
+{8g	Ma-
+=9	=9
+8b	-ma-
+8g	-ken
+8b	die
+8g	zal
+=10	=10
+4cc	kij-
+8b;}	-ven,
+!! verse 5
+{8b	pa-
+=11	=11
+8a	-pa-
+8g	-ken
+8a	die
+8b	zal
+=12	=12
+4g	slaen,
+8r;}	.
+!! verse 6
+{8gg	klein,
+=13	=13
+(8.dd	klein,
+16ee)	.
+(8dd	kleu-
+8gg)	.
+=14	=14
+(8.b	-ter-
+16cc)	.
+8b;}	-ken,
+!! verse 7
+{8b	maek
+=15	=15
+8a	u
+8g	maer
+8a	gauw
+8b	van
+=16	=16
+4g	daen!
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,48 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140812_01
+!! NLB record number: 140812
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{(8c	Ont-
+8e)	.
+=1	=1
+2g	-waak,
+(8e	ont-
+8g)	.
+=2	=2
+2cc;}	-waak!
+!! verse 1
+{4cc	De
+=3	=3
+4.b	roep
+8a	van
+4b	de
+=4	=4
+2cc;}	haan
+!! verse 2
+{4cc	Een
+=5	=5
+4.ee	stra-
+8dd	-len-
+4cc	-de
+=6	=6
+(4g	zon
+4e);}	.
+!! verse 3
+{4c	in
+=7	=7
+(4d	gou-
+4g)	.
+4f	-den
+=8	=8
+2e;}	baan.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

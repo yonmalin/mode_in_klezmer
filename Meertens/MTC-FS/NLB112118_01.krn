@@ -1,0 +1,91 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB112118_01
+!! NLB record number: 112118
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M9/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Wie
+4g	hoor
+8b	ik
+=1	=1
+*M6/8	*
+4.dd	hier
+4ee	in
+8dd	het
+=2	=2
+8cc	mid-
+8b	-den
+8a	al
+4ee	van
+8dd	de
+=3	=3
+*M9/8	*
+[4.b	nacht
+4b];}	.
+!! verse 1
+{8a	Het
+4g	is
+8b	mijn
+=4	=4
+*M6/8	*
+4.dd	min-
+4ee	-naar
+8dd	ik
+=5	=5
+(8cc	had
+8b)	.
+8a	hem
+4ee	niet
+8dd	ver-
+=6	=6
+2.b;}	-wacht
+!! verse 2
+=7	=7
+*M9/8	*
+{4.ee	Ach
+(8ee	min-
+8dd#)	.
+8ee	-naar
+8gg	laat
+8ff#	me
+8gg	met
+=8	=8
+*M6/8	*
+2.dd;}	rust
+!! verse 3
+=9	=9
+*M9/8	*
+{4.ee	Ik
+8ee	lig
+8dd	in
+8cc	mijn
+(8ee	slaap
+8dd)	.
+8cc	ge-
+=10	=10
+*M6/8	*
+4b	-rust
+8b	Om
+(8b	u
+8a)	.
+8g	te
+=11	=11
+*M9/8	*
+4.a	pa-
+4ee	-ren
+8dd	heb
+(8cc	ik
+8b)	.
+8a	geen
+=12	=12
+[4.g	lust
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

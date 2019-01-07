@@ -1,0 +1,77 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074115_01
+!! NLB record number: 74115
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8g	Toen
+8g	ik
+=1	=1
+4b	op
+4b	een
+8b	ho-
+8cc	-gen
+=2	=2
+4dd	berg
+4dd;}	stond
+!! verse 1
+{8cc	zag
+8b	ik
+=3	=3
+4a	in
+4a	een
+8g	die-
+8a	-pen
+=4	=4
+2b;}	dal
+!! verse 2
+{8dd	en
+8dd	daar
+=5	=5
+4ee	zag
+4ee	ik
+8cc	drie
+8cc	ge-
+=6	=6
+4dd	-zel-
+4dd;}	-len
+!! verse 3
+{8cc	bij
+8b	een
+=7	=7
+4a	heel
+4a	mooi
+8ee	meis-
+8dd	-je
+=8	=8
+2b;}	staan
+!! verse 4
+{8dd	en
+8dd	daar
+=9	=9
+4ee	zag
+4ee	ik
+8cc	drie
+8cc	ge-
+=10	=10
+4dd	-zel-
+4dd;}	-len
+!! verse 5
+{8cc	bij
+8b	een
+=11	=11
+4a	heel
+4dd	mooi
+8ee	meis-
+8dd	-je
+=12	=12
+2b;}	staan.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

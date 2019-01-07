@@ -1,0 +1,78 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB122779_01
+!! NLB record number: 122779
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[b-]	*
+*d:	*
+!! verse 0
+=1	=1
+{4d	Het
+4d	ghin-
+4d	-ghen
+=2	=2
+2a	drie
+4a	ghe-
+=3	=3
+4cc	-speel-
+2a	-kens
+=4	=4
+2f	goet,
+4r;}	.
+!! verse 1
+=5	=5
+*M4/4	*
+{4r	.
+4a	spa-
+4a	-ce-
+4a	-ren
+=6	=6
+(4.b-	in
+8a	.
+4f)	.
+4g	dat
+=7	=7
+2f	wout;
+2r	.
+=8	=8
+4r;}	.
+!! verse 2
+{4f	sy
+4f	wa-
+4a	-ren
+=9	=9
+(16g	al-
+16f	.
+16g	.
+16a)	.
+(8g	-le-
+8f)	.
+4.e	-drie
+8d	ber-
+=10	=10
+2c	-voet,
+4r;}	.
+!! verse 3
+{4c	den
+=11	=11
+4d	ha-
+4e	-ghel
+4f	en-
+4d	-de
+=12	=12
+(4.a	snee
+8g	.
+8f	.
+16e	.
+16d)	.
+4e	was
+=13	=13
+2d	cout.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

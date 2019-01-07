@@ -1,0 +1,97 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113257_01
+!! NLB record number: 113257
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{4g	Vrien-
+=1	=1
+4a	-den
+4b	ik
+2cc	weet
+=2	=2
+4cc	een
+4g	vrouw-
+4a	-tje
+4b	fijn.
+=3	=3
+4g;}	xxx
+!! verse 1
+{4cc	xxx
+4dd	xxx
+4ee	xxx
+=4	=4
+4ff	xxx
+4ee	xxx
+8dd	xxx
+8.dd	xxx
+16ee	xxx
+8dd	xxx
+=5	=5
+4cc#	xxx
+2dd;}	xxx
+!! verse 2
+{4dd	xxx
+=6	=6
+4ee	xxx
+4ff	xxx
+4.gg	xxx
+8ff	xxx
+=7	=7
+4ee	xxx
+4dd	xxx
+4cc	xxx
+4b	xxx
+=8	=8
+2a	xxx
+4g;}	xxx
+!! verse 3
+{4g	xxx
+=9	=9
+4a	xxx
+4b	xxx
+4.cc	xxx
+8dd	xxx
+=10	=10
+*M8/4	*
+4ee	xxx
+2gg	xxx
+4.dd	xxx
+8cc	xxx
+2cc;}	xxx
+!! verse 4
+{4dd	xxx
+=11	=11
+4ee	xxx
+4ff	xxx
+4.gg	xxx
+8ff	xxx
+4ee	xxx
+4dd	xxx
+4cc	xxx
+4b	xxx
+=12	=12
+2a	xxx
+4g;}	xxx
+!! verse 5
+{4g	xxx
+4a	xxx
+4b	xxx
+4.cc	xxx
+8dd	xxx
+=13	=13
+*M8/4	*
+4ee	xxx
+2gg	xxx
+4.dd	xxx
+8cc	xxx
+2cc;}	xxx
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,108 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073365_01
+!! NLB record number: 73365
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4dd	'k Was
+4dd	een
+4ee	meis-
+4dd	-je
+=2	=2
+4dd	jong
+4cc	van
+4cc	ja-
+4cc;}	-ren
+!! verse 1
+=3	=3
+{4cc	Dat
+4cc	veel
+4ee	kant
+4cc	had
+=4	=4
+*M5/4	*
+4b	om
+4a	te
+4b	pa-
+4g;}	-ren
+!! verse 2
+{8g	'k Heb
+8b	al
+=5	=5
+*M4/4	*
+4dd	een-
+4dd	-en-
+4dd	-twin-
+4dd	-tig
+=6	=6
+4ee	vrij-
+8ff#	-ers
+8ff#	ge-
+2gg;}	-had
+!! verse 3
+=7	=7
+{4dd	'k Was
+4dd	de
+4dd	bloem
+4dd	van
+=8	=8
+4cc#	heel
+4ee	de
+4dd;}	stad.
+!! verse 4
+{8a	En
+8a	de
+=9	=9
+4dd	eer-
+4dd	-ste
+4ee	was
+4dd	een
+=10	=10
+4dd	brou-
+2.cc;}	-wer
+!! verse 5
+=11	=11
+{4cc	Twee-
+4cc	-de
+4dd	was
+4cc	een
+=12	=12
+4b	be-
+4a	-nen
+4b	hou-
+4g;}	-wer
+!! verse 6
+=13	=13
+{4g	Nog
+4b	twee
+4dd	kui-
+4dd	-pers,
+=14	=14
+4ee	gro-
+4ff#	-te
+4gg	zui-
+8ff#;}	-pers
+!! verse 7
+{8ee	Ze
+=15	=15
+8dd	son-
+8dd	-den
+8dd	mij
+8dd	niet
+4.dd	aan,
+8dd	ik
+=16	=16
+4cc#	liet
+8cc#	ze
+8ee	weer
+2dd;}	gaan.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

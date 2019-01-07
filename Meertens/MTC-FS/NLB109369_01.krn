@@ -1,0 +1,86 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB109369_01
+!! NLB record number: 109369
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+=1	=1
+{4f	Wie
+8.f	gaat
+16f	er
+2f	mee
+=2	=2
+4a	wie
+8.a	gaat
+16a	er
+2a;}	mee
+!! verse 1
+=3	=3
+{4cc	Naar
+4cc	de
+(8dd	ber-
+8cc)	.
+8b-	-reg
+8a	van
+=4	=4
+4g	Sint
+8.c	Al-
+16c	-te-
+4.c;}	-ree
+!! verse 2
+{8c	Daar
+=5	=5
+4f	doen
+8f	ze
+8f	niet
+4f	an-
+8f	-ders
+8b-	als
+=6	=6
+(4a	la-
+4g)	.
+4f	-chen
+8r;}	.
+!! verse 3
+{8c	Komt
+=7	=7
+4f	laat
+4f	ons
+4f	la-
+8f	-chen
+8g	vic-
+=8	=8
+4a	-to-
+4a	-ri-
+4f	-a
+8r;}	.
+!! verse 4
+{8g	Komt
+=9	=9
+4a	laat
+4a	ons
+4a	la-
+8a	-chen
+8b-	in
+=10	=10
+4cc	glo-
+4cc	-ri-
+4a	-a
+4r;}	.
+!! verse 5
+=11	=11
+{8ff	La-
+8ff	-chen
+8ee	la-
+8ee	-chen
+8dd	la-
+8dd;}	-chen
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

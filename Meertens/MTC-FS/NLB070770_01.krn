@@ -1,0 +1,69 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070770_01
+!! NLB record number: 70770
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8.dd	E-
+16dd	-li-
+8.b	-as
+16ee	zat
+8.dd	in
+16dd	de
+8.b;}	kast,
+!! verse 1
+{16g	zijn
+=2	=2
+8.dd	moe-
+16dd	-der
+8.ee	dacht
+16ee	dat
+4dd	't brood
+4b;}	was
+!! verse 2
+=3	=3
+{8.dd	Wit-
+16dd	-te
+8.b	brood
+16ee	op
+8.dd	moe-
+16dd	-ders
+4b;}	schoot.
+!! verse 3
+=4	=4
+{12dd	Ku-
+12dd	-ke-
+12dd	-le
+8.ee	ku
+16ee	mijn
+8.dd	haan
+16dd	is
+8.b;}	dood
+!! verse 4
+{16g	Een
+=5	=5
+8.dd	haan
+16dd	met
+8.ee	ze-
+16ee	-ven
+4dd	jon-
+8.b;}	-ge,
+!! verse 5
+{16g	is
+=6	=6
+8.dd	dat
+16dd	niet
+8.ee	mooi
+16ee	ge-
+4dd	-zon-
+4b;}	-ge.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

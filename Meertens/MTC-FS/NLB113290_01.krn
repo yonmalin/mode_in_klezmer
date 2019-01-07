@@ -1,0 +1,120 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113290_01
+!! NLB record number: 113290
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*d:dor	*
+!! verse 0
+=1	=1
+{2dd	Blauw
+4dd	ga-
+8ee	-ren
+8ff	en
+=2	=2
+4gg	ko-
+4cc	-per-
+4cc;}	-draad
+!! verse 1
+{4cc	xxx
+=3	=3
+4dd	xxx
+4ff	xxx
+8ee	xxx
+8ff	xxx
+8ee	xxx
+8dd	xxx
+=4	=4
+4cc#	xxx
+8b	xxx
+8cc#	xxx
+2a;}	xxx
+!! verse 2
+=5	=5
+{2dd	xxx
+4dd	xxx
+8ee	xxx
+8ff	xxx
+=6	=6
+4gg	xxx
+4cc	xxx
+4cc;}	xxx
+!! verse 3
+{4cc	xxx
+=7	=7
+4dd	xxx
+4ff	xxx
+8ee	xxx
+8ff	xxx
+8ee	xxx
+8dd	xxx
+=8	=8
+4a	xxx
+8aa	xxx
+8gg	xxx
+2ff;}	xxx
+!! verse 4
+=9	=9
+{4ff	xxx
+4ff	xxx
+8aa	xxx
+8gg	xxx
+8ff	xxx
+8ee	xxx
+=10	=10
+8ff	xxx
+8gg	xxx
+4ff;}	xxx
+!! verse 5
+{4aa	xxx
+8ff	xxx
+8gg	xxx
+=11	=11
+4aa	xxx
+8ff	xxx
+8gg	xxx
+4aa	xxx
+8gg	xxx
+8ff	xxx
+=12	=12
+8ee	xxx
+8dd	xxx
+4cc;}	xxx
+!! verse 6
+{4gg	xxx
+8ee	xxx
+8ff	xxx
+=13	=13
+4gg	xxx
+8ee	xxx
+8ff	xxx
+8gg	xxx
+8aa	xxx
+8ff	xxx
+8gg	xxx
+=14	=14
+8ff	xxx
+8ee	xxx
+8dd	xxx
+8ee;}	xxx
+!! verse 7
+{8ff	xxx
+8gg	xxx
+4aa	xxx
+=15	=15
+8gg	xxx
+8ff	xxx
+4ee	xxx
+4dd	xxx
+4cc#	xxx
+=16	=16
+4ee	xxx
+2dd	xxx
+4dd;}	xxx
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

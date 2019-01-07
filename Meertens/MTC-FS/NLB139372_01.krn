@@ -1,0 +1,153 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB139372_01
+!! NLB record number: 139372
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{8g	Van
+=1	=1
+(8.g	Man-
+16cc)	.
+8.ee	-nen
+16dd	in
+4cc	Oor-
+8.b	-log,
+16a	van
+=2	=2
+4g	Man-
+8.f	-nen
+16e	in
+4.a;}	Vreê,
+!! verse 1
+{8a	Oud
+=3	=3
+4d	Hol-
+8.e	-land!
+16f	daar
+4g	mogt
+8.cc	je
+16a	van
+=4	=4
+2g	spre-
+4c	-ken,
+8r;}	.
+!! verse 2
+{8g	En
+=5	=5
+(8.g	riep
+16cc)	.
+8.ee	je
+16dd	te
+4cc	Land,
+4b	of
+=6	=6
+(8.a	riep
+16b)	.
+8.a	je
+16g	ter
+4.f#;}	Zee,
+!! verse 3
+{8a	Ze
+=7	=7
+4a	ble-
+8b	-ven
+8cc	niet
+4dd	in
+4g	ge-
+=8	=8
+(4cc	-bre-
+8b	.
+8a)	.
+4b;}	-ken,
+!! verse 4
+{4g	Ze
+=9	=9
+4a	ble-
+8b	-ven
+8b	niet
+4.dd	in
+8cc	ge-
+=10	=10
+(4.b	-bre-
+8a)	.
+4g	-ken!
+8r;}	.
+!! verse 5
+{8g	De-
+=11	=11
+4.g	-zelf-
+8b	-de
+4.dd	hand
+8cc	greep
+=12	=12
+(8b	fiksch
+8a)	.
+(8b	ge-
+8cc)	.
+4dd	-noeg
+8r;}	.
+!! verse 6
+{8g	Het
+=13	=13
+4.b	zwaard,
+8dd	den
+4.ff	roer-
+8ee	-stok
+=14	=14
+(8dd	en
+8cc)	.
+(8b	den
+8cc)	.
+4dd;}	ploeg,
+!! verse 7
+{4g	Tot
+=15	=15
+4cc	heil
+4cc	van
+4dd	't lie-
+4dd	-ve
+=16	=16
+4.gg	Va-
+8ff	-der-
+4ee	-land,
+4cc	van
+=17	=17
+4a	't lie-
+4ff	-ve
+4.ee	Va-
+8dd	-der-
+=18	=18
+2cc	-land;
+4r;}	.
+!! verse 8
+{4g	Tot
+=19	=19
+4cc	heil
+4cc	van
+4dd	't lie---
+4dd	-ve
+=20	=20
+4.gg	Va-
+8ff	-der-
+4ee	-land,
+4dd	van
+=21	=21
+(8a	't lie-
+8b)	.
+(8cc	-ve
+8dd)	.
+4.ee	Va-
+8dd	-der-
+=22	=22
+2cc	-land.
+4r	.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

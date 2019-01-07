@@ -1,0 +1,65 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB139137_01
+!! NLB record number: 139137
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{4g	Ons
+=1	=1
+4g	stuur-
+4g	-man
+4a	heeft
+8.e	er
+16e	een
+=2	=2
+4g	vrouw-
+8.f	-tje
+16f	ge-
+4f;}	-trouwd
+!! verse 1
+{8.a	En
+16a	je
+=3	=3
+4g	moest
+8.g	er
+16f	eens
+4e	we-
+8.c	-ten
+16d	hoe
+=4	=4
+4e	of
+8.g	het
+16g	hem
+(4d	rouwt.
+4g);}	.
+!! verse 2
+=5	=5
+{8.c	Fal-
+16c	-de-
+8.c	-ral-
+16d	-de-
+2e	-ri,
+=6	=6
+8.d	fal-
+16d	-de-
+8.d	-ral-
+16e	-de-
+4f;}	-ra,
+!! verse 3
+{4a	Hoe-
+=7	=7
+4.g	-ra,
+8e	hoe-
+4.f	-ra,
+8f	hoe-
+=8	=8
+2.e;}	-ra!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

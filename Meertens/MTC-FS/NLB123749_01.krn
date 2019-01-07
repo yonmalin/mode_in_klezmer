@@ -1,0 +1,108 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB123749_01
+!! NLB record number: 123749
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*d:	*
+!! verse 0
+{4ee	Ic
+=1	=1
+4ff	weet
+8ff	een
+8ee	mo-
+4dd	-le-
+4gg	-na-
+=2	=2
+4.ff	-rin-
+8ee	-ne-
+4dd;}	-ken
+!! verse 1
+{(8cc	Van
+8b-)	.
+=3	=3
+4a	her-
+4b-	-ten
+4.a	al-
+8g	-so
+=4	=4
+2.a;}	fijn.
+!! verse 2
+{4ee	In
+=5	=5
+4ff	al-
+4ee	-le
+4.ff	de-
+8dd	-se
+=6	=6
+(4.cc	lan-
+8b-)	.
+4a;}	-den
+!! verse 3
+{4dd	En
+=7	=7
+4.cc	mach
+8b-	geen
+4a	schoo-
+(8g	-ner
+8f#)	.
+=8	=8
+4g;}	zijn.
+!! verse 4
+{4f	Rijck
+4.a	God
+8b-	mocht
+=9	=9
+4cc	sy
+(8dd	my
+8b-)	.
+(4cc	ma-
+8b-	.
+8a)	.
+=10	=10
+4a;}	-len,
+!! verse 5
+{4dd	Goed
+4cc#	co-
+4dd	-ren
+=11	=11
+(8ee	soud
+8ff)	.
+8gg	ick
+8ee	haer
+(4.ff	ha-
+8ee)	.
+=12	=12
+4dd;}	-len,
+!! verse 6
+{4gg	goed
+4.ff	co-
+8ee	-ren
+=13	=13
+4dd	soud
+8.ee	ick
+16dd	haer
+(4.cc	ha-
+8b-)	.
+=14	=14
+4a;}	-len,
+!! verse 7
+{4g	Wou
+4.a	sy
+8b-	mijn
+=15	=15
+4.cc	mol-
+(16cc	-na-
+16dd)	.
+4.dd	-rinne-
+8cc#	-ken
+=16	=16
+2dd	zijn.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

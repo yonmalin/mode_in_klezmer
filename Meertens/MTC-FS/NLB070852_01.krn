@@ -1,0 +1,53 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070852_01
+!! NLB record number: 70852
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4b	Ku-
+4a	-ke-
+8g	-dief-
+8g	-fien
+4cc	spring
+=2	=2
+(4b	ho-
+4a)	.
+4g;}	-ger
+!! verse 1
+{4cc	Spring
+=3	=3
+(4b	la-
+4a)	.
+4g	-ger,
+4cc	je
+=4	=4
+4b	moer
+4a	is
+4g	dood,
+4cc	je
+=5	=5
+4b	voar
+4a	is
+4g;}	dood
+!! verse 2
+{4g	je
+=6	=6
+8a	kin-
+8a	-de-
+4a	-ren
+4dd	e-
+4dd	-ten
+=7	=7
+2b	droog
+4g	broad.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

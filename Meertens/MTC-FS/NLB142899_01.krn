@@ -1,0 +1,71 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB142899_01
+!! NLB record number: 142899
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{4e	Er
+8e	kwa-
+8e	-men
+=2	=2
+4.e;}	eens
+!! verse 1
+{8e	drij
+=3	=3
+8e	boer-
+8e	-kens
+8a	uit
+8g	het
+=4	=4
+4g	Oos-
+4f;}	-ten
+!! verse 2
+=5	=5
+{4d	Er
+8d	kwa-
+8d	-men
+=6	=6
+4.d;}	eens
+!! verse 3
+{8d	drij
+=7	=7
+8d	boer-
+8d	-kens
+8g	uit
+8f	het
+=8	=8
+4f	Oos-
+8e;}	-ten
+!! verse 4
+{8d	Vsn
+=9	=9
+4c	rom-
+4c	-tom
+=10	=10
+16c	ri-
+16G	-de-
+16G	-ri-
+16G	-de-
+8G;}	-rom
+!! verse 5
+{8G	drij
+=11	=11
+8c	boer-
+8d	-kens
+8e	uit
+8f	het
+=12	=12
+2g	Oos-
+=13	=13
+4c	-ten
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

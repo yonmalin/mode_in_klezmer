@@ -1,0 +1,89 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075732_01
+!! NLB record number: 75732
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	En
+=1	=1
+4dd	in
+8b	die
+4g	kamp
+8dd	van
+=2	=2
+4dd	Mi-
+8b	-le-
+8g;}	-gen
+!! verse 1
+{8dd	En
+8dd	daar
+=3	=3
+4ee	in
+8ff#	die
+(8gg	gro-
+8ff#)	.
+8gg	-te
+=4	=4
+[4.dd	stad
+4dd];}	.
+!! verse 2
+{16gg	Waar
+16gg	zo
+=5	=5
+4ff#	me-
+8ff#	-nig
+4ee	braaf
+8dd	sol-
+=6	=6
+*M9/8	*
+(4g	-daat-
+8b)	.
+4.ee;}	-je
+!! verse 3
+{4ff#	Een
+8ee	ple-
+=7	=7
+*M6/8	*
+4dd	-zie-
+8ee	-rig
+8dd	a-
+8dd	-vond-
+8cc	-je
+=8	=8
+[4.b	had
+4b];}	.
+!! verse 4
+{16gg	Waar
+16gg	zo
+=9	=9
+4ff#	me-
+8ff#	-nig
+4ee	braaf
+8dd	sol-
+=10	=10
+*M9/8	*
+(4g	-daat-
+8b)	.
+4.ee;}	-je
+!! verse 5
+{4ff#	Een
+8ee	ple-
+=11	=11
+*M6/8	*
+4dd	-zie-
+8ee	-rig
+8dd	a-
+8dd	-vond-
+8cc	-je
+=12	=12
+[4.b	had
+4b];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

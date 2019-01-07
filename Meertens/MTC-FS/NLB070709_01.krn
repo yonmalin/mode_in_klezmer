@@ -1,0 +1,69 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070709_01
+!! NLB record number: 70709
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4dd	Hoe
+=1	=1
+2ee	is
+4dd	het
+=2	=2
+2.dd	le-
+=3h	=3h
+[2.aH	-ven
+=4	=4
+2a];}	.
+!! verse 1
+{4a	een
+=5	=5
+2b	stap
+4a	naar
+=6	=6
+(2.a	't graf
+=7h	=7h
+2gH);}	.
+!! verse 2
+{4dd	Wat
+=8	=8
+2ee	he-
+4dd	-den
+=9	=9
+(2.dd	bloeit
+=10h	=10h
+[2.aH)	.
+=11	=11
+2a];}	.
+!! verse 3
+{4b	valt
+=12	=12
+2b	mor-
+4a	-gen
+=13	=13
+(2.a	af
+=14h	=14h
+2gH)	.
+4r;}	.
+!! verse 4
+=15	=15
+{8.g	Mos-
+16g	-se-
+2g	-len,
+=16	=16
+8.g	mos-
+16g	-se-
+2g	-len
+=17	=17
+4gh	ga-
+[2ccH	-riet
+=18	=18
+2.cc];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

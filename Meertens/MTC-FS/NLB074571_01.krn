@@ -1,0 +1,117 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074571_01
+!! NLB record number: 74571
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4g	Wat
+8a	hoort
+8b	men
+8dd	nu
+8dd	in
+=1	=1
+4b	de-
+4a	-zen
+2g;}	tijd
+!! verse 1
+=2	=2
+*M3/4	*
+{4b	Als
+8cc	vloe-
+8dd	-kers
+8ee	wil-
+8ee	-len
+=3	=3
+*M4/4	*
+4dd	hun
+4cc	boos-
+2b;}	-heid
+!! verse 2
+=4	=4
+*M5/4	*
+{4dd	God
+8dd	las-
+8ee	-tren
+8dd	bo-
+8cc	-ven
+8b	maar
+8b	het
+8b	schijnt
+8b	als
+=5	=5
+*M4/4	*
+4b	dat
+4a	het
+2g;}	kwaad
+!! verse 3
+=6	=6
+*M6/4	*
+{8g	He-
+8b	-den
+4dd	is
+(8cc	ten
+8a)	.
+4b	oos-
+2a;}	-ten
+!! verse 4
+=7	=7
+*M4/4	*
+{4dd	Waar
+8b	door
+8dd	de
+8ee	straf-
+8dd	-fen
+8cc	van
+8b	den
+=8	=8
+4a	Op-
+4b	-per-
+2cc;}	-al
+!! verse 5
+=9	=9
+{(8dd	Wor-
+8ee)	.
+8ee	-den
+8ee	ge-
+8dd	-zon-
+8cc	-den
+8b	op
+8g	het
+=10	=10
+4b	aard-
+4ee	-se
+4.dd;}	dal
+!! verse 6
+{8b	Gods
+=11	=11
+8g	las-
+8g	-te-
+8a	-raars
+8cc	blijft
+4.b;}	staan
+!! verse 7
+{8b	En
+=12	=12
+8cc	hoort
+8dd	dit
+8ee	lied
+8ee	eens
+8dd;}	aan
+!! verse 8
+{8dd	Het-
+12ee	-geen
+12ee	ik
+12cc	hier
+=13	=13
+4b	zin-
+4dd	-gen
+2b;}	zal
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

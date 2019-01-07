@@ -1,0 +1,70 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070813_01
+!! NLB record number: 70813
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	En
+8dd	de
+=1	=1
+4dd	rui-
+8dd	-ter
+8ee	al
+4dd	met
+8cc	te
+8b	z'n
+=2	=2
+4a	blan-
+4g	-ke
+4f#;}	zwaard
+!! verse 1
+{8a	En
+8a	die
+=3	=3
+4g	had
+8e	er
+8f#	de
+4g	schand
+4f#	van 't
+=4	=4
+2e	ja-
+4d;}	-gen
+!! verse 2
+{8d	Fi-
+8d	-de-
+=5	=5
+8e	-rom-
+8e	-mi-
+8e	-dom-
+8f#	-mi-
+4g	-dom
+8f#	fi-
+8e	-de-
+=6	=6
+4e	-ra-
+4d	-la-
+4d;}	-la
+!! verse 3
+{8dd	En
+8dd	die
+=7	=7
+4dd	had-
+8dd	-de
+8ee	de
+4dd	schand
+8dd	van
+8cc	het
+=8	=8
+(8b	ja-
+8g	.
+4a)	.
+4g;}	-gen
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

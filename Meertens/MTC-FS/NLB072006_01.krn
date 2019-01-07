@@ -1,0 +1,62 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072006_01
+!! NLB record number: 72006
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8g	Ik
+8a	stond
+=1	=1
+4b	laatst
+[8.b	op
+16b]	.
+8a	Neer-
+8b	-lands
+=2	=2
+4cc	ber-
+4cc;}	-gen
+!! verse 1
+{8b	en
+8cc	toen
+=3	=3
+4dd	keek
+8.dd	ik
+16dd	't
+8cc	zee-
+8b	-gat
+=4	=4
+4a	in
+4r;}	.
+!! verse 2
+{8a	en
+8a	toen
+=5	=5
+4ee	zag
+4ee	ik
+8dd	drie
+8cc	ge-
+=6	=6
+(8b	-zel-
+8dd)	.
+4dd;}	-len
+!! verse 3
+{8cc	bij
+8b	een
+=7	=7
+(8a	heel
+8dd)	.
+4dd	mooi
+8ee	meis-
+8dd	-je
+=8	=8
+4g	staan.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

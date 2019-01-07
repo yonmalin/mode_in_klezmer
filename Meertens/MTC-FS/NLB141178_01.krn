@@ -1,0 +1,126 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB141178_01
+!! NLB record number: 141178
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8f	Al-
+8g	-tijd
+=1	=1
+4.a	vroo-
+8a	-lijk,
+4a	zing
+4a	een
+=2	=2
+2b-	lied,
+4g	geen
+4g	ver-
+=3	=3
+2a	-driet!
+4r;}	.
+!! verse 1
+{4a	Een
+=4	=4
+2g	visch
+2g	is
+=5	=5
+4f	stom,
+4r	.
+4r;}	.
+!! verse 2
+{4ff	Een
+=6	=6
+2g	visch
+2g	is
+=7	=7
+4f	stom
+4r	.
+4f	stom,
+4r	.
+=8	=8
+4f	stom.
+4r	.
+4r;}	.
+!! verse 3
+{8ff	Al-
+8ee	-tijd
+=9	=9
+4.dd	vroo-
+8dd	-lijk
+4ee	zing
+4ee	een
+=10	=10
+(4ff	lied
+4cc)	.
+4a	geen
+4f	ver-
+=11	=11
+4.e;}	-driet!
+!! verse 4
+{8e	Een
+4e	visch
+4e	is
+=12	=12
+4f	stom,
+4r	.
+4a	stom
+4r	.
+=13	=13
+4b-	stom
+(8g	een
+8a)	.
+(8b-	visch
+8cc)	.
+(8dd	is
+8ee)	.
+=14	=14
+4ff	stom
+4r	.
+4a;}	stom.
+!! verse 5
+{8a	Al-
+8b-	-tijd
+=15	=15
+4.cc	vroo-
+8cc	-lijk
+4cc	zing
+4cc	een
+=16	=16
+2b-	lied,
+4b-	geen
+(8b-	ver-
+8g)	.
+=17	=17
+2f	-driet!
+4r;}	.
+!! verse 6
+{4f	Een
+=18	=18
+(4cc	visch
+4g)	.
+(4e	is
+4c)	.
+=19	=19
+4f	stom,
+4cc	stom
+2r	.
+=20	=20
+4r	.
+(8e	een
+8f)	.
+(8g	visch
+8a)	.
+4b-	is
+=21	=21
+4a	stom!
+4r	.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

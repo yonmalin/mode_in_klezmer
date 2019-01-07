@@ -1,0 +1,58 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB133664_01
+!! NLB record number: 133664
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[]	*
+*d:dor	*
+!! verse 0
+=1	=1
+{4dd	Heer
+4b	Ha-
+4cc	-le-
+=2	=2
+2dd	-wyn
+4dd	zonk
+=3	=3
+4ee	een
+4dd	lie-
+4cc	-de-
+=4	=4
+2.b;}	-kyn;
+!! verse 1
+=5	=5
+{4dd	al
+4cc	wie
+4b	dat
+=6	=6
+(4a	hoor-
+4g)	.
+4a	-de
+=7	=7
+4b	wou
+4cc	by
+4dd	hem
+=8	=8
+2.ee;}	zyn.
+!! verse 2
+=9	=9
+{4ee	al
+4ff	wie
+4ee	dar
+=10	=10
+2dd	hoor-
+4ee	-de
+=11	=11
+4dd	wou
+4b	by
+4cc	hem
+=12	=12
+2dd	zyn
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

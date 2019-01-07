@@ -1,0 +1,65 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073615_01
+!! NLB record number: 73615
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8a	Er
+=1	=1
+4b	was
+8.b	eens
+16a	een
+8.g	rui-
+16g	-ter
+8.g	en
+16cc	een
+=2	=2
+4b	jon-
+4a	-ge
+4g	meid
+8r;}	.
+!! verse 1
+{8a	die
+=3	=3
+4a	vree-
+4d	-en
+4a	al-
+4f#	-le
+=4	=4
+2e	da-
+4d	-gen
+8r;}	.
+!! verse 2
+{8d	zij
+=5	=5
+4e	vrij-
+4e	-den
+4a	ja
+8a	de
+8g	ge-
+=6	=6
+4f#	-he-
+4e	-le
+4d;}	nacht
+!! verse 3
+{8.d	van
+16d	de
+=7	=7
+4g	a-
+8a	-vond
+8a	tot
+4b	aan
+4dd	de
+=8	=8
+(4b	mor-
+4a)	.
+4g;}	-gen
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

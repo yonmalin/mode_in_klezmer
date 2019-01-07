@@ -1,0 +1,86 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070651_01
+!! NLB record number: 70651
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4g	Om-
+4b	-pan-
+=1	=1
+4dd	-kwee,
+8dd	poe-
+8dd	-der-
+4dd	-nee,
+8dd	poe-
+8dd	-der-
+=2	=2
+4dd	-nas-
+4b;}	-ki
+!! verse 1
+{4g	Om-
+4b	-pan-
+=3	=3
+2a	-kwee,
+4g	om-
+4b	-pan-
+=4	=4
+2a;}	-kwee
+!! verse 2
+{4g	Om-
+4b	-pan-
+=5	=5
+4dd	-kwee,
+8dd	poe-
+8dd	-der-
+4dd	-nee,
+8dd	poe-
+8dd	-der-
+=6	=6
+4dd	-nas-
+4b;}	-ki
+!! verse 3
+{4g	Om-
+4b	-pan-
+=7	=7
+(4a	-kwee
+4gg)	.
+4ff#	om-
+4ee	-pan-
+=8	=8
+2dd	-kwee
+4r;}	.
+!! verse 4
+{8dd	Ni-
+8dd	-co-
+=9	=9
+4dd	-deem
+2r	.
+8dd	sa-
+8dd	-ra-
+=10	=10
+8dd	-wa-
+8d	-ri
+2r;}	.
+!! verse 5
+{8dd	Ni-
+8dd	-co-
+=11	=11
+4ff#	-de-
+4ee	-mi
+8dd	sa-
+8cc	-ra-
+8e	-wa-
+8a	-ra
+=12	=12
+4g	boem-
+4g	-boem-
+4g;}	-boem
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,93 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB123087_01
+!! NLB record number: 123087
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*d:	*
+!! verse 0
+{4d	Het
+=1	=1
+4f	is
+4f	goet
+4g	pays,
+4g	goet
+=2	=2
+2a	vre-
+4a;}	-de
+!! verse 1
+{4cc	in
+=3	=3
+4b-	al-
+4a	-le
+4a	duit-
+4g	-sche
+=4	=4
+2a	lan-
+4f;}	-den
+!! verse 2
+{8g	son-
+8g	-der
+=5	=5
+4a	Thijs-
+4g	-ken
+4f	van
+4e	den
+=6	=6
+2d	Schil-
+4d;}	-de
+!! verse 3
+{4a	hy
+=7	=7
+4a	leit
+4g	te
+4f	Del-
+8e	-der
+8e	ghe-
+=8	=8
+2d	-van-
+4c;}	-gen,
+!! verse 4
+{4d	hy
+=9	=9
+4e	leit
+4e	ghe-
+2a	-van-
+=10	=10
+2a	-ghen
+2g	so
+=11	=11
+4f	swaer-
+2e	-lick
+[4d	op
+=12	=12
+4d]	.
+4c	sijn
+(4.d	lijf
+8e	.
+=13	=13
+4f);}	.
+!! verse 5
+{4d	hy
+4e	leit
+4e	ghe-
+=14	=14
+2a	-van-
+2a	-gen
+=15	=15
+2g	so
+4f	swaer-
+[4e	-lick
+=16	=16
+4e]	.
+2d	op
+4c	sijn
+=17	=17
+2.d;}	lijf.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

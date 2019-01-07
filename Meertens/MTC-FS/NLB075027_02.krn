@@ -1,0 +1,103 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075027_02
+!! NLB record number: 75027
+!! NLB strophe/voice number: 2
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8f#x	De
+=1	=1
+4a	va-
+8a	-der
+8b	die
+4a	was
+4a	toen
+=2	=2
+4b	kort
+4ddx	en
+2a;}	streng,
+!! verse 1
+=3	=3
+{8.a	Dat
+16a	ie
+8.a	met
+16b	een
+4a	ar-
+4a	-me
+=4	=4
+4b	dienst-
+4dd	-meid
+2a;}	ging.
+!! verse 2
+=5	=5
+{4dd	Wilt
+4dd	gij's
+4dd	ho-
+4cc	-ren
+=6	=6
+2b	zoon-
+2a;}	-tje,
+!! verse 3
+=7	=7
+{4dd	Laat
+8.dd	toch
+16cc	die
+4b	ar-
+8.b	-me,
+16a	die
+=8	=8
+8.g	ar-
+16b	-me
+8.a	dienst-
+16g	-meid
+4d;}	staan
+!! verse 4
+{8.g	Want
+16f#	je
+=9	=9
+8.e	kunt
+16f#	er
+8.g	wel
+16e	een
+4d	rij-
+4cc	-ker
+=10	=10
+(4b	krij-
+4a)	.
+2g;}	-gen.
+!! verse 5
+=11	=11
+{4dd	Laat
+8.dd	toch
+16cc	die
+4b	ar-
+8.b	-me,
+16a	die
+=12	=12
+8.g	ar-
+16b	-me
+8.a	dienst-
+16g	-meid
+4d;}	staan
+!! verse 6
+{8.g	Want
+16f#	je
+=13	=13
+8.e	kunt
+16f#	er
+8.g	wel
+16e	een
+4d	rij-
+4cc	-ker
+=14	=14
+(4b	krij-
+4a)	.
+2g;}	-gen.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

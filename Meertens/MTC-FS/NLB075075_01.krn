@@ -1,0 +1,70 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075075_01
+!! NLB record number: 75075
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Er
+=1	=1
+4g	was
+8g	on-
+4g	-langs
+8b	een
+=2	=2
+4dd	Turk-
+8dd	-se
+4dd;}	boer
+!! verse 1
+{8cc	Die
+=3	=3
+4b	met
+8a	zijn
+4ff#x	schip
+8dd	naar
+=4	=4
+4cc	Zee-
+8dd	-land
+4.b;}	voer.
+!! verse 2
+=5	=5
+*M9/8	*
+{4dd	Door
+8dd	de
+8ee	Lem-
+8ee	-mer
+8ee	zo
+4ee	ging
+8ee	hij
+=6	=6
+*M6/8	*
+4.dd	va-
+4.dd;}	-ren.
+!! verse 3
+=7	=7
+{4cc	Nam
+8cc	zijn
+4ee	koers
+8cc	naar
+=8	=8
+4b	Mid-
+8b	-del-
+4b;}	-burg
+!! verse 4
+{8b	Al
+=9	=9
+4a	door
+8a	de
+4dd	woes-
+8dd	-te
+=10	=10
+4.a	ba-
+4g;}	-ren.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

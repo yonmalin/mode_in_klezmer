@@ -1,0 +1,102 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073945_01
+!! NLB record number: 73945
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{(4g	Zo-
+4a)	.
+(8b	-lang
+8cc)	.
+(8dd	de
+8ee)	.
+4dd	boom
+4b	zal
+=2	=2
+*M4/4	*
+(4a	bloei-
+4f#)	.
+2d;}	-en
+!! verse 1
+=3	=3
+*M6/4	*
+{(4g	de
+4a)	.
+(8b	le-
+8cc)	.
+(8dd	-lie
+8ee)	.
+4dd	heer-
+4b	-lijk
+=4	=4
+*M4/4	*
+2.a;}	staan
+!! verse 2
+{(8a	Zal
+8b)	.
+=5	=5
+4cc	ik
+4dd	het
+4ee	nooit
+4ee	ver-
+=6	=6
+*M6/4	*
+8.dd	-foei-
+16cc	-en
+8b	en
+8dd	o
+4g;}	ja
+!! verse 3
+{(8a	om
+8b)	.
+4cc	met
+(8dd	een
+8cc)	.
+=7	=7
+2b	an-
+(2.a	-der
+8b)	.
+8a	te
+=8	=8
+(4g	gaan
+4b	.
+2.dd);}	.
+!! verse 4
+{4dd	zal
+=9	=9
+*M4/4	*
+4ee	ik
+(8ee	het
+8ff#)	.
+4gg	nooit
+(8ff#	ver-
+8ee)	.
+=10	=10
+8.dd	-foei-
+16dd	-en
+8dd	en
+8dd	o
+4g;}	ja
+!! verse 5
+{(8a	om
+8b)	.
+=11	=11
+4cc	met
+(8dd	een
+8cc)	.
+2b	an-
+=12	=12
+4a	-der
+(8b	te
+8a)	.
+2g;}	gaan
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

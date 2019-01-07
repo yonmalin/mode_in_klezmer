@@ -1,0 +1,64 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB123182_01
+!! NLB record number: 123182
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[]	*
+*a:	*
+!! verse 0
+=1	=1
+{4a	Ro-
+8ee	-sa,
+8ee	wil-
+8ee	-len
+8dd	wy
+=2	=2
+4.ee	dan-
+4cc;}	-sen?
+!! verse 1
+{8cc	danst
+=3	=3
+4.dd	Ro-
+4b	-sa!
+8b	danst
+=4	=4
+4.dd	Ro-
+4.b;}	-sa!
+!! verse 2
+=5	=5
+{4a	Ro-
+8cc	-sa
+8cc	bloe-
+8b	-men
+8a	op
+=6	=6
+4g#	ha-
+8e	-ren
+4.e;}	hoed,
+!! verse 3
+=7	=7
+{8a	zy
+8b	had-
+8cc	-de
+4b	geld,
+8a	maer
+=8	=8
+4g#	wei-
+8e	-nig
+4e;}	goed;
+!! verse 4
+{8ee	danst
+=9	=9
+4.ee	Ro-
+4.b	-sa
+=10	=10
+[4.a	zoet!
+4a]	.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

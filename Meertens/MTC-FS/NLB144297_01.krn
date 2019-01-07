@@ -1,0 +1,91 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB144297_01
+!! NLB record number: 144297
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{4c	Daar
+=1	=1
+2f	zou
+4f	eens
+4g	een
+=2	=2
+2f	ja-
+4cc	-ger
+4dd	uit
+=3	=3
+(4cc	ja-
+4b-)	.
+4a	-ge-
+4g	-ren
+=4	=4
+2f;}	gaan
+!! verse 1
+{4cc	En
+4dd	uit
+=5	=5
+2cc	ja-
+4b-	-ge-
+4a	-ren
+=6	=6
+2g	zou
+2f	hij
+=7	=7
+1e;}	gaan
+!! verse 2
+=8	=8
+*M2/4	*
+{4c	En
+4e	wat
+=9	=9
+*M4/4	*
+2g	vond
+4cc	hij
+4cc	daar
+=10	=10
+2b-	op-
+4a	-per
+4g	zijn
+=11	=11
+1f	we-
+=12	=12
+2e;}	-gen?
+!! verse 3
+{4c	En
+4e	een
+=13	=13
+2g	aar-
+4a	-dig
+4b-	lief
+=14	=14
+2dd	meis-
+4.cc	-je
+8dd	ter
+=15	=15
+(2.cc	de-
+4b-)	.
+=16	=16
+2a;}	-ge
+!! verse 4
+{4f	En
+4dd	zij
+=17	=17
+2cc	was
+4a	er
+4f	zo
+=18	=18
+2g	aan-
+(8e	-ge-
+8d	.
+4e)	.
+=19	=19
+2.f;}	-daan
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

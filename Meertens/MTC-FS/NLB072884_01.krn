@@ -1,0 +1,72 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072884_01
+!! NLB record number: 72884
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4b	Ach
+8b	va-
+8a	-der-
+4.g;}	-lief
+!! verse 1
+{8dd	Tam-
+=2	=2
+12dd	-boer
+12dd	is
+12dd	naar
+8ee	mijn
+8dd	be-
+4dd	-ge-
+8cc;}	-ren
+!! verse 2
+{8b	Het
+=3	=3
+12a	rof-
+12a	-fe-
+12a	-len
+8a	met
+8a	de
+4.a;}	stok
+!! verse 3
+{8b	Wou
+=4	=4
+8cc	ik
+8cc	zo
+8cc	gaar-
+8dd	-ne
+4ee	le-
+8dd;}	-ren
+!! verse 4
+{8cc	van
+=5	=5
+4b	rom-
+6b	-bom
+12a	ik
+12g	maal
+12g	er
+12g	niet
+8d;}	om
+!! verse 5
+{8d	Wou
+=6	=6
+8g	ik
+8a	zo
+8b	gaar-
+8cc	-ne
+8dd	le-
+8dd	-ren
+8dd	van
+8dd	rom-
+=7	=7
+2g	-bom
+2r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

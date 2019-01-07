@@ -1,0 +1,53 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074338_01
+!! NLB record number: 74338
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/4	*
+*MM120	*
+*k[b-e-]	*
+*g:	*
+!! verse 0
+{4dd	Heer
+=1	=1
+4dd	Al-
+4cc	-bert,
+4dd	trek
+2ff	uit
+4dd	uw
+=2	=2
+4dd	bo-
+4cc	-ven-
+4b-	-ste
+2b-;}	kleed,
+!! verse 1
+{8dd	Want
+8cc	het
+=3	=3
+2b-	maag-
+4b-	-den-
+2dd	-bloed
+4b-	dat
+=4	=4
+2a	spreidt
+4b-	zo
+2g;}	breed,
+!! verse 2
+{8a	Dat
+8a	het
+=5	=5
+*M9/4	*
+2b-	U
+4cc	be-
+2.dd	-sproei-
+2g	-de,
+4a	dat
+=6	=6
+2.b-	deed
+2.a	mij
+2g;}	leed.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

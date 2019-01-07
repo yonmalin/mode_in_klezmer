@@ -1,0 +1,87 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113297_01
+!! NLB record number: 113297
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{8g	'k Ben
+8g	in
+8g	den
+=1	=1
+4cc	tijd
+4cc	van
+8cc	ne-
+8dd	-gen
+=2	=2
+4ee	da-
+8ee;}	-gen,
+!! verse 1
+{8cc	De
+8cc	gan-
+8dd	-sche
+=3	=3
+4ee	we-
+4ee	-reld
+8ff	rond-
+8ee	-ge-
+=4	=4
+4ee	-dra-
+8dd;}	-gen,
+!! verse 2
+{8b	Al
+8b	op
+8cc	een
+=5	=5
+4dd	e-
+4ee	-zel
+8ff	zon-
+8ee	-der
+=6	=6
+4dd	staart,
+8r;}	.
+!! verse 3
+{8dd	Wat
+8dd	zag
+8ee	ik
+=7	=7
+4ff	won-
+4ff	-der-
+8gg	-lij-
+8ff	-ke
+=8	=8
+4ee	din-
+8ee;}	-gen,
+!! verse 4
+{8cc	Die
+8cc	ik
+8dd	be-
+=9	=9
+4ee	-lust
+4ee	ben
+8ff	om
+8ee	te
+=10	=10
+4ee	zin-
+8dd;}	-gen,
+!! verse 5
+{8g	't Is
+8cc	dunkt
+8dd	mij
+=11	=11
+4ee	wel
+8ff	een
+8ee	stui-
+(8ee	-ver
+8dd)	.
+=12	=12
+2cc	waard.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

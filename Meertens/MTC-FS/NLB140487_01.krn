@@ -1,0 +1,121 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140487_01
+!! NLB record number: 140487
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{4cc	Dat
+=1	=1
+8cc	ruy-
+8cc	-ter-
+4cc	-ken
+4b	in
+4b	der
+=2	=2
+4cc	schu-
+4cc	-ren
+2g	lag,
+=3	=3
+2r	.
+2r;}	.
+!! verse 1
+=4	=4
+{2cc	Van
+4b	li-
+4a	-rum
+=5	=5
+2cc	lap-
+2g	-pum,
+=6	=6
+1r	.
+=7	=7
+4r;}	.
+!! verse 2
+{4g	Die
+4.cc	schuer
+8b	was
+=8	=8
+4a	cout,
+4g	den
+8a	ruy-
+8a	-ter
+4g	was
+=9	=9
+2e	nat.
+2r	.
+=10	=10
+1r;}	.
+!! verse 3
+=11	=11
+{4e	li-
+4f	-rum
+4g	lap-
+4c	-pum,
+=12	=12
+1r;}	.
+!! verse 4
+=13	=13
+{4e	li-
+4f	-rum
+4g	lap-
+4c	-pum,
+=14	=14
+1r;}	.
+!! verse 5
+=15	=15
+{4e	li-
+4f	-rum
+4g	lap-
+4g	-pum,
+=16	=16
+4g	lap-
+4g	-pum
+4g	li-
+4g;}	-rum,
+!! verse 6
+=17	=17
+{4c	li-
+4d	-rum
+4.e	lap-
+8d	-pum,
+=18	=18
+4c	li-
+4B	-rum
+2c	loos
+=19	=19
+1r	.
+=20	=20
+2r	.
+4r;}	.
+!! verse 7
+{([4c	li-
+=21	=21
+8c]	.
+8d)	.
+(8e	-rum
+8f)	.
+(8g	lap-
+8a	.
+8b	.
+8cc)	.
+=22	=22
+4dd;}	-pum,
+!! verse 8
+{(2ee	vri
+8dd	.
+8cc	.
+=23	=23
+4b)	.
+(2cc	al-
+4b)	.
+=24	=24
+1cc;}	-toos!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

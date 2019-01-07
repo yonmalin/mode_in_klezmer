@@ -1,0 +1,81 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074939_01
+!! NLB record number: 74939
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dx	Vier
+=1	=1
+4bx	Fran-
+8cc	-sen
+4dd	schoot
+8ee	hij
+=2	=2
+4.dd;}	dood
+!! verse 1
+{4.ee	Maar
+=3	=3
+8a	nu
+8cc	kwam
+8ee	de
+4dd	groot-
+8cc	-ste
+=4	=4
+[4.b	nood.
+4b];}	.
+!! verse 2
+{8b	O,
+=5	=5
+4a	God
+8g	wij
+8a	moe-
+8a	-ten
+8b	gaan
+=6	=6
+4.dd	schei-
+4dd;}	-den
+!! verse 3
+{8dd	Het
+=7	=7
+4ee	is
+8ff#	met
+(8gg	u
+8ff#)	.
+8ee	ge-
+=8	=8
+[4.dd	-daan
+4dd];}	.
+!! verse 4
+{8ee	Wij
+=9	=9
+8.dd	moe-
+16dd	-ten
+16cc	van
+16b	me-
+(8a	-kaar
+8b)	.
+8cc	gaan
+=10	=10
+(4b	schei-
+8a)	.
+4g;}	-den
+!! verse 5
+{8b	De
+=11	=11
+4dd	dood
+8b	xxx
+8a	xxx
+8b	xxx
+8a	xxx
+=12	=12
+4.g	xxx
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

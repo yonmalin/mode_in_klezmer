@@ -1,0 +1,65 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140568_01
+!! NLB record number: 140568
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+=1	=1
+{4f	Wat
+8.b-	doet
+16cc	gij
+4dd	al
+4cc	in 't
+=2	=2
+*M2/4	*
+8.dd	groe-
+16cc	-ne
+4b-;}	veld,
+!! verse 1
+=3	=3
+*M4/4	*
+{4f	mooi
+8.b-	Ber-
+16cc	-nar-
+4dd	-dijn,
+4cc	mooi
+=4	=4
+*M2/4	*
+8.dd	Ex-
+16cc	-a-
+4b-;}	-fijn?
+!! verse 2
+=5	=5
+*M4/4	*
+{4b-	Ik
+8.cc	zoek
+16dd	hier
+4b-	geld,
+8.a	fier
+16f	mooi
+=6	=6
+*M2/4	*
+4g	meis-
+4f;}	-je,
+!! verse 3
+=7	=7
+*M4/4	*
+{4b-	Ik
+8.cc	zoek
+16dd	hier
+4b-	geld,
+8.a	fier
+16f	mooi
+=8	=8
+*M2/4	*
+4g	meis-
+4b-;}	-je!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

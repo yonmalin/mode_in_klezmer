@@ -1,0 +1,79 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113235_01
+!! NLB record number: 113235
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*d:dor	*
+!! verse 0
+{4d	Komt
+=1	=1
+4.f	vrien-
+8f	-den
+4.a	luis-
+8g	-tert
+=2	=2
+4.f	naar
+8e	dit
+4d;}	lied
+!! verse 1
+{4e	Dat
+=3	=3
+4f	ik
+4d	u
+4f	hier
+4g	zal
+=4	=4
+*M2/4	*
+4a	zin-
+8g;}	-gen
+!! verse 2
+{8f	Het
+=5	=5
+*M4/4	*
+4e	is
+4a	toch
+4.g	zoo
+8f	ge-
+=6	=6
+2e	-schied
+4r;}	.
+!! verse 3
+{4e	Een
+=7	=7
+4g	maagd
+4g	uit
+4a	Am-
+4a	-ster-
+=8	=8
+2g	-dam
+4r;}	.
+!! verse 4
+{4g	Die
+=9	=9
+4.a	daar
+8b	de
+4a	reis
+4g	aan-
+=10	=10
+*M2/4	*
+4a;}	-nam
+!! verse 5
+{8g	En
+8f	in
+=11	=11
+*M4/4	*
+4e	Haar-
+4a	-lem
+4.f	die-
+8e	-nen
+=12	=12
+2d	kwam.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

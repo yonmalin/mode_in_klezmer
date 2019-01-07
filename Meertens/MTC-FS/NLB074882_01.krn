@@ -1,0 +1,82 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074882_01
+!! NLB record number: 74882
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8g	Er
+=1	=1
+8.g	was
+16g	een
+8g	boe-
+8a	-ren-
+8b	-doch-
+4b;}	-ter
+!! verse 1
+{16dd	En
+16dd	er
+=2	=2
+8dd	ook
+8dd	een
+8cc	boe-
+8b	-ren-
+4.a;}	-zoon
+!! verse 2
+{8a	De
+=3	=3
+8.a	meid
+16a	die
+8a	heet-
+8a	-te
+8dd	An-
+4dd;}	-na
+!! verse 3
+{16ee	En
+16ee	de
+=4	=4
+8dd	knecht
+8cc	die
+8b	heet-
+8a	-te
+4g;}	Toon.
+!! verse 4
+{4dd	En
+=5	=5
+12b	hed-
+12b	-de
+12b	ze
+8b	niet
+8b	ge-
+4.b;}	-zien
+!! verse 5
+{8dd	Van
+=6	=6
+8dd	sjoem-
+8dd	-la
+8ee	sjoem-
+8dd	-la
+8.dd	fal-
+16cc	-da-
+8cc;}	-ra
+!! verse 6
+{8b	En
+=7	=7
+12a	hed-
+12a	-de
+12a	ze
+8a	niet
+8a	ge-
+4a	-zien
+4dd	Van
+=8	=8
+2g	sjoem.
+4.r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

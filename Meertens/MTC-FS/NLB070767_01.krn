@@ -1,0 +1,107 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070767_01
+!! NLB record number: 70767
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Vro-
+8dd	-lijk
+=1	=1
+4b	rent
+4dd	door
+4b	bos
+4dd	en
+=2	=2
+(8b	beem-
+8cc)	.
+[4dd	-den
+4dd];}	.
+!! verse 1
+{8cc	Ij-
+8dd	-z'ren
+=3	=3
+8ee	paard
+8dd	maar
+8cc	lus-
+8b	-tig
+4a;}	voort,
+!! verse 2
+{8b	IJ-
+8cc	-z'ren
+=4	=4
+8dd	paard
+8cc	maar
+8b	lus-
+8a	-tig
+4b;}	voort
+!! verse 3
+{8b	Krach-
+8b	-tig
+=5	=5
+4a	snuift
+4dd	het,
+4cc#	dat
+4b	het
+=6	=6
+4a	bries-
+2f#;}	-te
+!! verse 4
+{8a	Door
+8a	geen
+=7	=7
+4ff#	zweep-
+4dd	-slag
+4b	aan-
+4cc#	-ge-
+=8	=8
+2dd	-spoord
+4r;}	.
+!! verse 5
+{8dd	Al-
+8dd	-tijd
+=9	=9
+8ee	is
+8dd	ons
+8cc	zwart-
+8b	-je
+4a;}	klaar,
+!! verse 6
+{8b	om
+8cc	te
+=10	=10
+8dd	hol-
+8cc	-len,
+8b	hol-
+8a	-len,
+4b;}	maar
+!! verse 7
+{8dd	Al-
+8cc	-tijd
+=11	=11
+4b	is
+4dd	ons
+4ee	zwart-
+4ff#	-je
+=12	=12
+2.gg;}	klaar
+!! verse 8
+{8ff#	Om
+8ee	te-
+=13	=13
+4dd	-hol-
+(8b	-len,
+8dd)	.
+4dd	hol-
+4dd	-len
+=14	=14
+2g	maar.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

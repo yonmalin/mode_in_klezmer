@@ -1,0 +1,79 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB106442_01
+!! NLB record number: 106442
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Jan
+=1	=1
+16g	Dui-
+16g	-gen
+16g	in
+16g	de
+8g	ton,
+8d	Jan
+=2	=2
+16g	Dui-
+16g	-gen
+16g	in
+16g	de
+8g;}	ton
+!! verse 1
+{8d	Met
+=3	=3
+16g	hoe-
+16g	-pel-
+16g	-tjes
+16g	er-
+8g	-om
+8d	Met
+=4	=4
+16g	hoe-
+16g	-pel-
+16g	-tjes
+16g	er-
+8g;}	-om
+!! verse 2
+{16d	En
+16d	de
+=5	=5
+8g	ton
+8a	be-
+8b	-gon
+8cc	te
+=6	=6
+(8.dd	bui-
+16ee)	.
+8dd;}	-gen
+!! verse 3
+{16d	En
+16d	de
+=7	=7
+8g	ton
+8a	be-
+8b	-gon
+8cc	te
+=8	=8
+(8.dd	bui-
+16ee)	.
+8dd;}	-gen
+!! verse 4
+{16cc	En
+16cc	de
+=9	=9
+8b	ton
+8g	die
+8a	viel
+8f#	in
+=10	=10
+4a	dui-
+8g;}	-gen.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

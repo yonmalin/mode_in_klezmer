@@ -1,0 +1,159 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070864_01
+!! NLB record number: 70864
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8cc	In
+8cc	'n
+=1	=1
+4b	blok,
+8a	in
+8a	'n
+4g	blok,
+8cc	in
+8cc	een
+=2	=2
+4b	vier-
+8a	-kan-
+8a	-te
+4g;}	blok
+!! verse 1
+{8g	In
+8g	'n
+=3	=3
+4a	blok
+4a	met
+4dd	zeu-
+4dd	-ven
+=4	=4
+2b	goa-
+4g;}	-ten
+!! verse 2
+{4g	En
+=5	=5
+4cc	hei
+4cc	je
+4cc	Piet
+4cc	en
+=6	=6
+4b	Hein
+8b	ook
+8b	ge-
+4b;}	-zien
+!! verse 3
+{4b	die
+=7	=7
+4a	heel
+4g	zo
+4b	lan-
+4a	-ge
+=8	=8
+2a	sloa-
+4g	-pen.
+4r;}	.
+!! verse 4
+=9	=9
+{4a	Vis-
+4a	-sien,
+4dd	vis-
+4dd	-sien
+=10	=10
+4b	kom
+4b	an
+4g	wal-
+4g;}	-le
+!! verse 5
+=11	=11
+{4a	Zal
+4a	'k je
+4dd	brain
+4dd	in
+=12	=12
+4b	oe-
+4b	-se
+4g	pan-
+4g;}	-ne
+!! verse 6
+=13	=13
+{4cc	Zal
+4cc	'k je
+4cc	stoa-
+4cc	-ven
+=14	=14
+4b	in
+4b	de
+4b	o-
+4b;}	-ven
+!! verse 7
+=15	=15
+{4a	Dat
+4g	je
+4b	roe-
+4a	-pe, o-
+=16	=16
+4a	-ran-
+4a	-je
+4g	bo-
+4g	-ven
+=17	=17
+*M3/2	*
+8r	.
+16r;}	.
+!! verse 8
+{16dd	O-
+8.dd	-ran-
+16ee	-je
+2dd	bo-
+8.b	-ven,
+16dd	o-
+8.dd	-ran-
+16ee	-je
+=18	=18
+*M2/2	*
+2dd	bo-
+4b	-ven
+4r;}	.
+!! verse 9
+=19	=19
+{4cc	Le-
+8.cc	-ve
+16cc	de
+4dd	Wil-
+4dd	-le-
+=20	=20
+2g	-mien
+4r;}	.
+!! verse 10
+{4d	Ik
+=21	=21
+4cc	heb
+4cc	m'n
+4cc	schoe-
+4cc	-nen
+=22	=22
+4b	la-
+4b	-ten
+4b	lap-
+4b;}	-pen
+!! verse 11
+=23	=23
+{8a	om
+8a	de
+4g	pe-
+4b	-li-
+4a	-sie
+=24	=24
+4a	dood
+4a	te
+4g	trap-
+4g;}	-pen.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

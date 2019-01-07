@@ -1,0 +1,106 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB142826_01
+!! NLB record number: 142826
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[b-]	*
+*d:	*
+!! verse 0
+=1	=1
+{4a	Ik
+4a	on-
+4a	-noo-
+4a	-zel
+=2	=2
+4a	haas-
+4g	-ken
+4f	in
+4e	het
+=3	=3
+2d	groe-
+2d	-ne
+=4	=4
+2d	woud.
+4r;}	.
+!! verse 1
+{4d	Ik
+=5	=5
+(2f	word
+4e)	.
+4e	ge-
+=6	=6
+4d	-jaagd
+4g	en
+4f	voort-
+4e	-ge-
+=7	=7
+2d	-stouwd.
+4r;}	.
+!! verse 2
+{4a	al
+=8	=8
+2a	van
+2g	de
+=9	=9
+2cc	e-
+4b	-de-
+4a	-le
+=10	=10
+(2g	lie-
+2e)	.
+=11	=11
+2a	-den.
+2r;}	.
+!! verse 3
+=12	=12
+{2a	Waar
+4g	wil
+4g	ik
+=13	=13
+2f	he-
+2e	-nen
+=14	=14
+(2d	vlie-
+2e)	.
+=15	=15
+(2f	-den?
+2g);}	.
+!! verse 4
+=16	=16
+{2a	Ben
+4a	ik
+4a	dan
+=17	=17
+(4a	niet
+4g)	.
+4f	een
+4e	on-
+=18	=18
+2d	-noo-
+2d	-zel
+=19	=19
+2d	dier.
+2r;}	.
+!! verse 5
+=20	=20
+{2f	Hier
+4e	op
+4f	de
+=21	=21
+4g	we-
+4f	-reld
+4e	ken
+4c	ik
+=22	=22
+2d	geen
+2d	ple-
+=23	=23
+2d	-zier.
+2r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

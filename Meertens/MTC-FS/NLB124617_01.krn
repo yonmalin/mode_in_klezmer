@@ -1,0 +1,115 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB124617_01
+!! NLB record number: 124617
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{4g	Aan
+4g	den
+=1	=1
+4cc	oe-
+(8ee	-ver
+8dd)	.
+(8cc	van
+8b)	.
+(8cc	een
+8a)	.
+=2	=2
+4g	snel-
+(8.cc	-le
+16a)	.
+4g;}	vliet
+!! verse 1
+{(8g	een
+8f)	.
+=3	=3
+4e	jeug-
+4g	-dig
+4cc	meis-
+4e	-je
+=4	=4
+4d	zat
+4r	.
+4r;}	.
+!! verse 2
+{4cc	Zij
+=5	=5
+(8b	weend'
+8cc)	.
+(8dd	en
+8b)	.
+4cc	schrei-
+4cc	-de
+=6	=6
+(8dd	van
+8ee)	.
+8ff	ver-
+(8dd#	-driet
+4ee);}	.
+!! verse 3
+{4g	het
+=7	=7
+4a	gras
+(8ff	van
+8dd)	.
+4cc	tra-
+4b	-nen
+=8	=8
+2cc	nat.
+4r;}	.
+!! verse 4
+{(8g	Zij
+8e)	.
+=9	=9
+4e	smeet
+4g	de
+4cc	bloem-
+4g	-pjes
+=10	=10
+4e	die
+4g	zij
+4cc;}	zag
+!! verse 5
+{4g	mis-
+=11	=11
+4e	-troos-
+4g	-tig
+4cc	in
+4e	den
+=12	=12
+4d	stroom,
+4r	.
+4r;}	.
+!! verse 6
+{4cc	en
+=13	=13
+(8b	riep:
+8cc)	.
+(8dd	Ach!
+8b)	.
+4cc	lie-
+4cc	-ve
+=14	=14
+4dd	va-
+(8ff	-der
+8dd);}	.
+!! verse 7
+{4ee	ach!
+4g	ach!
+=15	=15
+4a	lie-
+(8ff	-ve
+8dd)	.
+4cc	broe-
+4b	-der,
+=16	=16
+2cc;}	'k koom!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

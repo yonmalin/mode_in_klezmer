@@ -1,0 +1,86 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070912_01
+!! NLB record number: 70912
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8g	Al
+=1	=1
+4b	op
+8g	ri-
+4g	-ans,
+8g	al
+=2	=2
+4b	op
+8g	ri-
+4g;}	-ans
+!! verse 1
+{8g	Zo
+=3	=3
+4a	gaan
+8a	wij
+4dd	door
+8dd	de
+=4	=4
+4b	kou-
+8b	-se-
+4.g;}	-band
+!! verse 2
+=5	=5
+{4cc	Vrij
+8cc	wat
+4.cc	voort,
+=6	=6
+4b	vrij
+8b	wat
+4.b;}	voort,
+!! verse 3
+=7	=7
+{4a	En
+8a	zo
+4b	gaan
+8a	wij
+=8	=8
+4a	door
+8g	de
+4g;}	poort,
+!! verse 4
+{8g	Zo
+=9	=9
+4cc	gaan
+8b	wij
+4a	door
+8g	de
+=10	=10
+4f#	kou-
+8g	-se-
+4.cc;}	-band
+!! verse 5
+=11	=11
+{4g	Vrij
+8g	wat
+4g	voort,
+8g	de
+=12	=12
+4g	ja-
+8b	-gers-
+4.dd;}	-knecht
+!! verse 6
+=13	=13
+{4g	Laat
+8g	de
+4g	ko-
+8g	-ning
+=14	=14
+4g	door
+8b	't ge-
+4.dd;}	-recht....
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

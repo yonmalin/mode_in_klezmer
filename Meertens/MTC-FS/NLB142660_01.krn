@@ -1,0 +1,117 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB142660_01
+!! NLB record number: 142660
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{4c	Op
+8c	ee-
+8c	-nen
+=2	=2
+8c	vroe-
+8c	-gen
+8c	mor-
+8c	-gen-
+=3	=3
+4c	-stond
+4e	trok
+=4	=4
+4d	ik
+4c	ter
+=5	=5
+4c;}	jacht
+!! verse 1
+{8c	En
+8d	wat
+=6	=6
+4e	vond
+8e	ik
+8e	daar
+=7	=7
+4e	zit-
+4g	-ten
+=8	=8
+4f	on-
+4d	-be-
+=9	=9
+4e	-dacht
+4r;}	.
+!! verse 2
+=10	=10
+{4g	een
+8g	schoo-
+8f	-ne
+=11	=11
+4e	her-
+(8f	-de-
+8g)	.
+=12	=12
+4a	-rin-
+4a	-ne
+=13	=13
+4g	pront
+4r;}	.
+!! verse 3
+=14	=14
+{8f	Die
+8f	daar
+8f	zat
+8f	te
+=15	=15
+8f	rus-
+8a	-ten
+8g	op
+8f	een
+=16	=16
+4e	mor-
+4d	-gen-
+=17	=17
+(8c	-stond
+8d	.
+8e	.
+8f	.
+=18	=18
+4g)	.
+4r;}	.
+!! verse 4
+=19	=19
+{4g	een
+8g	schoo-
+8f	-ne
+=20	=20
+4e	her-
+(8f	-de-
+8g)	.
+=21	=21
+4a	-rin-
+4a	-ne
+=22	=22
+4g	pront
+4r;}	.
+!! verse 5
+=23	=23
+{8f	Die
+8f	daar
+8f	zat
+8f	te
+=24	=24
+8f	rus-
+8a	-ten
+8g	op
+8f	een
+=25	=25
+4e	mor-
+4d	-gen-
+=26	=26
+4c	-stond
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

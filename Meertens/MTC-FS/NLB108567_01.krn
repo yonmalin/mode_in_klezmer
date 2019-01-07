@@ -1,0 +1,116 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB108567_01
+!! NLB record number: 108567
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{4g	Twee
+12a	em-
+12a	-mer-
+12a	-tjes
+8g	wa-
+8g	-ter
+8e	ha-
+8c	-len
+=2	=2
+4g	Twee
+12a	em-
+12a	-mer-
+12a	-tjes
+4g	pom-
+4e;}	-pen
+!! verse 1
+=3	=3
+{8g	Meis-
+8g	-jes
+8a	op
+8a	de
+4g	klom-
+4e;}	-pen
+!! verse 2
+=4	=4
+{8g	Meis-
+8g	-jes
+8e	op
+8c	de
+8a-	hou-
+8a-	-ten
+8a-	be-
+8a-	-nen
+=5	=5
+8g	Dan-
+8g	-sen
+8g	door
+8g	mijn
+8g	poor-
+8c	-tje
+8c	he-
+8c	-nen
+=6	=6
+4r	.
+2r;}	.
+!! verse 3
+{8c	Van
+8e	je
+=7	=7
+4g	reis,
+4g	reis,
+4g	reis,
+8.a	Gaat
+16g	de
+=8	=8
+8g	ko-
+8f	-ning
+8f	door 't
+8e	pa-
+4f;}	-leis
+!! verse 4
+{8d	Van
+8e	je
+=9	=9
+4f	voort
+4f	voort
+4f	voort
+8.g	Gaat
+16g	de
+=10	=10
+8f	ko-
+8e	-ning
+8e	door
+8d	de
+4e;}	poort
+!! verse 5
+{8c	Van
+8e	je
+=11	=11
+4g	sterk
+4g	sterk
+4g	sterk
+8.cc	Gaat
+16b	de
+=12	=12
+8b	ko-
+8a	-ning
+8a	door
+8a	de
+4a;}	kerk
+!! verse 6
+{8a	Van
+8a	je
+=13	=13
+2g	één,
+2b	twee
+=14	=14
+4cc	drie.
+4r	.
+2r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

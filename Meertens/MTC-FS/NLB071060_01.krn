@@ -1,0 +1,93 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071060_01
+!! NLB record number: 71060
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4dd	Sap
+4ee	sap
+4dd	piep-
+4b;}	-ke
+!! verse 1
+=2	=2
+{8dd	Wan-
+8dd	-neer
+8ee	wors-
+8ee	-toe
+4dd	riep-
+4b;}	-ke?
+!! verse 2
+=3	=3
+{4dd	toak
+4ee	toak
+4dd	mei-
+4b;}	-er
+!! verse 3
+=4	=4
+{8dd	As
+8dd	de
+8ee	veu-
+8ee	-gel
+8dd	ei-
+8dd	-er
+8.b;}	leit
+!! verse 4
+{16dd	woar
+=5	=5
+8dd	leegt
+8dd	ze
+8b	dan?
+8dd	In
+8dd	d'ha-
+8dd	-ver-
+4b;}	-mout,
+!! verse 5
+=6	=6
+{4dd	heel
+4ee	wies
+8dd	van
+8dd	mie
+4b;}	of:
+!! verse 6
+=7	=7
+{8dd	Kip-
+8dd	-ke
+8ee	zat
+8ee	op
+2dd;}	'n diek
+!! verse 7
+=8	=8
+{8dd	Slub-
+16dd	-ber
+16dd	de
+8ee	bek
+8ee	vol
+8dd	zeu-
+8dd	-te
+4b;}	melk.
+!! verse 8
+=9	=9
+{4dd	Oor-
+4b	-lof,
+4dd	oor-
+4b;}	-lof.
+!! verse 9
+=10	=10
+{8gg	is
+8ee	dat
+8dd	piep-
+16dd	-le
+16dd	d'r
+8dd	nog
+8dd	niet
+4dd;}	of?
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,116 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140201_01
+!! NLB record number: 140201
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{4g	Ho
+8.g	li
+16g	o
+4.cc	lo!
+8cc	Ho
+=2	=2
+*M3/4	*
+8.dd	li
+16g	o
+4.cc	lo!
+8cc	Ho
+=3	=3
+8.dd	li
+16g	o
+2cc;}	lo!
+!! verse 1
+=4	=4
+{8cc	Ho
+16cc	li
+16cc	o
+16cc	li
+16cc	o
+16cc	li
+16cc	o
+16cc	li
+16cc	o
+16cc	li
+16cc	o
+=5	=5
+2.b	lo
+=6	=6
+*M4/4	*
+4f	Ho
+8.f	li
+16f	o
+4.b-;}	lo!
+!! verse 2
+{8b-	Is
+=7	=7
+*M3/4	*
+(12cc	Keub-
+12cc	-ke
+12f)	nog
+4.b-	dâ?
+8b-	Is
+=8	=8
+(12cc	Keub-
+12cc	-ke
+12f)	nog
+2b-;}	dâ!
+!! verse 3
+=9	=9
+{8b	Ho
+16b	li
+16b	o
+16b	li
+16b	o
+16b	li
+16b	o
+16b	li
+16b	o
+16b	li
+16b	o
+=10	=10
+2.a-	lo
+=11	=11
+*M4/4	*
+4g	Ho
+8.g	li
+16g	o
+4.cc;}	lo!
+!! verse 4
+{8cc	Dag
+=12	=12
+*M3/4	*
+8dd	Jan-
+16g	-ne-
+16g	-ke
+4.cc	ja
+8cc	Dag
+=13	=13
+8dd	Jan-
+16g	-ne-
+16g	-ke
+2cc;}	jà!
+!! verse 5
+=14	=14
+{8cc	Ho
+16cc	li
+16cc	o
+16cc	li
+16cc	o
+16cc	li
+16cc	o
+16cc	li
+16cc	o
+16cc	li
+16cc	o
+=15	=15
+2.b-;}	lo!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

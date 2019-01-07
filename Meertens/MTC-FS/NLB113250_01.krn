@@ -1,0 +1,62 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113250_01
+!! NLB record number: 113250
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{8g	Wilt
+8.a	gij
+16g	o
+=1	=1
+4.c	vreemd-
+8g	-ling
+8a	mij
+8g	ont-
+=2	=2
+(8f	-vluch-
+8d)	.
+4B;}	-ten
+!! verse 1
+{8.g	Langs
+16a	de
+=3	=3
+4.b	woes-
+8a	-te
+8.g	o-
+16f	-ce-
+=4	=4
+4e	-aan
+4r;}	.
+!! verse 2
+{8.g	Waar
+16g	de
+=5	=5
+(4g	geur
+8f#)	.
+8g	der
+8.a	zo-
+16g	-mer-
+=6	=6
+4g	-vruch-
+(8cc	-ten
+8c);}	.
+!! verse 3
+{8d	U
+8e	niet
+=7	=7
+4.a	meer
+8g	ver-
+8f	-kwik-
+8e	-ken
+=8	=8
+4c	kan.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

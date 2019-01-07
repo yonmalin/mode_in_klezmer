@@ -1,0 +1,90 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB165051_01
+!! NLB record number: 165051
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	Es
+8f	stand
+8g	eine
+=1	=1
+4.a	Lind'
+8b-	im
+8g	tie-
+8a	-fen
+=2	=2
+8.f	Thal,
+16c	ja
+8f;}	Thal,
+!! verse 1
+{8g	war
+8a	o-
+8b-	-ben
+=3	=3
+4.cc	breit
+8dd	und
+8b-	un-
+8cc	-ten
+=4	=4
+4.a;}	schmal,
+!! verse 2
+{8f	da-
+8f	-run-
+8f	-ter
+=5	=5
+4.dd	sass
+16dd	ein
+16dd	ver-
+8ff	-lieb-
+8dd	-tes
+=6	=6
+8cc	Paar,
+8cc	ja
+8a;}	Paar,
+!! verse 3
+{8cc	dass
+8dd	un-
+8cc	-ver-
+=7	=7
+4b-	-lebt
+4g	in
+8cc	Freu-
+(16cc	-e
+16b-)	.
+=8	=8
+4.a;}	war.
+!! verse 4
+{8f	da-
+8f	-run-
+8f	-ter
+=9	=9
+4.dd	sass
+16dd	ein
+16dd	ver-
+8ff	-lieb-
+8dd	-tes
+=10	=10
+8cc	Paar,
+8cc	ja
+8a;}	Paar,
+!! verse 5
+{8cc	dass
+8dd	un-
+8cc	-ver-
+=11	=11
+4b-	-lebt
+4g	in
+8cc	Freu-
+(16cc	-e
+16b-)	.
+=12	=12
+4.a;}	war.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

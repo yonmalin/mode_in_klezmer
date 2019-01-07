@@ -1,0 +1,53 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072882_01
+!! NLB record number: 72882
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4dd	Ik
+=1	=1
+4.gg	ben
+8aa	er
+8gg	door
+8ee	de
+=2	=2
+4dd	bos-
+4b	-sen
+8b	en
+8b	door
+=3	=3
+4cc	vel-
+4dd	-den
+4ee	ge-
+=4	=4
+(8dd	-tre-
+8cc)	.
+4b;}	-den
+!! verse 1
+{8b	En
+8cc	ik
+=5	=5
+4dd	ben
+4gg	er
+8ff#	door
+8gg	de
+=6	=6
+4aa	bos-
+4bb	-sen
+8aa	en
+8aa	door
+=7	=7
+4gg	vel-
+4ff#	-den
+4ee	ge-
+=8	=8
+2dd;}	-gaan.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

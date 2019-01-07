@@ -1,0 +1,65 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072273_01
+!! NLB record number: 72273
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Ach
+=1	=1
+8dd	vrou-
+8b	-wen
+8g	ach
+8dd	vrou-
+8b	-en
+8g	ach
+=2	=2
+4.ee	vrou-
+4dd;}	-en
+!! verse 1
+{8cc	er
+=3	=3
+8cc	is
+8b	een
+16r	.
+16g	klein
+8cc	kind-
+8b	-je
+8a	ver-
+=4	=4
+[4.g	-moord
+4g];}	.
+!! verse 2
+{8b	En
+=5	=5
+(8cc	daar-
+8dd)	.
+8ee	-om
+(8ee	moet
+8dd)	.
+8cc	zij
+=6	=6
+4.ee	han-
+4dd;}	-gen
+!! verse 3
+{8dd	In
+=7	=7
+8dd	Frank-
+8b	-rijk
+16r	.
+16g	al
+8cc	bui-
+8b	-ten
+16r	.
+16a	de
+=8	=8
+4.g	poort
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

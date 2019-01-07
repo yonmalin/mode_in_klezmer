@@ -1,0 +1,46 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB127166_01
+!! NLB record number: 127166
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Jan
+=1	=1
+4g	Piet,
+4d	Jan
+4g	Piet,
+4d	Jan
+=2	=2
+8g	Pie-
+8f#	-re-
+8g	-wie-
+8a	-re-
+4g;}	-wiet,
+!! verse 1
+{4d	Jan
+=3	=3
+4g	Piet
+4a	van
+4b	Maas-
+4cc	-land-
+=4	=4
+2dd;}	-sluis,
+!! verse 2
+{2cc	kwam
+=5	=5
+4b	al-
+4b	-tijd
+4a	dron-
+4a	-ken
+=6	=6
+2g	thuis.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

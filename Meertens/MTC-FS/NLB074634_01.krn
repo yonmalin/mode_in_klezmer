@@ -1,0 +1,100 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074634_01
+!! NLB record number: 74634
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Ik
+=1	=1
+4g	was
+8.g	er
+16g	laatst-
+8g	-ma-
+8b	-le
+8a	eens
+8d	op
+=2	=2
+*M3/4	*
+2g;}	jacht.
+!! verse 1
+{8g	En
+(16b	raad
+16dd)	.
+=3	=3
+*M4/4	*
+4dd	eens
+8.dd	wat
+16dd	ik
+8cc	daar
+8ee	be-
+8dd	-val-
+8cc	-lig
+=4	=4
+*M3/4	*
+2.b;}	zag.
+!! verse 2
+=5	=5
+*M4/4	*
+{8.dd	Een
+16dd	schoon
+8.dd	her-
+16cc	-de-
+4b	-rin-
+8cc	-ne
+8dd	die
+=6	=6
+8.ee	ik
+16ee	daar
+8ee	zit-
+8ee	-tend
+2dd;}	vond
+!! verse 3
+=7	=7
+{4cc	Het
+8cc	was
+8cc	op
+8b	e-
+8dd	-ne
+8ee	vroe-
+8cc	-ge
+=8	=8
+4b	mor-
+4a	-gen-
+2g;}	-stond.
+!! verse 4
+=9	=9
+{8.dd	Een
+16dd	schoon
+8.dd	her-
+16cc	-de-
+4b	-rin-
+8cc	-ne
+8dd	die
+=10	=10
+8.ee	ik
+16ee	daar
+8ee	zit-
+8ee	-tend
+2dd;}	vond
+!! verse 5
+=11	=11
+{4cc	Het
+8cc	was
+8cc	op
+8b	e-
+8dd	-ne
+8ee	vroe-
+8cc	-ge
+=12	=12
+4b	mor-
+4a	-gen-
+4.g;}	-stond.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

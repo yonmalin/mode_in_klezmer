@@ -1,0 +1,144 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074521_01
+!! NLB record number: 74521
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Zeg
+=1	=1
+8d	vrien-
+8b	-den
+8b	luis-
+8dd	-ter
+=2	=2
+8cc	naar
+8b	het
+8a;}	lied
+!! verse 1
+{8d	toen
+=3	=3
+8d	Peer
+8f#	en
+8a	Lijn
+8cc	ging
+=4	=4
+4b	trou-
+8g;}	-wen
+!! verse 2
+{8d	Het
+=5	=5
+8d	huw-
+8b	-lijk
+8b	is
+8dd	zo
+=6	=6
+8cc	al
+8b	ge-
+8a;}	-schied
+!! verse 3
+{8d	het
+=7	=7
+8d	zal
+8f#	hun
+8a	nog
+8cc	be-
+=8	=8
+4b	-rou-
+8g;}	-wen.
+!! verse 4
+{8b	De
+=9	=9
+8b	eer-
+8g	-ste
+8d	dag
+16b	was
+16b	't
+=10	=10
+8b	al
+8g	maar
+8d;}	lach
+!! verse 5
+{16d	en
+16d	men
+=11	=11
+8g	deed
+8d	er
+8g	niets
+8b	dan
+=12	=12
+4ee	slem-
+8dd;}	-pen
+!! verse 6
+{8ee	want
+=13	=13
+8ee	Peer
+8dd	en
+8cc	Lijn
+16b	moes-
+16b	-ten
+=14	=14
+8dd	vro-
+8cc	-lijk
+8.b;}	zijn
+!! verse 7
+{16b	met
+=15	=15
+8cc	bas-
+8d	-sen
+8f#	en
+8a	trom-
+=16	=16
+4a	-pet-
+8g	-ten
+8r;}	.
+!! verse 8
+=17	=17
+{8d	Tra-
+8b	-la
+8b	lie-
+16.b	-e
+32dd	ti
+=18	=18
+8cc	ral-
+8b	-la-
+4a	-la
+=19	=19
+8d	tra-
+8d	-la
+8f#	lie-
+16.f#	-e-
+32a	-ti
+=20	=20
+8ee	ra-
+8ee	-la-
+4dd;}	-la
+!! verse 9
+=21	=21
+{8b	Tra-
+8b	-la
+(16b	lie-
+16dd)	.
+16.dd	-e
+32dd	ti
+=22	=22
+8cc	ral-
+8b	-la-
+8.a	-la
+16dd	tra-
+=23	=23
+8dd	-lie-
+8dd	-a
+8cc	ra-
+8cc	-la-
+=24	=24
+4b	-la.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

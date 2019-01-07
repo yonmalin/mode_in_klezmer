@@ -1,0 +1,61 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB158602_01
+!! NLB record number: 158602
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#c#]	*
+*D:	*
+!! verse 0
+{4A	Es
+=1	=1
+4.d	woll-
+8f#	-te
+4a	ein
+=2	=2
+4.e	Mad-
+8f#	-chen
+8g	in
+8a	der
+=3	=3
+4b	Fru-
+4a	-he
+4a	auf-
+=4	=4
+2f#	-stehn
+4r;}	.
+!! verse 1
+=5	=5
+{4a	wollt
+4a	in
+(8a	den
+8g)	.
+=6	=6
+4.f#	gru-
+8g	-nen
+4a;}	Wald
+!! verse 2
+=7	=7
+{(8b	wollt
+8a)	.
+4g	in
+(8g	den
+8f#)	.
+=8	=8
+4.e	gru-
+8f#	-nen
+4g	Wald
+=9	=9
+4b	spa-
+4a	-zie-
+(8a	-ren
+8g)	.
+=10	=10
+4f#	gehn.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

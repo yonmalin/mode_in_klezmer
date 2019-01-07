@@ -1,0 +1,96 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071166_01
+!! NLB record number: 71166
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8b	Wat
+=1	=1
+8dd	zul
+8dd	we
+8dd	de
+4ee	bak-
+8ee	-ker
+=2	=2
+4.dd	ge-
+4b;}	-ven
+!! verse 1
+{8b	Al
+=3	=3
+4dd	voor
+8dd	z'n
+4ee	nieu-
+8ee	-we
+=4	=4
+[4.dd	jaar
+4dd];}	.
+!! verse 2
+{8b	Een
+=5	=5
+4dd	kind-
+8dd	-je
+4ee	in
+8ee	'n
+=6	=6
+4.dd	wieg-
+4b;}	-ke
+!! verse 3
+{8b	met
+=7	=7
+4dd	zwar-
+8dd	-te
+8ee	krul-
+8ee	-le-
+8ee	-kes
+=8	=8
+[4.dd	haar
+4dd];}	.
+!! verse 4
+{8b	Hoe
+=9	=9
+8dd	zul-
+8dd	-le
+8dd	w' dat
+4ee	kind-
+8ee	-je
+=10	=10
+4.dd	hie-
+4.b;}	-ten
+!! verse 5
+=11	=11
+{4.dd	Drol.
+4.dd	drol,
+=12	=12
+4ee	pe-
+8ee	-per-
+4.ee;}	-bol
+!! verse 6
+=13	=13
+{4dd	Heeft
+8dd	ze
+4dd	nog
+8dd	'n
+=14	=14
+4ee	schop-
+8ee	-per-
+4.ee;}	-nol
+!! verse 7
+=15	=15
+{4dd	Dat
+8dd	ze
+4dd	van
+8dd	de
+=16	=16
+4cc	trap-
+8cc	-per-
+4cc	-nol.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

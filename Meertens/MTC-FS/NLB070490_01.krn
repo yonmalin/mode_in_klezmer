@@ -1,0 +1,57 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070490_01
+!! NLB record number: 70490
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8ee	En
+8dd	ik
+=1	=1
+4cc	stond
+4cc	laatst
+8b	op
+8cc	de
+=2	=2
+4dd	berg-
+4dd;}	-en
+!! verse 1
+{8cc	keek
+8b	al
+=3	=3
+4a	in
+4dd	een
+8ee	die-
+8dd	-pe
+=4	=4
+2g;}	dal
+!! verse 2
+{8dd	en
+8cc#	daar
+=5	=5
+4b	zag
+8b	ik
+8b	er
+8cc#	drie
+8b	ge-
+=6	=6
+4a	-zel-
+4dd;}	-len
+!! verse 3
+{8b	bij
+8cc	een
+=7	=7
+4dd	jeug-
+4dd	-dig
+8ee	meis-
+8dd	-je
+=8	=8
+2g;}	staan.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

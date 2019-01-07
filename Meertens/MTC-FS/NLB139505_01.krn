@@ -1,0 +1,83 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB139505_01
+!! NLB record number: 139505
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	Ik
+=1	=1
+12f	zing
+12f	er
+12f	al
+4.a	van
+8f	een'
+=2	=2
+6e	Ruij-
+12g	-ter
+4b-	koen,
+8r;}	.
+!! verse 1
+{8b-	Maar
+=3	=3
+[4dd	niet
+12dd]	.
+12cc	van
+12b-	een'
+12a	rui-
+12b-	-ter
+12g	te
+=4	=4
+2f	paard;
+8r;}	.
+!! verse 2
+{8cc	Toch
+=5	=5
+[4ff	was
+12ff]	.
+12ee	hij
+12dd	wel
+12cc	En-
+12b-	-gel-
+12a	-sche
+=6	=6
+12b-	dra-
+12a	-vers
+12b-	te
+4.dd;}	gaauw,
+!! verse 3
+{8dd	Hij
+=7	=7
+[4cc	maak-
+12cc]	.
+12b-	-te
+12a	wel
+12b-	Fran-
+12a	-sche
+12g	ver-
+=8	=8
+(4cc	-vaard,
+4ff	.
+4dd	.
+=9	=9
+4.cc);}	.
+!! verse 4
+{8a	Hij
+12b-	maak-
+12a	-te
+12g	wel
+=10	=10
+2cc	Fran-
+8.g	-sche
+16a	ver-
+=11	=11
+2f	-vaard.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

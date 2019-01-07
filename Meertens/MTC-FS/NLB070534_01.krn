@@ -1,0 +1,78 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070534_01
+!! NLB record number: 70534
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Bij
+=1	=1
+4g	Se-
+2g	-dan
+8.d	op
+16d	die
+=2	=2
+4e	heu-
+2e;}	-vel
+!! verse 1
+{4g	Stond
+=3	=3
+*M3/4	*
+4.f#	na
+8f#	een
+8e	bloe-
+8e	-dig
+=4	=4
+2d;}	slag
+!! verse 2
+{8.d	In
+16g	de
+=5	=5
+4b	la-
+4a	-te
+8.g	a-
+16f#	-vond-
+=6	=6
+4a	-u-
+4e;}	-ren
+!! verse 3
+{4cc	En
+=7	=7
+*M4/4	*
+4.b	Saks
+8cc	al
+(4cc	op
+8.dd)	.
+16cc	de
+=8	=8
+*M3/4	*
+2b;}	wacht
+!! verse 4
+{8.d	In
+16g	de
+=9	=9
+4b	la-
+4a	-te
+8.g	a-
+16f#	-vond-
+=10	=10
+4a	-u-
+4e;}	-ren
+!! verse 5
+{4cc	En
+=11	=11
+*M4/4	*
+4.b	Saks
+8g	al
+4.a	op
+8f#	de
+=12	=12
+2.g;}	wacht
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

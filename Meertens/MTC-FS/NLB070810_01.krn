@@ -1,0 +1,312 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070810_01
+!! NLB record number: 70810
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8g	To-
+8g	-ren-
+8a	-tje
+8b	to-
+8cc	-ren-
+8b	-tje
+=2	=2
+4a	bus-
+8a	-se-
+4g;}	-kruid,
+!! verse 1
+{8b	wat
+=3	=3
+4a	hangt
+8a	er
+4.g;}	uit
+!! verse 2
+=4	=4
+{4.g	Klein
+4.b	goud
+=5	=5
+4.a	stoel-
+4g;}	-tje
+!! verse 3
+{8b	Wat
+=6	=6
+4a	zit
+8a	doar
+4g	op?
+8b	een
+=7	=7
+4.a	vrouw-
+4g;}	-tje
+!! verse 4
+{8d	Wat
+=8	=8
+4g	heeft
+8a	't
+8b	vrouw-
+8cc	-tje
+8b	toch
+=9	=9
+4a	op
+8a	haar
+4g;}	schoot
+!! verse 5
+{8d	Een
+=10	=10
+4.g	klein,
+4.a	klein
+=11	=11
+(4b	kind-
+8a)	.
+4g;}	-je
+!! verse 6
+{8d	Hoe
+=12	=12
+8g	zou
+8g	er
+8g	dat
+8a	kind-
+8g	-je
+8a	toch
+=13	=13
+4.b	hie-
+4.g;}	-ten?
+!! verse 7
+=14	=14
+{8g	Sche-
+8g	-li-
+8g	-ge,
+8a	sche-
+8a	-li-
+8a	-ge
+=15	=15
+4.b	Pie-
+4.g;}	-te
+!! verse 8
+=16	=16
+{8b	Sche-
+8b	-li-
+8b	-ge
+8b	sche-
+8a	-li-
+8g	-ge
+=17	=17
+4a	ju-
+8b	-te-
+4cc;}	-man
+!! verse 9
+{8cc	M'n
+=18	=18
+8b	va-
+8b	-der
+8a	en
+8g	moe-
+8a	-der
+8b	slaapt
+=19	=19
+4a	bij
+8a	me-
+4g;}	-kaar.
+!! verse 10
+{8d	Toen
+=20	=20
+8g	wou-
+8g	-we
+8a	ze
+(8b	mij
+8cc)	.
+8b	niet
+=21	=21
+4.a	heb-
+4g;}	-be
+!! verse 11
+{8d	Toen
+=22	=22
+8g	gooi-
+8g	-de
+8a	ze
+(8b	m'n
+8cc)	.
+8b	de
+=23	=23
+4.a	krew-
+4g;}	-we
+!! verse 12
+{8d	De
+=24	=24
+8g	krew-
+8g	-we
+8a	die
+8b	was
+8cc	er
+8b	te
+=25	=25
+4.a	ma-
+4g;}	-ke
+!! verse 13
+{8d	Toen
+=26	=26
+8g	gooi-
+8g	-de
+8a	ze
+8b	mij
+8cc	in
+8b	het
+=27	=27
+4.a	la-
+4g;}	-ke
+!! verse 14
+{16d	En
+16d	het
+=28	=28
+8g	la-
+8g	-ke
+8a	dat
+8b	was
+8cc	er
+8b	te
+=29	=29
+4.a	was-
+4g;}	-se
+!! verse 15
+{8d	Toen
+=30	=30
+8g	gooi-
+8g	-den
+8a	ze
+(8b	m 'in
+8cc)	.
+8b	de
+=31	=31
+4.a	plas-
+4g;}	-se
+!! verse 16
+{8d	Die
+=32	=32
+8g	plas-
+8g	-se
+8a	die
+4b	was
+8b	er
+=33	=33
+4a	veuls
+8a	te
+4g;}	diep
+!! verse 17
+{8d	Toen
+=34	=34
+8g	gooi-
+8g	-de
+8a	ze
+(8b	m  'in
+8cc)	.
+8b	het
+=35	=35
+4a	lan-
+8a	-ge
+4g;}	riet
+!! verse 18
+{8d	Dat
+=36	=36
+4g	lan-
+8a	-ge
+4b	riet
+8b	was
+=37	=37
+4a	veuls
+8a	te
+4g;}	lang
+!! verse 19
+{8d	Toen
+=38	=38
+8g	gooi-
+8g	-de
+8a	ze
+(8b	m 'in
+8cc)	.
+8b	de
+=39	=39
+8a	veu-
+8a	-ge-
+8a	-le-
+4g;}	-zang
+!! verse 20
+{8d	De
+=40	=40
+8g	veu-
+8g	-ge-
+8a	-le-
+8b	-zang
+8cc	die
+8b	was
+=41	=41
+4a	veuls
+8a	te
+4g;}	groot
+!! verse 21
+{8d	Toen
+=42	=42
+8g	gooi
+8g	de
+8a	ze
+(8b	m 'in
+8cc)	.
+8b	Ma-
+=43	=43
+8a	-ri-
+8a	-a
+8a	z'n
+4g;}	schoot
+!! verse 22
+{8d	Ma-
+=44	=44
+8g	-ri-
+8g	-a
+8a	die
+4b	was
+8b	de
+=45	=45
+4.a	moe-
+4g;}	-der
+!! verse 23
+{8d	Sint
+=46	=46
+4g	Jo-
+8a	-zef
+4b	was
+8b	de
+=47	=47
+4.a	voa-
+4g;}	-der
+!! verse 24
+{8b	Ge-
+=48	=48
+4.b	-nacht,
+8b	Moe-
+8b	-der
+8b	ge-
+=49	=49
+4.cc	-nacht
+8cc	voa-
+8cc;}	-der
+!! verse 25
+{8cc	Ge-
+=50	=50
+4b	-nacht,
+8a	nou
+8g	en-
+8a	-gel-
+8b	-tjes
+=51	=51
+4a	al-
+8a	-le
+4g;}	gaer.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

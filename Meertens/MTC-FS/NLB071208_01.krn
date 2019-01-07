@@ -1,0 +1,78 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071208_01
+!! NLB record number: 71208
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	'k Heb
+8d	een
+=1	=1
+8g	vo-
+8g	-gel-
+8g	-tje
+8g	ge-
+8g	-von-
+8g;}	-den,
+!! verse 1
+{8f#	maa
+8g	het
+=2	=2
+8a	beest-
+8e	-je
+8e	kan
+8e	niet
+4e	zien
+4r;}	.
+!! verse 2
+=3	=3
+{8f#	Sche-
+8d	-le
+8d	Ca-
+8d	-ro-
+4d	-lien
+4r	.
+=4	=4
+8b	sche-
+8g	-le
+8g	Ca-
+8g	-ro-
+8g;}	-lien.
+!! verse 3
+{8d	Ik
+8d	heb
+8d	een
+=5	=5
+8g	vo-
+8g	-gel-
+8g	-tje
+8g	ge-
+8g	-von-
+8g;}	-den
+!! verse 4
+{8f#	maar
+8g	het
+=6	=6
+8a	beest-
+8e	-je
+8e	kan
+8e	niet
+4e	zien
+4r;}	.
+!! verse 5
+=7	=7
+{4f#	Sche-
+4f#	-le
+4e	Ca-
+4f#	-ro-
+=8	=8
+2g	-lien.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

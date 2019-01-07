@@ -1,0 +1,75 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113169_01
+!! NLB record number: 113169
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	De
+=1	=1
+4f	koei-
+8g	-en
+4a	dra-
+8b-	-gen
+=2	=2
+4cc	lan-
+8cc	-ge
+8cc	staar-
+8cc;}	-ten
+!! verse 1
+{8b-	en
+=3	=3
+4a	waar-
+8a	-om
+4g	doen
+8g	ze
+=4	=4
+[4.f	dat.
+4f];}	.
+!! verse 2
+{8f	Dan
+=5	=5
+4a	gaat
+8a	hun
+4a	gat-
+8a	-je
+=6	=6
+4.b-	frik-
+4.b-;}	-frak
+!! verse 3
+=7	=7
+{4.g	frik-
+4.g	-frak
+=8	=8
+4.cc	frik-
+4cc;}	-frak
+!! verse 4
+{8c	De
+=9	=9
+4f	koe-
+8g	-ien
+4a	dra-
+8b-	-gen
+=10	=10
+4cc	lan-
+8cc	-ge
+8cc	staar-
+8cc;}	-ten
+!! verse 5
+{8b-	en
+=11	=11
+4a	waar-
+8a	-om
+4g	doen
+8g	ze
+=12	=12
+[4.f	dat.
+4f];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

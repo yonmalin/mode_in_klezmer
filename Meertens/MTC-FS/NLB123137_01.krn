@@ -1,0 +1,79 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB123137_01
+!! NLB record number: 123137
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Wel
+=1	=1
+8g	An-
+8g	-ne
+8b	Ma-
+=2	=2
+8dd	-rie-
+8ee	-ken,
+8dd	waer
+=3	=3
+8cc	gaet
+8b	gy
+8a	naer
+=4	=4
+4g	toe,
+8d;}	toe?
+!! verse 1
+=5	=5
+{8g	An-
+8g	-ne
+8b	Ma-
+=6	=6
+8dd	-rie-
+8ee	-ken,
+8dd	waer
+=7	=7
+8cc	gaet
+8b	gy
+8a	naer
+=8	=8
+4g	toe?
+8r;}	.
+!! verse 2
+=9	=9
+{8b	'k Ga-
+8b	-ne
+8b	naer
+=10	=10
+8cc	bui-
+8cc	-ten
+8cc	al
+=11	=11
+8a	by
+8a	de
+8a	sol-
+=12	=12
+4b	-da-
+8b;}	-ten.
+!! verse 3
+=13	=13
+{8g	Hoep-
+8g	-sa-
+8g	-sa,
+=14	=14
+8a	fal-
+8a	-ha-
+8a	-la,
+=15	=15
+8f#	An-
+8f#	-ne-
+8f#	-Ma-
+=16	=16
+4g	-rie.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

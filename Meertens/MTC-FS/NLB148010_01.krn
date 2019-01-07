@@ -1,0 +1,57 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB148010_01
+!! NLB record number: 148010
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#c#]	*
+*D:	*
+!! verse 0
+{16f#	't Was
+16e	al
+=1	=1
+8d	op
+8b	een
+8a	zon-
+8d	-dag
+=2	=2
+8f#	mor-
+4e;}	-gen
+!! verse 1
+{16f#	't Was
+16g	al
+=3	=3
+8.a	in
+16b	de
+8a	maand
+(16g	van
+16f#)	.
+=4	=4
+4.e;}	mei,
+!! verse 2
+{16a	Dat
+16g	het
+=5	=5
+8f#	lie-
+8ee	-ve
+8dd	kind
+8cc#	ging
+=6	=6
+8b	wand'-
+4dd;}	-len,
+!! verse 3
+{16cc#	Met
+16b	haar
+=7	=7
+8.a	min-
+16b	-naar
+8a	aan
+8e	haar
+=8	=8
+4.d;}	zij.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,94 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140311_01
+!! NLB record number: 140311
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4g	De
+8.d	en-
+16d	-gel
+=2	=2
+4.g	komt
+(16a	van
+16b)	.
+=3	=3
+8.cc	bo-
+16b	-ven
+8.b	uit
+16a	de
+=4	=4
+4g	locht
+4r;}	.
+!! verse 1
+=5	=5
+{4g	En
+8.e	heeft
+16f#	de
+=6	=6
+8.g	her-
+16a	-ders
+8.a	ee-
+16g	-ne
+=7	=7
+4f#	maar
+(8.e	ge-
+16d)	.
+=8	=8
+4d	-brocht
+4r;}	.
+!! verse 2
+=9	=9
+{8.b	Sa,
+16dd	sa,
+8.cc	sa,
+16b	sa,
+=10	=10
+8.a	her-
+16b	-ders,
+8.cc	laat
+16b	uw
+=11	=11
+4b	schaap-
+(8.a	-kens
+16g)	.
+=12	=12
+4g	al;
+4r;}	.
+!! verse 3
+=13	=13
+{4d	Een
+8.e	kind
+16f#	gij
+=14	=14
+4g	vin-
+(8.a	-den
+16b)	.
+=15	=15
+8.cc	zult
+16b	in
+8.a	ee-
+16g	-nen
+=16	=16
+4a	stal
+4r;}	.
+!! verse 4
+=17	=17
+{4b	Die
+8.cc	u
+16dd	ver-
+=18	=18
+4cc	-los-
+(8.b	-sen
+16a)	.
+=19	=19
+2g;}	zal.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,54 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073667_03
+!! NLB record number: 73667
+!! NLB strophe/voice number: 3
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Mos-
+8d	-kou
+=1	=1
+8e	ste-
+8e	-ken
+8a	wij
+8a	in
+4f#;}	brand
+!! verse 1
+{8d	voor 't
+8d	be-
+=2	=2
+8e	-houd
+8e	van 't
+8a	va-
+8a	-der-
+4f#;}	-land
+!! verse 2
+{8d	Mos-
+8d	-kou
+=3	=3
+4.dd	ste-
+8cc	-ken
+4b	wij
+4g	in
+=4	=4
+(4g	brand
+2.e);}	.
+!! verse 3
+=5	=5
+{4.cc	voor
+8cc	't be-
+4b	-houd
+4d	van 't
+=6	=6
+4d	va-
+(8e	-der-
+8f#)	.
+4g;}	-land
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

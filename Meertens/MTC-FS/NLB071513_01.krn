@@ -1,0 +1,74 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071513_01
+!! NLB record number: 71513
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	't Was
+=1	=1
+4.g	op
+8a	een
+4.b	zo-
+8a	-mer-
+=2	=2
+4g	-mor-
+2d;}	-gen
+!! verse 1
+{4b	al
+=3	=3
+4.a	in
+8g	de
+4.a	maand
+8b	van
+=4	=4
+2.cc;}	mei
+!! verse 2
+{8dd	Dat
+8cc	't
+=5	=5
+4b	zoe-
+4b	-te
+4b	kind
+4dd	ging
+=6	=6
+4ee	wand'-
+2cc;}	-len
+!! verse 3
+{4a	al
+=7	=7
+4.g	aan
+8a	haar
+4.b	min-
+8cc	-naars
+=8	=8
+2.dd;}	zij
+!! verse 4
+{8b	Dat
+8cc	't
+=9	=9
+4dd	zoe-
+4dd	-te
+4dd	kind
+4gg	ging
+=10	=10
+4gg	wand'-
+2ee;}	-len
+!! verse 5
+{4ee	al
+=11	=11
+4.dd	aan
+8ee	haar
+(4dd	min-
+8cc)	.
+8a	-naars
+=12	=12
+2.g;}	zij.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

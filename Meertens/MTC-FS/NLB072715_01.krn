@@ -1,0 +1,65 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072715_01
+!! NLB record number: 72715
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4b	Toen
+8a	Ca-
+8a	-ro-
+8g	-li-
+8g	-na
+8b	o-
+8b	-ver 't
+=2	=2
+8dd	val-
+8dd	-le-
+8dd	-brug-
+8ee	-je
+4dd;}	kwam
+!! verse 1
+{8ee	Toen
+8ff#	kwam
+=3	=3
+4gg	zij
+4ff#	haar
+4ee	moe-
+4ff#	-der
+=4	=4
+2ee	te-
+4dd;}	-gen
+!! verse 2
+{4dd	Die
+=5	=5
+4gg	sprak
+4ff#	tot
+4ee	haar
+4ee	mijn
+=6	=6
+8.dd	lief-
+16dd	-ste
+8dd	Ca-
+8b	-ro-
+4g;}	-lien
+!! verse 3
+{8a	Waar
+8b	wilt
+=7	=7
+4cc	gij
+4dd	er
+4dd	zo
+8cc	er
+8b	nog
+=8	=8
+2a	he-
+2g;}	-nen
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

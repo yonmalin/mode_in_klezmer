@@ -1,0 +1,74 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072399_01
+!! NLB record number: 72399
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4g	In
+4a	Ant-
+8b	-wer-
+8a	-pen
+=2	=2
+(4g	woont
+4cc)	.
+4ee	een
+=3	=3
+(4dd	koop-
+4ee)	.
+4cc	-mans-
+=4	=4
+4a	-zoon
+2r;}	.
+!! verse 1
+=5	=5
+{8ff#	En
+8ff#	een
+4ee	koop-
+4dd	-mans-
+=6	=6
+2cc	-zoon
+4b	ver-
+=7	=7
+4a	-ho-
+4g	-len
+4r;}	.
+!! verse 2
+=8	=8
+{4g	Trok
+4a	met
+4cc	zijn
+=9	=9
+(4g	vrouw
+4cc)	.
+4ee	en
+=10	=10
+4dd	kin-
+4ee	-der
+8cc	van
+8b	het
+=11	=11
+4a	huis,
+2r;}	.
+!! verse 3
+=12	=12
+{8ff#	En
+8ff#	de
+4ee	meid
+4dd	blijft
+=13	=13
+2cc	thuis
+4b	be-
+=14	=14
+4a	-vo-
+4g	-len.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

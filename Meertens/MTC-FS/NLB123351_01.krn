@@ -1,0 +1,118 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB123351_01
+!! NLB record number: 123351
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[]	*
+*a:	*
+!! verse 0
+=1	=1
+{4.a	Jeugh-
+8g	-di-
+4a	-ghe
+=2	=2
+4.g	Nim-
+8f	-phen,
+4g	die
+=3	=3
+4.a	't boer-
+8g	-ten
+4a	be-
+=4	=4
+2.b;}	-mind,
+!! verse 1
+=5	=5
+{4.cc	vro-
+8b	-li-
+4cc	-ke
+=6	=6
+4.g	her-
+8f	-ten
+4g	hoe
+=7	=7
+4.a	mach
+8b	het
+4a	doch
+=8	=8
+4g	ko-
+4e	-men
+4r;}	.
+!! verse 2
+=9	=9
+{4.a	Dat
+8g	men,
+4a	in
+=10	=10
+4.g	plaet-
+8f	-se
+4g	van
+=11	=11
+4.a	't sin-
+8g	-gen,
+4a	be-
+=12	=12
+2.b;}	-gind
+!! verse 3
+=13	=13
+{4.cc	stil
+8b	en
+4cc	hoe
+=14	=14
+4.g	lan-
+8f	-ger
+4g	hoe
+=15	=15
+4.a	meer-
+8b	-der
+4a	te
+=16	=16
+4g	dro-
+4e	-men?
+4r;}	.
+!! verse 4
+=17	=17
+{4.cc	Is
+8b	de
+4a	ge-
+=18	=18
+4.dd	-nuch-
+8cc	-te
+4b	dan
+=19	=19
+2cc	so
+4a	be-
+=20	=20
+2.e;}	-snoeyd,
+!! verse 5
+=21	=21
+{4e	en
+4e	uit
+4d	u
+=22	=22
+4.e	jeugh-
+8d	-di-
+4e	-ge
+=23	=23
+4.e	har-
+8f	-ten
+4g	ge-
+=24	=24
+2a;}	-roeyd,
+!! verse 6
+{4cc	dat
+=25	=25
+2dd	die
+4cc	niet
+=26	=26
+4.b	we-
+8a	-der
+4g	en
+=27	=27
+2.a;}	bloeyd?
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

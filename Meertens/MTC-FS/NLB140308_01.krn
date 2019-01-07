@@ -1,0 +1,122 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140308_01
+!! NLB record number: 140308
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4g	Hoe
+4g	leit
+4g	dit
+=2	=2
+4.d	kin-
+8d	-de-
+4d	-ken
+=3	=3
+4g	hier
+4g	in
+4a	de
+=4	=4
+2.b;}	kou:
+!! verse 1
+=5	=5
+{4b	Ziet
+4a	eens
+4g	hoe
+=6	=6
+4dd	al-
+4cc	-le
+4b	zijn
+=7	=7
+4cc	le-
+4b	-de-
+4a	-kens
+=8	=8
+2b	be-
+4g;}	-ven
+!! verse 2
+=9	=9
+{4a	Ziet
+4a	eens,
+4a	hoe
+=10	=10
+4.b	dat
+8cc	het
+4dd	weent
+=11	=11
+4cc	en
+4.b	krijt
+8a	van
+=12	=12
+2.a;}	rouw!
+!! verse 3
+=13	=13
+{4b	Na,
+4a	na
+4b	na
+=14	=14
+4.g	na,
+8g	na,
+4g	na
+=15	=15
+4.cc	Kin-
+8dd	-de-
+(8cc	-ken
+8b)	.
+=16	=16
+2.a;}	teer
+!! verse 4
+=17	=17
+{4dd	Ei,
+4cc	zwijgt
+4dd	toch
+=18	=18
+4.b	stil
+8a	sus
+4g	sus!
+=19	=19
+4cc	En
+4.a	krijt
+8g	niet
+=20	=20
+2.g;}	meer.
+!! verse 5
+=21	=21
+{4b	Na,
+4a	na,
+4b	na,
+=22	=22
+4.g	na,
+8g	na,
+4g	na
+=23	=23
+4.cc	Kin-
+8dd	-de-
+(8cc	-ken
+8b)	.
+=24	=24
+2.a;}	teer
+!! verse 6
+=25	=25
+{4dd	Ei,
+4cc	zwijgt
+4dd	toch
+=26	=26
+4.b	stil
+8a	sus
+4g	sus!
+=27	=27
+4cc	En
+4.a	krijt
+8g	niet
+=28	=28
+2.g;}	meer.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

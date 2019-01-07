@@ -1,0 +1,141 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB132247_01
+!! NLB record number: 132247
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[b-e-]	*
+*B-:	*
+!! verse 0
+{8f	Laatst
+=1	=1
+8b-	voer
+8a	ik
+8g	o-
+8f	-ver
+=2	=2
+8b-	zee
+8b-	zee
+8b-;}	zee,
+!! verse 1
+{8cc	Laatst
+=3	=3
+8dd	voer
+8dd	ik
+8cc	o-
+8ff	-ver
+=4	=4
+4.r;}	.
+!! verse 2
+{8f	Laatst
+=5	=5
+8b-	voer
+8a	ik
+8g	o-
+8f	-ver
+=6	=6
+8b-	zee
+8b-	zee
+8b-;}	zee
+!! verse 3
+{8cc	Laatst
+=7	=7
+8dd	voer
+8dd	ik
+8cc	o-
+8ff	-ver
+=8	=8
+4dd	zee,
+8r;}	.
+!! verse 4
+{8dd	Al
+=9	=9
+8dd	met
+8dd	een
+8ee-	zil-
+8dd	-vren
+=10	=10
+8dd	sche-
+8cc	-pen-
+8cc	-tje,
+8r;}	.
+!! verse 5
+=11	=11
+{8b-	Fa-
+16b-	-la-
+16b-	-da-
+8dd	-ri-
+8b-	-a,
+=12	=12
+8b-	sche-
+8a	-pen-
+8a;}	-tje,
+!! verse 6
+{8dd	Al
+=13	=13
+8dd	met
+8dd	een
+8ee-	zil-
+8dd	-vren
+=14	=14
+8dd	sche-
+8cc	-pen-
+8cc;}	-tje,
+!! verse 7
+{8cc	En
+=15	=15
+8g	't schip-
+8g	-je
+8cc	brak
+8cc	in,
+=16	=16
+4.r;}	.
+!! verse 8
+{8dd	Al
+=17	=17
+8dd	met
+8dd	een
+8ee-	zil-
+8dd	-vren
+=18	=18
+8dd	sche-
+8cc	-pen-
+8cc	-tje,
+8r;}	.
+!! verse 9
+=19	=19
+{8b-	Fa-
+16b-	-la-
+16b-	-da-
+8dd	-ri-
+8b-	-a,
+=20	=20
+8b-	sche-
+8a	-pen-
+8a;}	-tje,
+!! verse 10
+{8dd	Al
+=21	=21
+8dd	met
+8dd	een
+8ee-	zil-
+8dd	-vren
+=22	=22
+8dd	sche-
+8cc	-pen-
+8cc;}	-tje,
+!! verse 11
+{8cc	En
+=23	=23
+8g	't schip-
+8g	-je
+8cc	brak
+8cc	in
+=24	=24
+4.f;}	twee!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,65 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB076487_01
+!! NLB record number: 76487
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Es
+8ee	was
+8ee	ein-
+=1	=1
+8dd	-mal
+8b	ein
+16dd	treu-
+16dd	-er
+8dd	Hu-
+=2	=2
+4..cc;}	-sar
+!! verse 1
+{16dd	Er
+=3	=3
+16.ff#	lieb-
+32ff#	-te
+8ff#	sein
+16.ee	Mäd-
+32ee	-chen
+8cc	ein
+=4	=4
+8ee	gan-
+8ee	-zes
+[4dd	Jahr.
+=5	=5
+8dd];}	.
+!! verse 2
+{8dd	Ein
+8ee	gan-
+8ff#	-zes
+=6	=6
+8gg	Jahr
+8dd	und
+8gg	noch
+8ff#	viel
+=7	=7
+*M3/4	*
+4.ee;}	mehr
+!! verse 3
+{8gg	Die
+8ff#	Lie-
+8ee	-be
+=8	=8
+(4dd	nahm
+8ee)	.
+8dd	kein
+8cc	En-
+8dd	-de
+=9	=9
+4.b;}	mehr.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

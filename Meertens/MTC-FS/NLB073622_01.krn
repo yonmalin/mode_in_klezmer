@@ -1,0 +1,53 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073622_01
+!! NLB record number: 73622
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8g	Er
+=1	=1
+8a	vlo-
+8g	-gen
+8a	drie
+8cc	ster-
+8b	-ren
+8a	al
+=2	=2
+8g	o-
+8f#	-ver
+8e	de
+8d;}	Rijn
+!! verse 1
+{8e	en
+8f#	er
+=3	=3
+(4g	vlo-
+8a)	.
+8g	-gen
+8f#	en
+8e	er
+=4	=4
+(4d	vlo-
+8cc)	.
+4b;}	-gen
+!! verse 2
+{8dd	drie
+=5	=5
+8dd	ster-
+8ee	-ren
+8dd	al
+8cc	o-
+8b	-ver
+8a	de
+=6	=6
+4.g	Rijn
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,39 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB167095_01
+!! NLB record number: 167095
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8cc	Die
+=1	=1
+(8cc	voor
+8dd	.
+8cc)	.
+8a	de
+4b-	waar-
+4g	-heid
+=2	=2
+4a	strijdt,
+4r;}	.
+!! verse 1
+{2e	Zal
+=3	=3
+8f	o-
+8f	-ver-
+8a	-win-
+8f	-nen
+4g	't zij-
+4c	-ner
+=4	=4
+2f	tijd!
+4r	.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

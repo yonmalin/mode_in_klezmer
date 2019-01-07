@@ -1,0 +1,108 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074876_02
+!! NLB record number: 74876
+!! NLB strophe/voice number: 2
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8b	Toen
+8cc	het
+=1	=1
+4dd	boer-
+4g	-tje
+8.g	hal-
+16g	-ver-
+8f#	-we-
+8g	-ge
+=2	=2
+2a	was
+8r;}	.
+!! verse 1
+{16a	En
+16a	de
+16a	e-
+16a	-zel
+8b	niet
+=3	=3
+4cc	ver-
+4a	-der
+4f#	meer
+(8e	wou
+8f#)	.
+=4	=4
+2.g;}	gaan.
+!! verse 2
+{(8b	Met
+8cc)	.
+=5	=5
+4dd	al
+8.g	dat
+16g	ge-
+8g	-vloek
+8g	en
+8a	dat
+8b	ge-
+=6	=6
+2cc	-tier
+8r;}	.
+!! verse 3
+{8cc	Dat
+8b	hielp
+8a	de
+=7	=7
+4dd	ar-
+4dd	-me
+4.a	boer
+8dd	geen
+=8	=8
+1dd;}	zier.
+!! verse 4
+=9	=9
+{4g	Ha-
+4b	-ha-
+4dd	-ha
+8cc	hi-
+8b	-o
+=10	=10
+*M3/4	*
+8.cc	fal-
+16dd	-de-
+4ee	-ra
+8dd	hi-
+8cc	-o
+=11	=11
+8.b	fal-
+16cc	-de-
+2dd;}	-ra
+!! verse 5
+=12	=12
+*M4/4	*
+{4b	Ha
+4cc	ha
+4ee	ha
+8dd	hi-
+8cc	-o
+=13	=13
+*M3/4	*
+8.b	fal-
+16cc	-de-
+4dd	-ra
+8cc	hi-
+8b	-o
+=14	=14
+4a	fal-
+4b	-de-
+8.e	-ral-
+16f#	-de-
+=15	=15
+*M4/4	*
+2g	-ra
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,83 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB076169_01
+!! NLB record number: 76169
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{[4.b	't Was
+4b]	.
+8a	des
+=2	=2
+4g	nachts
+8f#	om
+4g	twa-
+8b	-lef
+=3	=3
+4.ee	u-
+4.dd;}	-ren
+!! verse 1
+=4	=4
+{4dd	't Kind-
+8dd	-je
+8dd	schrei-
+8dd	-de
+8dd	van
+=5	=5
+8ee	hon-
+8ee	-ger
+8dd	en
+4.f#;}	dorst
+!! verse 2
+=6	=6
+{4g	Maar
+8b	het
+4dd	kreeg
+8dd	toch
+=7	=7
+8dd	zul-
+8dd	-le-
+8ee	-ke
+4dd	sla-
+8dd;}	-gen
+!! verse 3
+=8	=8
+{4gg	Dat
+8ff#	het
+4ee	niet
+8ee	meer
+=9	=9
+4ff#	schrei-
+8ee	-en
+4.dd;}	dorst.
+!! verse 4
+=10	=10
+{4g	Maar
+8b	het
+4dd	kreeg
+8dd	toch
+=11	=11
+8dd	zul-
+8dd	-le-
+8ee	-ke
+4ff#	sla-
+8dd;}	-gen
+!! verse 5
+=12	=12
+{4gg	Dat
+8ff#	het
+4ee	niet
+8ee	meer
+=13	=13
+4ff#	schrei-
+8ee	-en
+4.dd;}	dorst.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

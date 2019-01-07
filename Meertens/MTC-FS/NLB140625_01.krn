@@ -1,0 +1,55 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140625_01
+!! NLB record number: 140625
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/2	*
+*MM120	*
+*k[b-]	*
+*d:	*
+!! verse 0
+=1	=1
+{2d	Heer,
+2d	geef
+2d	ons
+=2	=2
+(2.a	kracht
+4g	.
+4f	.
+4e	.
+=3	=3
+4d	.
+4e	.
+4f	.
+4g	.
+2a);}	.
+!! verse 1
+=4	=4
+{2.f	Sta
+4e	ons
+2d;}	bij!
+!! verse 2
+=5	=5
+{2dd	Help
+2dd	ons
+2dd	in
+=6	=6
+(2.a	angst
+4g	.
+4f	.
+4e	.
+=7	=7
+4d	.
+4e	.
+4f	.
+4g);}	.
+!! verse 3
+{2a	en
+=8	=8
+1d	nood!
+2r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

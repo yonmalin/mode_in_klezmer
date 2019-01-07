@@ -1,0 +1,83 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB112043_01
+!! NLB record number: 112043
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-e-]	*
+*B-:	*
+!! verse 0
+=1	=1
+{4b-	Waar
+8.dd	blijft
+16b-	mijn
+4f	her-
+8.f	-der
+16f	het
+=2	=2
+8.g	is
+16f	al
+8.e-	meer
+16d	dan
+8.c;}	tijd
+!! verse 1
+{16f	Ik
+8.f	ga
+16f	al
+=3	=3
+4f	ver-
+4b-	-der
+4.r	.
+8b-	zoo
+=4	=4
+8.cc	hij
+16b-	me
+8.a	had
+16b-	ge-
+4.cc;}	-zeid
+!! verse 2
+{8dd	De
+=5	=5
+8.cc	tijd
+16b-	is
+8.a	lang
+16b-	voor-
+4.cc	-bij
+8dd	dat
+=6	=6
+8.cc	ik
+16b-	zou
+8.a	in
+16b-	de
+4.cc;}	wei
+!! verse 3
+{8dd	Hem
+=7	=7
+8.dd	met
+16dd	mijn
+8.ff	schaap-
+16ee-	-jes
+(8.dd	wach-
+16cc)	.
+8.b-;}	-ten
+!! verse 4
+{16cc	Of
+=8	=8
+8.dd	zou
+16cc	die
+8.b-	her-
+16a	-der
+8.b-	vrij
+16b-	mijn
+8.b-	gunst
+16cc	ver-
+=9	=9
+(4.dd	-ach-
+8cc)	.
+2b-;}	-ten?
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

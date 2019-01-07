@@ -1,0 +1,124 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB123338_01
+!! NLB record number: 123338
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8f	God
+=1	=1
+4f	Pan
+8g	die
+4a	sat
+8g	int
+=2	=2
+4f	veld
+8f	en
+4f;}	teld'
+!! verse 1
+{8cc	sijn
+=3	=3
+4cc	schaep-
+8dd	-kens
+4ff	die
+8ee	daer
+=4	=4
+4dd	weid-
+8cc	-den
+(8b-	in
+8cc)	.
+8dd	het
+=5	=5
+4.cc	gras.
+4r;}	.
+!! verse 2
+{8f	Sijn
+=6	=6
+4f	pij-
+8g	-pen
+4a	hy
+8g	daer
+=7	=7
+4f	nam,
+8f	en
+4f;}	klam
+!! verse 3
+{8cc	op
+=8	=8
+4cc	ee-
+8dd	-nen
+4ff	berg,
+8ee	daet
+=9	=9
+4dd	't seer
+8cc	ge-
+8b-	-nu-
+8cc	-che-
+8dd	-lijk
+=10	=10
+4.cc	was.
+4r;}	.
+!! verse 4
+{8ff	Int
+=11	=11
+4ff	oog
+8dd	kreeg
+4cc	hy
+8cc	wel-
+=12	=12
+4.a;}	-dra
+!! verse 5
+{4.g	de
+=13	=13
+8a	schoo-
+16g	-ne
+8a	Sil-
+16b-	-vi-
+4cc	-a,
+8cc	de
+=14	=14
+4dd	schoo-
+8cc	-ne
+(8cc	Sil-
+8b-)	.
+8a	-vi-
+=15	=15
+4.g	-a,
+4r;}	.
+!! verse 6
+{8cc	die
+=16	=16
+4cc	Co-
+8dd	-ry-
+4cc	-don
+8a	ont-
+=17	=17
+4f	-moeten-
+8g	-de
+4f;}	was.
+!! verse 7
+{8f	Sy
+=18	=18
+(8f	scheen
+8g)	.
+8a	ver-
+4b-	-stoord,
+8b-	hy
+=19	=19
+8g	leid-
+8a	-de-
+8b-	-se
+4cc	voort
+8ff	door
+=20	=20
+4ff	't groe---
+8ee	-ne
+4.ff;}	gras.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

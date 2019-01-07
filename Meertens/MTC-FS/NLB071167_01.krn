@@ -1,0 +1,87 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071167_01
+!! NLB record number: 71167
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Drie
+=1	=1
+4dd	ko-
+8dd	-nin-
+4b	-gen,
+8b	drie
+=2	=2
+4dd	ko-
+8dd	-nin-
+4b;}	-gen,
+!! verse 1
+{8b	geef
+=3	=3
+4dd	mij
+8dd	een
+4ee	nieu-
+8ee	-we
+=4	=4
+4.dd	hoed,
+4r;}	.
+!! verse 2
+{8dd	m'n
+=5	=5
+4dd	ou-
+8dd	-we
+4ee	is
+8ee	ver-
+=6	=6
+4.dd	-sle-
+4b;}	-ten,
+!! verse 3
+{8b	m'n
+=7	=7
+8dd	moe-
+8dd	-der
+8dd	die
+8ee	mag
+8ee	het
+8ee	niet
+=8	=8
+4.dd	we-
+4b;}	-ten
+!! verse 4
+{8b	En
+=9	=9
+4dd	als
+8dd	m'n
+4dd	moe-
+8b	-der
+=10	=10
+4ee	wa-
+8ee	-fels
+4ee;}	bakt
+!! verse 5
+{8ee	dan
+=11	=11
+4dd	loopt
+8dd	de
+8dd	bo-
+8dd	-ter
+8b	in 't
+=12	=12
+4.ee	goot-
+4ee;}	-je
+!! verse 6
+{8ee	van
+=13	=13
+4.dd	krik-
+4.dd	-krak
+=14	=14
+4.cc	zood-
+4cc;}	-je.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

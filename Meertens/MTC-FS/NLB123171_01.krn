@@ -1,0 +1,81 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB123171_01
+!! NLB record number: 123171
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Daer
+=1	=1
+4g	ging
+8a	een
+8b	pa-
+8b	-ter-
+8cc	-ken
+=2	=2
+4dd	langs
+8cc	de
+4.b;}	kant,
+!! verse 1
+=3	=3
+{4dd	hei
+8cc	be-
+8b	-zin-
+8cc	-ne
+8dd	de
+=4	=4
+4g	mei
+8g	zoo
+4.g;}	zei,
+!! verse 2
+=5	=5
+{4dd	hei
+8cc	be-
+8b	-zin-
+8cc	-ne
+8dd	de
+=6	=6
+4.g	mei.
+8r;}	.
+!! verse 3
+{(8b	Hy
+8cc)	.
+=7	=7
+4dd	nam
+8dd	het
+8dd	non-
+8dd	-ne-
+8dd	-ken
+=8	=8
+4ee	by
+8cc	haer
+4.cc;}	hand,
+!! verse 4
+=9	=9
+{4dd	hei!
+8cc	be-
+8b	-zin-
+8cc	-ne
+8dd	de
+=10	=10
+4g	mei
+8g	zoo
+4.g;}	zei,
+!! verse 5
+=11	=11
+{4dd	hei!
+8cc	be-
+8b	-zin-
+8cc	-ne
+8dd	de
+=12	=12
+4.g	mei.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,72 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073756_01
+!! NLB record number: 73756
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Het
+=1	=1
+4g	was
+8b	al
+4dd	van
+8b	een
+=2	=2
+4a	rui-
+8b	-ter-
+4g;}	-tje
+!! verse 1
+{8dd	Die
+=3	=3
+8.dd	ach-
+16ee	-ter
+8ff#	de
+8gg	deu-
+8gg	-re
+8gg	van 't
+=4	=4
+4.ff#	wijn-
+4.ee	-huis
+=5	=5
+[4.dd	zat
+4dd];}	.
+!! verse 2
+{8dd	't Was
+=6	=6
+8.gg	niets
+16ff#	dan
+8ee	al
+4gg	van
+8ee	zijn
+=7	=7
+4dd	zoet-
+8cc	-e-
+4b;}	-lief
+!! verse 3
+{8dd	al-
+=8	=8
+4dd	-waar
+8dd	dat
+8dd	hij
+8cc	er
+8b	van
+=9	=9
+4a;}	sprak
+!! verse 4
+{8b	al
+(8cc	waar
+8dd)	.
+8ee	dat
+=10	=10
+8dd	hij
+8b	er
+8a	van
+4g;}	sprak.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

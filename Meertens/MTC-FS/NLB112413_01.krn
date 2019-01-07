@@ -1,0 +1,86 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB112413_01
+!! NLB record number: 112413
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Een
+=1	=1
+8g	schoen-
+16f#	-lap-
+16g	-per-
+8g	-tje
+8g	zou
+8f#	er
+8g	uit
+=2	=2
+4a	lap-
+8f#	-pen
+4d;}	gaan
+!! verse 1
+{8a	Mooi
+=3	=3
+4a	meis-
+8a	-je
+8a	zou
+8g	er
+8a	de
+=4	=4
+4b	pen
+8g	in
+4g;}	slaan
+!! verse 2
+{8b	En
+=5	=5
+4dd	zoo
+8dd	trok
+4dd	hij
+8ee	het
+=6	=6
+4dd	naal-
+8cc	-de-
+4b;}	-tje
+!! verse 3
+{8b	En
+=7	=7
+4dd	zoo
+8dd	trok
+4dd	hij
+8ee	het
+=8	=8
+4dd	dra-
+8cc	-de-
+4b;}	-tje
+!! verse 4
+{8d	En
+=9	=9
+4g	zoo
+8d	sloeg
+4g	hij
+8d	de
+=10	=10
+4g	pen
+8a	de
+4.b;}	pen
+!! verse 5
+=11	=11
+{8dd	Weet
+8dd	je
+8dd	wel
+8dd	dat
+8dd	ik
+8cc	een
+=12	=12
+8b	lap-
+8b	-per-
+8a	-tje
+4g;}	ben.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,69 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113595_01
+!! NLB record number: 113595
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{8g	En
+=1	=1
+4g	hij
+8g	komt
+4a	nooit
+8a	weer-
+=2	=2
+4.g	-om!
+4r;}	.
+!! verse 1
+{8f	Mal-
+=3	=3
+4e	-broek
+8e	die
+(8e	vaart
+8d)	.
+8e	ten
+=4	=4
+4.f	oor-
+4e;}	-log,
+!! verse 2
+{8e	Mal-
+=5	=5
+4d	-broek
+8d	die
+(8d	vaart
+8c)	.
+8d	ten
+=6	=6
+(4e	oor
+8d)	.
+4c;}	log,
+!! verse 3
+{8d	Hij
+=7	=7
+4e	loopt
+8e	zo
+(8e	vlug
+8d)	.
+8e	van
+=8	=8
+4f	rom-
+8g	-bom-
+4a;}	-bom,
+!! verse 4
+{8a	maar
+=9	=9
+4g	hij
+8f	komt
+4e	nooit
+8d	weer-
+=10	=10
+4.c	-om!
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,93 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073538_01
+!! NLB record number: 73538
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Niet
+=1	=1
+8g	lan-
+8g	-ger
+8d	dan
+8g	gis-
+8g	-te-
+8d	-ren-
+=2	=2
+(4g	-a-
+8b)	.
+4d;}	-vond
+!! verse 1
+{8d	Stond
+=3	=3
+8g	ik
+8g	voor
+8g	mijn
+8g	zoe-
+8g	-te-
+8a	-liefs
+=4	=4
+[4.b	deur
+4b];}	.
+!! verse 2
+{8b	Ik
+=5	=5
+8a	zei-
+8cc	-de
+8b	lief
+8a	Bet-
+8cc	-tie
+16b	doe
+16b	maar
+=6	=6
+(4a	o-
+8b)	.
+4g;}	-pen
+!! verse 3
+{16g	Doe
+16g	maar
+=7	=7
+8f#	o-
+8b	-pen
+8a	want
+8g	ik
+8a	sta
+8e	d'r
+=8	=8
+4.d;}	veur
+!! verse 4
+{(4cc	Ik
+8dd)	.
+=9	=9
+8b	zei-
+8b	-de
+8b	lief
+8a	Bet-
+8cc	-tie
+16b	doe
+16b	maar
+=10	=10
+(4a	o-
+8b)	.
+4g;}	-pen
+!! verse 5
+{16a	Doe
+16a	maar
+=11	=11
+8f#	o-
+8b	-pen
+8a	want
+8g	ik
+8a	sta
+8e	d'r
+=12	=12
+[4.d	veur.
+4d];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

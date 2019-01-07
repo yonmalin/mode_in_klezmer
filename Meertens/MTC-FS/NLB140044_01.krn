@@ -1,0 +1,67 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140044_01
+!! NLB record number: 140044
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[b-e-]	*
+*B-:	*
+!! verse 0
+{8f	Mien
+=1	=1
+8.b-	voa-
+16f	-der
+4f	zee
+(8b-	lest
+8a)	.
+=2	=2
+*M4/4	*
+8.g	tee-
+16g	-g'n
+4g	mie:
+8r;}	.
+!! verse 1
+{8b-	Ik
+8a	wait
+8b-	'n
+=3	=3
+*M2/4	*
+[4cc	gui-
+8.cc]	.
+16b-	-je
+=4	=4
+*M3/4	*
+8a	vrouw
+8g	veur
+8f;}	die,
+!! verse 2
+{8e-	Mien
+8d	jung
+8e-	doe
+=5	=5
+*M2/4	*
+4f	most
+4f	goan
+=6	=6
+*M4/4	*
+4f	trau-
+4.b-;}	-w'n
+!! verse 3
+{8b-	Mien
+8b-	jong
+8cc	doe
+=7	=7
+*M2/4	*
+4dd	most
+4dd	goan
+=8	=8
+*M3/4	*
+4cc	trau-
+4b-	-w'n
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

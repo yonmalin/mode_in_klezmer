@@ -1,0 +1,95 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070147_01
+!! NLB record number: 70147
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8g	Tus-
+8a	-sen
+8b	Keu-
+8cc	-len
+8dd	en
+8dd	Pa-
+4dd;}	-rijs
+!! verse 1
+=2	=2
+{8ee	ligt
+8dd	de
+8cc	weg
+8b	naar
+4a	Ro-
+4g;}	-me
+!! verse 2
+=3	=3
+{8g	Al
+8a	die
+8b	met
+8cc	ons
+8dd	mee
+8dd	wil
+4dd;}	gaan
+!! verse 3
+=4	=4
+{8ee	Die
+8dd	moet
+16cc	on-
+16cc	-ze
+8b	ma-
+8a	-nie-
+16a	-ren
+16a	ver-
+4g;}	-staan
+!! verse 4
+=5	=5
+*M6/8	*
+{4b	Zo
+8b	zijn
+8b	on-
+8b	-ze
+8b	ma-
+=6	=6
+4.cc	-nie-
+4.cc;}	-ren
+!! verse 5
+=7	=7
+{4a	Zo
+8a	zijn
+8a	on-
+8a	-ze
+8a	ma-
+=8	=8
+4.dd	-nie-
+4.dd;}	-ren
+!! verse 6
+=9	=9
+{4g	Zo
+8a	zijn
+8b	on-
+8b	-ze
+8cc	ma-
+=10	=10
+8dd	-nie-
+8dd	-ren
+8dd	ma-
+4dd	-nie-
+8dd;}	-ren
+!! verse 7
+=11	=11
+{4ee	Zo
+8dd	zijn
+8cc	on-
+8cc	-ze
+8b	ma-
+=12	=12
+4.a	-nie-
+4.g;}	-ren
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

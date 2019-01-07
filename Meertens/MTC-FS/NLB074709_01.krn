@@ -1,0 +1,80 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074709_01
+!! NLB record number: 74709
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{16b	Toen
+=1	=1
+8dd	ik
+8dd	op
+8dd	Neer-
+8dd	-lands
+8g	ber-
+8g	-gie
+8g;}	stund,
+!! verse 1
+{8b	heurd'
+=2	=2
+8cc	ik
+8b	de
+8cc	glaas-
+8dd	-sies
+4ee	klin-
+8.dd;}	-ken
+!! verse 2
+{16dd	Ik
+=3	=3
+12ee	zou
+12ee	d'r
+12ee	zo
+8ee	graag
+8ee	ies
+16dd	fal-
+16dd	-de-
+16ee	-ral-
+16dd	-de-
+8.dd;}	-ra
+!! verse 3
+{16b	Ik
+=4	=4
+16a	zou
+16a	d'r
+8b	zo
+8cc	graag
+8b	ies
+(8a	drin-
+8dd)	.
+8.dd;}	-ken
+!! verse 4
+{16dd	Ik
+=5	=5
+12ee	zou
+12ee	d'r
+12ee	zo
+8ee	graag
+8ee	ies
+16dd	fal-
+16dd	-de-
+16ee	-ral-
+16dd	-de-
+8.dd;}	-ra
+!! verse 5
+{16b	Ik
+=6	=6
+16a	zou
+16a	d'r
+8b	zo
+8cc	graag
+8b	ies
+4a	drin-
+8.g;}	-ken
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

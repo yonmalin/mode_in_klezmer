@@ -1,0 +1,75 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140782_01
+!! NLB record number: 140782
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-e-]	*
+*B-:	*
+!! verse 0
+=1	=1
+{2f	Ee-
+4g	-re
+4a	zij
+=2	=2
+2b-	God
+4a	in
+4b-	den
+=3	=3
+(2cc	hoo-
+2f)	.
+=4	=4
+2dd	-ge!
+2r;}	.
+!! verse 1
+=5	=5
+{2ee-	Vre-
+4dd	-de
+4cc	op
+=6	=6
+2dd	aar-
+4cc	-de,
+4b-	op
+=7	=7
+(2b-	aar-
+2a)	.
+=8	=8
+2b-;}	-de
+!! verse 2
+{4b-	En
+4g	de
+=9	=9
+2f	men-
+4f	-schen
+4f	een
+=10	=10
+2B-	wel-
+(4c	-be-
+4d)	.
+=11	=11
+(2e-	-ha-
+2f)	.
+=12	=12
+2B-;}	-gen
+!! verse 3
+{([2b-	A-
+=13	=13
+4b-]	.
+4a	.
+4b-	.
+4cc)	.
+=14	=14
+2b-	-men,
+(2f	A-
+=15	=15
+2g	.
+2f)	.
+=16	=16
+2f	-men.
+2r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

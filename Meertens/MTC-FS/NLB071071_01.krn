@@ -1,0 +1,117 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071071_01
+!! NLB record number: 71071
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Ter-
+=1	=1
+(8g	-schel-
+8b)	.
+8dd	-ling
+(8gg	hoog
+8ff#)	.
+8gg	ver-
+=2	=2
+(4dd	-he-
+8cc)	.
+(8b	-ven
+8cc);}	.
+!! verse 1
+{8dd	hoe
+=3	=3
+(8dd	hoog
+8ee)	.
+8dd	spant
+(8a	gij
+8cc)	.
+8b	de
+=4	=4
+[4.g	kroon
+4g];}	.
+!! verse 2
+{16dd	De
+16dd	ma-
+=5	=5
+8g	-tro-
+8b	-zen
+8dd	zij
+8gg	lo-
+8ff#	-pen
+8gg	als
+=6	=6
+(4dd	he-
+8cc)	.
+8b;}	-ren
+!! verse 3
+{8cc	en
+8dd	zij
+=7	=7
+8ee	min-
+8ee	-nen
+8dd	de
+(8a	zee
+8cc)	.
+8b	zo
+=8	=8
+[4.g	schoon
+4g];}	.
+!! verse 4
+{8dd	Maar
+=9	=9
+(8dd	is
+8cc)	.
+8b	het
+(8a	in
+8b)	.
+(16cc	de
+16dd)	.
+=10	=10
+4ee	win-
+8dd	-ter-
+4b;}	-tijd,
+!! verse 5
+{8dd	dan
+=11	=11
+8dd	zij-
+8cc	-ne
+8b	de
+(8a	meis-
+8b)	.
+8cc	-jes
+=12	=12
+4ee	ja
+8dd	ver-
+4b;}	-blijd.
+!! verse 6
+{8dd	En
+=13	=13
+(8g	valt
+8b)	.
+8dd	er
+(8gg	dan
+8ff#)	.
+8gg	ook
+=14	=14
+4.dd;}	snee
+!! verse 7
+{4.ee	Dan
+=15	=15
+8dd	rij-
+8ee	-den
+8dd	zij
+(8a	met
+8cc)	.
+8b	de
+=16	=16
+[4.g	slee.
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

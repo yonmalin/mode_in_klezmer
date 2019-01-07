@@ -1,0 +1,54 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070361_01
+!! NLB record number: 70361
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Daar
+=1	=1
+4b	land-
+4b	-de
+4a	ze-
+4a	-kre
+=2	=2
+2g	mor-
+4d;}	-gen
+!! verse 1
+{4b	een
+=3	=3
+4dd	vreemd-
+4dd	-ling
+4cc	te
+4cc	Zaan-
+=4	=4
+2.b;}	-dam
+!! verse 2
+{4dd	En
+=5	=5
+4ee	nie-
+4ee	-mand
+4ee	wist
+4ee	te
+=6	=6
+2dd	zeg-
+4b;}	-gen,
+!! verse 3
+{4dd	van
+=7	=7
+4dd	wel-
+(8cc	-ke
+8b)	.
+4cc	plaats
+4dd	hij
+=8	=8
+2b	kwam.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

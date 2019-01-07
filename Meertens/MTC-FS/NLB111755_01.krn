@@ -1,0 +1,105 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB111755_01
+!! NLB record number: 111755
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{8c	Dan-
+8c	-sen
+8d	we
+4e	niet
+8f	om
+=2	=2
+4.g	Jop-
+4g;}	-pie
+!! verse 1
+{8g	Dan
+=3	=3
+4a	dan-
+8g	-sen
+4g	wij
+8f	om 't
+=4	=4
+4.e	kop-
+4.c;}	-pie
+!! verse 2
+=5	=5
+{4e	O
+8e	die
+4e	Jop-
+8e	-pie
+=6	=6
+4f	is
+8f	zoo
+4.f;}	zoet
+!! verse 3
+=7	=7
+{4d	Dat
+8d	ze
+4d	nog
+8d	eens
+=8	=8
+4g	proe-
+8g	-ven
+4g;}	moet
+!! verse 4
+{8G	Al
+=9	=9
+4c	uit
+8d	het
+8e	tie-
+8e	-re-
+8f	-le
+=10	=10
+4.g	kop-
+4g;}	-pie,
+!! verse 5
+{8f	waar
+=11	=11
+8e	Jop-
+8e	-pie
+8e	uit
+4d	drin-
+8d	-ken
+=12	=12
+2.c;}	moet
+!! verse 6
+=13	=13
+{4cc	Wup-
+8g	-tem
+4g	Jop-
+8g	-pie,
+=14	=14
+4cc	wup-
+8g	-tem
+4g	Jop-
+8g;}	-pie
+!! verse 7
+=15	=15
+{4c	Al-
+8d	-tijd
+4e	heeft
+8f	ze
+=16	=16
+4g	tie-
+8a	-re-
+4g;}	-lier,
+!! verse 8
+{8f	en
+=17	=17
+4e	al-
+8e	-tijd
+4d	heeft
+8g	ze
+=18	=18
+2.c;}	dorst.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

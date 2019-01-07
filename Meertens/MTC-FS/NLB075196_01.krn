@@ -1,0 +1,95 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075196_01
+!! NLB record number: 75196
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4dd	Ik
+8cc	ben
+8b	ver-
+4cc	-blijd
+8.dd	in
+16dd	de
+=2	=2
+8.ee	fleur
+16ee	van
+8dd	mijn
+8cc#	jonk
+4dd	le-
+4b;}	-ven
+!! verse 1
+=3	=3
+{4dd	Nu
+8cc	heb
+8b	ik
+4cc	aan
+4dd	de
+=4	=4
+4ee	wet
+(8dd	vol-
+8cc#)	.
+2dd;}	-daan.
+!! verse 2
+=5	=5
+{4g	Nu
+8b	wil
+8dd	ik
+4gg	mij
+4ff#	in't
+=6	=6
+*M5/4	*
+8.ee	hu-
+16ff#	-we-
+8gg	-lijk
+8ee	be-
+4dd	-ge-
+8b;}	-ven
+!! verse 3
+{8b	En
+8cc	naar
+8dd	mijn
+=7	=7
+*M4/4	*
+4.ee	Ro-
+8ee	-sa-
+4dd	-li-
+4cc	-na
+=8	=8
+1b;}	gaan.
+!! verse 4
+=9	=9
+{4g	Nu
+8b	wil
+8dd	ik
+4gg	mij
+4ff#	in't
+=10	=10
+*M5/4	*
+8.ee	hu-
+16ff#	-we-
+8gg	-lijk
+8ee	be-
+4dd	-ge-
+8b;}	-ven
+!! verse 5
+{8b	En
+8cc	naar
+8dd	mijn
+=11	=11
+*M4/4	*
+4.ee	Ro-
+8ee	-sa-
+4dd	-li-
+4cc	-na
+=12	=12
+1b;}	gaan.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

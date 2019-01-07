@@ -1,0 +1,88 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070060_01
+!! NLB record number: 70060
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Er
+=1	=1
+4g	woon-
+8g	-de
+8g	van
+4b	ver-
+8a	-re
+8a	al
+=2	=2
+4g	aan
+(8f#	de
+8e)	.
+4d;}	dijk
+!! verse 1
+{4f#	Een
+=3	=3
+4a	koop-
+4a	-man
+4a	van
+(8g	veel
+8a)	.
+=4	=4
+4b	goe-
+4dd	-dren
+4a;}	rijk
+!! verse 2
+{(8g	Een
+8a)	.
+=5	=5
+4b	koop-
+4b	-man
+4b	van
+4dd	veel
+=6	=6
+(4cc	goe-
+4b)	.
+4a;}	-dren
+!! verse 3
+{4cc	Die
+=7	=7
+4b	wou
+4g	met
+4g	vrouw
+4b	en
+=8	=8
+8a	kin-
+8g	-de-
+8f#	-ren
+8e	op
+4d;}	reis
+!! verse 4
+{8d	en
+8d	de
+=9	=9
+4e	meid
+4d	was
+4e	thuis
+4cc	ge-
+=10	=10
+(4b	-ble-
+4a)	.
+4g;}	-ven
+!! verse 5
+{8a	en
+8b	de
+=11	=11
+4cc	meid
+4cc	was
+4b	thuis
+4g	ge-
+=12	=12
+2a	-ble-
+4g;}	-ven.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

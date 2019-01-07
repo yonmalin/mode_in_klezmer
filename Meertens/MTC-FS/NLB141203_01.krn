@@ -1,0 +1,123 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB141203_01
+!! NLB record number: 141203
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#c#]	*
+*D:	*
+!! verse 0
+{8.a	Lie-
+16g	-ve
+=1	=1
+4f#	moe-
+4d	-der
+8.dd	wil
+16b	niet
+=2	=2
+4a	wee-
+4f#;}	-nen,
+!! verse 1
+{8.d	Want
+16f#	uw
+=3	=3
+4.a	zoon
+8b	is
+(12b	klas-
+12a)	.
+12f#	-si-
+=4	=4
+2e;}	-aan,
+!! verse 2
+{8.a	Aan
+16g	de
+=5	=5
+4f#	krijgs-
+4d	-tucht
+8.dd	on-
+16b	-der-
+=6	=6
+4cc#	-wor-
+4cc#;}	-pen,
+!! verse 3
+{8.a	en
+16b	naar
+=7	=7
+8.cc#	Vlis-
+16b	-sin-
+4dd	-gen
+4g#	ge-
+=8	=8
+2a;}	-gaan.
+!! verse 4
+{8.a	Daag-
+16a	-lijks
+=9	=9
+4.b	moet
+8f#	hij
+8.f#	ex-
+16a	-er-
+=10	=10
+4a	-cee-
+4g;}	-ren
+!! verse 5
+{8.g	In
+16g	de
+=11	=11
+4.a	dui-
+8e	-nen
+8.g	op
+16g	en
+=12	=12
+2f#;}	neer,
+!! verse 6
+{8.f#	Pre-
+16g	-sen-
+=13	=13
+8.a	-tee-
+16b	-ren
+8.cc#	de
+16dd	ge-
+(8.ee	-we-
+16dd)	.
+=14	=14
+4b;}	-ren,
+!! verse 7
+{8.cc#	Schild-
+16b	-wacht
+4a	spe-
+=15	=15
+4a#	-len
+8.b	en
+16g	nog
+4f#	meer,
+=16	=16
+4r;}	.
+!! verse 8
+{8.f#	Pre-
+16g	-sen-
+8.a	-tee-
+16b	-ren
+=17	=17
+8.cc#	de
+16dd	ge-
+(8.ee	-we-
+16dd)	.
+4b;}	-ren,
+!! verse 9
+=18	=18
+{8.cc#	Schild-
+16b	-wacht
+4.a	spe-
+8dd	-len
+=19	=19
+(12cc#	en
+12b)	.
+12cc#	nog
+4dd;}	meer.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,105 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074047_03
+!! NLB record number: 74047
+!! NLB strophe/voice number: 3
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Zeg
+=1	=1
+8g	ja-
+8g	-ger-
+8g	-ke
+8g	lief
+8a	en
+8cc	zeg
+=2	=2
+*M9/8	*
+8b	ja-
+8a	-ger-
+8cc	-ke
+[4.b	fijn,
+4b];}	.
+!! verse 1
+{8dd	Ge
+=3	=3
+*M6/8	*
+8dd	meugt
+8ee	er
+8dd	wel
+(8b	bij
+8dd)	.
+8cc	me
+=4	=4
+*M9/8	*
+[4.b	zijn,
+4.b];}	.
+!! verse 2
+{4dd	Maar
+8b	komt
+=5	=5
+*M6/8	*
+8b	d'a-
+8b	-vond
+8b	een
+8b	kwart
+8cc	na
+8dd	de
+=6	=6
+(4ee	nach-
+8cc)	.
+4a;}	-te,
+!! verse 3
+{8cc	Dan
+=7	=7
+16a	zal
+16a	ik
+8b	u
+8cc	als
+8a	ja-
+8b	-ger
+8ee	ver-
+=8	=8
+*M9/8	*
+(4dd	-wach-
+8cc)	.
+[4.b	-ten,
+4b];}	.
+!! verse 4
+{8dd	Dan
+=9	=9
+*M6/8	*
+8dd	zal
+8ee	ik
+8dd	u
+8a	la-
+8cc	-ten
+8b	er-
+=10	=10
+4g	-in,
+8a	er-
+4b	-in,
+8ee	er-
+=11	=11
+[4.dd	-in,
+4dd];}	.
+!! verse 5
+{8dd	Dan
+=12	=12
+8dd	zal
+8ee	ik
+8dd	u
+8a	la-
+8cc	-ten
+8b	er-
+=13	=13
+[4.g	-in.
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,101 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB167456_01
+!! NLB record number: 167456
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+=1	=1
+{(8f	Do-
+8c)	.
+2a	-na
+=2	=2
+(8g	no-
+8c)	.
+2b-	-bis
+=3	=3
+(4a	pa-
+4g)	.
+4f	-cem,
+=4	=4
+4f	pa-
+2e;}	-cem,
+!! verse 1
+=5	=5
+{(4dd	Do-
+8cc	.
+8b-)	.
+(8a	-na
+8g)	.
+=6	=6
+(4.cc	no-
+8b-)	.
+4a	-bis
+=7	=7
+(8a	pa-
+8g	.
+4f	.
+4e)	.
+=8	=8
+2.f;}	-cem!
+!! verse 2
+=9	=9
+{2.cc	Do-
+=10	=10
+2.cc	-na
+=11	=11
+(4cc	no-
+4b-)	.
+4a	-bis
+=12	=12
+4a	pa-
+2g;}	-cem,
+!! verse 3
+=13	=13
+{4dd	Do-
+2dd	-na
+=14	=14
+4cc	no-
+2cc	-bis
+=15	=15
+(8cc	pa-
+8b-	.
+4a	.
+4g)	.
+=16	=16
+2.f;}	-cem!
+!! verse 4
+=17	=17
+{2.f	Do-
+=18	=18
+2.e	-na
+=19	=19
+(4.f	no-
+8g)	.
+(8a	-bis
+8b-)	.
+=20	=20
+4cc	pa-
+2c;}	-cem,
+!! verse 5
+=21	=21
+{4b-	Do-
+2b-	-na
+=22	=22
+4a	no-
+2a	-bis
+=23	=23
+(8e	pa-
+8g	.
+4cc	.
+4c)	.
+=24	=24
+2.f;}	-cem!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

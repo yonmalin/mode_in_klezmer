@@ -1,0 +1,107 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB112239_01
+!! NLB record number: 112239
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8.b	Maar-
+16a	-tje
+=1	=1
+4.g	ging
+8d	met
+=2	=2
+4e	Kees
+4f#	uit
+=3	=3
+4g	rij-
+4d	-den
+=4	=4
+4r;}	.
+!! verse 1
+{8.b	In
+16a	een
+=5	=5
+8d	ho-
+8g	-ge,
+8f#	ho-
+8g	-ge
+=6	=6
+4a	sjees.
+4r	.
+=7	=7
+4r;}	.
+!! verse 2
+{8.f#	Geef
+16a	me
+=8	=8
+4.dd	nou
+8b	een
+=9	=9
+4.dd	zoen,
+8b	riep
+=10	=10
+4a	Kees
+4r	.
+=11	=11
+4r;}	.
+!! verse 3
+{8.f#	Of
+16g	ik
+=12	=12
+8a	laat
+8a	je
+8a	van
+8a	de
+=13	=13
+8b	wa-
+8a	-gen
+4a	glij-
+=14	=14
+4d	-den.
+4r	.
+=15	=15
+4r;}	.
+!! verse 4
+{8.d	Maart-
+16d	-je
+=16	=16
+4.a	zei:
+8d	't is
+=17	=17
+8d	jou
+8d	ge-
+4b	-gund.
+=18	=18
+4r;}	.
+!! verse 5
+{8.b	Doe
+16g	wat
+=19	=19
+8a	jij
+8d	niet
+8d	la-
+8d	-ten
+=20	=20
+(4g	kunt,
+4dd)	.
+=21	=21
+4r;}	.
+!! verse 6
+{8.dd	Doe
+16dd	wat
+=22	=22
+8b	jij
+8g	niet
+8a	la-
+8d	-ten
+=23	=23
+4g;}	kunt.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)
