@@ -1,0 +1,122 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Ich dank dir, lieber Herre
+!!!SCT:	BWV 347
+!!!PC#:	2
+!!!AGN:	chorale
+**solfa	**solfa	**solfa	**solfa
+*ICvox	*ICvox	*ICvox	*ICvox
+*Ibass	*Itenor	*Ialto	*Isoprn
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefG2	*clefG2
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*A:	*A:	*A:	*A:
+*M4/4	*M4/4	*M4/4	*M4/4
+*met(C)	*met(C)	*met(C)	*met(C)
+*MM100	*MM100	*MM100	*MM100
+do	mi	so	do
+ti	.	.	.
+=1	=1	=1	=1
+la	mi	la	do
+mi	mi	so	do
+.	re	.	.
+fa	do	la	do
+.	ti	.	.
+fi	la	la	re
+=2	=2	=2	=2
+so	re	so	te
+re	.	fi	la
+.	do	.	.
+so	ti	re	so
+so	so	ti	re
+=3	=3	=3	=3
+do	so	do	mi
+re	fi	ti	re
+.	.	la	.
+mi	mi	so	do
+re	.	.	ti
+do	.	.	la
+=4	=4	=4	=4
+re	re	so	ti
+re	.	fi	la
+.	do	.	.
+so	ti	re	so
+=:|!	=:|!	=:|!	=:|!
+*>B	*>B	*>B	*>B
+mi	ti	mi	so
+.	.	re	.
+=5	=5	=5	=5
+la	do	do	fa
+ti	re	.	.
+do	mi	do	mi
+.	fa	.	.
+so	so	ti	re
+mi	so	do	do
+do	.	te	.
+=6	=6	=6	=6
+fa	fa	la	do
+.	.	ti	re
+mi	so	do	mi
+fa	.	.	.
+so	so	ti	re
+mi	so	di	mi
+=7	=7	=7	=7
+re	la	re	fa
+.	re	do	.
+mi	.	te	mi
+.	di	.	.
+fa	re	la	re
+te	.	so	.
+la	mi	la	di
+=8	=8	=8	=8
+re	fa	la	re
+mi	ti	so	so
+.	.	fa	.
+=9	=9	=9	=9
+la	do	mi	do
+so	ti	fa	re
+fa	la	.	.
+mi	so	so	mi
+.	so	.	.
+re	fa	la	fa
+.	.	ti	.
+=10	=10	=10	=10
+do	mi	do	so
+re	fa	.	.
+mi	so	.	fa
+fa	la	.	mi
+so	ti	so	re
+re	la	re	fa
+=11	=11	=11	=11
+la	la	do	mi
+ti	so	ti	.
+do	fa	la	re
+.	mi	.	.
+ti	re	so	so
+so	.	.	.
+do	mi	la	.
+.	fa	ti	fa
+=12	=12	=12	=12
+do	so	do	mi
+ti	.	.	re
+la	.	.	do
+.	fa	.	re
+so	mi	do	mi
+fa	la	.	.
+so	re	ti	re
+.	so	.	.
+.	fa	.	.
+=13	=13	=13	=13
+do	mi	so	do
+==	==	==	==
+*-	*-	*-	*-
+!!!hum2abc: -Q ''
+!!!title: @{PC#}. @{OTL@@DE}
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c. 1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

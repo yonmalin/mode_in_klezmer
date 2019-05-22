@@ -1,0 +1,111 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Keinen hat Gott verlassen
+!!!SCT:	BWV 369
+!!!PC#:	129
+!!!AGN:	chorale
+**solfa	**solfa	**solfa	**solfa
+*ICvox	*ICvox	*ICvox	*ICvox
+*Ibass	*Itenor	*Ialto	*Isoprn
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefG2	*clefG2
+*k[f#]	*k[f#]	*k[f#]	*k[f#]
+*e:	*e:	*e:	*e:
+*M4/4	*M4/4	*M4/4	*M4/4
+*met(C)	*met(C)	*met(C)	*met(C)
+*MM100	*MM100	*MM100	*MM100
+do	me	do	so
+=1	=1	=1	=1
+ti	re	re	so
+.	me	.	.
+so	fa	do	so
+.	.	ti	.
+do	me	do	so
+te	.	re	.
+le	le	me	do
+.	so	.	.
+=2	=2	=2	=2
+te	fa	me	te
+.	me	.	.
+.	fa	re	.
+.	.	.	le
+me	me	te	so
+me	me	te	so
+.	.	.	le
+=3	=3	=3	=3
+re	fa	te	te
+do	.	.	.
+te	fa	te	re
+.	.	le	.
+do	me	so	me
+te	re	.	.
+le	do	do	fa
+=4	=4	=4	=4
+so	re	ti	so
+=:|!	=:|!	=:|!	=:|!
+*>B	*>B	*>B	*>B
+la	do	do	fa
+=5	=5	=5	=5
+te	re	te	fa
+.	do	.	.
+te	re	te	fa
+do	me	la	.
+re	fa	te	fa
+.	.	do	.
+te	te	re	fa
+=6	=6	=6	=6
+me	te	me	so
+fa	.	.	.
+so	.	.	.
+le	.	.	.
+te	te	re	fa
+re	te	fa	fa
+=7	=7	=7	=7
+me	te	me	so
+.	.	.	la
+re	te	fa	te
+me	do	.	.
+fa	re	fa	te
+fa	do	.	la
+.	.	me	.
+=8	=8	=8	=8
+te	te	re	te
+te	fa	re	te
+=9	=9	=9	=9
+me	me	te	so
+fa	.	.	.
+me	te	me	so
+ra	.	.	.
+do	do	me	le
+ra	.	.	.
+do	so	ra	te
+te	.	.	.
+=10	=10	=10	=10
+le	so	do	do
+so	.	.	.
+le	fa	.	.
+te	.	.	.
+do	me	do	so
+me	so	do	so
+=11	=11	=11	=11
+le	do	do	fa
+so	le	do	me
+fa	.	.	re
+so	so	do	re
+.	me	.	.
+so	fa	ti	.
+.	.	.	do
+=12	=12	=12	=12
+do	mi	so	do
+==	==	==	==
+*-	*-	*-	*-
+!!!hum2abc: -Q ''
+!!!title: @{PC#}. @{OTL@@DE}
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c. 1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

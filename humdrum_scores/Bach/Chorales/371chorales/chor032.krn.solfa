@@ -1,0 +1,110 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Nun danket alle Gott
+!!!SCT:	BWV 386
+!!!PC#:	32
+!!!AGN:	chorale
+**solfa	**solfa	**solfa	**solfa
+*ICvox	*ICvox	*ICvox	*ICvox
+*Ibass	*Itenor	*Ialto	*Isoprn
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefG2	*clefG2
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*A:	*A:	*A:	*A:
+*M4/4	*M4/4	*M4/4	*M4/4
+*met(C)	*met(C)	*met(C)	*met(C)
+*MM100	*MM100	*MM100	*MM100
+do	mi	do	so
+=1	=1	=1	=1
+do	mi	do	so
+re	.	.	.
+mi	mi	do	so
+do	.	.	.
+fa	fa	do	la
+so	.	.	.
+la	fa	do	la
+fa	.	.	.
+=2	=2	=2	=2
+do	mi	do	so
+r	r	r	r
+do	la	do	mi
+=3	=3	=3	=3
+ti	so	re	fa
+do	so	do	mi
+so	so	ti	re
+fa	.	.	.
+mi	so	do	mi
+do	.	.	fa
+=4	=4	=4	=4
+so	so	do	re
+.	fa	la	.
+.	mi	.	.
+.	fa	ti	.
+do	mi	so	do
+=:|!	=:|!	=:|!	=:|!
+*>B	*>B	*>B	*>B
+so	re	ti	re
+.	do	la	.
+=5	=5	=5	=5
+so	ti	so	re
+la	do	.	.
+ti	re	so	re
+so	.	.	.
+do	.	so	mi
+re	do	.	.
+.	ti	.	.
+mi	do	so	mi
+do	.	.	.
+=6	=6	=6	=6
+so	ti	so	re
+r	r	r	r
+so	so	ti	re
+=7	=7	=7	=7
+do	so	do	mi
+re	.	.	fi
+mi	so	ti	so
+ti	re	.	.
+do	mi	la	so
+la	.	.	.
+re	re	la	fi
+re	.	.	.
+=8	=8	=8	=8
+so	re	ti	so
+r	r	r	r
+do	mi	do	so
+=9	=9	=9	=9
+fa	fa	do	la
+mi	.	re	.
+re	mi	mi	so
+di	.	.	.
+re	la	mi	fa
+fa	.	re	.
+so	te	re	mi
+la	la	di	.
+=10	=10	=10	=10
+re	la	re	fa
+r	r	r	r
+mi	so	do	mi
+fa	.	.	.
+=11	=11	=11	=11
+so	so	ti	re
+do	so	do	mi
+la	la	.	fa
+fa	la	do	re
+re	fa	.	.
+so	re	ti	.
+so	so	.	do
+=12	=12	=12	=12
+do	mi	so	do
+==	==	==	==
+*-	*-	*-	*-
+!!!hum2abc: -Q ''
+!!!title: @{PC#}. @{OTL@@DE}
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c. 1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

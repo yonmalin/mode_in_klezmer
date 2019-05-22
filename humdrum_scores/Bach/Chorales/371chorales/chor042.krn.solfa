@@ -1,0 +1,77 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Du Friedef&uuml;rst, Herr Jesu Christ
+!!!SCT:	BWV 67/7
+!!!PC#:	42
+!!!AGN:	chorale
+**solfa	**solfa	**solfa	**solfa
+*ICvox	*ICvox	*ICvox	*ICvox
+*Ibass	*Itenor	*Ialto	*Isoprn
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefG2	*clefG2
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*A:	*A:	*A:	*A:
+*M4/4	*M4/4	*M4/4	*M4/4
+*met(C)	*met(C)	*met(C)	*met(C)
+*MM100	*MM100	*MM100	*MM100
+do	so	do	mi
+=1	=1	=1	=1
+fa	fa	la	do
+mi	.	.	.
+re	fa	ti	re
+do	so	do	mi
+ti	so	re	so
+=2	=2	=2	=2
+la	la	do	fa
+ti	so	re	fa
+do	so	do	mi
+mi	so	do	so
+=3	=3	=3	=3
+la	la	do	fa
+ti	.	.	.
+do	so	do	mi
+fa	la	do	re
+so	so	ti	re
+=4	=4	=4	=4
+do	so	do	mi
+=:|!	=:|!	=:|!	=:|!
+*>B	*>B	*>B	*>B
+so	so	ti	re
+la	.	.	.
+=5	=5	=5	=5
+ti	re	so	re
+so	so	ti	re
+do	so	do	mi
+so	so	ti	re
+.	fa	.	.
+=6	=6	=6	=6
+la	mi	la	do
+re	fa	ti	re
+mi	mi	si	ti
+mi	mi	si	ti
+=7	=7	=7	=7
+la	mi	la	do
+so	so	ti	re
+do	so	do	mi
+ti	.	so	re
+.	.	.	mi
+=8	=8	=8	=8
+la	fa	do	fa
+so	so	do	mi
+fa	la	do	re
+so	so	ti	.
+.	fa	.	.
+=9	=9	=9	=9
+do	mi	so	do
+==	==	==	==
+*-	*-	*-	*-
+!!!hum2abc: -Q ''
+!!!title: @{PC#}. @{OTL@@DE}
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c. 1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

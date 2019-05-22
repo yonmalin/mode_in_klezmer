@@ -1,0 +1,89 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Herr Christ, der ein'ge Gotts Sohn
+!!!SCT:	BWV 96/6
+!!!PC#:	303
+!!!AGN:	chorale
+**solfa	**solfa	**solfa	**solfa
+*ICvox	*ICvox	*ICvox	*ICvox
+*Ibass	*Itenor	*Ialto	*Isoprn
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefG2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*F:	*F:	*F:	*F:
+*M4/4	*M4/4	*M4/4	*M4/4
+*met(C)	*met(C)	*met(C)	*met(C)
+*MM100	*MM100	*MM100	*MM100
+do	mi	so	do
+=1	=1	=1	=1
+fa	fa	la	do
+.	.	ti	re
+do	so	do	mi
+so	so	ti	re
+.	fa	.	.
+la	mi	la	do
+=2	=2	=2	=2
+re	fa	la	ti
+mi	mi	si	.
+.	re	.	.
+la	do	la	la
+la	la	di	mi
+=3	=3	=3	=3
+re	la	re	fa
+mi	.	do	.
+fa	so	ti	re
+mi	so	do	mi
+do	.	.	.
+so	so	ti	re
+.	fa	.	.
+=4	=4	=4	=4
+do	mi	so	do
+=:|!	=:|!	=:|!	=:|!
+*>B	*>B	*>B	*>B
+do	mi	so	do
+ti	.	.	re
+=5	=5	=5	=5
+la	la	do	mi
+so	la	di	mi
+fa	la	re	fa
+mi	.	.	.
+re	la	re	fa
+=6	=6	=6	=6
+mi	so	re	so
+.	.	do	.
+fa	.	.	.
+so	so	ti	re
+ti	so	re	so
+=7	=7	=7	=7
+do	so	do	mi
+di	so	te	mi
+re	fa	la	re
+ri	fi	la	do
+=8	=8	=8	=8
+mi	ti	la	ti
+.	do	.	.
+mi	re	si	.
+fa	do	la	la
+mi	so	di	mi
+=9	=9	=9	=9
+re	la	re	fa
+mi	.	do	.
+fa	so	ti	re
+mi	so	do	mi
+fa	.	.	.
+so	so	ti	re
+.	fa	.	.
+=10	=10	=10	=10
+do	mi	so	do
+==	==	==	==
+*-	*-	*-	*-
+!!!hum2abc: -Q ''
+!!!title: @{PC#}. @{OTL@@DE}
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c. 1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

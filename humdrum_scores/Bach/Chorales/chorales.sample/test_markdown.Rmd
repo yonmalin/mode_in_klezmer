@@ -1,0 +1,30 @@
+---
+title: "my_script"
+author: "Daniel"
+date: "2/4/2019"
+output:
+  word_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r cars}
+summary(cars)
+```
+
+## This is my project.
+
+this is my project.
+
+
+```{r}
+setwd("~/corpora/humdrum_scores/Bach/Chorales/chorales.sample/")
+my_data <- read.table("my_data.tsv", header =T)
+str(my_data)
+hist(my_data$entropy)
+
+```

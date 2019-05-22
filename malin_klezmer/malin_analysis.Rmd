@@ -1,0 +1,118 @@
+---
+title: "Klezmer Corpus"
+date: "March 16, 2019"
+output:
+  pdf_document: default
+  html_notebook: default
+  html_document: default
+---
+
+```{r}
+
+library(devtools)
+#install_github("ggbiplot", "vqv")
+library(gmodels)
+require(ggplot2)
+library(ggbiplot)
+library(class)
+library(gplots)
+setwd(".")
+```
+
+Let's look at the transition data. It doesn't seem to be looking at chromatic notes, for some reason.
+
+```{r}
+transitions <- read.csv("transition_data.csv", sep = "\t")
+transitions <- transitions[,2:50]
+rownames(transitions) <- transitions[,1]
+transitions <- transitions[2:49]
+trans_matrix <- as.matrix(transitions)
+
+
+
+heatmap(trans_matrix, Colv = NA, Rowv = NA, scale="column")
+library(pheatmap)
+tune_names <- transitions[,2]
+
+
+png("heatmap.png", width = 700, height = 700)
+# 2. Create the plot
+this <- pheatmap(transitions, cutree_rows = 4, fontsize =4)
+# 3. Close the file
+dev.off()
+
+save_pheatmap_pdf <- function(x, filename, width=7, height=7) {
+   stopifnot(!missing(x))
+   stopifnot(!missing(filename))
+   pdf(filename, width=width, height=height)
+   grid::grid.newpage()
+   grid::grid.draw(x$gtable)
+   dev.off()
+}
+save_pheatmap_pdf(this, "heatmap.pdf")
+```
+
+Three note transitions.
+```{r}
+three_transitions <- read.csv("three_transition_data.csv", sep = "\t")
+three_transitions <- transitions[,2:50]
+rownames(three_transitions) <- transitions[,1]
+transitions <- transitions[2:49]
+trans_matrix <- as.matrix(transitions)
+
+
+
+heatmap(trans_matrix, Colv = NA, Rowv = NA, scale="column")
+library(pheatmap)
+tune_names <- transitions[,2]
+pheatmap(transitions, cutree_rows = 4, fontsize =4)
+
+```
+
+
+
+
+
+
+
+Here's a PCA: 
+```{r}
+klezmer_data <- read.csv("data.csv", header=T)
+glm(group ~ entropy + key_cor, data=klezmer_data, family="binomial")
+
+columns_wanted <- c(3,6)  
+Matrix <- klezmer_data[,columns_wanted]
+Matrix <- as.matrix(Matrix)
+Matrix[is.na(Matrix)] <- 0
+# log.pieces <- log(Matrix)
+log.pieces <- log(Matrix)
+group <- klezmer_data[,1]
+
+pieces.pca <- prcomp(Matrix,
+                 center = TRUE,
+                 scale. = TRUE) 
+print(pieces.pca)
+
+theta <- seq(0,2*pi,length.out = 100)
+circle <- data.frame(x = cos(theta), y = sin(theta))
+p <- ggplot(circle,aes(x,y)) + geom_path()
+
+loadings <- data.frame(pieces.pca$rotation, 
+                       .names = row.names(pieces.pca$rotation))
+p + geom_text(data=loadings, 
+              mapping=aes(x = PC1, y = PC2, label = .names, colour = .names)) +
+  coord_fixed(ratio=1) +
+  labs(x = "PC1", y = "PC2")
+```
+
+
+
+```{r}
+g <- ggbiplot(pieces.pca, obs.scale = 1, var.scale = 1, 
+              groups = group, ellipse = TRUE, 
+              circle = TRUE)
+g <- g + scale_color_discrete(name = '')
+g <- g + theme(legend.direction = 'horizontal', 
+               legend.position = 'top')
+print(g)
+```
