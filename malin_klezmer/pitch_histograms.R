@@ -17,20 +17,20 @@ ggplot(completedata2, aes(x=V2, y=V1, fill=collection)) +
 
 altered_dorian_data <- altered_dorian %>%
   group_by(measure) %>%
-  count(V1) %>%
-  filter(V1 != 0)
+  count(V1)
+
 
 ggplot(altered_dorian_data,
        aes(x=V1, y=n)) +
        geom_bar(stat = "identity") +
-       facet_wrap_paginate(~ measure, ncol=4, nrow = 4, page=4)
+       facet_wrap_paginate(~ measure, ncol=4, nrow = 4, page=3)
 
-ggsave("alt_dom_49-end.pdf")
+ggsave("alt_dom_33-48.png")
 
 freygish_data <- freygish %>%
   group_by(measure) %>%
-  count(V1) %>%
-  filter(V1 != 0)
+  count(V1)
+
 
 ggplot(freygish_data,
        aes(x=V1, y=n)) +
@@ -39,13 +39,14 @@ ggplot(freygish_data,
 
 ggsave("freygish_33-end.pdf")
 
-completedata %>%
-  group_by(measure) %>%
-  count(V1) %>%
-  filter(V1 != 0)
+complete_data <- completedata %>%
+  group_by(measure, collection) %>%
+  count(V1)
 
-ggplot(freygish_data,
-       aes(x=V1, y=n)) +
+ggplot(complete_data,
+       aes(x=V1, y=n, fill=collection)) +
   geom_bar(stat = "identity") +
-  facet_wrap_paginate(~ measure, ncol=4, nrow = 4, page=1)
+  facet_wrap_paginate(~ measure, ncol=4, nrow = 4, page=4)
+
+ggsave("combined_49-end.png")
 

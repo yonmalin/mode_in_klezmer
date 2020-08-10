@@ -1,0 +1,2476 @@
+**kern	**kern	**kern	**dynam
+*part1	*part1	*part1	*part1
+*staff3	*staff2	*staff1	*staff1
+*IPiano	*IPiano	*IPiano	*IPiano
+*clefG2	*clefG2	*clefG2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*M4/8	*M4/8	*M4/8	*M4/8
+=1	=1	=1	=1
+!Tempo Marking: moderement anime	!Tempo Marking: moderement anime	!Tempo Marking: moderement anime	!Tempo Marking: moderement anime
+!	!Expression: leger egal et lointain	!	!
+2r	(<48fLLL	2r	pp
+.	48g	.	.
+.	48a	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	.	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	.	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	.	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ)	.	.
+=2	=2	=2	=2
+2r	(<48fLLL	2r	.
+.	48g	.	.
+.	48a	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	.	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	.	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	.	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ)	.	.
+=3	=3	=3	=3
+2r	(<48fLLL	16dd' 16ddd	.
+.	48g	.	.
+.	48a	.	.
+.	48b-	16r	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	8r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	4r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	.	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ)	.	.
+=4	=4	=4	=4
+2r	(<48fLLL	16aa-' 16aaa-	.
+.	48g	.	.
+.	48a	.	.
+.	48b-	16r	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	8r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	4r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	.	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ)	.	.
+=5	=5	=5	=5
+*	*	*8va	*
+2r	(<48fLLL	16ddd' 16dddd	.
+.	48g	.	.
+.	48a	.	.
+*	*	*X8va	*
+.	48b-	16r	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	8r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	4r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	.	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ)	.	.
+=6	=6	=6	=6
+2r	(<48fLLL	16aa-' 16aaa-	.
+.	48g	.	.
+.	48a	.	.
+.	48b-	16r	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	8r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	4r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	.	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ)	.	.
+=7	=7	=7	=7
+!	!	!Expression: marque	!
+4ryy	(<48fLLL	8c'^^ 8d	.
+.	48g	.	.
+.	48a	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	8r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+*clefF4	*	*	*
+!Expression: marque	!	!	!
+8AAA-'^^	24.r	4r	.
+.	48b-LLL	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+8r	48fLLL	.	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ)	.	.
+=8	=8	=8	=8
+*	*	*8va	*
+2r	(<48fLLL	8ddd' 8cccc 8dddd	pp
+.	48g	.	.
+.	48a	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+*	*	*X8va	*
+.	48fLLL	8r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	4r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	.	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ)	.	.
+=9	=9	=9	=9
+!	!	!Expression: marque	!
+4ryy	(<48fLLL	8c'^^ 8d	.
+.	48g	.	.
+.	48a	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	8r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+!Expression: marque	!	!	!
+8AAA-'^^	24.r	4r	.
+.	48b-LLL	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+8r	48fLLL	.	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ)	.	.
+=10	=10	=10	=10
+*	*	*8va	*
+2r	(<48fLLL	8ddd' 8cccc 8dddd	pp
+.	48g	.	.
+.	48a	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+*	*	*X8va	*
+.	48fLLL	8r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a	.	.
+.	48g-XJJJ	.	.
+.	48fLLL	4r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	.	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ)	.	.
+=11	=11	=11	=11
+!	!	!	!Dynamic Expression: sempre
+2r	(<48fLLL	8r	pp
+.	48g	.	.
+.	48a	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	16dd' 16ddd	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	16r	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	8r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+*	*	*8va	*
+.	48fLLL	16aa-' 16aaa-	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	16r	.
+.	48a-	.	.
+.	48g-JJJ)	.	.
+=12	=12	=12	=12
+!	!Expression: en se rapprochant peu a peu	!	!
+2r	(<48fLLL	8r	.
+.	48g	.	.
+.	48a	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	16ddd' 16dddd	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	16r	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	8r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	16aa-' 16aaa-	.
+.	48gn	.	.
+.	48an	.	.
+*	*	*X8va	*
+.	48b-	16r	.
+.	48a-	.	.
+.	48g-JJJ)	.	.
+=13	=13	=13	=13
+2r	(<48fLLL	8r	.
+.	48g	.	.
+.	48a	.	.
+.	48b-	.	.
+.	48a	.	.
+.	48g-XJJJ	.	.
+.	48fLLL	16dd' 16ddd	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	16r	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	8r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+*	*	*8va	*
+.	48fLLL	16aa-' 16aaa-	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	16r	.
+.	48a-	.	.
+.	48g-JJJ)	.	.
+=14	=14	=14	=14
+2r	(<48fLLL	8r	.
+.	48g	.	.
+.	48a	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	16ddd' 16dddd	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	16r	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	8r	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	16aa-' 16aaa-	.
+.	48gn	.	.
+.	48an	.	.
+*	*	*X8va	*
+.	48b-	16r	.
+.	48a-	.	.
+.	48g-JJJ)	.	.
+=15	=15	=15	=15
+!	!	!	!Dynamic Expression: cresc. molto
+2r	(<48fLLL	2r	.
+.	48g	.	.
+.	48a	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ	.	.
+.	48fLLL	.	.
+.	48gn	.	.
+.	48an	.	.
+.	48b-	.	.
+.	48a-	.	.
+.	48g-JJJ)	.	.
+.	(>48ffLLL	.	.
+.	48gg	.	.
+.	48aa	.	.
+.	48bb-	.	.
+.	48aa-	.	.
+.	48gg-JJJ	.	.
+.	48ffLLL	.	.
+.	48ggn	.	.
+.	48aan	.	.
+.	48bb-	.	.
+.	48aa-	.	.
+.	48gg-JJJ)	.	.
+=16	=16	=16	=16
+*	*8va	*	*
+2r	(>48fffLLL	2r	.
+.	48gggn	.	.
+.	48aaan	.	.
+.	48bbb-	.	.
+.	48aaa-	.	.
+.	48ggg-JJJ	.	.
+.	48fffLLL	.	.
+.	48gggn	.	.
+.	48aaan	.	.
+.	48bbb-	.	.
+.	48aaa-	.	.
+.	48ggg-JJJ	.	.
+.	48fffLLL	.	.
+.	48gggn	.	.
+.	48aaan	.	.
+.	48bbb-	.	.
+.	48aaa-	.	.
+.	48ggg-JJJ	.	.
+.	48fffLLL	.	.
+.	48gggn	.	.
+.	48aaan	.	.
+.	48bbb-	.	.
+.	48aaa-	.	.
+.	48ggg-JJJ)	.	.
+*	*X8va	*	*
+=17	=17	=17	=17
+*	*	*8va	*
+!	!	!Expression: m.g.	!
+2r	2r	(>48bbb-LLL	f
+.	.	48aaa-	.
+.	.	48ggg-	.
+.	.	48eee-	.
+.	.	48ddd-HJJJ)	.
+*	*	*X8va	*
+.	.	48ryy	.
+.	.	8ryy	.
+.	.	4ryy	.
+=18	=18	=18	=18
+*8ba	*	*	*
+!Expression: glis	!	!s	!
+8BBBB-h	16r	2r	.
+.	16c-' 16d-	.	p
+*X8ba	*	*	*
+8r	8r	.	.
+4r	4r	.	.
+=19	=19	=19	=19
+2r	16r	2r	.
+!	!	!	!Dynamic Expression: piu
+.	16c-' 16d-	.	p
+.	8r	.	.
+.	4r	.	.
+=20	=20	=20	=20
+2r	48Bn'LLL	2r	pp
+.	48cn' 48d-	.	.
+.	48B'	.	.
+.	48c' 48d-	.	.
+.	48B'	.	.
+.	48c'JJJ 48d-	.	.
+.	48c'LLL	.	.
+.	48d-' 48e-	.	.
+.	48c'	.	.
+.	48d-' 48e-	.	.
+.	48c'	.	.
+.	48d-'JJJ 48e-	.	.
+.	48B'LLL	.	.
+.	48c' 48d-	.	.
+.	48B'	.	.
+.	48c' 48d-	.	.
+.	48B'	.	.
+.	48c'JJJ 48d-	.	.
+.	48c'LLL	.	.
+.	48d-' 48e-	.	.
+.	48c'	.	.
+.	48d-' 48e-	.	.
+.	48c'	.	.
+.	48d-'JJJ 48e-	.	.
+=21	=21	=21	=21
+2r	48Bn'LLL	2r	.
+.	48cn' 48d-	.	.
+.	48B'	.	.
+.	48c' 48d-	.	.
+.	48c'	.	.
+.	48d-'JJJ 48e-	.	.
+.	48B'LLL	.	.
+.	48c' 48d-	.	.
+.	48B'	.	.
+.	48c' 48d-	.	.
+.	48c'	.	.
+.	48d-'JJJ 48e-	.	.
+.	48B'LLL	.	.
+.	48c' 48d-	.	.
+.	48B'	.	.
+.	48c' 48d-	.	.
+.	48c'	.	.
+.	48d-'JJJ 48e-	.	.
+.	48B'LLL	.	.
+.	48c' 48d-	.	.
+.	48B'	.	.
+.	48c' 48d-	.	.
+.	48c'	.	.
+.	48d-'JJJ 48e-	.	.
+=22	=22	=22	=22
+2r	48bn'LLL	2r	.
+.	48cc' 48dd-	.	.
+.	48b'	.	.
+.	48cc' 48dd-	.	.
+.	48b'	.	.
+.	48cc'JJJ 48dd-	.	.
+.	48cc'LLL	.	.
+.	48dd-' 48ee-	.	.
+.	48cc'	.	.
+.	48dd-' 48ee-	.	.
+.	48cc'	.	.
+.	48dd-'JJJ 48ee-	.	.
+.	48b'LLL	.	.
+.	48cc' 48dd-	.	.
+.	48b'	.	.
+.	48cc' 48dd-	.	.
+.	48b'	.	.
+.	48cc'JJJ 48dd-	.	.
+.	48cc'LLL	.	.
+.	48dd-' 48ee-	.	.
+.	48cc'	.	.
+.	48dd-' 48ee-	.	.
+.	48cc'	.	.
+.	48dd-'JJJ 48ee-	.	.
+=23	=23	=23	=23
+!	!	!	!Dynamic Expression: crescendo
+2r	48bn'LLL	2r	.
+.	48cc' 48dd-	.	.
+.	48b'	.	.
+.	48cc' 48dd-	.	.
+.	48cc'	.	.
+.	48dd-'JJJ 48ee-	.	.
+.	48b'LLL	.	.
+.	48cc' 48dd-	.	.
+.	48b'	.	.
+.	48cc' 48dd-	.	.
+.	48cc'	.	.
+.	48dd-'JJJ 48ee-	.	.
+.	48b'LLL	.	.
+.	48cc' 48dd-	.	.
+.	48b'	.	.
+.	48cc' 48dd-	.	.
+.	48cc'	.	.
+.	48dd-'JJJ 48ee-	.	.
+.	48b'LLL	.	.
+.	48cc' 48dd-	.	.
+.	48b'	.	.
+.	48cc' 48dd-	.	.
+.	48cc'	.	.
+.	48dd-'JJJ 48ee-	.	.
+=24	=24	=24	=24
+2r	48bbn'LLL	2r	.
+.	48ccc' 48ddd-	.	.
+.	48bb'	.	.
+.	48ccc' 48ddd-	.	.
+.	48ccc'	.	.
+.	48ddd-'JJJ 48eee-	.	.
+.	48bb'LLL	.	.
+.	48ccc' 48ddd-	.	.
+.	48bb'	.	.
+.	48ccc' 48ddd-	.	.
+.	48ccc'	.	.
+.	48ddd-'JJJ 48eee-	.	.
+*	*8va	*	*
+.	48bbb'LLL	.	.
+.	48cccc' 48dddd-	.	.
+.	48bbb'	.	.
+.	48cccc' 48dddd-	.	.
+.	48cccc'	.	.
+.	48dddd-'JJJ 48eeee-	.	.
+.	48bbb'LLL	.	.
+.	48cccc' 48dddd-	.	.
+.	48bbb'	.	.
+.	48cccc' 48dddd-	.	.
+.	48cccc'	.	.
+.	48dddd-'JJJ 48eeee-	.	.
+*	*X8va	*	*
+=25	=25	=25	=25
+*	*	*8va	*
+2r	2r	(>56eeeenLLLL	f
+.	.	56ddddn	.
+.	.	56cccc	.
+.	.	56bbb-	.
+.	.	56ggg	.
+*	*	*X8va	*
+.	.	56eee	.
+.	.	56ddd	.
+.	.	56ccc	.
+.	.	56bb-	.
+.	.	56gg	.
+.	.	56ee	.
+.	.	56dd	.
+.	.	56cc	.
+.	.	56b-JJJJ)	.
+.	.	(>56gLLLL	.
+.	.	56b-	.
+.	.	56cc	.
+.	.	56dd	.
+.	.	56ee	.
+.	.	56gg	.
+.	.	56bb-	.
+.	.	56ccc	.
+.	.	56ddd	.
+.	.	56eee	.
+*	*	*8va	*
+.	.	56ggg	.
+.	.	56bbb-	.
+.	.	56cccc	.
+.	.	56ddddJJJJ)	.
+=26	=26	=26	=26
+2r	2r	(>56eeeenLLLL	.
+.	.	56ddddn	.
+.	.	56cccc	.
+.	.	56bbb-	.
+.	.	56ggg	.
+*	*	*X8va	*
+.	.	56eee	.
+.	.	56ddd	.
+.	.	56ccc	.
+.	.	56bb-	.
+.	.	56gg	.
+.	.	56ee	.
+.	.	56dd	.
+.	.	56cc	.
+.	.	56b-JJJJ)	.
+.	.	(>56gLLLL	.
+.	.	56b-	.
+.	.	56cc	.
+.	.	56dd	.
+.	.	56ee	.
+.	.	56gg	.
+.	.	56bb-	.
+.	.	56ccc	.
+.	.	56ddd	.
+.	.	56eee	.
+*	*	*8va	*
+.	.	56ggg	.
+.	.	56bbb-	.
+.	.	56cccc	.
+.	.	56ddddJJJJ)	.
+=27	=27	=27	=27
+*clefG2	*	*	*
+8r	2r	(>56eeeenLLLL	.
+.	.	56ddddn	.
+.	.	56cccc	.
+.	.	56bbb-	.
+.	.	56ggg	.
+*	*	*X8va	*
+.	.	56eee	.
+.	.	56ddd	.
+16.r	.	56ccc	.
+.	.	56bb-	.
+.	.	56gg	.
+.	.	56ee	.
+.	.	56dd	.
+.	.	56cc	.
+(<32c	.	.	f<
+.	.	56b-JJJJ)	.
+!Expression: tres en dehors	!	!	!
+[4g)	.	(>56gLLLL	[
+.	.	56b-	.
+.	.	56cc	.
+.	.	56dd	.
+.	.	56ee	.
+.	.	56gg	.
+.	.	56bb-	.
+.	.	56ccc	.
+.	.	56ddd	.
+.	.	56eee	.
+*	*	*8va	*
+.	.	56ggg	.
+.	.	56bbb-	.
+.	.	56cccc	.
+.	.	56ddddJJJJ)	.
+=28	=28	=28	=28
+2g]	2r	(>56eeeenLLLL	.
+.	.	56ddddn	.
+.	.	56cccc	.
+.	.	56bbb-	.
+.	.	56ggg	.
+*	*	*X8va	*
+.	.	56eee	.
+.	.	56ddd	.
+.	.	56ccc	.
+.	.	56bb-	.
+.	.	56gg	.
+.	.	56ee	.
+.	.	56dd	.
+.	.	56cc	.
+.	.	56b-JJJJ)	.
+.	.	(>56gLLLL	.
+.	.	56b-	.
+.	.	56cc	.
+.	.	56dd	.
+.	.	56ee	.
+.	.	56gg	.
+.	.	56bb-	.
+.	.	56ccc	.
+.	.	56ddd	.
+.	.	56eee	.
+*	*	*8va	*
+.	.	56ggg	.
+.	.	56bbb-	.
+.	.	56cccc	.
+.	.	56ddddJJJJ)	.
+=29	=29	=29	=29
+4r	2r	(>56eeeenLLLL	.
+.	.	56ddddn	.
+.	.	56cccc	.
+.	.	56bbb-	.
+.	.	56ggg	.
+*	*	*X8va	*
+.	.	56eee	.
+.	.	56ddd	.
+.	.	56ccc	.
+.	.	56bb-	.
+.	.	56gg	.
+.	.	56ee	.
+.	.	56dd	.
+.	.	56cc	.
+.	.	56b-JJJJ)	.
+32cLLL	.	(>56cLLLL	f<
+.	.	56b-	.
+32aJJ	.	.	.
+.	.	56cc	.
+.	.	56dd	.
+8.gJ	.	.	[
+.	.	56ee	.
+.	.	56gg	.
+.	.	56bb-	.
+.	.	56ccc	.
+.	.	56ddd	.
+.	.	56eee	.
+*	*	*8va	*
+.	.	56ggg	.
+.	.	56bbb-	.
+.	.	56cccc	.
+.	.	56ddddJJJJ)	.
+*	*	*X8va	*
+=30	=30	=30	=30
+*M2/8	*M2/8	*M2/8	*M2/8
+32r	4r	(<64e#LLLL	.
+.	.	64bn	.
+32c#'LLL	.	64cc#	ff<
+.	.	64dd#	.
+32a#'	.	64ee#	.
+.	.	64bbn	.
+32g#'JJJ	.	64ccc#	.
+.	.	64ddd#JJJJ	.
+32bn'LLL	.	80fff#LLLL	.
+.	.	80eeen	.
+.	.	80dddn	.
+32an	.	.	.
+.	.	80cccn	.
+.	.	80ff#	.
+32d'JJJ	.	80een	[
+.	.	80ddn	.
+.	.	80ccn	.
+32r	.	.	.
+.	.	80f#JJJJ)	.
+.	.	80r	.
+=31	=31	=31	=31
+*M4/8	*M4/8	*M4/8	*M4/8
+*	*	*8va	*
+8r	2r	(>56eeeenLLLL	f
+.	.	56ddddn	.
+.	.	56cccc	.
+.	.	56bbb-	.
+.	.	56ggg	.
+*	*	*X8va	*
+.	.	56eee	.
+.	.	56ddd	.
+16.r	.	56ccc	.
+.	.	56bb-	.
+.	.	56gg	.
+.	.	56ee	.
+.	.	56dd	.
+.	.	56cc	.
+(<32c	.	.	f<
+.	.	56b-JJJJ)	.
+4g)	.	(>56gLLLL	[
+.	.	56b-	.
+.	.	56cc	.
+.	.	56dd	.
+.	.	56ee	.
+.	.	56gg	.
+.	.	56bb-	.
+.	.	56ccc	.
+.	.	56ddd	.
+.	.	56eee	.
+*	*	*8va	*
+.	.	56ggg	.
+.	.	56bbb-	.
+.	.	56cccc	.
+.	.	56ddddJJJJ)	.
+=32	=32	=32	=32
+*clefF4	*	*	*
+*M3/8	*M3/8	*M3/8	*M3/8
+4.r	4.r	(>80eeeeLLLL	>
+.	.	80dddd	.
+.	.	80cccc	.
+.	.	80bbb-	.
+.	.	80ggg	.
+*	*	*X8va	*
+.	.	80eee	.
+.	.	80ddd	.
+.	.	80ccc	.
+.	.	80bb-	.
+.	.	80ggJJJJ)	.
+.	.	(>72eeeLLLL	]>
+.	.	72ddd	.
+.	.	72ccc	.
+.	.	72bb-	.
+.	.	72gg	.
+.	.	72ee	.
+.	.	72dd	.
+.	.	72cc	.
+.	.	72b-JJJJ)	.
+.	.	(<80eeLLLL	]
+.	.	80dd	.
+.	.	80cc	.
+.	.	80b-	.
+.	.	80g	.
+.	.	80e	.
+.	.	80d	.
+.	.	80c	.
+.	.	80B-	.
+.	.	80GJJJJ)	.
+=33	=33	=33	=33
+*M4/8	*M4/8	*M4/8	*M4/8
+8r	2r	(<80eeLLLL	p
+.	.	80dd	.
+.	.	80cc	.
+.	.	80b-	.
+.	.	80g	.
+.	.	80e	.
+.	.	80d	.
+.	.	80c	.
+.	.	80B-	.
+.	.	[80GJJJJ)	.
+!	!	!Expression: m.d.	!
+8C	.	(<72GLLLL]	.
+.	.	72B-	.
+.	.	72c#X	.
+.	.	72d	.
+.	.	72e	.
+.	.	72g	<
+.	.	72b-	.
+.	.	72cc#X	.
+.	.	72ddJJJJ)	.
+8r	.	(<80eeLLLL	[p
+.	.	80dd	.
+.	.	80ccn	.
+.	.	80b-	.
+.	.	80g	.
+.	.	80e	.
+.	.	80d	.
+.	.	80cn	.
+.	.	80B-	.
+.	.	[80GJJJJ)	.
+!	!	!Expression: m.d.	!
+8C	.	(<72GLLLL]	.
+.	.	72B-	.
+.	.	72c#	.
+.	.	72d	.
+.	.	72e	.
+.	.	72g	<
+.	.	72b-	.
+.	.	72cc#	.
+.	.	72ddJJJJ)	.
+=34	=34	=34	=34
+8r	2r	(<80eeLLLL	[p
+.	.	80dd	.
+.	.	80cc	.
+.	.	80b-	.
+.	.	80g	.
+.	.	80e	.
+.	.	80d	.
+.	.	80c	.
+.	.	80B-	.
+.	.	[80GJJJJ)	.
+!	!	!Expression: m.d.	!
+8C	.	(<72GLLLL]	.
+.	.	72B-	.
+.	.	72c#	.
+.	.	72d	.
+.	.	72e	.
+.	.	72g	<
+.	.	72b-	.
+.	.	72cc#	.
+.	.	72ddJJJJ)	.
+!	!	!	!Dynamic Expression: piu
+8r	.	(<80eeLLLL	[p
+.	.	80dd	.
+.	.	80ccn	.
+.	.	80b-	.
+.	.	80g	.
+.	.	80e	.
+.	.	80d	.
+.	.	80cn	.
+.	.	80B-	.
+.	.	[80GJJJJ)	.
+!	!	!Expression: m.d.	!
+8C	.	(<72GLLLL]	.
+.	.	72B-	.
+.	.	72c#	.
+.	.	72d	.
+.	.	72e	.
+.	.	72g	<
+.	.	72b-	.
+.	.	72cc#	.
+.	.	72ddJJJJ)	.
+=35	=35	=35	=35
+*^	*	*^	*
+(>60GGGLLL	2GGG^	2r	32fKLL 32ff	2cc- 2dd-	[f<
+60GG	.	.	.	.	.
+.	.	.	[16.cc-JJ [16.ccc-	.	.
+60D-	.	.	.	.	.
+60E-	.	.	.	.	.
+60F	.	.	.	.	.
+60c-	.	.	.	.	.
+60d-	.	.	.	.	.
+60e-	.	.	.	.	.
+.	.	.	4.cc-] 4.ccc-]	.	[
+60f	.	.	.	.	.
+60e-	.	.	.	.	.
+60d-	.	.	.	.	.
+60c-X	.	.	.	.	.
+60F	.	.	.	.	.
+60E-	.	.	.	.	.
+60D-JJJ)	.	.	.	.	.
+(>60GGLLL	.	.	.	.	.
+60D-	.	.	.	.	.
+60E-	.	.	.	.	.
+60F	.	.	.	.	.
+60c-	.	.	.	.	.
+60d-	.	.	.	.	.
+60e-	.	.	.	.	.
+60f	.	.	.	.	.
+60e-	.	.	.	.	.
+60d-	.	.	.	.	.
+60c-	.	.	.	.	.
+60F	.	.	.	.	.
+60E-	.	.	.	.	.
+60D-	.	.	.	.	.
+60GGJJJ)	.	.	.	.	.
+=36	=36	=36	=36	=36	=36
+(>60GGGLLL	2GGG^	2r	32fLLL 32ff	2cc- 2dd-	f<
+60GG	.	.	.	.	.
+.	.	.	32dd-J 32ddd-	.	.
+60D-	.	.	.	.	.
+60E-	.	.	.	.	.
+.	.	.	[16cc-JJ [16ccc-	.	.
+60F	.	.	.	.	.
+60c-	.	.	.	.	.
+60d-	.	.	.	.	.
+60e-	.	.	.	.	.
+.	.	.	4.cc-] 4.ccc-]	.	[
+60f	.	.	.	.	.
+60e-	.	.	.	.	.
+60d-	.	.	.	.	.
+60c-	.	.	.	.	.
+60F	.	.	.	.	.
+60E-	.	.	.	.	.
+60D-JJJ)	.	.	.	.	.
+(>60GGLLL	.	.	.	.	.
+60D-	.	.	.	.	.
+60E-	.	.	.	.	.
+60F	.	.	.	.	.
+60c-	.	.	.	.	.
+60d-	.	.	.	.	.
+60e-	.	.	.	.	.
+60f	.	.	.	.	.
+60e-	.	.	.	.	.
+60d-	.	.	.	.	.
+60c-	.	.	.	.	.
+60F	.	.	.	.	.
+60E-	.	.	.	.	.
+60D-	.	.	.	.	.
+60GGJJJ)	.	.	.	.	.
+=37	=37	=37	=37	=37	=37
+(>60GGGLLL	2GGG	4ryy	12f~L 12ff	4cc- 4dd-	.
+60GG	.	.	.	.	.
+60D-	.	.	.	.	.
+60E-	.	.	.	.	.
+60F	.	.	.	.	.
+60c-	.	.	12dd-~ 12ddd-	.	.
+60d-	.	.	.	.	.
+60e-	.	.	.	.	.
+60f	.	.	.	.	.
+60e-	.	.	.	.	.
+60d-	.	.	12cc-~J 12ccc-	.	.
+60c-	.	.	.	.	.
+60F	.	.	.	.	.
+60c-	.	.	.	.	.
+60d-JJJ)	.	.	.	.	.
+4ryy	.	(<[60cc-LLL	12ee-~L 12eee-	4ff 4ccc-	.
+.	.	60cc-]	.	.	.
+.	.	60dd-	.	.	.
+.	.	60ee-	.	.	.
+.	.	60ff	.	.	.
+.	.	60ee-	12dd-~ 12ddd-	.	.
+.	.	60dd-	.	.	.
+.	.	60cc-	.	.	.
+.	.	60f	.	.	.
+.	.	60e	.	.	.
+.	.	60d	12g~J 12gg	.	.
+.	.	60c	.	.	.
+.	.	60F	.	.	.
+.	.	60E	.	.	.
+.	.	60DJJJ)	.	.	.
+*v	*v	*	*v	*v	*
+=38	=38	=38	=38
+*M5/8	*M5/8	*M5/8	*M5/8
+*^	*	*^	*
+!	!	!	!	!	!Dynamic Expression: piu
+(>120GGGLLLL	2GGG	4.ryy	16fLL 16ff	2cc- 2dd-	f<
+120GG	.	.	.	.	.
+120D-	.	.	.	.	.
+120E-	.	.	.	.	.
+120F	.	.	.	.	.
+120c-	.	.	.	.	.
+120d-	.	.	.	.	.
+120e-	.	.	.	.	.
+.	.	.	[32.cc-JK [32.ccc-	.	.
+120f	.	.	.	.	.
+120e-	.	.	.	.	.
+120d-	.	.	.	.	.
+120c-X	.	.	.	.	.
+120F	.	.	.	.	.
+120E-	.	.	.	.	.
+.	.	.	8cc-J] 8ccc-]	.	[
+120D-JJJJ)	.	.	.	.	.
+(>64GGLLLL	.	.	.	.	.
+64D-	.	.	.	.	.
+64E-	.	.	.	.	.
+64F	.	.	.	.	.
+64c-X	.	.	.	.	.
+64d-	.	.	.	.	.
+64e-	.	.	.	.	.
+64fJJJJ)	.	.	4ryy	.	.
+(>64GLLLL	.	.	.	.	.
+64d-X	.	.	.	.	.
+64e-X	.	.	.	.	.
+64f	.	.	.	.	.
+64cc-	.	.	.	.	.
+64dd-	.	.	.	.	.
+64ee-	.	.	.	.	.
+64ffJJJJ)	.	.	.	.	.
+8ryy	.	(>64gLLLL	.	.	<
+.	.	64dd	.	.	.
+.	.	64ee	.	.	.
+.	.	64ff	.	.	.
+.	.	64ccc-	.	.	.
+.	.	64ddd-	.	.	.
+.	.	64eee-	.	.	.
+.	.	64fffJJJJ)	8ryy	.	.
+8ryy	8ryy	(>64ggLLLL	.	8ryy	.
+.	.	64ddd-X	.	.	.
+.	.	64eee-X	.	.	.
+*	*	*8va	*	*	*
+.	.	64fff	.	.	.
+.	.	64cccc-	.	.	.
+.	.	64dddd-	.	.	.
+.	.	64eeee-JJJJ)	.	.	[
+.	.	64r	64ryy	.	.
+*v	*v	*	*v	*v	*
+*	*X8va	*	*
+=39	=39	=39	=39
+*M4/8	*M4/8	*M4/8	*M4/8
+*	*	*8va	*
+2r	2r	(>72ffffLLLL	ff
+.	.	72eeee-	.
+.	.	72dddd-	.
+.	.	72cccc-	.
+.	.	72fff	.
+*	*	*X8va	*
+.	.	72bb-	.
+.	.	72aa-	.
+.	.	72gg-	.
+.	.	72ee-JJJJ)	.
+.	.	(>72fffLLLL	.
+.	.	72eee-	.
+.	.	72ddd-	.
+.	.	72ccc-	.
+.	.	72ff	.
+.	.	72bb-X	.
+.	.	72aa-X	.
+.	.	72gg-X	.
+.	.	72ee-XJJJJ)	.
+.	.	(>72ffLLLL	.
+.	.	72ee-X	.
+.	.	72dd-	.
+.	.	72cc-	.
+.	.	72f	.
+.	.	72b-	.
+.	.	72a-	.
+.	.	72g-	.
+.	.	72e-JJJJ)	.
+.	.	(<72fLLLL	.
+.	.	72e-X	.
+.	.	72d-	.
+.	.	72c-	.
+.	.	72F	.
+.	.	72B-	.
+.	.	72A-	.
+.	.	72G-	.
+.	.	72E-JJJJ)	.
+=40	=40	=40	=40
+*clefF4	*	*	*
+!	!	!	!Dynamic Expression: motlo dim.
+8r	2r	(<72fLLLL	.
+.	.	72e-	.
+.	.	72d-	.
+.	.	72c-	.
+.	.	72F	.
+.	.	72B-	.
+.	.	72A-	.
+.	.	72G-	.
+.	.	[72E-JJJJ)	.
+!Expression: m.d.	!	!	!
+8AA-'	.	(<56E-LLL]	.
+.	.	56G-	.
+.	.	56A-	.
+.	.	56B-	.
+.	.	56c-	.
+.	.	56d-	.
+.	.	56e-JJJ)	.
+8r	.	(<72fLLLL	.
+.	.	72e-	.
+.	.	72d-	.
+.	.	72c-	.
+.	.	72F	.
+.	.	72B-	.
+.	.	72A-	.
+.	.	72G-	.
+.	.	[72E-JJJJ)	.
+!Expression: m.d.	!	!	!
+8AA-'	.	(<56E-LLL]	.
+.	.	56G-	.
+.	.	56A-	.
+.	.	56B-	.
+.	.	56c-	.
+.	.	56d-	.
+.	.	56e-JJJ)	.
+=41||	=41||	=41||	=41||
+*	*clefF4	*	*
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
+8ryy	(>56fLLL	2r	p>
+.	56e-	.	.
+.	56d-	.	.
+.	56c	.	.
+.	56B-	.	.
+.	56G-	.	.
+.	56E-JJJ)	.	]
+16AA-'	(>56AA-LLL	.	.
+.	56E-	.	.
+.	56G-	.	.
+.	56A-	.	.
+16ryy	.	.	.
+.	56c	.	.
+.	56d-	.	.
+.	56e-JJJ)	.	.
+8ryy	(>56fLLL	.	p>
+.	56e-	.	.
+.	56d-	.	.
+.	56c	.	.
+.	56B-	.	.
+.	56G-	.	.
+.	56E-JJJ)	.	]
+16AA-'	(>56AA-LLL	.	.
+.	56E-	.	.
+.	56G-	.	.
+.	56A-	.	.
+16ryy	.	.	.
+.	56c	.	.
+.	56d-	.	.
+.	56e-JJJ)	.	.
+=42	=42	=42	=42
+.	.	16qqb-'/LL	p>
+.	.	16qqb-'/JJ	.
+8ryy	(>56fLLL	8.ee-~	.
+.	56e-	.	.
+.	56d-	.	.
+.	56c	.	.
+.	56B-	.	.
+.	56G-	.	.
+.	56E-JJJ)	.	]
+16AA-'	(>56AA-LLL	.	.
+.	56E-	.	.
+.	56G-	.	.
+.	56A-	.	.
+16ryy	.	16r	.
+.	56c	.	.
+.	56d-	.	.
+.	56e-JJJ)	.	.
+8ryy	(>56fLLL	8r	p>
+.	56e-	.	.
+.	56d-	.	.
+.	56c	.	.
+.	56B-	.	.
+.	56G-	.	.
+.	56E-JJJ)	.	]
+*	*	*8va	*
+.	.	32qqbbb-/LLL	.
+.	.	32qqbbb-/JJJ	.
+16AA-'	(>56AA-LLL	16eeee-'	.
+.	56E-	.	.
+.	56G-	.	.
+.	56A-	.	.
+*	*	*X8va	*
+16ryy	.	48bb-'LLL	.
+.	56c	.	.
+.	.	48eee-'	.
+.	56d-	.	.
+.	.	48cc'JJJ	.
+.	56e-JJJ)	.	.
+=43	=43	=43	=43
+8ryy	(>56fLLL	(>48b-'LLL	p>
+.	56e-	.	.
+.	.	48b-'	.
+.	56d-	.	.
+.	.	48ff'J)	.
+.	56c	.	.
+.	.	[16ee-J	.
+.	56B-	.	.
+.	56G-	.	.
+.	56E-JJJ)	.	]
+16AA-'	(>56AA-LLL	8ee-J]	.
+.	56E-	.	.
+.	56G-	.	.
+.	56A-	.	.
+16ryy	.	.	.
+.	56c	.	.
+.	56d-	.	.
+.	56e-JJJ)	.	.
+8ryy	(>56fLLL	8r	p>
+.	56e-	.	.
+.	56d-	.	.
+.	56c	.	.
+.	56B-	.	.
+.	56G-	.	.
+.	56E-JJJ)	.	]
+*	*	*8va	*
+.	.	32qqbbb-/LLL	.
+.	.	32qqbbb-/JJJ	.
+16AA-'	(>56AA-LLL	16eeee-'	.
+.	56E-	.	.
+.	56G-	.	.
+.	56A-	.	.
+*	*	*X8va	*
+16ryy	.	48bb-'LLL	.
+.	56c	.	.
+.	.	48eee-'	.
+.	56d-	.	.
+.	.	48cc'JJJ	.
+.	56e-JJJ)	.	.
+=44	=44	=44	=44
+*M2/8	*M2/8	*M2/8	*M2/8
+4r	(>64GG-LLLL	32r	.
+.	64D-	.	.
+.	64F-	32b-'LLL	.
+.	64G-	.	.
+.	64A-	32gg-'	.
+.	64B-	.	.
+.	64d-	32ff-'JJJ	.
+.	64f-JJJJ)	.	.
+.	(>48fnLLL	32ggn'LLL	.
+.	48dn	.	.
+.	.	32ffn'J	.
+.	48A-	.	.
+.	48F-	16b-'JJ	.
+.	48Dn	.	.
+.	48AA-JJJ)	.	.
+=45	=45	=45	=45
+*M4/8	*M4/8	*M4/8	*M4/8
+4DDn	(>48DDnLLLL	(>32cKLL 32g- 32a- 32cc	mf<
+.	48AA-	.	.
+.	.	16.a-JJ) 16.aa-	[
+.	48Dn	.	.
+.	48G-	.	.
+.	48A-	.	.
+.	48c	.	.
+.	48dn	(>32ccKLL 32gg- 32aa- 32ccc	<
+.	48g-	.	.
+.	.	16.aa-JJ) 16.aaa-	[
+.	48a-	.	.
+.	48cc	.	.
+.	48ddnJJJJ)	.	.
+.	48r	.	.
+*	*	*8va	*
+4ryy	4ryy	(>24bbnLL 24ddd# 24fff# 24bbbn	f
+.	.	24aan') 24ddd# 24fff# 24aaan	.
+*	*	*X8va	*
+.	.	24e#'JJ 24f#	.
+.	.	(>24bLL 24dd# 24ff# 24bb	.
+.	.	24a') 24dd# 24ff# 24aa	.
+.	.	24E#JJ 24F#	.
+=46	=46	=46	=46
+4DDn	(>48DDnLLLL	(>32cnKLL 32g- 32an 32ccn	mf<
+.	48AA-	.	.
+.	.	16.a-JJ) 16.aa-X	[
+.	48Dn	.	.
+.	48G-	.	.
+.	48A-	.	.
+.	48c	.	.
+.	48dn	(>32ccKLL 32gg- 32aa- 32ccc	<
+.	48g-	.	.
+.	.	16.aa-JJ) 16.aaa-	[
+.	48a-	.	.
+.	48cc	.	.
+.	48ddnJJJJ)	.	.
+.	48r	.	.
+*	*	*8va	*
+4ryy	4ryy	(>24bbnLL 24ddd# 24fff# 24bbbn	f
+.	.	24aan') 24ddd# 24fff# 24aaan	.
+*	*	*X8va	*
+.	.	24e#JJ 24f#	.
+.	.	(<24bLL 24dd# 24ff# 24bb	.
+.	.	24a') 24dd# 24ff# 24aa	.
+.	.	24E#JJ 24F#	.
+=47||	=47||	=47||	=47||
+*	*clefG2	*	*
+*k[]	*k[]	*k[]	*k[]
+!Tempo Marking: Scherzando	!Tempo Marking: Scherzando	!Tempo Marking: Scherzando	!Tempo Marking: Scherzando
+!	!	!	!Dynamic Expression: subito
+2r	(<24BLL 24d# 24f# 24b	2r	p
+.	24A') 24d# 24f# 24a	.	.
+.	24c#~JJ 24d#X	.	.
+.	(<24c#XLL 24e# 24g# 24cc#	.	.
+.	24B') 24e# 24g# 24b	.	.
+.	24c#~JJ 24d#	.	.
+.	(<24BLL 24d# 24f# 24b	.	<
+.	24A') 24d# 24f# 24a	.	.
+.	24c#~JJ 24d#	.	.
+.	(>24bLL 24dd# 24ff# 24bb	.	.
+.	24a') 24dd# 24ff# 24aa	.	.
+.	24cc#X~JJ 24dd#X	.	.
+=48	=48	=48	=48
+*	*8va	*	*
+2r	(>24bbLL 24ddd# 24fff# 24bbb	2r	[mf
+.	24aa') 24ddd# 24fff# 24aaa	.	.
+*	*X8va	*	*
+.	24ccc#~JJ 24ddd#X	.	.
+.	(>24bLL 24dd# 24ff# 24bb	.	>
+.	24a') 24dd# 24ff# 24aa	.	.
+.	24cc#~JJ 24dd#	.	]
+.	(<24BLL 24d# 24f# 24b	.	p
+.	24A') 24d# 24f# 24a	.	.
+.	24c#X~JJ 24d#X	.	.
+.	(<24ALL 24c#X 24e 24a	.	.
+.	24G') 24c# 24e 24g	.	.
+.	24B~JJ 24c#	.	.
+=49	=49	=49	=49
+!	!	!	!Dynamic Expression: piu
+2r	(<24GLL 24cn 24e- 24g	2r	p
+.	24F#') 24c 24e- 24f#	.	.
+.	24A~JJ 24B	.	.
+.	(<24ALL 24c# 24en 24a	.	.
+.	24G') 24c# 24e 24g	.	.
+.	24B-~JJ 24cn	.	.
+.	(<24GLL 24cn 24e-X 24g	.	<
+.	24F#') 24c 24e- 24f#	.	.
+.	24A~JJ 24Bn	.	.
+.	(<24dLL 24f# 24a 24dd	.	.
+.	24c') 24f# 24a 24cc	.	.
+.	24e-X~JJ 24fn	.	.
+=50	=50	=50	=50
+2r	(<24GLL 24cn 24e- 24g	2r	[pp
+.	24F#') 24c 24e- 24f#	.	.
+.	24A~JJ 24B	.	.
+.	(<24ALL 24c# 24en 24a	.	.
+.	24G') 24c# 24e 24g	.	.
+.	24B-~JJ 24cn	.	.
+.	(<24GLL 24cn 24e-X 24g	.	.
+.	24F#') 24c 24e- 24f#	.	.
+.	24A~JJ 24Bn	.	.
+.	(<24dLL 24f# 24a 24dd	.	.
+.	24c') 24f# 24a 24cc	.	.
+.	24e-X~JJ 24fn	.	.
+=51	=51	=51	=51
+!	!	!	!Dynamic Expression: poco cresc.
+2r	(>24gLL 24cc 24ee- 24gg	2r	.
+.	24f#') 24cc 24ee- 24ff#	.	.
+.	24a~JJ 24b	.	.
+.	(>24gLL 24b 24dd 24gg	.	.
+.	24fn') 24b 24dd 24ffn	.	.
+.	24a-~JJ 24b-	.	.
+.	(>24gLL 24cc 24ee- 24gg	.	.
+.	24f#X') 24cc 24ee- 24ff#X	.	.
+.	24an~JJ 24bn	.	.
+.	(>24gLL 24b 24dd 24gg	.	.
+.	24fn') 24b 24dd 24ffn	.	.
+.	24a-X~JJ 24b-X	.	.
+=52	=52	=52	=52
+*clefF4	*	*	*
+!	!	!	!Dynamic Expression: molto cresc.
+2r	24.a'LL 24.b	(>24gLL 24cc 24ee- 24gg	.
+.	.	24f#'JJ) 24cc 24ee- 24ff#	.
+.	24.aa' 24.bb	.	.
+.	.	24r	.
+.	24.a-' 24.b-X	(>24gLL 24b 24dd 24gg	.
+.	.	24fn'JJ) 24b 24dd 24ffn	.
+.	24.aa-' 24.bb-	.	.
+.	.	24r	.
+.	24.an' 24.bn	(>24gLL 24cc 24ee- 24gg	.
+.	.	24f#X'JJ) 24cc 24ee- 24ff#X	.
+.	24.aan' 24.bbn	.	.
+.	.	24r	.
+.	24.a-X' 24.b-X	(>24gLL 24b 24dd 24gg	.
+.	.	24fn'JJ) 24b 24dd 24ffn	.
+.	[24.aa-X'^^JJ [24.bb-X	.	.
+.	.	24r	.
+=53	=53	=53	=53
+8r	12.aa-L] 12.bb-]	4ryy	f<
+!	!Expression: strident	!	!
+*	*8va	*	*
+24r	24aaa-~^^Jk 24bbb-	.	[
+24r	12r	.	.
+*8ba	*	*	*
+!Expression: (laissez vibrer)	!	!	!
+[24DDD	.	.	pp
+*	*X8va	*	*
+4DDD]	4r	24r	.
+.	.	(<24cLL 24d	pp
+.	.	24ccJJ) 24dd	.
+.	.	(>24f#LL 24g#	.
+.	.	24dd 24ee	.
+.	.	24dddJJ) 24eee	.
+*X8ba	*	*	*
+=54	=54	=54	=54
+8r	24r	4ryy	.
+!	!Expression: strident	!	!
+.	24aa-LL 24bb-	.	f
+*	*8va	*	*
+.	24aaa-~^^JJ 24bbb-	.	[
+*	*X8va	*	*
+24r	8r	.	.
+24r	.	.	.
+*8ba	*	*	*
+!Expression: (laissez vibrer)	!	!	!
+[24DDD	.	.	pp
+4DDD]	4r	24r	.
+.	.	(<24cLL 24d	pp
+.	.	24ccJJ) 24dd	.
+.	.	(>24f#LL 24g#	.
+.	.	24dd 24ee	.
+.	.	24dddJJ) 24eee	.
+*X8ba	*	*	*
+=55	=55	=55	=55
+!Tempo Marking: Retenu	!Tempo Marking: Retenu	!Tempo Marking: Retenu	!Tempo Marking: Retenu
+2r	(>8bb-'L	(>24aa-LL	.
+.	.	24c 24d	.
+.	.	24ccJJ) 24dd	.
+.	8g#'J)	(>24f#LL	.
+.	.	24dd 24ee	.
+.	.	24dddJJ) 24eee	.
+.	(>8bb-'L	(>24aa-LL	.
+.	.	24c 24d	.
+.	.	24ccJJ) 24dd	.
+.	8g#'J)	(>24f#LL	.
+.	.	24dd 24ee	.
+.	.	24dddJJ) 24eee	.
+=56	=56	=56	=56
+2r	(>8bb-'L	(>24aa-LL	.
+.	.	24c 24d	.
+.	.	24ccJJ) 24dd	.
+.	8g#'J)	(>24f#LL	.
+.	.	24dd 24ee	.
+.	.	24dddJJ) 24eee	.
+.	(>8bb-'L	(>24aa-LL	.
+.	.	24c 24d	.
+.	.	24ccJJ) 24dd	.
+.	8g#'J)	(>24f#LL	.
+.	.	24dd 24ee	.
+.	.	24dddZJJ) 24eee	.
+=57||	=57||	=57||	=57||
+*clefF4	*	*	*
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+!Tempo Marking: Mouvt (plus a l'aise)	!Tempo Marking: Mouvt (plus a l'aise)	!Tempo Marking: Mouvt (plus a l'aise)	!Tempo Marking: Mouvt (plus a l'aise)
+!	!Expression: volubile	!	!
+!	!	!	!Dynamic Expression: sempre
+2GGG#~	(>72ccc#LLLL	(>8ccc#'	pp
+.	72gg#	.	.
+.	72ff#	.	.
+.	72dd	.	.
+.	72cc#	.	.
+.	72g#	.	.
+.	72f#	.	.
+.	72dJJJJ)	.	.
+.	72r	.	.
+.	(<72cc#LLLL	8cc#')	.
+.	72g#	.	.
+.	72f#	.	.
+.	72d	.	.
+.	72c#	.	.
+.	72G#	.	.
+.	72F#	.	.
+.	72DJJJJ)	.	.
+.	72r	.	.
+.	(<72b#LLLL	(>8b#'	.
+.	72g#	.	.
+.	72f#	.	.
+.	72d	.	.
+.	72B#	.	.
+.	72G#	.	.
+.	72F#	.	.
+.	72DJJJJ)	.	.
+.	72r	.	.
+.	(>72bb#LLLL	8bb#')	.
+.	72gg#	.	.
+.	72ff#	.	.
+.	72dd	.	.
+.	72b#X	.	.
+.	72g#	.	.
+.	72f#	.	.
+.	72dJJJJ)	.	.
+.	72r	.	.
+=58	=58	=58	=58
+2GGG#~	(>72ccc#LLLL	(>8ccc#'	.
+.	72gg#	.	.
+.	72ff#	.	.
+.	72dd	.	.
+.	72cc#	.	.
+.	72g#	.	.
+.	72f#	.	.
+.	72dJJJJ)	.	.
+.	72r	.	.
+.	(<72cc#LLLL	8cc#')	.
+.	72g#	.	.
+.	72f#	.	.
+.	72d	.	.
+.	72c#	.	.
+.	72G#	.	.
+.	72F#	.	.
+.	72DJJJJ)	.	.
+.	72r	.	.
+.	(<64ddLLLL	(>8dd'	.
+.	64g#	.	.
+.	64f#	.	.
+.	64d	.	.
+.	64G#	.	.
+.	64F#	.	.
+.	64DJJJJ)	.	.
+.	64r	.	.
+.	(>64dddLLLL	8ddd')	.
+.	64gg#	.	.
+.	64ff#	.	.
+.	64dd	.	.
+.	64g#	.	.
+.	64f#	.	.
+.	64dJJJJ)	.	.
+.	64r	.	.
+=59	=59	=59	=59
+!Expression: les basses legeres et harmonieuses	!	!	!
+(<4BBB' 4BB	(>72fff#LLLL	(>8fff#'	.
+.	72ccc#	.	.
+.	72gg#	.	.
+.	72ff#	.	.
+.	72dd	.	.
+.	72cc#	.	.
+.	72g#	.	.
+.	72f#JJJJ)	.	.
+.	72r	.	.
+.	(<72ff#LLLL	8ff#')	.
+.	72cc#	.	.
+.	72g#	.	.
+.	72f#	.	.
+.	72d	.	.
+.	72c#	.	.
+.	72G#	.	.
+.	72F#JJJJ)	.	.
+.	72r	.	.
+4DD') 4D	(<72eeLLLL	(>8ee'	<
+.	72ccn	.	.
+.	72g#	.	.
+.	72e	.	.
+.	72d	.	.
+.	72cn	.	.
+.	72G#	.	.
+.	72F#JJJJ)	.	.
+.	72r	.	.
+.	(>72eeeLLLL	8eee')	.
+.	72cccn	.	.
+.	72gg#	.	.
+.	72ee	.	.
+.	72dd	.	.
+.	72ccn	.	.
+.	72g#	.	.
+.	72f#JJJJ)	.	.
+.	72r	.	.
+=60	=60	=60	=60
+(<4CC#' 4C#	(>72ggg#LLLL	(>8ggg#'	[pp
+.	72ddd#	.	.
+.	72aa#	.	.
+.	72gg#	.	.
+.	72ee	.	.
+.	72dd#	.	.
+.	72a#	.	.
+.	72g#JJJJ)	.	.
+.	72r	.	.
+.	(<72gg#LLLL	8gg#')	.
+.	72dd#X	.	.
+.	72a#X	.	.
+.	72g#	.	.
+.	72e	.	.
+.	72d#	.	.
+.	72A#	.	.
+.	72G#JJJJ)	.	.
+.	72r	.	.
+4EE') 4E	(<72ff#LLLL	(>8ff#'	<
+.	72ddn	.	.
+.	72a#	.	.
+.	72f#	.	.
+.	72e	.	.
+.	72dn	.	.
+.	72A#	.	.
+.	72G#JJJJ)	.	.
+.	72r	.	.
+.	(>72fff#LLLL	8fff#')	.
+.	72ddd#	.	.
+.	72aa#	.	.
+.	72ff#	.	.
+.	72ee	.	.
+.	72dd	.	.
+.	72a#	.	.
+.	72g#JJJJ)	.	.
+.	72r	.	.
+=61||	=61||	=61||	=61||
+*	*clefF4	*	*
+*k[]	*k[]	*k[]	*k[]
+*8ba	*	*	*
+!Tempo Marking: Rubato	!Tempo Marking: Rubato	!Tempo Marking: Rubato	!Tempo Marking: Rubato
+4CCC~ 4GGG 4CC	8r	4ccc~ 4eee 4ggg 4cccc	[pp
+.	8r	.	.
+!	!	!Expression: glissando	!
+!	!	!Expression: m.d.	!
+.	(<32qqC/LLL	.	<
+.	32qqD/	.	.
+.	32qqE/	.	.
+.	32qqF/	.	.
+.	32qqG/	.	.
+.	32qqA/	.	.
+.	32qqB/	.	.
+.	32qqc/	.	.
+.	32qqd/	.	.
+.	32qqe/	.	.
+.	32qqf/	.	.
+.	32qqg/	.	.
+.	32qqa/	.	.
+.	32qqb/	.	.
+.	32qqcc/JJJ)	.	.
+*X8ba	*	*	*
+4ryy	(>16.F#LL 16.A# 16.c# 16.f#	4r	.
+.	32e'JK 32g# 32b 32ee	.	.
+!	!Expression: m.g.	!	!
+.	8B-~J) 8d 8fn 8b-	.	[p
+=62	=62	=62	=62
+*8ba	*	*	*
+4CCC~ 4GGG 4CC	8r	4ccc~ 4eee 4ggg 4cccc	pp
+.	8r	.	.
+!	!	!Expression: simile	!
+.	(<32qqC/LLL	.	.
+.	32qqD/	.	.
+.	32qqE/	.	.
+.	32qqF/	.	.
+.	32qqG/	.	.
+.	32qqA/	.	.
+.	32qqB/	.	.
+.	32qqc/	.	.
+.	32qqd/	.	.
+.	32qqe/	.	.
+.	32qqf/	.	.
+.	32qqg/	.	.
+.	32qqa/	.	.
+.	32qqb/	.	.
+.	32qqcc/JJJ)	.	.
+*X8ba	*	*	*
+4ryy	((>16.F#~LL 16.A# 16.c# 16.f#	8.ryy	p<
+.	32e'JJk) 32g# 32b 32ee	.	.
+.	(16B-'LL) 16d 16fn 16b-	.	.
+.	16GJJ) 16Bn 16d	16gn' 16bn 16dd 16gg	.
+=63	=63	=63	=63
+*8ba	*	*	*
+4EEE-~ 4BBB- 4EE-	8r	4eee-~ 4ggg- 4bbb- 4eeee-	[pp
+.	8r	.	.
+*	*clefG2	*	*
+*X8ba	*	*	*
+!	!	!Expression: m.d.	!
+!	!	!Expression: glissando	!
+.	32qqE-/LLL	.	<
+.	32qqG-/	.	.
+.	32qqA-/	.	.
+.	32qqB-/	.	.
+.	32qqd-/	.	.
+.	32qqe-/	.	.
+.	32qqg-/	.	.
+.	32qqa-/	.	.
+.	32qqb-/	.	.
+.	32qqdd-/	.	.
+.	32qqee-X/JJJ	.	.
+4ryy	((<16.An~LL 16.c# 16.en 16.an	4ryy	.
+.	32gn'JK) 32bn 32ddn 32ggn	.	.
+.	8c#X~J) 8e# 8g# 8cc#	.	[p
+=64	=64	=64	=64
+*8va	*8ba	*	*
+4EEE-~ 4BBB- 4EE-	8r	4eee-~ 4ggg- 4bbb- 4eeee-	pp
+.	8r	.	.
+*X8va	*X8ba	*	*
+!	!	!Expression: simile	!
+.	(<32qqE-/LLL	.	.
+.	32qqG-/	.	.
+.	32qqA-/	.	.
+.	32qqB-/	.	.
+.	32qqd-/	.	.
+.	32qqe-/	.	.
+.	32qqg-/	.	.
+.	32qqa-/	.	.
+.	32qqb-/	.	.
+.	32qqdd-/	.	.
+.	32qqee-X/JJJ)	.	.
+4ryy	((<16.An~LL 16.c# 16.en 16.an	4ryy	.
+.	32gn'JJk) 32bn 32ddn 32ggn	.	.
+.	16c#'~LL) 16e# 16g# 16cc#	.	<
+*	*8va	*	*
+.	16ccc#'JJ 16cccc#	.	[
+=65||	=65||	=65||	=65||
+*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]
+!	!Expression: Doux et harmonieux (Molto Rubato)	!	!
+(<4.EEE#'	(>108dddd#LLLL	8..ryy	pp
+.	108cccc#	.	.
+.	108bbb	.	.
+.	108ggg#	.	.
+.	108ccc#	.	.
+*	*X8va	*	*
+.	108bb	.	.
+.	108dd#	.	.
+.	108cc#	.	.
+.	108b	.	.
+.	108ddd#	.	>
+.	108ccc#	.	.
+.	108bb	.	.
+.	108gg#	.	.
+.	108cc#	.	.
+.	108b	.	.
+.	108d#	.	.
+.	108c#	.	.
+.	108B	.	.
+.	108dd#	.	.
+.	108cc#	.	.
+.	108b	.	.
+.	108g#	.	.
+.	108c#	.	.
+*	*clefF4	*	*
+.	108B	.	.
+.	.	(>32c#	]<
+.	108D#	.	.
+.	108C#	.	.
+.	108BBJJJJ)	.	.
+.	8r	4g#~) 4gg#	[
+8BBB')	8r	.	.
+=66	=66	=66	=66
+*	*clefG2	*	*
+*	*8va	*	*
+(<4.EEE#'	(>108dddd#LLLL	4ryy	pp
+.	108cccc#	.	.
+.	108bbb	.	.
+.	108ggg#	.	.
+.	108ccc#	.	.
+*	*X8va	*	*
+.	108bb	.	.
+.	108dd#	.	.
+.	108cc#	.	.
+.	108b	.	.
+.	108ddd#	.	>
+.	108ccc#	.	.
+.	108bb	.	.
+.	108gg#	.	.
+.	108cc#	.	.
+.	108b	.	.
+.	108d#	.	.
+.	108c#	.	.
+.	108B	.	.
+.	108dd#	.	.
+.	108cc#	.	.
+.	108b	.	.
+.	108g#	.	.
+.	108c#	.	.
+*	*clefF4	*	*
+.	108B	.	.
+.	108D#	.	.
+.	108C#	.	.
+.	108BBJJJJ)	.	.
+.	8r	(>32c#LLL	]<
+.	.	32a#JJ 32aa#	.
+.	.	8.g#~J)	[
+8BBB')	8ryy	.	.
+=67	=67	=67	=67
+*	*clefG2	*	*
+!	!Expression: Incisif et rapide	!	!
+16EEE#'	48r	4ryy	f
+.	(>48c#^LLL	.	<
+.	48a#^ 48aa#	.	.
+16r	48g#^	.	.
+.	48b^ 48bb	.	.
+.	48an^JJJ)	.	.
+8r	4dn'^^;	.	[ff
+*k[]	*k[]	*k[]	*k[]
+!	!	!Expression: Quasi cadenza	!
+.	.	(<32qqd;/LLL	>
+.	.	32qqa;/	.
+.	.	32qqcc;/	.
+!	!	!Expression: m.d.	!
+.	.	32qqee-;/	.
+.	.	32qqff#;/	.
+.	.	32qqaa#;/	.
+.	.	32qqccc#;/	.
+!	!	!Expression: m.g.	!
+.	.	32qqeee-;/	.
+.	.	32qqfff#;/	.
+!	!	!Expression: m.d.	!
+.	.	32qqffn;/	.
+.	.	32qqaa#;/	.
+.	.	32qqccc#;/JJJ	.
+4r	.	[4fffn;)	.
+.	8ryy	.	.
+=68	=68	=68	=68
+*	*8va	*8va	*
+0r	(>24gg-LL	(>32ffffLLL]	]pp
+.	.	32cccc	.
+.	24ee-	.	.
+.	.	32aaan	.
+.	24ccJJ)	.	.
+.	.	32fffJJJ)	.
+.	(>24gg-LL	(>32ffffLLL	.
+.	.	32cccc	.
+.	24ee-	.	.
+.	.	32aaa	.
+.	24ccJJ)	.	.
+.	.	32fffJJJ)	.
+.	(>24gg-LL	(>32ffffLLL	.
+.	.	32cccc	.
+.	24ee-	.	.
+.	.	32aaa	.
+.	24ccJJ)	.	.
+.	.	32fffJJJ)	.
+.	(>24gg-LL	(>32ffffLLL	.
+.	.	32cccc	.
+.	24ee-	.	.
+.	.	32aaa	.
+.	24ccJJ)	.	.
+.	.	32fffJJJ)	.
+.	(>32aa-LLL	(>32ffffLLL	p<
+.	32gg-X	32cccc	.
+.	32ee-X	32aaa	.
+.	32ccJJJ)	32fffJJJ)	.
+.	(>32aa-LLL	(>32ffffLLL	.
+.	32gg-	32cccc	.
+.	32ee-	32aaa	.
+.	32ccJJJ)	32fffJJJ)	.
+.	(>32aa-LLL	(>32ffffLLL	.
+.	32gg-	32cccc	.
+.	32ee-	32aaa	.
+.	32ccJJJ)	32fffJJJ)	.
+.	(>32aa-LLL	(>32ffffLLL	.
+.	32gg-	32cccc	.
+.	32ee-	32aaa	.
+.	32ccJJJ)	32fffJJJ)	.
+*	*X8va	*X8va	*
+!	!	!	!Dynamic Expression: cresc. molto
+.	(>32aa-XLLL	(>32fffLLL	[
+.	32gg-X	32ccc	.
+.	32ee-X	32aa	.
+.	32ccJJJ)	32ffJJJ)	.
+.	(>32aa-LLL	(>32fffLLL	.
+.	32gg-	32ccc	.
+.	32ee-	32aa	.
+.	32ccJJJ)	32ffJJJ)	.
+.	(<32a-XLLL	(>32ffLLL	.
+.	32g-X	32cc	.
+.	32e-X	32a	.
+.	32cJJJ)	32fJJJ)	.
+.	(>32a-LLL	(>32ffLLL	.
+.	32g-	32cc	.
+.	32e-	32a	.
+.	32c	32fJJJ)	.
+.	32a-	(>32ffLLL	f<
+.	32g-	32cc	.
+.	32e-	32a	.
+.	32g-	32f	.
+.	32a-	32a	.
+.	32dd#	32cc	.
+.	32gg-	32ff	.
+.	32aa-	32ff	.
+.	32eee-X	32aa	.
+.	32ggg-X	32ccc	.
+.	32aaa-XJJJ)	32fff	.
+*	*	*8va	*
+.	32r	32fff	.
+.	8r	32aaa	.
+.	.	32ccccJJJ	.
+.	.	32ffff)	.
+.	.	32r	[
+*	*	*X8va	*
+=69||	=69||	=69||	=69||
+*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]
+*	*8va	*	*
+!Tempo Marking: Tempo (Rubato)	!Tempo Marking: Tempo (Rubato)	!Tempo Marking: Tempo (Rubato)	!Tempo Marking: Tempo (Rubato)
+(<4.EEE#'	(>72dddd#LLLL	4ryy	pp
+.	72cccc#	.	.
+.	72bbb	.	.
+.	72ggg#	.	.
+.	72ccc#	.	.
+*	*X8va	*	*
+.	72bb	.	.
+.	72dd#	.	.
+.	72cc#	.	.
+.	72bJJJJ	.	.
+.	72ddd#LLLL	.	>
+.	72ccc#	.	.
+.	72bb	.	.
+.	72gg#	.	.
+.	72cc#	.	.
+.	72b	.	.
+.	72d#	.	.
+.	72c#	.	.
+.	72BJJJJ	.	.
+.	72dd#LLLL	4g#~ 4gg#	.
+.	72cc#	.	.
+.	72b	.	.
+.	72g#	.	.
+.	72c#	.	.
+.	72B	.	.
+.	72D#	.	.
+.	72C#	.	.
+.	72BBJJJJ)	.	.
+8BBB')	16.r	.	]
+.	32c#	.	<
+=70	=70	=70	=70
+*	*8va	*	*
+(<4.EEE#'	(>72dddd#LLLL	32r	[
+.	72cccc#	.	.
+.	72bbb	.	.
+.	.	32ryy	.
+.	72ggg#	.	.
+.	72ccc#	.	.
+.	.	16ryy	.
+*	*X8va	*	*
+.	72bb	.	.
+.	72dd#	.	.
+.	72cc#	.	.
+.	72bJJJJ	.	.
+.	72ddd#LLLL	8ryy	>
+.	72ccc#	.	.
+.	72bb	.	.
+.	72gg#	.	.
+.	72cc#	.	.
+.	72b	.	.
+.	72d#	.	.
+.	72c#	.	.
+.	72BJJJJ	.	.
+.	72dd#LLLL	(>32c#LLL	<
+.	72cc#	.	.
+.	72b	.	.
+.	.	32a#JJ 32aa#	.
+.	72g#	.	.
+.	72c#	.	.
+.	.	8.g#~J)	[
+.	72B	.	.
+.	72D#	.	.
+.	72C#	.	.
+.	72BBJJJJ)	.	]
+8BBB')	8r	.	.
+=71	=71	=71	=71
+8EEEn'	48r	2r	.
+!	!Expression: Incisif	!	!
+.	(>48c#^LLL	.	f<
+.	48a#^ 48aa#	.	.
+.	48g#^	.	.
+.	48b^ 48bb	.	.
+.	48an^JJ	.	.
+8r	8dn^J)	.	[
+4r	48r	.	.
+!	!	!	!Dynamic Expression: piu
+.	(>48e-^LLL	.	f
+.	48ccn^ 48cccn	.	.
+.	48b-^	.	.
+.	48cc#^ 48ccc#	.	.
+.	48bn^JJ	.	.
+.	8en^J)	.	.
+=72	=72	=72	=72
+*k[]	*k[]	*k[]	*k[]
+!Tempo Marking: Mouvt	!Tempo Marking: Mouvt	!Tempo Marking: Mouvt	!Tempo Marking: Mouvt
+!	!	!	!Dynamic Expression: subito
+16d#'	(<16d#lLL	32r	[pp
+.	.	(>32gLLL	.
+16ryy	16ejJJ)	32dd-	.
+.	.	32cc-	.
+16dn'	(<16dnlLL	32ee-	.
+.	.	32ddnJ)	.
+16ryy	16ejJJ)	16f#'JJ	.
+16d#'	(<16d#lXLL	32r	.
+.	.	(>32gLLL	.
+16ryy	16ejJJ)	32ee-	.
+.	.	32dd-	.
+16dn'	(<16dnlLL	32ffn	.
+.	.	32eenJ)	.
+16ryy	16ejJJ)	16g#'JJ	.
+=73	=73	=73	=73
+16d#'	(<16d#lLL	32r	.
+.	.	(>32ccLLL 32dd	<
+16ryy	16ejJJ)	32ccc 32ddd	.
+.	.	32cc'JJJ) 32dd	.
+16dn'	(<16dnlLL	32r	.
+*	*	*8va	*
+.	.	(>32cccLLL 32ddd	.
+16ryy	16ejJJ)	32cccc 32dddd	.
+.	.	32ccc'JJJ) 32ddd	.
+16d#X'	(<16d#XlLL	32r	[
+.	.	(>32cccLLL 32ddd	>
+16ryy	16ejJJ)	32cccc 32dddd	.
+.	.	32ccc'JJJ) 32ddd	.
+*	*	*X8va	*
+16dn'	(<16dnlLL	32r	.
+.	.	(>32ccLLL 32dd	.
+16ryy	16ejJJ)	32ccc 32ddd	.
+.	.	32cc'JJJ) 32dd	.
+=74	=74	=74	=74
+16d#'	(<16d#lLL	32r	]pp
+.	.	(>32fLLL	.
+16ryy	16ejJJ)	32dd-	.
+.	.	32cc-	.
+16dn'	(<16dnlLL	32ee-	.
+.	.	32ddnJ)	.
+16ryy	16ejJJ)	16f#'JJ	.
+16d#'	(<16d#lLL	32r	.
+.	.	(>32gLLL	.
+16ryy	16ejJJ)	32ee-	.
+.	.	32dd-	.
+16dn'	(<16dnlLL	32ffn	.
+.	.	32eenJ)	.
+16ryy	16ejJJ)	16g#'JJ	.
+=75	=75	=75	=75
+2r	(<16d-lLL	32r	p
+.	.	(>32bLLL	.
+.	16e-jJJ	32gg	.
+.	.	32ff	.
+.	16clLL	32aa-	.
+.	.	32gg-	.
+.	16dnj)	32b-	.
+.	.	32a-JJJ)	.
+.	(<16ccl	(<32g-LLL	<
+.	.	32B-	.
+.	16ddj	32g-	.
+.	.	32a-	.
+.	16cl	32b-	.
+.	.	32gg-	.
+.	16djJJ)	32aa-JJJ)	.
+.	.	32r	[
+=76	=76	=76	=76
+2r	(<16d-lLL	32r	p
+.	.	(>32bnLLL	.
+.	16e-jJJ	32ggn	.
+.	.	32ff	.
+.	16clLL	32aa-	.
+.	.	32gg-	.
+.	16dnj)	32b-	.
+.	.	32a-JJJ)	.
+.	(<16ccl	(<32g-LLL	<
+.	.	32B-	.
+.	16ddj	32g-	.
+.	.	32a-	.
+.	16cl	32b-	.
+.	.	32gg-	.
+.	16djJJ)	32aa-	.
+.	.	32bnJJJ)	.
+=77	=77	=77	=77
+4ryy	(<32cLLL	(<32a-LLL	[
+.	32d	32g-	.
+.	32c	32B-	.
+.	32d	32g-	.
+.	32c	32a-	.
+.	32d	32g-	.
+.	32c	32B-	.
+.	32dJJJ)	32G-JJJ)	.
+*	*clefF4	*	*
+!	!	!	!Dynamic Expression: cresc.
+(<32CLLL	32A-LLL	4ryy	.
+32D	32G-	.	.
+32C	32BB-	.	.
+32D	32G-	.	.
+32C	32A-	.	.
+32D	32G-	.	.
+32C	32BB-	.	.
+32DJJJ)	32GG-JJJ	.	.
+=78	=78	=78	=78
+(<32CCLLL	(<32AA-LLL	2r	.
+32DD	32GG-	.	.
+32CC	32BBB-	.	.
+32DDJJJ)	32GG-JJJ)	.	.
+(<32CCLLL	(<32AA-LLL	.	.
+32DD	32GG-	.	.
+32CC	32BBB-	.	.
+32DDJJJ)	32GG-JJJ)	.	.
+(<32CCLLL	(<32AA-LLL	.	.
+32DD	32GG-	.	.
+32CC	32BBB-	.	.
+32DDJJJ)	32GG-JJJ)	.	.
+(<32CCLLL	(<32AA-LLL	.	.
+32DD	32GG-	.	.
+32CC	32BBB-	.	.
+32DDJJJ)	32GG-JJJ)	.	.
+=79	=79	=79	=79
+!	!	!	!Dynamic Expression: molto cresc.
+(<32CCLLL	(<32AA-LLL	2r	.
+32DD	32GG-	.	.
+32CC	32BBB-	.	.
+32DDJJJ)	32GG-JJJ)	.	.
+(<32CCLLL	(<32AA-LLL	.	.
+32DD	32GG-	.	.
+32CC	32BBB-	.	.
+32DDJJJ)	32GG-JJJ)	.	.
+(<32CCLLL	(<32AA-LLL	.	.
+32DD	32GG-	.	.
+32CC	32BBB-	.	.
+32DDJJJ)	32GG-JJJ)	.	.
+(<32CCLLL	(<32AA-LLL	.	.
+32DD	32GG-	.	.
+32CC	32BBB-	.	.
+32DDJJJ)	32GG-JJJ)	.	.
+=80||	=80||	=80||	=80||
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*	*8ba	*	*
+!Tempo Marking: Mouvt elargi	!Tempo Marking: Mouvt elargi	!Tempo Marking: Mouvt elargi	!Tempo Marking: Mouvt elargi
+4.ryy	(<56BBBB-LLL	4ryy	f<
+.	56CCC	.	.
+.	56BBB-	.	.
+*	*X8ba	*	*
+.	56CC 56DD	.	.
+.	56BB-	.	.
+.	56C	.	.
+.	56DJJJ)	.	.
+.	(<56BBB-LLL	.	.
+.	56CC	.	.
+.	56BB-	.	.
+.	56C 56D	.	.
+.	56B-	.	.
+.	56c	.	.
+.	56dJJJ)	.	.
+.	(<56BB-LLL	8r	.
+.	56C	.	.
+.	56B-	.	.
+*	*clefG2	*	*
+.	56c 56d	.	.
+.	56b-	.	.
+.	56cc	.	.
+.	56ddJJJ)	.	.
+*8ba	*	*	*
+!	!	!LO:TX:b:i:t=eclatant	!
+8EEE~^^	(<32cKLL 32cc	(32cccKLL	[
+.	16.gJJ)	16.ggJJ) 16.ggg	.
+*X8ba	*	*	*
+=81	=81	=81	=81
+*	*clefF4	*	*
+*	*8ba	*	*
+2r	(<56BBBB-~^^LLL	4.ryy	f<
+.	56CCC	.	.
+.	56BBB-	.	.
+*	*X8ba	*	*
+.	56CC 56DD	.	.
+.	56BB-	.	.
+.	56C	.	.
+.	56DJJJ)	.	.
+.	(<56BBB-LLL	.	.
+.	56CC	.	.
+.	56BB-	.	.
+.	56C 56D	.	.
+.	56B-	.	.
+.	56c	.	.
+.	56dJJJ)	.	.
+.	(<56BB-LLL	.	.
+.	56C	.	.
+.	56B-	.	.
+*	*clefG2	*	*
+.	56c 56d	.	.
+.	56b-	.	.
+.	56cc	.	.
+.	56ddJJJ)	.	.
+.	(<32cLLL 32cc	(>32cccLLL	[
+.	32aJ	32aaJ 32aaa	.
+.	16gJJ)	16ggJJ) 16ggg	.
+=82	=82	=82	=82
+*	*^	*	*
+!	!	!	!	!Dynamic Expression: piu
+2r	48c^LLL	4ryy	4ryy	f<
+.	48cc^ 48ccc	.	.	.
+.	48a^	.	.	.
+.	48aa^ 48aaa	.	.	.
+.	48g^	.	.	.
+.	48gg^JJJ 48ggg	.	.	.
+.	48b-^LLL	.	.	.
+.	48bb-^ 48bbb-	.	.	.
+.	48a-^	.	.	.
+.	48aa-^ 48aaa-	.	.	.
+.	48d-^	.	.	.
+.	48dd-^JJJ 48ddd-	.	.	.
+.	4cc-~^^	16ryy	4aa-~^^ 4aaa-	[
+*	*clefF4	*	*	*
+.	.	96B-LLLL	.	sff
+.	.	96b-	.	.
+.	.	96A-	.	.
+.	.	96a-X	.	.
+.	.	96D-	.	.
+.	.	96d-XJJJJ	.	.
+.	.	96BB-LLLL	.	.
+.	.	96B-	.	.
+.	.	96AA-	.	.
+.	.	96A-X	.	.
+.	.	96DD-	.	.
+.	.	96D-XJJJJ	.	.
+.	.	96BBB-LLLL	.	.
+.	.	96BB-	.	.
+.	.	96AAA-	.	.
+.	.	96AA-X	.	.
+.	.	96DDD-	.	.
+.	.	96DD-XJJJJ	.	.
+*	*v	*v	*	*
+=83	=83	=83	=83
+*	*8ba	*	*
+4.ryy	(<56BBBB-LLL	4.ryy	f<
+.	56CCC	.	.
+.	56BBB-	.	.
+*	*X8ba	*	*
+.	56CC 56DD	.	.
+.	56BB-	.	.
+.	56C	.	.
+.	56DJJJ)	.	.
+.	(<56BBB-LLL	.	.
+.	56CC	.	.
+.	56BB-	.	.
+.	56C 56D	.	.
+.	56B-	.	.
+.	56c	.	.
+.	56dJJJ)	.	.
+.	(<56BB-LLL	.	.
+.	56C	.	.
+.	56B-	.	.
+*	*clefG2	*	*
+.	56c 56d	.	.
+.	56b-	.	.
+.	56cc	.	.
+.	56ddJJJ)	.	.
+*8ba	*	*	*
+8EEE~^^	(<32cKLL 32cc	(>32cccKLL	[
+.	16.gJJ)	16.ggJJ) 16.ggg	.
+*X8ba	*	*	*
+=84	=84	=84	=84
+*	*clefF4	*	*
+*	*8ba	*	*
+2r	(<56BBBB-~^^LLL	4.ryy	f<
+.	56CCC	.	.
+.	56BBB-	.	.
+*	*X8ba	*	*
+.	56CC 56DD	.	.
+.	56BB-	.	.
+.	56C	.	.
+.	56DJJJ)	.	.
+.	(<56BBB-LLL	.	.
+.	56CC	.	.
+.	56BB-	.	.
+.	56C 56D	.	.
+.	56B-	.	.
+.	56c	.	.
+.	56dJJJ)	.	.
+.	(<56BB-LLL	.	.
+.	56C	.	.
+.	56B-	.	.
+*	*clefG2	*	*
+.	56c 56d	.	.
+.	56b-	.	.
+.	56cc	.	.
+.	56ddJJJ)	.	.
+.	(<32cLLL 32cc	(>32cccLLL	[
+.	32aJ	32aaJ 32aaa	.
+.	16gJJ)	16ggJJ) 16ggg	.
+=85	=85	=85	=85
+*M2/8	*M2/8	*M2/8	*M2/8
+!	!	!	!Dynamic Expression: piu
+!	!	!	!Dynamic Expression: e cresc.
+4r	96cLLLL	4r	f
+.	96cc 96ccc	.	.
+.	96a	.	.
+.	96aa 96aaa	.	.
+.	96g	.	.
+.	96ggJJJJ 96ggg	.	.
+.	96b-LLLL	.	.
+.	96bb- 96bbb-	.	.
+.	96a-	.	.
+.	96aa- 96aaa-	.	.
+.	96d-	.	.
+.	96dd-JJJJ 96ddd-	.	.
+.	96dnLLLL	.	.
+.	96ddn 96dddn	.	.
+.	96bn	.	.
+.	96bbn 96bbbn	.	.
+.	96an	.	.
+.	96aanJJJJ 96aaan	.	.
+*	*8va	*	*
+.	96ccLLLL	.	.
+.	96ccc 96cccc	.	.
+.	96b-	.	.
+.	96bb- 96bbb-	.	.
+.	96e-	.	.
+.	96ee-JJJJ 96eee-	.	.
+*	*X8va	*	*
+=86	=86	=86	=86
+*M6/8	*M6/8	*M6/8	*M6/8
+*	*	*8va	*
+4.EEE- 4.EE-	8r	8ccc^L 8eee- 8ggg 8cccc	ff<
+.	16.r	8bb-J 8eee- 8ggg 8bbb-	.
+.	[32G~^^KKL [32B- [32d- [32en [32g	.	[
+*	*	*X8va	*
+.	8GJ] 8B-] 8d-] 8e] 8g]	8ee-X~^^ 8gg 8bb- 8eee-	.
+*	*	*8va	*
+4.EEEn 4.EEn	8r	8ccc#^L 8eeen 8ggg# 8cccc#	ff<
+.	16.r	8bbnJ 8eee 8ggg# 8bbbn	.
+.	[32G#~^^KKL [32Bn [32dn [32f [32g#	.	[
+*	*	*X8va	*
+.	8G#J] 8B] 8d] 8f] 8g#]	8een~^^ 8gg#X 8bb 8eeen	.
+=87	=87	=87	=87
+*	*	*8va	*
+4.FFF 4.FF	8r	8ddd^L 8fff 8aaa 8dddd	ff<
+.	16.r	8cccJ 8fff 8aaa 8cccc	.
+.	[32A~^^KKL [32c [32e- [32g [32a-	.	[
+*	*	*X8va	*
+.	8AJ] 8c] 8e-] 8g] 8a-]	8ff~^^ 8aa 8ccc 8fff	.
+*	*	*8va	*
+4.FFF# 4.FF#	8r	8ddd#^L 8fff# 8bbb- 8dddd#	ff<
+.	16.r	8ccc#J 8fff# 8aaa 8cccc#	.
+.	[32A#X~^^KKL [32c# [32en [32gn [32a#	.	[
+*	*	*X8va	*
+.	8A#J] 8c#] 8e] 8g] 8a#]	8ff#X~^^ 8aa# 8ccc#X 8fff#	.
+=88||	=88||	=88||	=88||
+*k[]	*k[]	*k[]	*
+*M2/8	*M2/8	*M2/8	*
+=89	=89	=89	=89
+*8ba	*	*	*
+4AAAA~^^	8r	8r	.
+.	16r	16r	.
+*	*8va	*8va	*
+.	(32qqaaan/LLL	.	ff>
+.	32qqgggn/	.	.
+.	32qqfff/	(32qqaaaa-/LLL	.
+.	32qqeeen/	32qqgggg-/	.
+.	32qqdddn/	32qqeeee-/	.
+.	32qqccc/	32qqdddd-/	.
+.	32qqbbn/JJJ	32qqbbb-/JJJ	.
+*	*clefF4	*clefF4	*
+*	*X8va	*X8va	*
+.	16GGn;)	16GG-;)	]
+*X8ba	*	*	*
+=90	=90	=90	=90
+*M4/8	*M4/8	*M4/8	*M4/8
+!Tempo Marking: Plus lent	!Tempo Marking: Plus lent	!Tempo Marking: Plus lent	!Tempo Marking: Plus lent
+2r	(>64FLLLL	2r	mf
+.	64G	.	.
+.	64A	.	.
+.	64B-	.	.
+.	64A-	.	.
+.	64G-	.	.
+.	64DJJJJ)	.	.
+.	64r	.	.
+.	8r	.	.
+.	(>64FLLLL	.	p
+.	64Gn	.	.
+.	64An	.	.
+.	64B-X	.	.
+.	64A-X	.	.
+.	64G-X	.	.
+.	64DJJJJ)	.	.
+.	64r	.	.
+.	8r	.	.
+=91	=91	=91	=91
+!	!	!	!Dynamic Expression: piu
+2r	(<64FFLLLL	2r	p
+.	64GG	.	.
+.	64AA	.	.
+.	64BB-	.	>
+.	64AA-	.	.
+.	64GG-	.	.
+.	64DDJJJJ)	.	.
+.	64r	.	]
+.	8r	.	.
+.	8r	.	.
+.	32r	.	.
+!Tempo Marking: Tres retenu	!Tempo Marking: Tres retenu	!Tempo Marking: Tres retenu	!Tempo Marking: Tres retenu
+.	32BBBn'LLL	.	pp>
+.	32BBB-'	.	.
+.	32AAAn'JJJ	.	.
+=92	=92	=92	=92
+*	*clefG2	*clefG2	*
+*8ba	*	*	*
+!Tempo Marking: Encore plus lent	!Tempo Marking: Encore plus lent	!Tempo Marking: Encore plus lent	!Tempo Marking: Encore plus lent
+!Expression: aussi leger et pp que possible	!	!	!
+(8qAAA-/	.	.	]
+(<4DDD-l)	2r	2r	.
+4AAA-jX)	.	.	.
+=93	=93	=93	=93
+(32qqGGn/LLL	.	.	.
+32qqGG-/	.	.	.
+32qqFF-/	.	.	.
+32qqAAA-/JJJ)	.	.	.
+(<4DDD-l	2r	4r	.
+4AAA-jX)	.	8r	.
+.	.	16.r	.
+!	!	!Expression: de tres loin	!
+.	.	(>32gg~	.
+=94	=94	=94	=94
+(<4DDD-l	2r	[4gg~	.
+4AAA-j)	.	16ggLL]	.
+.	.	16gg~	.
+.	.	16.ee~	.
+.	.	32cc~JJk	.
+=95	=95	=95	=95
+(<4DDD-l	(32cKLL	[2ddn~)	.
+.	[16.gJ)	.	.
+.	8gJ]	.	.
+4AAA-j)	(32cLLL	.	.
+.	32aJJ	.	.
+.	[8.gJ)	.	.
+=96	=96	=96	=96
+(<4DDD-l	8g]	8dd]	.
+.	8r	8r	.
+4AAA-j)	4r	8r	.
+.	.	8g~	<
+=97	=97	=97	=97
+(<4DDD-l	4r	(>4cc~	.
+4AAA-j)	8r	4ddn~	[
+.	32r	.	.
+.	32cLLL	.	pp<
+.	32an'	.	.
+.	32g'JJJ	.	.
+=98	=98	=98	=98
+*	*^	*	*
+!	!	!Expression: m.g.	!	!
+(<4DDD-l	(>64b-~LLLL	8A-~ 8d- 8f	4ee~)	[>
+.	64a-J	.	.	.
+.	32d-'JJJ)	.	.	.
+.	16r	.	.	]
+.	8r	8ryy	.	.
+*	*	*	*8va	*
+4AAA-j)	4r	4ryy	16ddd- 16dddd-	.
+.	.	.	16r	.
+.	.	.	8r	.
+*	*v	*v	*	*
+=99	=99	=99	=99
+(<4DDD-l	2r	4r	.
+4AAA-j)	.	16ddd-' 16dddd-	.
+*	*	*X8va	*
+.	.	16r	.
+.	.	8r	.
+=100	=100	=100	=100
+8DDD-'	2r	2r	.
+*X8ba	*	*	*
+8r	.	.	.
+4r	.	.	.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2,s3)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: Z = caesura
+!!!RDF**kern: l = start tremolo
+!!!RDF**kern: j = end tremolo
