@@ -2,7 +2,7 @@
 title: Searchable Metadata and Mode Analyses
 ---
 
-
+## Complete Data
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 library(tidyverse)
 library(DT)
@@ -16,3 +16,7 @@ df |>
 ## replace periods in column names with spaces.
 
 ```
+
+## Beregovski's Metadata
+
+## Our Additions
