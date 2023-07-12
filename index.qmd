@@ -1,6 +1,8 @@
 ---
-title: "Mode in Klezmer Music"
-author: Yonatan Malin and Daniel Shanahan
+title: "Modes in Klezmer Music: A Corpus Study Based on Beregovski's _Jewish Instrumental Folk Music_"
 ---
 
-Here, you can explore the Beregovski Klezmer corpus!
+Authors: Yonatan Malin and Daniel Shanahan
+
+
+Here, you can explore the Beregovski Klezmer corpus.

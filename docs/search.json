@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Mode in Klezmer Music",
+    "title": "Modes in Klezmer Music: A Corpus Study Based on Beregovski’s Jewish Instrumental Folk Music",
     "section": "",
-    "text": "Here, you can explore the Beregovski Klezmer corpus!"
+    "text": "Authors: Yonatan Malin and Daniel Shanahan\nHere, you can explore the Beregovski Klezmer corpus."
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,12 @@
     "title": "Introduction",
     "section": "Analyses",
     "text": "Analyses"
+  },
+  {
+    "objectID": "searchable_metadata_and_mode_analysis.html",
+    "href": "searchable_metadata_and_mode_analysis.html",
+    "title": "Searchable Metadata and Mode Analyses",
+    "section": "",
+    "text": "library(DT)\n1+1\n\n[1] 2"
   }
 ]

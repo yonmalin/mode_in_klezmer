@@ -4,18 +4,12 @@ project:
 
 website:
   page-navigation: true
-  title: "Mode in Klezmer Music"
+  title: "Modes in Klezmer Music"
   description: "Supplemental Materials for MTO Submission"
-  site-url: "https://shanahdt.github.io/mus-345-445/"
-  repo-url: "https://github.com/shanahdt/mus-345-445"
+  site-url: "https://shanahdt.github.io/mode_in_klezmer/"
+  repo-url: "https://github.com/shanahdt/mode_in_klezmer"
   repo-actions: [edit, issue]
-  # navbar:
-  #   left:
-  #     - href: index.qmd
-  #       text: Home
-  #     - href: course-syllabus.qmd
-  #       text: Syllabus
-  #     
+
 
   open-graph: true
 
@@ -35,11 +29,13 @@ website:
       - section: "The Corpus"
         contents:
           - introduction.qmd
-          - data_files.qmd
+          - searchable_metadata_and_mode_analysis.qmd
         collapse-level: 1
-      - section: "Mode in Klezmer Music"
+      - section: "Modal Analysis"
         contents:
-          - analyses_by_mode.qmd
+          - pitch_histograms.qmd
+          - transition_probabilities.qmd
+      
 
          
 
