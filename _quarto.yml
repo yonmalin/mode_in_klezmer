@@ -50,4 +50,4 @@ format:
     mainfont: "Atkinson Hyperlegible"
     code-copy: true
     code-overflow: wrap
-    toc: true
+    toc: false
