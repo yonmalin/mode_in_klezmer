@@ -30,15 +30,29 @@
   {
     "objectID": "searchable_metadata_and_mode_analysis.html",
     "href": "searchable_metadata_and_mode_analysis.html",
-    "title": "Searchable Metadata and Mode Analyses",
+    "title": "Complete Metadata and Mode Analyses",
     "section": "",
-    "text": "── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.2     ✔ readr     2.1.4\n✔ forcats   1.0.0     ✔ stringr   1.5.0\n✔ ggplot2   3.4.2     ✔ tibble    3.2.1\n✔ lubridate 1.9.2     ✔ tidyr     1.3.0\n✔ purrr     1.0.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors"
+    "text": "Complete Data\n\n\n\n\n\n\n\n\n\nBeregovski’s Metadata\n\n\nOur Additions"
   },
   {
     "objectID": "introduction.html",
     "href": "introduction.html",
     "title": "Introduction",
     "section": "",
-    "text": "This site provides machine-readable music files, searchable metadata, mode analyses, and mode data for a corpus of klezmer tunes from the volume Jewish Instrumental Folk Music, compiled by the pre-eminent Ukrainian Jewish ethnomusicologist Moshe Beregovski (1892-1961). The volume was published posthumously, first in Russian (1987) and then in English (2001 and 2015). The tunes were collected from a variety of sources in Ukraine, in the decades before World War II, and the volume represents one of the most important sources for Jewish instrumental music from Eastern Europe, now known as klezmer (Slobin 1986, 253; Feldman 2016, 128).\nAt present, this collection has 245 out of the 254 tunes in Beregovski’s volume, and sections from four additional tunes. It leaves out tunes and sections in so-called free rhythm (i.e., without a time signature) or variable rhythm (with varying time signatures and frequent fermatas). There are five pieces without a regular meter: the Dobranoch no. 9, Kale-bazetsns nos. 13 and 14, and the Ava rabos nos. 17 and 18. There are also four pieces that begin without a regular meter and have metric sections at the end: the Khtsos no. 19, the Taksims no. 20, and the Doinas nos. 21 and 22. The metric sections at the ends of these are included in the corpus."
+    "text": "This site provides machine-readable music files, searchable metadata, mode analyses, and mode data for a corpus of klezmer tunes from the volume Jewish Instrumental Folk Music, compiled by the pre-eminent Ukrainian Jewish ethnomusicologist Moshe Beregovski (1892-1961). The volume was published posthumously, first in Russian (1987) and then in English (2001 and 2015). The tunes were collected from a variety of sources in Ukraine, in the decades before World War II, and the volume represents one of the most important sources for Jewish instrumental music from Eastern Europe, now known as klezmer (Slobin 1986, 253; Feldman 2016, 128).\nAt present, this collection has 245 out of the 254 tunes in Beregovski’s volume, and sections from four additional tunes. It leaves out tunes and sections in so-called free rhythm (i.e., without a time signature) or variable rhythm (with varying time signatures and frequent fermatas). There are five pieces without a regular meter: the Dobranotsh no. 9, Kale-bazetsns nos. 13 and 14, and the Ava rabos nos. 17 and 18. There are also four pieces that begin without a regular meter and have metric sections at the end: the Khtsos no. 19, the Taksims no. 20, and the Doinas nos. 21 and 22. The metric sections at the ends of these are included in the corpus."
+  },
+  {
+    "objectID": "searchable_metadata_and_mode_analysis.html#beregovskis-metadata",
+    "href": "searchable_metadata_and_mode_analysis.html#beregovskis-metadata",
+    "title": "Searchable Metadata and Mode Analyses",
+    "section": "Beregovski’s Metadata",
+    "text": "Beregovski’s Metadata"
+  },
+  {
+    "objectID": "searchable_metadata_and_mode_analysis.html#our-additions",
+    "href": "searchable_metadata_and_mode_analysis.html#our-additions",
+    "title": "Searchable Metadata and Mode Analyses",
+    "section": "Our Additions",
+    "text": "Our Additions"
   }
 ]

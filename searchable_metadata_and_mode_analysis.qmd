@@ -1,8 +1,8 @@
 ---
-title: Searchable Metadata and Mode Analyses
+title: Complete Metadata and Mode Analyses
 ---
 
-## Complete Data
+# Complete Data
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 library(tidyverse)
 library(DT)
@@ -17,6 +17,6 @@ df |>
 
 ```
 
-## Beregovski's Metadata
+# Beregovski's Metadata
 
-## Our Additions
+# Our Additions
