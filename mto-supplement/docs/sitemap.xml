@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://shanahdt.github.io/mus-345-445/index.html</loc>
-    <lastmod>2023-07-12T05:31:17.362Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mus-345-445/about.html</loc>
-    <lastmod>2023-07-12T05:31:17.684Z</lastmod>
-  </url>
-  <url>
     <loc>https://shanahdt.github.io/mus-345-445/introduction.html</loc>
-    <lastmod>2023-07-12T05:31:18.015Z</lastmod>
+    <lastmod>2023-07-12T15:14:36.010Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mus-345-445/analyses_by_mode.html</loc>
-    <lastmod>2023-07-12T05:31:18.308Z</lastmod>
+    <lastmod>2023-07-12T15:15:11.683Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mus-345-445/index.html</loc>
+    <lastmod>2023-07-12T15:16:34.338Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mus-345-445/about.html</loc>
+    <lastmod>2023-07-12T15:16:33.685Z</lastmod>
   </url>
 </urlset>

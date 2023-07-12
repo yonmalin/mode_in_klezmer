@@ -19,11 +19,6 @@ website:
 
   open-graph: true
 
-  twitter-card:
-    creator: "@danielshanahan"
-    image: "images/twitter-card.png"
-    
-
   sidebar:
     style: "docked"
     search: true

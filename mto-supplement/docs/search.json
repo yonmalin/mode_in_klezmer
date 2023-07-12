@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mode in Klezmer Music",
-    "section": "",
-    "text": "Here, you can explore the Beregovski Klezmer corpus."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this project."
-  },
-  {
     "objectID": "introduction.html#summary-statistics",
     "href": "introduction.html#summary-statistics",
     "title": "Introduction",
@@ -26,5 +12,19 @@
     "title": "Introduction",
     "section": "Analyses",
     "text": "Analyses"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mode in Klezmer Music",
+    "section": "",
+    "text": "Here, you can explore the Beregovski Klezmer corpus!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this project."
   }
 ]
