@@ -17,7 +17,7 @@ website:
     search: true
     title: false
     pinned: false
-    collapse-level: 2
+    collapse-level: 0
     contents:
       - section: "The Corpus"
         contents:
