@@ -10,12 +10,6 @@ website:
   repo-url: "https://github.com/shanahdt/mode_in_klezmer"
   repo-actions: [edit, issue]
 
-
-  open-graph: true
-
-  twitter-card:
-    creator: "@danielshanahan"
-    image: "images/twitter-card.png"
     
 
   sidebar:
@@ -49,6 +43,7 @@ website:
 
 format:
   html:
+    page-layout: full
     theme:
       light: [flatly, theme.scss]
       dark: [flatly, theme-dark.scss]
