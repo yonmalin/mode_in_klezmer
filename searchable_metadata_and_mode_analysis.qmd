@@ -6,5 +6,5 @@ title: Searchable Metadata and Mode Analyses
 ```{r, echo=F}
 library(DT)
 df <- read.csv("data/beregovski-metadata.tsv", sep="\t", header=TRUE)
-df |>  datatable(filter="top")
+df |>  datatable(filter="top", rownames=FALSE)
 ```
