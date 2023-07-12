@@ -19,7 +19,6 @@ website:
     pinned: false
     collapse-level: 0
     contents:
-      - about.qmd
       - section: "The Corpus"
         contents:
           - introduction.qmd
