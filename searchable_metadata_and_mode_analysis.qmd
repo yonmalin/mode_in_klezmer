@@ -3,13 +3,13 @@ title: Searchable Metadata and Mode Analyses
 ---
 
 
-```{r, echo=F, warnings=F, messages=F}
+```{r, echo=F, warnings=FALSE, message=FALSE}
 library(tidyverse)
 library(DT)
 df <- read.csv("data/beregovski-metadata.tsv", sep="\t", header=TRUE)
 df <- df |>  select(!c(Additional.notes, Modulation.Criteria))
 df |>          
-    datatable(filter="top", rownames=FALSE, width = 1000)
+    datatable(filter="top", rownames=FALSE)
 
 ## to-do
 ## make spacing of columns wider for the text.
