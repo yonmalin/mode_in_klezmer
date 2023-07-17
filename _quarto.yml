@@ -33,9 +33,7 @@ website:
       - section: "Downloadable Corpus"
         contents: 
           - corpus_download.qmd
-      - section: "References"
-        contents: 
-          - references.qmd
+
   
       
 
