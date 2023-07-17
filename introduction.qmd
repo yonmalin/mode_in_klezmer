@@ -13,8 +13,6 @@ This website enables searches based on Beregovski’s metadata, provides corpus-
 
 There are two kinds of metadata on this site:
 
-
-
 1. Metadata from Beregovski’s notes, which includes genre, source (i.e., the musician who performed, recorded, or notated the music), source type (recording, transcription, or manuscript), the source instrument or voice, the location where the item was collected, main region, subregion, the date it was collected, and the original location for instances where the musician reported learning the tune from somewhere else. 
 2. Malin’s analysis of mode in the volume. This includes a modal designation for each tune as a whole, an indication of whether there are changes of mode, secondary modes (as applicable), the measures for secondary modes (as applicable), and additional notes for instances of ambiguity. 
 
