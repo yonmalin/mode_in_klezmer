@@ -30,7 +30,7 @@ website:
         contents:
           - pitch_histograms.qmd
           - pitch_counts.qmd
-          - transition_probabilities.qmd
+          - melodic_tendencies.qmd
       - section: "Downloadable Corpus"
         contents: 
           - corpus_download.qmd
