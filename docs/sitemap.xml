@@ -1,63 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://shanahdt.github.io/mus-345-445/index.html</loc>
-    <lastmod>2023-07-12T15:19:57.688Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mus-345-445/about.html</loc>
-    <lastmod>2023-07-12T05:41:40.951Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mus-345-445/introduction.html</loc>
-    <lastmod>2023-07-12T05:41:41.250Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mus-345-445/analyses_by_mode.html</loc>
-    <lastmod>2023-07-12T05:41:41.551Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/index.html</loc>
-    <lastmod>2023-07-17T22:06:52.023Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/analyses_by_mode.html</loc>
-    <lastmod>2023-07-17T22:03:49.115Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/pitch_histograms.html</loc>
-    <lastmod>2023-07-17T22:26:00.365Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/transition_probabilities.html</loc>
-    <lastmod>2023-07-12T16:22:36.550Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/searchable_metadata_and_mode_analysis.html</loc>
-    <lastmod>2023-07-17T22:03:23.961Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/introduction.html</loc>
-    <lastmod>2023-07-17T22:19:44.163Z</lastmod>
-  </url>
-  <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/beregovski_metadata.html</loc>
-    <lastmod>2023-07-12T16:55:04.723Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/malin_and_shanahan_metadata.html</loc>
-    <lastmod>2023-07-17T22:03:50.159Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/references.html</loc>
-    <lastmod>2023-07-17T19:06:06.511Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/corpus_download.html</loc>
-    <lastmod>2023-07-17T19:06:06.816Z</lastmod>
+    <lastmod>2023-07-17T22:38:34.962Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/pitch_counts.html</loc>
-    <lastmod>2023-07-17T22:31:42.374Z</lastmod>
+    <lastmod>2023-07-17T22:38:35.373Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/searchable_metadata_and_mode_analysis.html</loc>
+    <lastmod>2023-07-17T22:38:37.335Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/pitch_histograms.html</loc>
+    <lastmod>2023-07-17T22:38:38.273Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/index.html</loc>
+    <lastmod>2023-07-17T22:38:38.603Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/transition_probabilities.html</loc>
+    <lastmod>2023-07-17T22:38:38.919Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/introduction.html</loc>
+    <lastmod>2023-07-17T22:38:39.345Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/malin_and_shanahan_metadata.html</loc>
+    <lastmod>2023-07-17T22:38:41.364Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/analyses_by_mode.html</loc>
+    <lastmod>2023-07-17T22:38:41.703Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/corpus_download.html</loc>
+    <lastmod>2023-07-17T22:38:42.021Z</lastmod>
   </url>
 </urlset>
