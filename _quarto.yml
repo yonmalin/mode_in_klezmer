@@ -19,17 +19,24 @@ website:
     pinned: false
     collapse-level: 0
     contents:
-      - section: "The Corpus"
+      - section: "Metadata and Analysis"
         contents:
           - introduction.qmd
           - searchable_metadata_and_mode_analysis.qmd
           - beregovski_metadata.qmd
           - malin_and_shanahan_metadata.qmd
         collapse-level: 1
-      - section: "Modal Analysis"
+      - section: "Mode Data"
         contents:
           - pitch_histograms.qmd
           - transition_probabilities.qmd
+      - section: "Downloadable Corpus"
+        contents: 
+          - corpus_download.qmd
+      - section: "References"
+        contents: 
+          - references.qmd
+  
       
 
          

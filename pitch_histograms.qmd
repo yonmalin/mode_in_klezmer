@@ -1,3 +1,69 @@
 ---
 title: Pitch Histograms
 ---
+
+---
+title: Analyses by Mode
+---
+
+
+```{r, echo=F, warnings=FALSE, message=FALSE}
+# library(humdrumR)
+# library(tidyverse)
+# beregovski <- readHumdrum('corpus/*.krn')
+# beregovski <- within(beregovski, Kern <- kern(Token, simple = TRUE))
+# tally(beregovski)
+# 
+# pitches <- with(beregovski, tally(kern(Token))) |> barplot()
+
+```
+
+# The Beregovski Corpus
+
+## All Pitches
+![total pitch histogram](pitch_distributions/total_corpus.png)
+
+## Major
+
+### B-Flat Major
+![B-flat major pitch histogram](pitch_distributions/b-flat-major.png)
+
+### C Major
+![C major pitch histogram](pitch_distributions/c-major.png)
+
+### D Major
+![D major pitch histogram](pitch_distributions/d-major.png)
+
+### F Major
+![F major pitch histogram](pitch_distributions/f-major.png)
+
+### G Major
+![G major pitch histogram](pitch_distributions/g-major.png)
+
+## Minor 
+
+### C minor
+![C minor pitch histogram](pitch_distributions/c-minor.png)
+
+### E minor
+![E minor pitch histogram](pitch_distributions/e-minor.png)
+
+### E minor
+![G minor pitch histogram](pitch_distributions/g-minor.png)
+
+## Freygish
+
+
+![All freygish pitch histogram](pitch_distributions/freygish.png)
+
+
+## Raised Fourth
+![G raised fourth pitch histogram](pitch_distributions/g-alt-dor.png)
+
+# The Meertens Tune Collection of Dutch Folksongs
+
+## Major
+![meertens major pitch histogram](pitch_distributions/meertens_major.png)
+
+## Minor 
+![meertens minor pitch histogram](pitch_distributions/meertens_minor.png)

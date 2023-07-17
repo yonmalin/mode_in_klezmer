@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Modes in Klezmer Music - Pitch Histograms</title>
+<title>Modes in Klezmer Music - Analyses by Mode</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,7 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./transition_probabilities.html" rel="next">
-<link href="./introduction.html" rel="prev">
+<link href="./malin_and_shanahan_metadata.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -64,12 +64,6 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<meta property="og:title" content="Modes in Klezmer Music - Pitch Histograms">
-<meta property="og:site-name" content="Modes in Klezmer Music">
-<meta name="twitter:title" content="Modes in Klezmer Music - Pitch Histograms">
-<meta name="twitter:image" content="https://shanahdt.github.io/mode_in_klezmer/images/twitter-card.png">
-<meta name="twitter:creator" content="@danielshanahan">
-<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-sidebar docked">
@@ -78,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Pitch Histograms</h1>
+      <h1 class="quarto-secondary-nav-title">Analyses by Mode</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -86,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
@@ -104,14 +98,9 @@ ul.task-list li input[type="checkbox"] {
       </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./about.html" class="sidebar-item-text sidebar-link">About</a>
-  </div>
-</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">The Corpus</a>
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Metadata and Analysis</a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -123,13 +112,25 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </li>
           <li class="sidebar-item">
-  data_files.qmd
-  </li>
+  <div class="sidebar-item-container"> 
+  <a href="./searchable_metadata_and_mode_analysis.html" class="sidebar-item-text sidebar-link">Complete Metadata and Mode Analysis</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./beregovski_metadata.html" class="sidebar-item-text sidebar-link">Beregovkski’s Metadata</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./malin_and_shanahan_metadata.html" class="sidebar-item-text sidebar-link">Mode Analysis</a>
+  </div>
+</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Modal Analysis</a>
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Mode Data</a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -137,7 +138,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pitch_histograms.html" class="sidebar-item-text sidebar-link active">Pitch Histograms</a>
+  <a href="./pitch_histograms.html" class="sidebar-item-text sidebar-link active">Analyses by Mode</a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -147,19 +148,47 @@ ul.task-list li input[type="checkbox"] {
 </li>
       </ul>
   </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">Downloadable Corpus</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./corpus_download.html" class="sidebar-item-text sidebar-link">Downloadable Corpus</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">References</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">Bibliography</a>
+  </div>
+</li>
+      </ul>
+  </li>
     </ul>
     </div>
 </nav>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-right" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Pitch Histograms</h1>
+<h1 class="title d-none d-lg-block">Analyses by Mode</h1>
 </div>
 
 
@@ -174,8 +203,140 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<div class="cell" data-warnings="false">
+
+</div>
+<section id="the-beregovski-corpus" class="level1">
+<h1>The Beregovski Corpus</h1>
+<section id="all-pitches" class="level2">
+<h2 class="anchored" data-anchor-id="all-pitches">All Pitches</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="pitch_distributions/total_corpus.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">total pitch histogram</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="major" class="level2">
+<h2 class="anchored" data-anchor-id="major">Major</h2>
+<section id="b-flat-major" class="level3">
+<h3 class="anchored" data-anchor-id="b-flat-major">B-Flat Major</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="pitch_distributions/b-flat-major.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">B-flat major pitch histogram</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="c-major" class="level3">
+<h3 class="anchored" data-anchor-id="c-major">C Major</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="pitch_distributions/c-major.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">C major pitch histogram</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="d-major" class="level3">
+<h3 class="anchored" data-anchor-id="d-major">D Major</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="pitch_distributions/d-major.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">D major pitch histogram</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="f-major" class="level3">
+<h3 class="anchored" data-anchor-id="f-major">F Major</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="pitch_distributions/f-major.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">F major pitch histogram</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="g-major" class="level3">
+<h3 class="anchored" data-anchor-id="g-major">G Major</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="pitch_distributions/g-major.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">G major pitch histogram</figcaption><p></p>
+</figure>
+</div>
+</section>
+</section>
+<section id="minor" class="level2">
+<h2 class="anchored" data-anchor-id="minor">Minor</h2>
+<section id="c-minor" class="level3">
+<h3 class="anchored" data-anchor-id="c-minor">C minor</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="pitch_distributions/c-minor.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">C minor pitch histogram</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="e-minor" class="level3">
+<h3 class="anchored" data-anchor-id="e-minor">E minor</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="pitch_distributions/e-minor.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">E minor pitch histogram</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="e-minor-1" class="level3">
+<h3 class="anchored" data-anchor-id="e-minor-1">E minor</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="pitch_distributions/g-minor.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">G minor pitch histogram</figcaption><p></p>
+</figure>
+</div>
+</section>
+</section>
+<section id="freygish" class="level2">
+<h2 class="anchored" data-anchor-id="freygish">Freygish</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="pitch_distributions/freygish.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">All freygish pitch histogram</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="raised-fourth" class="level2">
+<h2 class="anchored" data-anchor-id="raised-fourth">Raised Fourth</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="pitch_distributions/g-alt-dor.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">G raised fourth pitch histogram</figcaption><p></p>
+</figure>
+</div>
+</section>
+</section>
+<section id="the-meertens-tune-collection-of-dutch-folksongs" class="level1">
+<h1>The Meertens Tune Collection of Dutch Folksongs</h1>
+<section id="major-1" class="level2">
+<h2 class="anchored" data-anchor-id="major-1">Major</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="pitch_distributions/meertens_major.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">meertens major pitch histogram</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="minor-1" class="level2">
+<h2 class="anchored" data-anchor-id="minor-1">Minor</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="pitch_distributions/meertens_minor.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">meertens minor pitch histogram</figcaption><p></p>
+</figure>
+</div>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -426,10 +587,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation">
+<nav class="page-navigation column-page-right">
   <div class="nav-page nav-page-previous">
-      <a href="./introduction.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Introduction</span>
+      <a href="./malin_and_shanahan_metadata.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Mode Analysis</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">

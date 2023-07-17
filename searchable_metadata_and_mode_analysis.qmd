@@ -1,5 +1,5 @@
 ---
-title: Complete Metadata and Mode Analyses
+title: Complete Metadata and Mode Analysis
 ---
 
 # Complete Data
@@ -7,7 +7,8 @@ title: Complete Metadata and Mode Analyses
 library(tidyverse)
 library(DT)
 df <- read.csv("data/beregovski-metadata.tsv", sep="\t", header=TRUE)
-df <- df |>  select(!c(Additional.notes, Modulation.Criteria))
+df <- df |> clean_names()
+df <- df |>  select(!c(additional_notes, modulation_criteria))
 df |>          
     datatable(filter="top", rownames=FALSE)
 
@@ -17,6 +18,4 @@ df |>
 
 ```
 
-# Beregovski's Metadata
 
-# Our Additions
