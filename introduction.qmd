@@ -50,7 +50,7 @@ There are a few additional details that users of the corpus should take note of:
 3. Measure numbers in the mode analysis and digital music files are counted through the first and second endings in the music. For instance, if the first ending is measure 8, the second ending is counted here as measure 9. 
 
 
-Here, readers can also find the corpus downloadable as kern files, as well as analyses conducted with the [Humdrum Toolkit](https://www.humdrum.org/guide/), and scores visualized with the [Verovio Humdrum Viewer](https://verovio.humdrum.org/). These analyses include frequency distributions, *n-gram* analyses, and (soon) a schema-finder using skip-gram analysis.
+Here, readers can also find the corpus downloadable as kern files, as well as analyses conducted with the [Humdrum Toolkit](https://www.humdrum.org/guide/), and scores visualized with the [Verovio Humdrum Viewer](https://verovio.humdrum.org/). These analyses include frequency distributions, and *n-gram* analyses.
 
 **References**
 
