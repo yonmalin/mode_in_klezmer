@@ -5,6 +5,7 @@ title: Mode Analysis
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 library(tidyverse)
 library(DT)
+library(janitor)
 df <- read.csv("data/beregovski-metadata.tsv", sep="\t", header=TRUE)
 df <- df |> clean_names()
 df <- df |>  select(c(tune, mode, secondary_modes, modulation_measures, one_mode, mode_notes))
