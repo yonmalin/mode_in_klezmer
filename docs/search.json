@@ -24,29 +24,29 @@
     "objectID": "pitch_histograms.html#major",
     "href": "pitch_histograms.html#major",
     "title": "Pitch Histograms",
-    "section": "Major",
-    "text": "Major\n\n\n\n\nG major pitch histogram"
+    "section": "",
+    "text": "G major pitch histogram"
   },
   {
     "objectID": "pitch_histograms.html#minor",
     "href": "pitch_histograms.html#minor",
     "title": "Pitch Histograms",
-    "section": "Minor",
-    "text": "Minor\n\n\n\n\nG minor pitch histogram"
+    "section": "",
+    "text": "G minor pitch histogram"
   },
   {
     "objectID": "pitch_histograms.html#freygish",
     "href": "pitch_histograms.html#freygish",
     "title": "Pitch Histograms",
-    "section": "Freygish",
-    "text": "Freygish\n\n\n\nG Freygish pitch histogram"
+    "section": "",
+    "text": "G Freygish pitch histogram"
   },
   {
     "objectID": "pitch_histograms.html#raised-fourth",
     "href": "pitch_histograms.html#raised-fourth",
     "title": "Pitch Histograms",
-    "section": "Raised Fourth",
-    "text": "Raised Fourth\n\n\n\nG raised fourth pitch histogram"
+    "section": "",
+    "text": "G raised fourth pitch histogram"
   },
   {
     "objectID": "pitch_histograms.html#major-1",
@@ -89,5 +89,19 @@
     "title": "Downloadable Corpus",
     "section": "How to Cite",
     "text": "How to Cite"
+  },
+  {
+    "objectID": "pitch_counts.html#b-flat-major",
+    "href": "pitch_counts.html#b-flat-major",
+    "title": "Pitch Counts",
+    "section": "",
+    "text": "count\npitch\n\n\n\n\n276\nD5\n\n\n251\nBb4\n\n\n234\nC5\n\n\n152\nF5\n\n\n145\nEb5\n\n\n82\nF4\n\n\n72\nG5\n\n\n69\nA4\n\n\n35\nG4\n\n\n24\nA5\n\n\n22\nBb5\n\n\n19\nr\n\n\n18\nE5\n\n\n13\nBb3\n\n\n11\nC#5\n\n\n8\nC4\n\n\n8\nD4\n\n\n7\nF3\n\n\n6\nB4\n\n\n6\nC6\n\n\n6\nF#5\n\n\n5\nAb5\n\n\n5\nD6\n\n\n3\nA3\n\n\n2\nAb4\n\n\n2\nDb5\n\n\n2\nF6\n\n\n2\nEb4\n\n\n2\nEb6\n\n\n2\nE4\n\n\n1\nB5"
+  },
+  {
+    "objectID": "pitch_histograms.html",
+    "href": "pitch_histograms.html",
+    "title": "Pitch Histograms",
+    "section": "",
+    "text": "G major pitch histogram\n\n\n\n\n\n\n\n\n\nG minor pitch histogram\n\n\n\n\n\n\n\n\nG Freygish pitch histogram\n\n\n\n\n\n\n\n\nG raised fourth pitch histogram"
   }
 ]
