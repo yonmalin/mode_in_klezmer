@@ -2,10 +2,6 @@
 title: Pitch Histograms
 ---
 
----
-title: Analyses by Mode
----
-
 
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 # library(humdrumR)
@@ -37,7 +33,7 @@ title: Analyses by Mode
 ### F Major
 ![F major pitch histogram](pitch_distributions/f-major.png) -->
 
-### G Major
+
 ![G major pitch histogram](pitch_distributions/g-major.png){ width=80% }
 
 ## Minor 
@@ -48,12 +44,11 @@ title: Analyses by Mode
 ### E minor
 ![E minor pitch histogram](pitch_distributions/e-minor.png) -->
 
-### G minor
 ![G minor pitch histogram](pitch_distributions/g-minor.png){ width=80% }
 
 ## Freygish
 
-![All freygish pitch histogram](pitch_distributions/freygish.png){ width=80% }
+![G Freygish pitch histogram](pitch_distributions/freygish.png){ width=80% }
 
 ## Raised Fourth
 ![G raised fourth pitch histogram](pitch_distributions/g-alt-dor.png){ width=80% }
@@ -61,7 +56,7 @@ title: Analyses by Mode
 # The Meertens Tune Collection of Dutch Folksongs
 
 ## Major
-![meertens major pitch histogram](pitch_distributions/meertens_major.png){ width=80% }
+![Meertens G major pitch histogram](pitch_distributions/meertens_major.png){ width=80% }
 
 ## Minor 
-![meertens minor pitch histogram](pitch_distributions/meertens_minor.png){ width=80% }
+![Meertens G minor pitch histogram](pitch_distributions/meertens_minor.png){ width=80% }

@@ -29,6 +29,7 @@ website:
       - section: "Mode Data"
         contents:
           - pitch_histograms.qmd
+          - pitch_counts.qmd
           - transition_probabilities.qmd
       - section: "Downloadable Corpus"
         contents: 

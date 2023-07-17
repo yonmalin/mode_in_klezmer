@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Modes in Klezmer Music - Pitch Histograms</title>
+<title>Modes in Klezmer Music - Pitch Counts</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,7 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./transition_probabilities.html" rel="next">
-<link href="./malin_and_shanahan_metadata.html" rel="prev">
+<link href="./pitch_histograms.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Pitch Histograms</h1>
+      <h1 class="quarto-secondary-nav-title">Pitch Counts</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -138,12 +138,14 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pitch_histograms.html" class="sidebar-item-text sidebar-link active">Pitch Histograms</a>
+  <a href="./pitch_histograms.html" class="sidebar-item-text sidebar-link">Pitch Histograms</a>
   </div>
 </li>
           <li class="sidebar-item">
-  pitch_counts.qmd
-  </li>
+  <div class="sidebar-item-container"> 
+  <a href="./pitch_counts.html" class="sidebar-item-text sidebar-link active">Pitch Counts</a>
+  </div>
+</li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./transition_probabilities.html" class="sidebar-item-text sidebar-link">Melodic Tendencies</a>
@@ -176,7 +178,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Pitch Histograms</h1>
+<h1 class="title d-none d-lg-block">Pitch Counts</h1>
 </div>
 
 
@@ -191,88 +193,229 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<div class="cell" data-warnings="false">
-
-</div>
-<section id="the-beregovski-corpus" class="level1">
-<h1>The Beregovski Corpus</h1>
-<!-- ## All Pitches
-![total pitch histogram](pitch_distributions/total_corpus.png) -->
-<section id="major" class="level2">
-<h2 class="anchored" data-anchor-id="major">Major</h2>
-<!-- ### B-Flat Major
-![B-flat major pitch histogram](pitch_distributions/b-flat-major.png)
-
-### C Major
-![C major pitch histogram](pitch_distributions/c-major.png)
-
-### D Major
-![D major pitch histogram](pitch_distributions/d-major.png)
-
-### F Major
-![F major pitch histogram](pitch_distributions/f-major.png) -->
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="pitch_distributions/g-major.png" class="img-fluid figure-img" style="width:80.0%"></p>
-<p></p><figcaption class="figure-caption">G major pitch histogram</figcaption><p></p>
-</figure>
-</div>
+<section id="b-flat-major" class="level2">
+<h2 class="anchored" data-anchor-id="b-flat-major">B-Flat Major</h2>
+<table class="table">
+<thead>
+<tr class="header">
+<th>count</th>
+<th>pitch</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>276</td>
+<td>D5</td>
+</tr>
+<tr class="even">
+<td>251</td>
+<td>Bb4</td>
+</tr>
+<tr class="odd">
+<td>234</td>
+<td>C5</td>
+</tr>
+<tr class="even">
+<td>152</td>
+<td>F5</td>
+</tr>
+<tr class="odd">
+<td>145</td>
+<td>Eb5</td>
+</tr>
+<tr class="even">
+<td>82</td>
+<td>F4</td>
+</tr>
+<tr class="odd">
+<td>72</td>
+<td>G5</td>
+</tr>
+<tr class="even">
+<td>69</td>
+<td>A4</td>
+</tr>
+<tr class="odd">
+<td>35</td>
+<td>G4</td>
+</tr>
+<tr class="even">
+<td>24</td>
+<td>A5</td>
+</tr>
+<tr class="odd">
+<td>22</td>
+<td>Bb5</td>
+</tr>
+<tr class="even">
+<td>19</td>
+<td>r</td>
+</tr>
+<tr class="odd">
+<td>18</td>
+<td>E5</td>
+</tr>
+<tr class="even">
+<td>13</td>
+<td>Bb3</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>C#5</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>C4</td>
+</tr>
+<tr class="odd">
+<td>8</td>
+<td>D4</td>
+</tr>
+<tr class="even">
+<td>7</td>
+<td>F3</td>
+</tr>
+<tr class="odd">
+<td>6</td>
+<td>B4</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>C6</td>
+</tr>
+<tr class="odd">
+<td>6</td>
+<td>F#5</td>
+</tr>
+<tr class="even">
+<td>5</td>
+<td>Ab5</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>D6</td>
+</tr>
+<tr class="even">
+<td>3</td>
+<td>A3</td>
+</tr>
+<tr class="odd">
+<td>2</td>
+<td>Ab4</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Db5</td>
+</tr>
+<tr class="odd">
+<td>2</td>
+<td>F6</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Eb4</td>
+</tr>
+<tr class="odd">
+<td>2</td>
+<td>Eb6</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>E4</td>
+</tr>
+<tr class="odd">
+<td>1</td>
+<td>B5</td>
+</tr>
+</tbody>
+</table>
 </section>
-<section id="minor" class="level2">
-<h2 class="anchored" data-anchor-id="minor">Minor</h2>
-<!-- ### C minor
-![C minor pitch histogram](pitch_distributions/c-minor.png)
+<section id="c-major-total-pitches" class="level2">
+<h2 class="anchored" data-anchor-id="c-major-total-pitches">C Major Total Pitches</h2>
+<table class="table">
+<thead>
+<tr class="header">
+<th>count</th>
+<th>pitch</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>105</td>
+<td>E5</td>
+</tr>
+<tr class="even">
+<td>86</td>
+<td>C5</td>
+</tr>
+<tr class="odd">
+<td>86</td>
+<td>D5</td>
+</tr>
+<tr class="even">
+<td>69</td>
+<td>G5</td>
+</tr>
+<tr class="odd">
+<td>53</td>
+<td>F5</td>
+</tr>
+<tr class="even">
+<td>38</td>
+<td>G4</td>
+</tr>
+<tr class="odd">
+<td>20</td>
+<td>F#5</td>
+</tr>
+<tr class="even">
+<td>18</td>
+<td>B4</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>A5</td>
+</tr>
+<tr class="even">
+<td>11</td>
+<td>r</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>Eb5</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>A4</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Bb4</td>
+</tr>
+<tr class="even">
+<td>3</td>
+<td>C4</td>
+</tr>
+<tr class="odd">
+<td>2</td>
+<td>Bb5</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Eb4</td>
+</tr>
+<tr class="odd">
+<td>2</td>
+<td>C6</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>C#5</td>
+</tr>
+</tbody>
+</table>
 
-### E minor
-![E minor pitch histogram](pitch_distributions/e-minor.png) -->
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="pitch_distributions/g-minor.png" class="img-fluid figure-img" style="width:80.0%"></p>
-<p></p><figcaption class="figure-caption">G minor pitch histogram</figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="freygish" class="level2">
-<h2 class="anchored" data-anchor-id="freygish">Freygish</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="pitch_distributions/freygish.png" class="img-fluid figure-img" style="width:80.0%"></p>
-<p></p><figcaption class="figure-caption">G Freygish pitch histogram</figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="raised-fourth" class="level2">
-<h2 class="anchored" data-anchor-id="raised-fourth">Raised Fourth</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="pitch_distributions/g-alt-dor.png" class="img-fluid figure-img" style="width:80.0%"></p>
-<p></p><figcaption class="figure-caption">G raised fourth pitch histogram</figcaption><p></p>
-</figure>
-</div>
-</section>
-</section>
-<section id="the-meertens-tune-collection-of-dutch-folksongs" class="level1">
-<h1>The Meertens Tune Collection of Dutch Folksongs</h1>
-<section id="major-1" class="level2">
-<h2 class="anchored" data-anchor-id="major-1">Major</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="pitch_distributions/meertens_major.png" class="img-fluid figure-img" style="width:80.0%"></p>
-<p></p><figcaption class="figure-caption">Meertens G major pitch histogram</figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="minor-1" class="level2">
-<h2 class="anchored" data-anchor-id="minor-1">Minor</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="pitch_distributions/meertens_minor.png" class="img-fluid figure-img" style="width:80.0%"></p>
-<p></p><figcaption class="figure-caption">Meertens G minor pitch histogram</figcaption><p></p>
-</figure>
-</div>
 
-
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -526,8 +669,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation column-page-right">
   <div class="nav-page nav-page-previous">
-      <a href="./malin_and_shanahan_metadata.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Mode Analysis</span>
+      <a href="./pitch_histograms.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Pitch Histograms</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">

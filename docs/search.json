@@ -128,43 +128,57 @@
   {
     "objectID": "pitch_histograms.html#major",
     "href": "pitch_histograms.html#major",
-    "title": "Analyses by Mode",
+    "title": "Pitch Histograms",
     "section": "Major",
-    "text": "Major\n\n\nG Major\n\n\n\nG major pitch histogram"
+    "text": "Major\n\n\n\n\nG major pitch histogram"
   },
   {
     "objectID": "pitch_histograms.html#minor",
     "href": "pitch_histograms.html#minor",
-    "title": "Analyses by Mode",
+    "title": "Pitch Histograms",
     "section": "Minor",
-    "text": "Minor\n\n\nG minor\n\n\n\nG minor pitch histogram"
+    "text": "Minor\n\n\n\n\nG minor pitch histogram"
   },
   {
     "objectID": "pitch_histograms.html#freygish",
     "href": "pitch_histograms.html#freygish",
-    "title": "Analyses by Mode",
+    "title": "Pitch Histograms",
     "section": "Freygish",
-    "text": "Freygish\n\n\n\nAll freygish pitch histogram"
+    "text": "Freygish\n\n\n\nG Freygish pitch histogram"
   },
   {
     "objectID": "pitch_histograms.html#raised-fourth",
     "href": "pitch_histograms.html#raised-fourth",
-    "title": "Analyses by Mode",
+    "title": "Pitch Histograms",
     "section": "Raised Fourth",
     "text": "Raised Fourth\n\n\n\nG raised fourth pitch histogram"
   },
   {
     "objectID": "pitch_histograms.html#major-1",
     "href": "pitch_histograms.html#major-1",
-    "title": "Analyses by Mode",
+    "title": "Pitch Histograms",
     "section": "Major",
-    "text": "Major\n\n\n\nmeertens major pitch histogram"
+    "text": "Major\n\n\n\nMeertens G major pitch histogram"
   },
   {
     "objectID": "pitch_histograms.html#minor-1",
     "href": "pitch_histograms.html#minor-1",
-    "title": "Analyses by Mode",
+    "title": "Pitch Histograms",
     "section": "Minor",
-    "text": "Minor\n\n\n\nmeertens minor pitch histogram"
+    "text": "Minor\n\n\n\nMeertens G minor pitch histogram"
+  },
+  {
+    "objectID": "pitch_counts.html",
+    "href": "pitch_counts.html",
+    "title": "Pitch Counts",
+    "section": "",
+    "text": "count\npitch\n\n\n\n\n276\nD5\n\n\n251\nBb4\n\n\n234\nC5\n\n\n152\nF5\n\n\n145\nEb5\n\n\n82\nF4\n\n\n72\nG5\n\n\n69\nA4\n\n\n35\nG4\n\n\n24\nA5\n\n\n22\nBb5\n\n\n19\nr\n\n\n18\nE5\n\n\n13\nBb3\n\n\n11\nC#5\n\n\n8\nC4\n\n\n8\nD4\n\n\n7\nF3\n\n\n6\nB4\n\n\n6\nC6\n\n\n6\nF#5\n\n\n5\nAb5\n\n\n5\nD6\n\n\n3\nA3\n\n\n2\nAb4\n\n\n2\nDb5\n\n\n2\nF6\n\n\n2\nEb4\n\n\n2\nEb6\n\n\n2\nE4\n\n\n1\nB5"
+  },
+  {
+    "objectID": "pitch_counts.html#c-major-total-pitches",
+    "href": "pitch_counts.html#c-major-total-pitches",
+    "title": "Pitch Counts",
+    "section": "C Major Total Pitches",
+    "text": "C Major Total Pitches\n\n\n\ncount\npitch\n\n\n\n\n105\nE5\n\n\n86\nC5\n\n\n86\nD5\n\n\n69\nG5\n\n\n53\nF5\n\n\n38\nG4\n\n\n20\nF#5\n\n\n18\nB4\n\n\n15\nA5\n\n\n11\nr\n\n\n11\nEb5\n\n\n10\nA4\n\n\n5\nBb4\n\n\n3\nC4\n\n\n2\nBb5\n\n\n2\nEb4\n\n\n2\nC6\n\n\n1\nC#5"
   }
 ]
