@@ -7,6 +7,13 @@
     "text": "Pitch-to-pitch transitions"
   },
   {
+    "objectID": "analyses_by_mode.html",
+    "href": "analyses_by_mode.html",
+    "title": "Analyses by Mode",
+    "section": "",
+    "text": "Pitch histograms for the Major mode.\n\n\n\n\n\nLooking at this as a percentage of total pitches might be more useful.\n\n\n\n\n\n\n\nPitch histograms for the minor mode.\n\n\n\n\n\nAgain, here we might explore it as a percentage of total pitches used in this mode.\n\n\n\n\n\n\n\nPitch histograms in Freygish\n\n\n\n\n\nAs a percentage.\n\n\n\n\n\n\n\nPitch histograms for the “raised-four” mode.\n\n\n\n\n\nAnd again as a percentage:"
+  },
+  {
     "objectID": "introduction.html",
     "href": "introduction.html",
     "title": "Introduction",
