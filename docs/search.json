@@ -25,46 +25,18 @@
     "href": "pitch_histograms.html",
     "title": "Pitch Histograms",
     "section": "",
-    "text": "G major pitch histogram\n\n\n\n\n\n\n\n\n\nG minor pitch histogram\n\n\n\n\n\n\n\n\nG Freygish pitch histogram\n\n\n\n\n\n\n\n\nG raised fourth pitch histogram"
+    "text": "Looking at this as a percentage of total pitches might be more useful."
   },
   {
     "objectID": "pitch_histograms.html#major",
     "href": "pitch_histograms.html#major",
     "title": "Pitch Histograms",
-    "section": "",
-    "text": "G major pitch histogram"
-  },
-  {
-    "objectID": "pitch_histograms.html#minor",
-    "href": "pitch_histograms.html#minor",
-    "title": "Pitch Histograms",
-    "section": "",
-    "text": "G minor pitch histogram"
-  },
-  {
-    "objectID": "pitch_histograms.html#freygish",
-    "href": "pitch_histograms.html#freygish",
-    "title": "Pitch Histograms",
-    "section": "",
-    "text": "G Freygish pitch histogram"
-  },
-  {
-    "objectID": "pitch_histograms.html#raised-fourth",
-    "href": "pitch_histograms.html#raised-fourth",
-    "title": "Pitch Histograms",
-    "section": "",
-    "text": "G raised fourth pitch histogram"
-  },
-  {
-    "objectID": "pitch_histograms.html#major-1",
-    "href": "pitch_histograms.html#major-1",
-    "title": "Pitch Histograms",
     "section": "Major",
     "text": "Major\n\n\n\nMeertens G major pitch histogram"
   },
   {
-    "objectID": "pitch_histograms.html#minor-1",
-    "href": "pitch_histograms.html#minor-1",
+    "objectID": "pitch_histograms.html#minor",
+    "href": "pitch_histograms.html#minor",
     "title": "Pitch Histograms",
     "section": "Minor",
     "text": "Minor\n\n\n\nMeertens G minor pitch histogram"
