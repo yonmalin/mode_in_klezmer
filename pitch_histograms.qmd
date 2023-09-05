@@ -4,54 +4,87 @@ title: Pitch Histograms
 
 
 ```{r, echo=F, warnings=FALSE, message=FALSE}
-# library(humdrumR)
-# library(tidyverse)
-# beregovski <- readHumdrum('corpus/*.krn')
-# beregovski <- within(beregovski, Kern <- kern(Token, simple = TRUE))
-# tally(beregovski)
-# 
-# pitches <- with(beregovski, tally(kern(Token))) |> barplot()
+library(tidyverse)
+library(humdrumR)
+```
+
+
+### Pitch histograms for the Major mode. 
+```{r, echo=F, warnings=FALSE, message=FALSE}
+major <- readHumdrum('corpus/extracts/major/*.krn')
+major |> 
+    pitch(simple = FALSE) |>
+    tally() |>
+    draw()
 
 ```
 
-# The Beregovski Corpus
+Looking at this as a percentage of total pitches might be more useful. 
+```{r, echo=F, warnings=FALSE, message=FALSE}
+x <- major |> 
+    pitch(simple = FALSE) |>
+    tally()
+percentage <- x/sum(x)
+percentage |> draw()
+```
 
-<!-- ## All Pitches
-![total pitch histogram](pitch_distributions/total_corpus.png) -->
+### Pitch histograms for the minor mode. 
+```{r, echo=F, warnings=FALSE, message=FALSE}
+minor <- readHumdrum('corpus/extracts/minor/*.krn')
+minor |> 
+    pitch(simple = FALSE) |>
+    tally() |> 
 
-## Major
+    draw()
 
-<!-- ### B-Flat Major
-![B-flat major pitch histogram](pitch_distributions/b-flat-major.png)
+```
 
-### C Major
-![C major pitch histogram](pitch_distributions/c-major.png)
+Again, here we might explore it as a percentage of total pitches used in this mode. 
+```{r, echo=F, warnings=FALSE, message=FALSE}
+x <- minor |> 
+    pitch(simple = FALSE) |>
+    tally()
+percentage <- x/sum(x)
+percentage |> draw()
+```
 
-### D Major
-![D major pitch histogram](pitch_distributions/d-major.png)
 
-### F Major
-![F major pitch histogram](pitch_distributions/f-major.png) -->
+### Pitch histograms in Freygish
+```{r, echo=F, warnings=FALSE, message=FALSE}
+freygish <- readHumdrum('corpus/extracts/freygish/*.krn')
+freygish |> 
+    pitch(simple = FALSE) |>
+    tally() |>
+    draw()
+```
 
+As a percentage.
+```{r, echo=F, warnings=FALSE, message=FALSE}
+x <- freygish |> 
+    pitch(simple = FALSE) |>
+    tally()
+percentage <- x/sum(x)
+percentage |> draw()
+```
 
-![G major pitch histogram](pitch_distributions/g-major.png){ width=80% }
+### Pitch histograms for the "raised-four" mode. 
+```{r, echo=F, warnings=FALSE, message=FALSE}
+raised_four <- readHumdrum('corpus/extracts/raised_fourth/*.krn')
+raised_four |> 
+    pitch(simple = FALSE) |>
+    tally() |>
+    draw()
+```
 
-## Minor 
+And again as a percentage:
 
-<!-- ### C minor
-![C minor pitch histogram](pitch_distributions/c-minor.png)
-
-### E minor
-![E minor pitch histogram](pitch_distributions/e-minor.png) -->
-
-![G minor pitch histogram](pitch_distributions/g-minor.png){ width=80% }
-
-## Freygish
-
-![G Freygish pitch histogram](pitch_distributions/freygish.png){ width=80% }
-
-## Raised Fourth
-![G raised fourth pitch histogram](pitch_distributions/g-alt-dor.png){ width=80% }
+```{r, echo=F, warnings=FALSE, message=FALSE}
+x <- raised_four |> 
+    pitch(simple = FALSE) |>
+    tally()
+percentage <- x/sum(x)
+percentage |> draw()
+```
 
 # The Meertens Tune Collection of Dutch Folksongs
 
