@@ -4,8 +4,14 @@ title: Downloadable Corpus
 
 ## The Link to the Corpus 
 
+The full corpus can be found on our [public github site](https://github.com/shanahdt/mode_in_klezmer). Specifically, the full corpus will all of the kern files and the excerpts broken down into sections, can be found [here](https://github.com/shanahdt/mode_in_klezmer/tree/main/corpus). 
+
 
 ## Link to how corpus was assembled.
 
+The dataset is collected from the Beregovski's transcriptions (see [the introduction page](introduction.qmd) for a description of this). This was then encoded into Sibelius by Yonatan Malin, and converted into the **kern format by Daniel Shanahan.
+
 ## How to Cite
+
+Please cite the following work when using this corpus.
 

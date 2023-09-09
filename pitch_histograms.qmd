@@ -2,94 +2,145 @@
 title: Pitch Histograms
 ---
 
-
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 library(tidyverse)
 library(humdrumR)
 ```
 
+### Pitch histograms for the Major mode.
 
-### Pitch histograms for the Major mode. 
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 major <- readHumdrum('corpus/extracts/major/*.krn')
-major |> 
+major_1 <- major |> 
     pitch(simple = FALSE) |>
-    tally() |>
-    draw()
+    humdrumR::tally() |> as_tibble() 
+
+major_1$Pitch <- factor(major_1$Pitch, levels = major_1$Pitch)
+    
+ggplot(major_1, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+
 
 ```
 
-Looking at this as a percentage of total pitches might be more useful. 
+
+Looking at this as a percentage of total pitches might be more useful. The numbers on the y-axis represent the percentage of pitches used in a given mode. 
+
 ```{r, echo=F, warnings=FALSE, message=FALSE}
-x <- major |> 
+x <-  major |> 
     pitch(simple = FALSE) |>
-    tally()
-percentage <- x/sum(x)
-percentage |> draw()
+    humdrumR::tally() 
+percentage <- x/sum(x) * 100
+percentage <- as_tibble(percentage)
+percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
+
+ggplot(percentage, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+
 ```
 
-### Pitch histograms for the minor mode. 
+### Pitch histograms for the minor mode.
+
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 minor <- readHumdrum('corpus/extracts/minor/*.krn')
-minor |> 
+minor_1 <- minor |> 
     pitch(simple = FALSE) |>
-    tally() |> 
+    humdrumR::tally() |> as_tibble() 
 
-    draw()
+minor_1$Pitch <- factor(minor_1$Pitch, levels = minor_1$Pitch)
+    
+ggplot(minor_1, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+
 
 ```
 
-Again, here we might explore it as a percentage of total pitches used in this mode. 
+Again, here we might explore it as a percentage of total pitches used in this mode.
+
 ```{r, echo=F, warnings=FALSE, message=FALSE}
-x <- minor |> 
+x <-  minor |> 
     pitch(simple = FALSE) |>
-    tally()
-percentage <- x/sum(x)
-percentage |> draw()
-```
+    humdrumR::tally() 
+percentage <- x/sum(x) * 100
+percentage <- as_tibble(percentage)
+percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
 
+ggplot(percentage, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
 
 ### Pitch histograms in Freygish
+
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 freygish <- readHumdrum('corpus/extracts/freygish/*.krn')
-freygish |> 
+freygish_1 <- freygish |> 
     pitch(simple = FALSE) |>
-    tally() |>
-    draw()
+    humdrumR::tally() |> as_tibble() 
+
+freygish_1$Pitch <- factor(freygish_1$Pitch, levels = freygish_1$Pitch)
+    
+ggplot(freygish_1, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 ```
 
 As a percentage.
+
 ```{r, echo=F, warnings=FALSE, message=FALSE}
-x <- freygish |> 
+x <-  freygish |> 
     pitch(simple = FALSE) |>
-    tally()
-percentage <- x/sum(x)
-percentage |> draw()
+    humdrumR::tally() 
+percentage <- x/sum(x) * 100
+percentage <- as_tibble(percentage)
+percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
+
+ggplot(percentage, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 ```
 
-### Pitch histograms for the "raised-four" mode. 
+### Pitch histograms for the "raised-four" mode.
+
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 raised_four <- readHumdrum('corpus/extracts/raised_fourth/*.krn')
-raised_four |> 
+raised_four_1 <- raised_four |> 
     pitch(simple = FALSE) |>
-    tally() |>
-    draw()
+    humdrumR::tally() |> as_tibble() 
+
+raised_four_1$Pitch <- factor(raised_four_1$Pitch, levels = raised_four_1$Pitch)
+    
+ggplot(raised_four_1, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 ```
 
 And again as a percentage:
 
 ```{r, echo=F, warnings=FALSE, message=FALSE}
-x <- raised_four |> 
+x <-  raised_four |> 
     pitch(simple = FALSE) |>
-    tally()
-percentage <- x/sum(x)
-percentage |> draw()
+    humdrumR::tally() 
+percentage <- x/sum(x) * 100
+percentage <- as_tibble(percentage)
+percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
+
+ggplot(percentage, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 ```
 
 # The Meertens Tune Collection of Dutch Folksongs
 
-## Major
-![Meertens G major pitch histogram](pitch_distributions/meertens_major.png){ width=80% }
+For comparison, here we have the pitch distributions of the major and minor modes from the Meertens Tune Collection of Dutch Folksongs.
 
-## Minor 
-![Meertens G minor pitch histogram](pitch_distributions/meertens_minor.png){ width=80% }
+## Major
+
+![Meertens G major pitch histogram](pitch_distributions/meertens_major.png){width="80%"}
+
+## Minor
+
+![Meertens G minor pitch histogram](pitch_distributions/meertens_minor.png){width="80%"}
