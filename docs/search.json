@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "melodic_tendencies.html#freygish",
+    "href": "melodic_tendencies.html#freygish",
+    "title": "Melodic Tendencies",
+    "section": "Freygish",
+    "text": "Freygish\nAnd here we see a barplot of the top ten bigrams in Freygish.\n\n\n\n\n\n\n\nAnd here is a barplot of the top ten bigrams in freygish.\n\n\n\n\n\nWe can also explore these transitions through a transition matrix. Here we have the top thirty transitions, with the first note being on the y-axis, and the note that it’s going to on the x-axis."
+  },
+  {
+    "objectID": "melodic_tendencies.html#raised-fourth",
+    "href": "melodic_tendencies.html#raised-fourth",
+    "title": "Melodic Tendencies",
+    "section": "Raised Fourth",
+    "text": "Raised Fourth"
+  },
+  {
     "objectID": "melodic_tendencies.html#major",
     "href": "melodic_tendencies.html#major",
     "title": "Melodic Tendencies",
     "section": "Major",
-    "text": "Major\n\n\n\n\n\n\n\nAnd here we see a barplot of the top ten bigrams in major.\n\n\n\n\n\nWe can also explore these transitions through a transition matrix. Here we have the top thirty transitions, with the first note being on the y-axis, and the note that it’s going to on the x-axis."
+    "text": "Major\nAnd here we see a barplot of the top ten bigrams in major."
   },
   {
     "objectID": "melodic_tendencies.html#minor",
@@ -12,20 +26,6 @@
     "title": "Melodic Tendencies",
     "section": "Minor",
     "text": "Minor\n\n\n\n\n\n\n\nHere we see a barplot of the top ten bigrams in minor."
-  },
-  {
-    "objectID": "melodic_tendencies.html#freygish",
-    "href": "melodic_tendencies.html#freygish",
-    "title": "Melodic Tendencies",
-    "section": "Freygish",
-    "text": "Freygish\n\n\n\n\n\n\n\nAnd here is a barplot of the top ten bigrams in freygish."
-  },
-  {
-    "objectID": "melodic_tendencies.html#raised-four",
-    "href": "melodic_tendencies.html#raised-four",
-    "title": "Melodic Tendencies",
-    "section": "Raised Four",
-    "text": "Raised Four\n\n\n\n\n\n\n\nAnd here we see a barplot of the top ten bigrams in major."
   },
   {
     "objectID": "introduction.html",
@@ -84,6 +84,20 @@
     "text": "Below are sortable tables showing the counts of pitches in each mode. This can be cross-references with the visualizations from the pitch histogram page, or can be used for additional data analysis as needed."
   },
   {
+    "objectID": "pitch_counts.html#g-freygish",
+    "href": "pitch_counts.html#g-freygish",
+    "title": "Pitch Counts",
+    "section": "G Freygish",
+    "text": "G Freygish"
+  },
+  {
+    "objectID": "pitch_counts.html#g-raised-fourth",
+    "href": "pitch_counts.html#g-raised-fourth",
+    "title": "Pitch Counts",
+    "section": "G “Raised Fourth”",
+    "text": "G “Raised Fourth”"
+  },
+  {
     "objectID": "pitch_counts.html#g-major",
     "href": "pitch_counts.html#g-major",
     "title": "Pitch Counts",
@@ -96,20 +110,6 @@
     "title": "Pitch Counts",
     "section": "G Minor",
     "text": "G Minor"
-  },
-  {
-    "objectID": "pitch_counts.html#g-raised-fourth",
-    "href": "pitch_counts.html#g-raised-fourth",
-    "title": "Pitch Counts",
-    "section": "G “Raised Fourth”",
-    "text": "G “Raised Fourth”"
-  },
-  {
-    "objectID": "pitch_counts.html#g-freygish",
-    "href": "pitch_counts.html#g-freygish",
-    "title": "Pitch Counts",
-    "section": "G Freygish",
-    "text": "G Freygish"
   },
   {
     "objectID": "searchable_metadata_and_mode_analysis.html",
@@ -140,11 +140,11 @@
     "text": "The full corpus can be found on our public github site. Specifically, the full corpus will all of the kern files and the excerpts broken down into sections, can be found here."
   },
   {
-    "objectID": "corpus_download.html#link-to-how-corpus-was-assembled.",
-    "href": "corpus_download.html#link-to-how-corpus-was-assembled.",
+    "objectID": "corpus_download.html#how-the-corpus-was-assembled.",
+    "href": "corpus_download.html#how-the-corpus-was-assembled.",
     "title": "Downloadable Corpus",
-    "section": "Link to how corpus was assembled.",
-    "text": "Link to how corpus was assembled.\nThe dataset is collected from the Beregovski’s transcriptions (see the introduction page for a description of this). This was then encoded into Sibelius by Yonatan Malin, and converted into the **kern format by Daniel Shanahan."
+    "section": "How the corpus was assembled.",
+    "text": "How the corpus was assembled.\nThe dataset is collected from the Beregovski’s transcriptions (see the introduction page for a description of this). This was then encoded into Sibelius by Yonatan Malin, and converted into the **kern format by Daniel Shanahan. More information can be found on the introduction page, and in publications."
   },
   {
     "objectID": "corpus_download.html#how-to-cite",

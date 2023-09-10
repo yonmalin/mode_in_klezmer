@@ -6,8 +6,6 @@ title: Melodic Tendencies
 
 
 
-## Major
-
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 library(humdrumR)
 library(tidyverse)
@@ -35,11 +33,11 @@ bigram_table <- function(mode){
   
   
 }
-
-bigram_table(major)
 ```
 
-And here we see a barplot of the top ten bigrams in major.
+
+
+
 
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 bigram_bar <- function(mode){
@@ -65,11 +63,8 @@ bigram_bar <- function(mode){
   
 }
 
-bigram_bar(major)
-
 ```
 
-We can also explore these transitions through a transition matrix. Here we have the top thirty transitions, with the first note being on the y-axis, and the note that it's going to on the x-axis.
 
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 
@@ -95,9 +90,75 @@ ggplot(data = bigram_top_thirty, mapping = aes(x = second, y = first, fill = n))
   labs(title="Top Thirty Bigrams",
         x ="Second Note", y = "First Note") + theme_bw()
 }
+```
+
+
+
+## Freygish
+
+And here we see a barplot of the top ten bigrams in Freygish.
+```{r, echo=F, warnings=FALSE, message=FALSE}
+
+bigram_table(freygish)
+```
+
+
+And here is a barplot of the top ten bigrams in freygish.
+```{r, echo=F, warnings=FALSE, message=FALSE}
+
+bigram_bar(freygish)
+```
+
+
+We can also explore these transitions through a transition matrix. Here we have the top thirty transitions, with the first note being on the y-axis, and the note that it's going to on the x-axis.
+
+
+
+```{r, echo=F, warnings=FALSE, message=FALSE}
+
+transition_matrix(freygish)
+```
+
+## Raised Fourth
+
+```{r, echo=F, warnings=FALSE, message=FALSE}
+
+bigram_table(raised_four)
+```
+
+
+
+```{r, echo=F, warnings=FALSE, message=FALSE}
+
+bigram_bar(raised_four)
+```
+
+```{r, echo=F, warnings=FALSE, message=FALSE}
+
+transition_matrix(raised_four)
+```
+
+
+## Major
+
+And here we see a barplot of the top ten bigrams in major.
+
+
+
+```{r, echo=F, warnings=FALSE, message=FALSE}
+bigram_bar(major)
+```
+```{r, echo=F, warnings=FALSE, message=FALSE}
+bigram_table(major)
+```
+
+
+```{r, echo=F, warnings=FALSE, message=FALSE}
 transition_matrix(major)
         
 ```
+
+
 ## Minor
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 
@@ -115,47 +176,4 @@ bigram_bar(minor)
 
 transition_matrix(minor)
 ```
-
-
-## Freygish
-
-```{r, echo=F, warnings=FALSE, message=FALSE}
-
-bigram_table(freygish)
-```
-
-
-And here is a barplot of the top ten bigrams in freygish.
-```{r, echo=F, warnings=FALSE, message=FALSE}
-
-bigram_bar(freygish)
-```
-
-
-
-```{r, echo=F, warnings=FALSE, message=FALSE}
-
-transition_matrix(freygish)
-```
-## Raised Four
-
-```{r, echo=F, warnings=FALSE, message=FALSE}
-
-bigram_table(raised_four)
-```
-
-
-And here we see a barplot of the top ten bigrams in major.
-
-```{r, echo=F, warnings=FALSE, message=FALSE}
-
-bigram_bar(raised_four)
-```
-
-```{r, echo=F, warnings=FALSE, message=FALSE}
-
-transition_matrix(raised_four)
-```
-
-
 
