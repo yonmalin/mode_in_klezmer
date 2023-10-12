@@ -103,7 +103,7 @@ ggplot(percentage, aes(x=Pitch, y=n)) +
     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 ```
 
-### Pitch histograms for the "raised-four" mode.
+### Pitch histograms for the raised fourth mode.
 
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 raised_four <- readHumdrum('corpus/extracts/raised_fourth/*.krn')
