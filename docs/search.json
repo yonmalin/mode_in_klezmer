@@ -67,14 +67,14 @@
     "href": "pitch_histograms.html#major",
     "title": "Pitch Histograms",
     "section": "Major",
-    "text": "Major\n\nmeertens_major &lt;- readHumdrum('corpus/meertens/meertens_major/*.krn')\n\nFinding and reading files...\n\n\n    REpath-pattern 'corpus/meertens/meertens_major/*.krn' matches 1759 text files in 1 directory.\n\n\n1,759 files read from disk.\n\n\nValidating 1,759 files...all valid.\nParsing 1,759 files...Assembling corpus...Done!\n\nmajor_1 &lt;- meertens_major |&gt; \n    pitch(simple = FALSE) |&gt;\n    humdrumR::tally() |&gt; as_tibble() |&gt;\n    filter(!grepl(\"[GABCDEF].*3\", Pitch)) |&gt; filter(!grepl(\"[789]\", Pitch)) |&gt; \n    filter(!grepl(\"[A|B].*6\", Pitch)) |&gt;\n    filter(!grepl(\"G#6\", Pitch))\n\n\n#major_1$Pitch &lt;- factor(major_1$Pitch, levels = major_1$Pitch)\n    \nggplot(major_1, aes(x=Pitch, y=n)) +\n    geom_bar(stat=\"identity\") + theme_bw() +\n    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))\n\n\n\n\n\n\n\nMeertens G major pitch histogram"
+    "text": "Major"
   },
   {
     "objectID": "pitch_histograms.html#minor",
     "href": "pitch_histograms.html#minor",
     "title": "Pitch Histograms",
     "section": "Minor",
-    "text": "Minor\n\n\n\nMeertens G minor pitch histogram\n\n\n\nmeertens_minor &lt;- readHumdrum('corpus/meertens/meertens_minor/*.krn')\n\nFinding and reading files...\n\n\n    REpath-pattern 'corpus/meertens/meertens_minor/*.krn' matches 609 text files in 1 directory.\n\n\n609 files read from disk.\n\n\nValidating 609 files...all valid.\nParsing 609 files...Assembling corpus...Done!\n\n#meertens_minor &lt;- rename(meertens_major, Pitch = V1, n = V2)\n\nminor_1 &lt;- meertens_minor |&gt; \n    pitch(simple = FALSE) |&gt;\n    humdrumR::tally() |&gt; as_tibble() |&gt;\n    filter(!grepl(\"[GABCDEF].*3\", Pitch)) |&gt; filter(!grepl(\"[789]\", Pitch)) |&gt; \n    filter(!grepl(\"[A|B].*6\", Pitch)) |&gt;\n    filter(!grepl(\"G#6\", Pitch))\n\n\n#major_1$Pitch &lt;- factor(major_1$Pitch, levels = major_1$Pitch)\n    \nggplot(major_1, aes(x=Pitch, y=n)) +\n    geom_bar(stat=\"identity\") + theme_bw() +\n    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))"
+    "text": "Minor"
   },
   {
     "objectID": "pitch_counts.html",

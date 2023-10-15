@@ -153,7 +153,8 @@ For comparison, here we have the pitch distributions of the major and minor mode
 ## Major
 
 
-```{r}
+
+```{r, echo=F, warnings=FALSE, message=FALSE}
 meertens_major <- readHumdrum('corpus/meertens/meertens_major/*.krn')
 
 
@@ -165,20 +166,18 @@ major_1 <- meertens_major |>
     filter(!grepl("G#6", Pitch))
 
 
-#major_1$Pitch <- factor(major_1$Pitch, levels = major_1$Pitch)
+major_1$Pitch <- factor(major_1$Pitch, levels = major_1$Pitch)
     
 ggplot(major_1, aes(x=Pitch, y=n)) +
     geom_bar(stat="identity") + theme_bw() +
     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 ```
 
-![Meertens G major pitch histogram](pitch_distributions/meertens_major.png){width="80%"}
 
 ## Minor
 
-![Meertens G minor pitch histogram](pitch_distributions/meertens_minor.png){width="80%"}
 
-```{r}
+```{r, echo=F, warnings=FALSE, message=FALSE}
 meertens_minor <- readHumdrum('corpus/meertens/meertens_minor/*.krn')
 
 #meertens_minor <- rename(meertens_major, Pitch = V1, n = V2)
@@ -191,9 +190,9 @@ minor_1 <- meertens_minor |>
     filter(!grepl("G#6", Pitch))
 
 
-#major_1$Pitch <- factor(major_1$Pitch, levels = major_1$Pitch)
+minor_1$Pitch <- factor(minor_1$Pitch, levels = minor_1$Pitch)
     
-ggplot(major_1, aes(x=Pitch, y=n)) +
+ggplot(minor_1, aes(x=Pitch, y=n)) +
     geom_bar(stat="identity") + theme_bw() +
     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 ```

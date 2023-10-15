@@ -59,7 +59,8 @@ bigram_bar <- function(mode){
   ggplot(data = bigram_top_ten, aes(x = reorder(bigram, -n), y = n, fill = bigram)) +
   geom_bar(stat = "identity") +
   labs(title="Top Ten Bigrams",
-        x ="Bigram", y = "Frequency") + theme_bw()
+        x ="Bigram", y = "Frequency") + theme_bw() + 
+        theme(legend.position = "none")
   
 }
 
@@ -68,28 +69,31 @@ bigram_bar <- function(mode){
 
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 
-transition_matrix <- function(mode){
-  x <- mode |> 
-      humdrumR::pitch(simple = FALSE) 
-
-  x <- as.data.frame(x, dataTypes = "Dd", padPaths = "corpus", padder = NA)
-  y <- as_tibble(x$V1) |> filter(value != ".")
-
-  y <- y |> mutate(second = lead(value, n =1)) |> 
-    unite('bigram', value:second, remove = FALSE) 
-  
-  
-bigram_counts <- y |> dplyr::count(bigram) |>
-    arrange(desc(n)) 
-bigram_top_thirty <- bigram_counts %>%
-  head(30) %>%
-  separate(bigram, into = c('first','second'), sep = '_')
-
-ggplot(data = bigram_top_thirty, mapping = aes(x = second, y = first, fill = n)) +
-  geom_tile() +
-  labs(title="Top Thirty Bigrams",
-        x ="Second Note", y = "First Note") + theme_bw()
-}
+#transition_matrix <- function(mode){
+#  x <- mode |> 
+#      humdrumR::pitch(simple = FALSE) 
+#
+#  x <- as.data.frame(x, dataTypes = "Dd", padPaths = "corpus", padder = NA)
+#  y <- as_tibble(x$V1) |> filter(value != ".")
+#
+#  y <- y |> mutate(second = lead(value, n =1)) |> 
+#    unite('bigram', value:second, remove = FALSE) 
+#  
+#  
+#  bigram_counts <- y |> dplyr::count(bigram) |>
+#    arrange(desc(n)) 
+#  bigram_top_thirty <- bigram_counts %>%
+#    head(30) %>%
+#    separate(bigram, into = c('first','second'), sep = '_')
+#
+#
+#  ggplot(data = bigram_top_thirty, mapping = aes(x = second, y = first, fill = n)) +
+#    geom_tile() +
+#    scale_x_discrete(limits=(bigram_top_thirty$first)[bigram_top_thirty$count]) + 
+#    scale_y_discrete(limits=(bigram_top_thirty$second)[bigram_top_thirty$count]) +
+#    labs(title="Top Thirty Bigrams",
+#          x ="Second Note", y = "First Note") + theme_bw()
+#}
 ```
 
 
@@ -114,10 +118,6 @@ We can also explore these transitions through a transition matrix. Here we have 
 
 
 
-```{r, echo=F, warnings=FALSE, message=FALSE}
-
-transition_matrix(freygish)
-```
 
 ## Raised Fourth
 
@@ -131,11 +131,6 @@ bigram_table(raised_four)
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 
 bigram_bar(raised_four)
-```
-
-```{r, echo=F, warnings=FALSE, message=FALSE}
-
-transition_matrix(raised_four)
 ```
 
 
@@ -153,11 +148,6 @@ bigram_table(major)
 ```
 
 
-```{r, echo=F, warnings=FALSE, message=FALSE}
-transition_matrix(major)
-        
-```
-
 
 ## Minor
 ```{r, echo=F, warnings=FALSE, message=FALSE}
@@ -170,10 +160,5 @@ Here we see a barplot of the top ten bigrams in minor.
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 
 bigram_bar(minor)
-```
-
-```{r, echo=F, warnings=FALSE, message=FALSE}
-
-transition_matrix(minor)
 ```
 
