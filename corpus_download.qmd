@@ -11,6 +11,8 @@ The full corpus can be found on our [public github site](https://github.com/shan
 
 The dataset is collected from the Beregovski's transcriptions (see [the introduction page](introduction.qmd) for a description of this). This was then encoded into Sibelius by Yonatan Malin, and converted into the **kern format by Daniel Shanahan. More information can be found on the introduction page, and in publications.
 
+The corpus was digitized from the second English edition by Research Assistants Rebecca Hamel and Izzy Fincher with funding from the Center for Humanities & the Arts and Program in Jewish Studies at the University of Colorado Boulder. Research Assistant Laine Gruver assisted with data entry for the website.
+
 ## How to Cite
 
 Please cite the following work when using this corpus:

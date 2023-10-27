@@ -7,6 +7,74 @@ library(tidyverse)
 library(humdrumR)
 ```
 
+
+### Pitch histograms in Freygish
+
+```{r, echo=F, warnings=FALSE, message=FALSE}
+freygish <- readHumdrum('corpus/extracts/freygish/*.krn')
+freygish_1 <- freygish |> 
+    pitch(simple = FALSE) |>
+    humdrumR::tally() |> as_tibble() |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
+
+freygish_1$Pitch <- factor(freygish_1$Pitch, levels = freygish_1$Pitch)
+    
+ggplot(freygish_1, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+As a percentage.
+
+```{r, echo=F, warnings=FALSE, message=FALSE}
+x <-  freygish |> 
+    pitch(simple = FALSE) |>
+    humdrumR::tally() 
+percentage <- x/sum(x) * 100
+percentage <- as_tibble(percentage)|>  filter(!grepl("[GABCDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch))
+percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
+
+ggplot(percentage, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+### Pitch histograms for the Raised Fourth mode.
+
+```{r, echo=F, warnings=FALSE, message=FALSE}
+raised_four <- readHumdrum('corpus/extracts/raised_fourth/*.krn')
+raised_four_1 <- raised_four |> 
+    pitch(simple = FALSE) |>
+    humdrumR::tally() |> as_tibble() |>
+    filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
+
+raised_four_1$Pitch <- factor(raised_four_1$Pitch, levels = raised_four_1$Pitch)
+    
+ggplot(raised_four_1, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+And again as a percentage:
+
+```{r, echo=F, warnings=FALSE, message=FALSE}
+x <-  raised_four |> 
+    pitch(simple = FALSE) |>
+    humdrumR::tally() 
+percentage <- x/sum(x) * 100
+percentage <- as_tibble(percentage)|>  filter(!grepl("[GABCDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch))
+percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
+
+ggplot(percentage, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+
 ### Pitch histograms for the Major mode.
 
 ```{r, echo=F, warnings=FALSE, message=FALSE}
@@ -36,7 +104,7 @@ x <-  major |>
     pitch(simple = FALSE) |>
     humdrumR::tally() 
 percentage <- x/sum(x) * 100
-percentage <- as_tibble(percentage)
+percentage <- as_tibble(percentage)|>  filter(!grepl("[GABCDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch))
 percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
 
 ggplot(percentage, aes(x=Pitch, y=n)) +
@@ -72,7 +140,7 @@ x <-  minor |>
     pitch(simple = FALSE) |>
     humdrumR::tally() 
 percentage <- x/sum(x) * 100
-percentage <- as_tibble(percentage)
+percentage <- as_tibble(percentage)|>  filter(!grepl("[GABCDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch))
 percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
 
 ggplot(percentage, aes(x=Pitch, y=n)) +
@@ -105,7 +173,7 @@ x <-  freygish |>
     pitch(simple = FALSE) |>
     humdrumR::tally() 
 percentage <- x/sum(x) * 100
-percentage <- as_tibble(percentage)
+percentage <- as_tibble(percentage)|>  filter(!grepl("[GABCDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch))
 percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
 
 ggplot(percentage, aes(x=Pitch, y=n)) +
@@ -138,7 +206,7 @@ x <-  raised_four |>
     pitch(simple = FALSE) |>
     humdrumR::tally() 
 percentage <- x/sum(x) * 100
-percentage <- as_tibble(percentage)
+percentage <- as_tibble(percentage)|>  filter(!grepl("[GABCDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch))
 percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
 
 ggplot(percentage, aes(x=Pitch, y=n)) +

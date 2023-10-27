@@ -60,7 +60,7 @@
     "href": "pitch_histograms.html",
     "title": "Pitch Histograms",
     "section": "",
-    "text": "Looking at this as a percentage of total pitches might be more useful. The numbers on the y-axis represent the percentage of pitches used in a given mode."
+    "text": "As a percentage."
   },
   {
     "objectID": "pitch_histograms.html#major",
@@ -144,7 +144,7 @@
     "href": "corpus_download.html#how-the-corpus-was-assembled.",
     "title": "Downloadable Corpus",
     "section": "How the corpus was assembled.",
-    "text": "How the corpus was assembled.\nThe dataset is collected from the Beregovski’s transcriptions (see the introduction page for a description of this). This was then encoded into Sibelius by Yonatan Malin, and converted into the **kern format by Daniel Shanahan. More information can be found on the introduction page, and in publications."
+    "text": "How the corpus was assembled.\nThe dataset is collected from the Beregovski’s transcriptions (see the introduction page for a description of this). This was then encoded into Sibelius by Yonatan Malin, and converted into the **kern format by Daniel Shanahan. More information can be found on the introduction page, and in publications.\nThe corpus was digitized from the second English edition by Research Assistants Rebecca Hamel and Izzy Fincher with funding from the Center for Humanities & the Arts and Program in Jewish Studies at the University of Colorado Boulder. Research Assistant Laine Gruver assisted with data entry for the website."
   },
   {
     "objectID": "corpus_download.html#how-to-cite",
