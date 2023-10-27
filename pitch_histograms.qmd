@@ -32,9 +32,14 @@ As a percentage.
 x <-  freygish |> 
     pitch(simple = FALSE) |>
     humdrumR::tally() 
+     
 percentage <- x/sum(x) * 100
-percentage <- as_tibble(percentage)|>  filter(!grepl("[GABCDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch))
-percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
+percentage <- as_tibble(percentage)
+percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)   
+percentage <- percentage |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
 
 ggplot(percentage, aes(x=Pitch, y=n)) +
     geom_bar(stat="identity") + theme_bw() +
@@ -66,8 +71,13 @@ x <-  raised_four |>
     pitch(simple = FALSE) |>
     humdrumR::tally() 
 percentage <- x/sum(x) * 100
-percentage <- as_tibble(percentage)|>  filter(!grepl("[GABCDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch))
-percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
+percentage <- as_tibble(percentage)
+percentage <- percentage |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
+
+percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch) 
 
 ggplot(percentage, aes(x=Pitch, y=n)) +
     geom_bar(stat="identity") + theme_bw() +
@@ -104,9 +114,13 @@ x <-  major |>
     pitch(simple = FALSE) |>
     humdrumR::tally() 
 percentage <- x/sum(x) * 100
-percentage <- as_tibble(percentage)|>  filter(!grepl("[GABCDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch))
-percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
+percentage <- as_tibble(percentage)
+percentage <- percentage |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
 
+percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
 ggplot(percentage, aes(x=Pitch, y=n)) +
     geom_bar(stat="identity") + theme_bw() +
     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
@@ -140,7 +154,12 @@ x <-  minor |>
     pitch(simple = FALSE) |>
     humdrumR::tally() 
 percentage <- x/sum(x) * 100
-percentage <- as_tibble(percentage)|>  filter(!grepl("[GABCDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch))
+percentage <- as_tibble(percentage)
+percentage <- percentage |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
+
 percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
 
 ggplot(percentage, aes(x=Pitch, y=n)) +
@@ -173,7 +192,13 @@ x <-  freygish |>
     pitch(simple = FALSE) |>
     humdrumR::tally() 
 percentage <- x/sum(x) * 100
-percentage <- as_tibble(percentage)|>  filter(!grepl("[GABCDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch))
+percentage <- as_tibble(percentage)
+
+percentage <- percentage |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
+
 percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
 
 ggplot(percentage, aes(x=Pitch, y=n)) +
@@ -206,7 +231,13 @@ x <-  raised_four |>
     pitch(simple = FALSE) |>
     humdrumR::tally() 
 percentage <- x/sum(x) * 100
-percentage <- as_tibble(percentage)|>  filter(!grepl("[GABCDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch))
+percentage <- as_tibble(percentage)
+
+percentage <- percentage |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
+
 percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
 
 ggplot(percentage, aes(x=Pitch, y=n)) +
