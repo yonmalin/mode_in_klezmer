@@ -144,7 +144,7 @@
     "href": "corpus_download.html#how-the-corpus-was-assembled.",
     "title": "Downloadable Corpus",
     "section": "How the corpus was assembled.",
-    "text": "How the corpus was assembled.\nThe dataset is collected from the Beregovski’s transcriptions (see the introduction page for a description of this). This was then encoded into Sibelius by Yonatan Malin, and converted into the **kern format by Daniel Shanahan. More information can be found on the introduction page, and in publications.\nThe corpus was digitized from the second English edition by Research Assistants Rebecca Hamel and Izzy Fincher with funding from the Center for Humanities & the Arts and Program in Jewish Studies at the University of Colorado Boulder. Research Assistant Laine Gruver assisted with data entry for the website."
+    "text": "How the corpus was assembled.\nThe dataset is collected from Beregovski’s Jewish Instrumental Folk Music ((see the introduction page for a description of this). The corpus was digitized from the second English edition by Research Assistants Rebecca Hamel and Izzy Fincher with funding from the Center for Humanities & the Arts and Program in Jewish Studies at the University of Colorado Boulder. Daniel Shanahan converted xml files to the **kern format. Research Assistant Laine Gruver assisted with data entry for the website.\nMore information can be found on the introduction page."
   },
   {
     "objectID": "corpus_download.html#how-to-cite",
