@@ -39,7 +39,7 @@ bigram_table <- function(mode){
 
 
 
-```{r, echo=F, warnings=FALSE, message=FALSE}
+```{r, bigram-bar, echo=F, warnings=FALSE, message=FALSE}
 bigram_bar <- function(mode){
   x <- mode |> 
       humdrumR::pitch(simple = FALSE) 
@@ -101,14 +101,14 @@ bigram_bar <- function(mode){
 ## Freygish
 
 And here we see a barplot of the top ten bigrams in Freygish.
-```{r, echo=F, warnings=FALSE, message=FALSE}
+```{r, freygish-bigram-table, echo=F, warnings=FALSE, message=FALSE}
 
 bigram_table(freygish)
 ```
 
 
 And here is a barplot of the top ten bigrams in freygish.
-```{r, echo=F, warnings=FALSE, message=FALSE}
+```{r, freygish-bigram-barplot, echo=F, warnings=FALSE, message=FALSE}
 
 bigram_bar(freygish)
 ```
@@ -121,14 +121,14 @@ We can also explore these transitions through a transition matrix. Here we have 
 
 ## Raised Fourth
 
-```{r, echo=F, warnings=FALSE, message=FALSE}
+```{r, raised-fourth-bigram-table, echo=F, warnings=FALSE, message=FALSE}
 
 bigram_table(raised_four)
 ```
 
 
 
-```{r, echo=F, warnings=FALSE, message=FALSE}
+```{r, raised-fourth-bigram-barplot, echo=F, warnings=FALSE, message=FALSE}
 
 bigram_bar(raised_four)
 ```
@@ -139,25 +139,25 @@ bigram_bar(raised_four)
 And here we see a barplot of the top ten bigrams in major.
 
 
-
-```{r, echo=F, warnings=FALSE, message=FALSE}
-bigram_bar(major)
-```
-```{r, echo=F, warnings=FALSE, message=FALSE}
+```{r, major-bigram-table, echo=F, warnings=FALSE, message=FALSE}
 bigram_table(major)
+```
+
+```{r, major-bigram-barplot, echo=F, warnings=FALSE, message=FALSE}
+bigram_bar(major)
 ```
 
 
 
 ## Minor
-```{r, echo=F, warnings=FALSE, message=FALSE}
+```{r, minor-bigram-table, echo=F, warnings=FALSE, message=FALSE}
 
 bigram_table(minor)
 ```
 
 Here we see a barplot of the top ten bigrams in minor.
 
-```{r, echo=F, warnings=FALSE, message=FALSE}
+```{r, minor-bigram-barplot, echo=F, warnings=FALSE, message=FALSE}
 
 bigram_bar(minor)
 ```
