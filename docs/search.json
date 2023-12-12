@@ -4,7 +4,7 @@
     "href": "melodic_tendencies.html#freygish",
     "title": "Melodic Tendencies",
     "section": "Freygish",
-    "text": "Freygish\nAnd here we see a barplot of the top ten bigrams in Freygish.\n\n\n\n\n\n\n\nAnd here is a barplot of the top ten bigrams in freygish.\n\n\n\n\n\nWe can also explore these transitions through a transition matrix. Here we have the top thirty transitions, with the first note being on the y-axis, and the note that it’s going to on the x-axis."
+    "text": "Freygish\nAnd here we see a barplot of the top ten bigrams in Freygish.\n\n\n\n\n\n\n\nAnd here is a barplot of the top ten bigrams in freygish."
   },
   {
     "objectID": "melodic_tendencies.html#raised-fourth",
@@ -110,13 +110,6 @@
     "title": "Pitch Counts",
     "section": "G Minor",
     "text": "G Minor"
-  },
-  {
-    "objectID": "searchable_metadata_and_mode_analysis.html",
-    "href": "searchable_metadata_and_mode_analysis.html",
-    "title": "Complete Metadata and Mode Analysis",
-    "section": "",
-    "text": "Complete Data"
   },
   {
     "objectID": "index.html",
