@@ -114,11 +114,6 @@ bigram_bar(freygish)
 ```
 
 
-We can also explore these transitions through a transition matrix. Here we have the top thirty transitions, with the first note being on the y-axis, and the note that it's going to on the x-axis.
-
-
-
-
 ## Raised Fourth
 
 ```{r, raised-fourth-bigram-table, echo=F, warnings=FALSE, message=FALSE}
