@@ -66,11 +66,10 @@ bigram_bar <- function(mode){
 
 ```
 
+<!-- ```{r, echo=F, warnings=FALSE, message=FALSE} -->
 
-```{r, echo=F, warnings=FALSE, message=FALSE}
-
-#transition_matrix <- function(mode){
-#  x <- mode |> 
+<!-- #transition_matrix <- function(mode){ -->
+<!-- #  x <- mode |> 
 #      humdrumR::pitch(simple = FALSE) 
 #
 #  x <- as.data.frame(x, dataTypes = "Dd", padPaths = "corpus", padder = NA)
@@ -94,7 +93,8 @@ bigram_bar <- function(mode){
 #    labs(title="Top Thirty Bigrams",
 #          x ="Second Note", y = "First Note") + theme_bw()
 #}
-```
+###``` -->
+
 
 
 
