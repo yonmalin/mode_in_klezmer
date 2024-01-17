@@ -20,7 +20,7 @@ There are two kinds of metadata on this site:
 1. Metadata from Beregovski’s notes, which includes genre, source (i.e., the musician who performed, recorded, or notated the music), source type (recording, transcription, or manuscript), the source instrument or voice, the location where the item was collected, main region, subregion, the date it was collected, and the original location for instances where the musician reported learning the tune from somewhere else. 
 2. Malin’s analysis of mode in the volume. This includes a modal designation for each tune as a whole, an indication of whether there are changes of mode, secondary modes (as applicable), the measures for secondary modes (as applicable), and additional notes for instances of ambiguity. 
 
-This information is available in three searchable spreadsheets: (1) a complete spreadsheet with Beregovski’s metadata and Malin’s mode analysis, (2) a spreadsheet with Beregovki’s metadata on its own, and (3) a spreadsheet with Malin’s analysis on its own.
+This information is available in two searchable spreadsheets: (1) a spreadsheet with Beregovki’s metadata and (2) a spreadsheet with Malin’s analysis.
 
 Beregovski notated all of the tunes in the volume in G for ease of comparison. Thus pitch data on this website correlates with scale-degree data. Passages that modulate to modes with other tonics are tagged and analyzed separately. 
 

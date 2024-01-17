@@ -28,39 +28,123 @@
     "text": "Minor\n\n\n# A tibble: 296 × 2\n   bigram      n\n   &lt;chr&gt;   &lt;int&gt;\n 1 C5_Bb4    783\n 2 D5_C5     677\n 3 Bb4_A4    654\n 4 A4_G4     477\n 5 Bb4_C5    472\n 6 Eb5_D5    450\n 7 A4_Bb4    421\n 8 G4_G4     390\n 9 C5_D5     387\n10 Bb4_Bb4   319\n# ℹ 286 more rows\n\n\nHere we see a barplot of the top ten bigrams in minor."
   },
   {
-    "objectID": "introduction.html",
-    "href": "introduction.html",
-    "title": "Introduction",
+    "objectID": "pdf_output/corpus_download.html",
+    "href": "pdf_output/corpus_download.html",
+    "title": "Downloadable Corpus",
     "section": "",
-    "text": "This website provides machine-readable music files, searchable metadata, mode analyses, and mode data for a corpus of klezmer tunes from the volume Jewish Instrumental Folk Music, compiled by the pre-eminent Ukrainian Jewish ethnomusicologist Moshe Beregovski (1892-1961). The volume was published posthumously, first in Russian (1987) and then in English (2001 and 2015). A hand-written manuscript of the volume is also available in Beregovski 2013. The tunes were collected from a variety of sources in Ukraine, in the decades before World War II, and the volume represents one of the most important sources for Jewish instrumental music from Eastern Europe, now known as klezmer (Slobin 1986, 253; Feldman 2016, 128).\nThe website is intended as a self-standing resource for musicians and scholars and as a supplement to an article by Malin and Shanahan, currently in progress.\nAt present, this collection has 245 out of the 254 tunes in Beregovski’s volume, and sections from four additional tunes. It leaves out tunes and sections without a time signature or with variable meter (i.e., with varying time signatures and frequent fermatas). There are five pieces without a regular meter: the Dobranoch no. 9, Kale-bazetsns nos. 13 and 14, and the Ava rabos nos. 17 and 18. There are also four pieces that begin without a regular meter and have metric sections at the end: the Khtsos no. 19, the Taksim no. 20, and the Doinas nos. 21 and 22. The metric sections at the ends of these are included in the corpus.\nThe corpus was digitized from the second English edition by Research Assistants Rebecca Hamel and Izzy Fincher with funding from the Center for Humanities & the Arts and Program in Jewish Studies at the University of Colorado Boulder. Research Assistant Laine Gruver assisted with data entry for the website."
+    "text": "The full corpus can be found here.\nIf you would like to see more, including the data broken into mode and the scripts for analysis, you can view them on our github site."
   },
   {
-    "objectID": "introduction.html#metadata",
-    "href": "introduction.html#metadata",
+    "objectID": "pdf_output/corpus_download.html#the-link-to-the-corpus",
+    "href": "pdf_output/corpus_download.html#the-link-to-the-corpus",
+    "title": "Downloadable Corpus",
+    "section": "",
+    "text": "The full corpus can be found here.\nIf you would like to see more, including the data broken into mode and the scripts for analysis, you can view them on our github site."
+  },
+  {
+    "objectID": "pdf_output/corpus_download.html#how-the-corpus-was-assembled.",
+    "href": "pdf_output/corpus_download.html#how-the-corpus-was-assembled.",
+    "title": "Downloadable Corpus",
+    "section": "How the corpus was assembled.",
+    "text": "How the corpus was assembled.\nThe dataset is collected from Beregovski’s Jewish Instrumental Folk Music (see the introduction page for a description of this). The corpus was digitized from the second English edition by [Redacted]. [Author 2] converted xml files to the **kern format. Research Assistant [Redacted] assisted with data entry for the website.\nMore information can be found on the introduction page."
+  },
+  {
+    "objectID": "pdf_output/corpus_download.html#how-to-cite",
+    "href": "pdf_output/corpus_download.html#how-to-cite",
+    "title": "Downloadable Corpus",
+    "section": "How to Cite",
+    "text": "How to Cite\nPlease cite the following work when using this corpus:\n[Author Names Redacted] (under review). Modes in Klezmer Music: A Corpus Study Based on Beregovski’s Jewish Instrumental Folk Music."
+  },
+  {
+    "objectID": "pdf_output/intro.html",
+    "href": "pdf_output/intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This website provides machine-readable music files, searchable metadata, mode analyses, and mode data for a corpus of klezmer tunes from the volume Jewish Instrumental Folk Music, compiled by the pre-eminent Ukrainian Jewish ethnomusicologist Moshe Beregovski (1892-1961). The volume was published posthumously, first in Russian (1987) and then in English (2001 and 2015). A hand-written manuscript of the volume is also available in Beregovski 2013. The tunes were collected from a variety of sources in Ukraine, in the decades before World War II, and the volume represents one of the most important sources for Jewish instrumental music from Eastern Europe, now known as klezmer (Slobin 1986, 253; Feldman 2016, 128).\nThe website is intended as a self-standing resource for musicians and scholars and as a supplement to an article by [Authors Names Redacted], currently in progress.\nAt present, this collection has 245 out of the 254 tunes in Beregovski’s volume, and sections from four additional tunes. It leaves out tunes and sections without a time signature or with variable meter (i.e., with varying time signatures and frequent fermatas). There are five pieces without a regular meter: the Dobranoch no. 9, Kale-bazetsns nos. 13 and 14, and the Ava rabos nos. 17 and 18. There are also four pieces that begin without a regular meter and have metric sections at the end: the Khtsos no. 19, the Taksim no. 20, and the Doinas nos. 21 and 22. The metric sections at the ends of these are included in the corpus.\nThe corpus was digitized from the second English edition by Research Assistants Rebecca Hamel and Izzy Fincher with funding from the Center for Humanities & the Arts and Program in Jewish Studies at the University of Colorado Boulder. Research Assistant Laine Gruver assisted with data entry for the website."
+  },
+  {
+    "objectID": "pdf_output/intro.html#metadata",
+    "href": "pdf_output/intro.html#metadata",
     "title": "Introduction",
     "section": "Metadata",
-    "text": "Metadata\nThis website enables searches based on Beregovski’s metadata, provides corpus-level data on mode, and a resource for further computational analysis. It is not a replacement for the full volume and does not include key features: editor’s notes by Slobin and Rothstein (from the first edition) and Bjorling (for the second), an introductory essay by Beregovski, remarks on the transcriptions by Beregovski, a music editor’s Note by Kurt Bjorling, an addendum by Izaly Zemtsovsky, and more. The music notation is also incomplete in some regards; see further notes below. The second edition is available from Kurt Bjorling at https://muziker.org/. The Russian edition is in the public domain and available from https://yiddish-culture.com/ru/yiddish_ru/beregovsky-works_ru/.\nThere are two kinds of metadata on this site:\n\nMetadata from Beregovski’s notes, which includes genre, source (i.e., the musician who performed, recorded, or notated the music), source type (recording, transcription, or manuscript), the source instrument or voice, the location where the item was collected, main region, subregion, the date it was collected, and the original location for instances where the musician reported learning the tune from somewhere else.\nMalin’s analysis of mode in the volume. This includes a modal designation for each tune as a whole, an indication of whether there are changes of mode, secondary modes (as applicable), the measures for secondary modes (as applicable), and additional notes for instances of ambiguity.\n\nThis information is available in three searchable spreadsheets: (1) a complete spreadsheet with Beregovski’s metadata and Malin’s mode analysis, (2) a spreadsheet with Beregovki’s metadata on its own, and (3) a spreadsheet with Malin’s analysis on its own.\nBeregovski notated all of the tunes in the volume in G for ease of comparison. Thus pitch data on this website correlates with scale-degree data. Passages that modulate to modes with other tonics are tagged and analyzed separately.\nBeregovski also notated the tunes with G4 as the main tonic and our pitch data is differentiated by register. (It is based on pitch, not pitch-class.) Thus, G4 in the data represents the main tonic, D5 represents scale-degree ^5 in the main 8ve and D4 represents scale-degree ^5 in the octave below."
+    "text": "Metadata\nThis website enables searches based on Beregovski’s metadata, provides corpus-level data on mode, and a resource for further computational analysis. It is not a replacement for the full volume and does not include key features: editor’s notes by Slobin and Rothstein (from the first edition) and Bjorling (for the second), an introductory essay by Beregovski, remarks on the transcriptions by Beregovski, a music editor’s Note by Kurt Bjorling, an addendum by Izaly Zemtsovsky, and more. The music notation is also incomplete in some regards; see further notes below. The second edition is available from Kurt Bjorling at https://muziker.org/. The Russian edition is in the public domain and available from https://yiddish-culture.com/ru/yiddish_ru/beregovsky-works_ru/.\nThere are two kinds of metadata on this site:\n\nMetadata from Beregovski’s notes, which includes genre, source (i.e., the musician who performed, recorded, or notated the music), source type (recording, transcription, or manuscript), the source instrument or voice, the location where the item was collected, main region, subregion, the date it was collected, and the original location for instances where the musician reported learning the tune from somewhere else.\n[Author 1]’s analysis of mode in the volume. This includes a modal designation for each tune as a whole, an indication of whether there are changes of mode, secondary modes (as applicable), the measures for secondary modes (as applicable), and additional notes for instances of ambiguity.\n\nThis information is available in three searchable spreadsheets: (1) a complete spreadsheet with Beregovski’s metadata and [Author 1]’s mode analysis, (2) a spreadsheet with Beregovki’s metadata on its own, and (3) a spreadsheet with [Author 1]’s analysis on its own.\nBeregovski notated all of the tunes in the volume in G for ease of comparison. Thus pitch data on this website correlates with scale-degree data. Passages that modulate to modes with other tonics are tagged and analyzed separately.\nBeregovski also notated the tunes with G4 as the main tonic and our pitch data is differentiated by register. (It is based on pitch, not pitch-class.) Thus, G4 in the data represents the main tonic, D5 represents scale-degree ^5 in the main 8ve and D4 represents scale-degree ^5 in the octave below."
   },
   {
-    "objectID": "introduction.html#analysis",
-    "href": "introduction.html#analysis",
+    "objectID": "pdf_output/intro.html#analysis",
+    "href": "pdf_output/intro.html#analysis",
     "title": "Introduction",
     "section": "Analysis",
-    "text": "Analysis\nThe full methodology behind the mode analysis is provided in the article by Malin and Shanahan (in progress). We summarize four main criteria for the purposes of this website:\n\nWe identify mode by section, when possible;\nWe document shifts at cadences when there is a return to a primary mode;\nHowever, when two modes in a section share the same pitch collection and cadence in the primary mode (e.g., Bb major to G minor), we use the cadence as the guide;\nWe include modal shifts within a section when they are between secondary modes with no single mode taking obvious precedent.\n\nCriteria no. 1 in particular means that if a section begins in one mode, departs briefly to another mode, and returns to the first mode, the digression is not included in the analysis. Further examples and explanations are provided in the article.\nMalin’s analysis relies on a basic classification of four modes in klezmer music. The names given here are freygish, raised fourth, minor, and major. These same modes are sometimes known by other names, which reference Jewish prayer modes or the Church mode: freygish = ahavah rabbah; raised fourth = altered Dorian or misheberakh; minor = magen avot; major = adonai malakh. Furthermore, while there are elements of Western European tonality, the “major” and “minor” modes in klezmer should not be taken as equivalent to major and minor keys in the European tradition. An introduction to the modes is provided in the article by Malin and Shanahan. Additional sources can be found in Beregovski 2015; Slobin 1980; Sokolow 1987; Horowitz 1993; Netsky 2015; Feldman 2016; and Rubin 2020. (See full citations in the references section.)\nMalin’s mode analysis answers three basic questions: What is the pitch profile of each mode? What are characteristic melodic tendencies of each mode? And what are characteristic modulation pathways? These questions can be explored with the data in this website; they are addressed directly in the article by Malin and Shanahan. The article and this website may also serve as the basis for comparison with adjacent repertoires from both Jewish and non-Jewish traditions."
+    "text": "Analysis\nThe full methodology behind the mode analysis is provided in the article by [Authors Names Redacted] (in progress). We summarize four main criteria for the purposes of this website:\n\nWe identify mode by section, when possible;\nWe document shifts at cadences when there is a return to a primary mode;\nHowever, when two modes in a section share the same pitch collection and cadence in the primary mode (e.g., Bb major to G minor), we use the cadence as the guide;\nWe include modal shifts within a section when they are between secondary modes with no single mode taking obvious precedent.\n\nCriteria no. 1 in particular means that if a section begins in one mode, departs briefly to another mode, and returns to the first mode, the digression is not included in the analysis. Further examples and explanations are provided in the article.\n[Author 1]’s analysis relies on a basic classification of four modes in klezmer music. The names given here are freygish, raised fourth, minor, and major. These same modes are sometimes known by other names, which reference Jewish prayer modes or the Church mode: freygish = ahavah rabbah; raised fourth = altered Dorian or misheberakh; minor = magen avot; major = adonai malakh. Furthermore, while there are elements of Western European tonality, the “major” and “minor” modes in klezmer should not be taken as equivalent to major and minor keys in the European tradition. An introduction to the modes is provided in the article by [Authors Names Redacted]. Additional sources can be found in Beregovski 2015; Slobin 1980; Sokolow 1987; Horowitz 1993; Netsky 2015; Feldman 2016; and Rubin 2020. (See full citations in the references section.)\n[Author 1]’s mode analysis answers three basic questions: What is the pitch profile of each mode? What are characteristic melodic tendencies of each mode? And what are characteristic modulation pathways? These questions can be explored with the data in this website; they are addressed directly in the article by [Authors Names Redacted]. The article and this website may also serve as the basis for comparison with adjacent repertoires from both Jewish and non-Jewish traditions."
   },
   {
-    "objectID": "introduction.html#additioanl-details",
-    "href": "introduction.html#additioanl-details",
+    "objectID": "pdf_output/intro.html#additional-details",
+    "href": "pdf_output/intro.html#additional-details",
     "title": "Introduction",
-    "section": "Additioanl Details",
-    "text": "Additioanl Details\nThere are a few additional details that users of the corpus should take note of:\n\nThe corpus does not include local variants within tunes–i.e., places where Beregovski notated an additional option for a few measures. It also does not include the tune variants that come one right after the other in the volume. For instance, the corpus includes the Freylekhs no. 132, but not the variant 132a. The study of tune variants is an important topic in klezmer music, but it is not one that we deal with directly here.\nThe digital music files at present do not include first and second endings. This is an issue that we expect to resolve soon. See the paper by Malin and Shanahan (in progress) for a discussion of how this affects the mode data.\nMeasure numbers in the mode analysis and digital music files are counted through the first and second endings in the music. For instance, if the first ending is measure 8, the second ending is counted here as measure 9.\n\nHere, readers can also find the corpus downloadable as kern files, as well as analyses conducted with the Humdrum Toolkit, and scores visualized with the Verovio Humdrum Viewer. These analyses include frequency distributions, and n-gram analyses.\nReferences\nBeregovski, Moshe. 2001. Jewish Instrumental Folk Music: The Collections and Writings of Moshe Beregovski. Edited by Mark Slobin, Robert A. Rothstein, and Michael Alpert. Syracuse, N.Y: Syracuse University Press.\n———. 2013. Jewish Musical Folklore. 5 volumes, 5 CD Set. Kiev: Dukh i Litera.\n———. 2015. Jewish Instrumental Folk Music: The Collections and Writings of Moshe Beregovski. Edited by Mark Slobin, Michael Alpert, and Robert Rothstein. Second edition, Revised by Kurt Björling. Draft 3.4.\nBeregovskiĭ, Moisei. 1987. Еврейская народная инструментальная музыка (Evreiskaia narodnaia instrumental’naia muzyka). Edited by Goldin. Moscow: Советский композитор.\nFeldman, Walter Zev. 2016. Klezmer: Music, History, and Memory. New York: Oxford University Press.\nHorowitz, Joshua. 1993. “The Klezmer Freygish Shteyger: Mode, Sub-Mode and Modal Progression.” Unpublished manuscript.http://www.budowitz.com/Budowitz/Essays.html.\nNetsky, Hankus. 2015. Klezmer: Music and Community in Twentieth-Century Jewish Philadelphia. Philadelphia: Temple University Press.\nRubin, Joel E. 2020. New York Klezmer in the Early Twentieth Century: The Music of Naftule Brandwein and Dave Tarras. Rochester: University of Rochester Press.\nSlobin, Mark. 1980. “The Evolution of a Musical Symbol in Yiddish Culure.” In Studies in Jewish Folklore: Proceedings of a Regional Conference of the Association for Jewish Studies Held at the Spertus College of Judaica, Chicago, 313–30. Cambridge, MA: Association for Jewish Studies.\n———. 1986. “A Fresh Look at Beregovski’s Folk Music Research.” Ethnomusicology 30 (2): 253–60.\nSokolow, Pete. 1987. “A Few Notes and Observations on the Theory and Performance of Klezmer Music.” In The Compleat Klezmer, 19–28. Cedarhurst, N.Y.: Tara Publications."
+    "section": "Additional Details",
+    "text": "Additional Details\nThere are a few additional details that users of the corpus should take note of:\n\nThe corpus does not include local variants within tunes–i.e., places where Beregovski notated an additional option for a few measures. It also does not include the tune variants that come one right after the other in the volume. For instance, the corpus includes the Freylekhs no. 132, but not the variant 132a. The study of tune variants is an important topic in klezmer music, but it is not one that we deal with directly here.\nThe digital music files at present do not include first and second endings. This is an issue that we expect to resolve soon. See the paper by [Authors Names Redacted] (in progress) for a discussion of how this affects the mode data.\nMeasure numbers in the mode analysis and digital music files are counted through the first and second endings in the music. For instance, if the first ending is measure 8, the second ending is counted here as measure 9.\n\nHere, readers can also find the corpus downloadable as kern files, as well as analyses conducted with the Humdrum Toolkit, and scores visualized with the Verovio Humdrum Viewer. These analyses include frequency distributions, and n-gram analyses.\nReferences\nBeregovski, Moshe. 2001. Jewish Instrumental Folk Music: The Collections and Writings of Moshe Beregovski. Edited by Mark Slobin, Robert A. Rothstein, and Michael Alpert. Syracuse, N.Y: Syracuse University Press.\n———. 2013. Jewish Musical Folklore. 5 volumes, 5 CD Set. Kiev: Dukh i Litera.\n———. 2015. Jewish Instrumental Folk Music: The Collections and Writings of Moshe Beregovski. Edited by Mark Slobin, Michael Alpert, and Robert Rothstein. Second edition, Revised by Kurt Björling. Draft 3.4.\nBeregovskiĭ, Moisei. 1987. Еврейская народная инструментальная музыка (Evreiskaia narodnaia instrumental’naia muzyka). Edited by Goldin. Moscow: Советский композитор.\nFeldman, Walter Zev. 2016. Klezmer: Music, History, and Memory. New York: Oxford University Press.\nHorowitz, Joshua. 1993. “The Klezmer Freygish Shteyger: Mode, Sub-Mode and Modal Progression.” Unpublished manuscript.http://www.budowitz.com/Budowitz/Essays.html.\nNetsky, Hankus. 2015. Klezmer: Music and Community in Twentieth-Century Jewish Philadelphia. Philadelphia: Temple University Press.\nRubin, Joel E. 2020. New York Klezmer in the Early Twentieth Century: The Music of Naftule Brandwein and Dave Tarras. Rochester: University of Rochester Press.\nSlobin, Mark. 1980. “The Evolution of a Musical Symbol in Yiddish Culure.” In Studies in Jewish Folklore: Proceedings of a Regional Conference of the Association for Jewish Studies Held at the Spertus College of Judaica, Chicago, 313–30. Cambridge, MA: Association for Jewish Studies.\n———. 1986. “A Fresh Look at Beregovski’s Folk Music Research.” Ethnomusicology 30 (2): 253–60.\nSokolow, Pete. 1987. “A Few Notes and Observations on the Theory and Performance of Klezmer Music.” In The Compleat Klezmer, 19–28. Cedarhurst, N.Y.: Tara Publications."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Modes in Klezmer Music: A Corpus Study Based on Beregovski’s Jewish Instrumental Folk Music",
+    "objectID": "pdf_output/pitch_counts.html",
+    "href": "pdf_output/pitch_counts.html",
+    "title": "Pitch Counts",
     "section": "",
-    "text": "This website provides machine-readable music files, searchable metadata, mode analyses, and mode data for a corpus of klezmer tunes from the volume Jewish Instrumental Folk Music, compiled by the pre-eminent Ukrainian Jewish ethnomusicologist Moshe Beregovski (1892-1961). The website is intended as a self-standing resource for musicians and scholars and as a supplement to an article by Malin and Shanahan, currently in progress."
+    "text": "Below are sortable tables showing the counts of pitches in each mode. This can be cross-references with the visualizations from the pitch histogram page, or can be used for additional data analysis as needed."
+  },
+  {
+    "objectID": "pdf_output/pitch_counts.html#g-freygish",
+    "href": "pdf_output/pitch_counts.html#g-freygish",
+    "title": "Pitch Counts",
+    "section": "G Freygish",
+    "text": "G Freygish\n\n\n# A tibble: 48 × 2\n   Pitch     n\n   &lt;chr&gt; &lt;int&gt;\n 1 G4     1275\n 2 B4     1222\n 3 C5     1187\n 4 D5     1065\n 5 Ab4     825\n 6 Eb5     491\n 7 F4      390\n 8 G5      338\n 9 F5      262\n10 E4       55\n# ℹ 38 more rows"
+  },
+  {
+    "objectID": "pdf_output/pitch_counts.html#g-raised-fourth",
+    "href": "pdf_output/pitch_counts.html#g-raised-fourth",
+    "title": "Pitch Counts",
+    "section": "G “Raised Fourth”",
+    "text": "G “Raised Fourth”\n\n\n# A tibble: 65 × 2\n   Pitch     n\n   &lt;chr&gt; &lt;int&gt;\n 1 D5     1087\n 2 C#5     746\n 3 Bb4     715\n 4 G4      534\n 5 E5      472\n 6 A4      465\n 7 G5      299\n 8 F5      253\n 9 D4      100\n10 C5       57\n# ℹ 55 more rows"
+  },
+  {
+    "objectID": "pdf_output/pitch_counts.html#g-major",
+    "href": "pdf_output/pitch_counts.html#g-major",
+    "title": "Pitch Counts",
+    "section": "G Major",
+    "text": "G Major\n\n\n# A tibble: 60 × 2\n   Pitch     n\n   &lt;chr&gt; &lt;int&gt;\n 1 B4     1097\n 2 G4      734\n 3 A4      729\n 4 D5      690\n 5 C5      670\n 6 E5      196\n 7 D4      179\n 8 G5      124\n 9 F#4     116\n10 F#5      64\n# ℹ 50 more rows"
+  },
+  {
+    "objectID": "pdf_output/pitch_counts.html#g-minor",
+    "href": "pdf_output/pitch_counts.html#g-minor",
+    "title": "Pitch Counts",
+    "section": "G Minor",
+    "text": "G Minor\n\n\n# A tibble: 56 × 2\n   Pitch     n\n   &lt;chr&gt; &lt;int&gt;\n 1 Bb4    2096\n 2 D5     1781\n 3 C5     1693\n 4 G4     1499\n 5 A4     1128\n 6 G5      701\n 7 Eb5     613\n 8 F5      505\n 9 D4      238\n10 F4      223\n# ℹ 46 more rows"
+  },
+  {
+    "objectID": "other_major_keys.html",
+    "href": "other_major_keys.html",
+    "title": "Other Major Keys",
+    "section": "",
+    "text": "B-Flat Major\n\n\n\n\n\nAnd as a percentage:\n\n\n\n\n\n\n\nC Major\n\n\n\n\n\nAs a percentage:\n\n\n\n\n\n\n\nF Major\n\n\n\n\n\nAs a percentage:"
+  },
+  {
+    "objectID": "pitch_histograms.html",
+    "href": "pitch_histograms.html",
+    "title": "Pitch Histograms",
+    "section": "",
+    "text": "As a percentage."
+  },
+  {
+    "objectID": "pitch_histograms.html#major",
+    "href": "pitch_histograms.html#major",
+    "title": "Pitch Histograms",
+    "section": "Major",
+    "text": "Major"
+  },
+  {
+    "objectID": "pitch_histograms.html#minor",
+    "href": "pitch_histograms.html#minor",
+    "title": "Pitch Histograms",
+    "section": "Minor",
+    "text": "Minor"
   },
   {
     "objectID": "pitch_counts.html",
@@ -98,95 +182,46 @@
     "text": "G Minor"
   },
   {
-    "objectID": "pitch_histograms.html",
-    "href": "pitch_histograms.html",
-    "title": "Pitch Histograms",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Modes in Klezmer Music: A Corpus Study Based on Beregovski’s Jewish Instrumental Folk Music",
     "section": "",
-    "text": "As a percentage."
+    "text": "This website provides machine-readable music files, searchable metadata, mode analyses, and mode data for a corpus of klezmer tunes from the volume Jewish Instrumental Folk Music, compiled by the pre-eminent Ukrainian Jewish ethnomusicologist Moshe Beregovski (1892-1961). The website is intended as a self-standing resource for musicians and scholars and as a supplement to an article by Malin and Shanahan, currently in progress."
   },
   {
-    "objectID": "pitch_histograms.html#major",
-    "href": "pitch_histograms.html#major",
-    "title": "Pitch Histograms",
-    "section": "Major",
-    "text": "Major"
-  },
-  {
-    "objectID": "pitch_histograms.html#minor",
-    "href": "pitch_histograms.html#minor",
-    "title": "Pitch Histograms",
-    "section": "Minor",
-    "text": "Minor"
-  },
-  {
-    "objectID": "other_major_keys.html",
-    "href": "other_major_keys.html",
-    "title": "Other Major Keys",
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Introduction",
     "section": "",
-    "text": "B-Flat Major\n\n\n\n\n\nAnd as a percentage:\n\n\n\n\n\n\n\nC Major\n\n\n\n\n\nAs a percentage:\n\n\n\n\n\n\n\nF Major\n\n\n\n\n\nAs a percentage:"
+    "text": "This website provides machine-readable music files, searchable metadata, mode analyses, and mode data for a corpus of klezmer tunes from the volume Jewish Instrumental Folk Music, compiled by the pre-eminent Ukrainian Jewish ethnomusicologist Moshe Beregovski (1892-1961). The volume was published posthumously, first in Russian (1987) and then in English (2001 and 2015). A hand-written manuscript of the volume is also available in Beregovski 2013. The tunes were collected from a variety of sources in Ukraine, in the decades before World War II, and the volume represents one of the most important sources for Jewish instrumental music from Eastern Europe, now known as klezmer (Slobin 1986, 253; Feldman 2016, 128).\nThe website is intended as a self-standing resource for musicians and scholars and as a supplement to an article by Malin and Shanahan, currently in progress.\nAt present, this collection has 245 out of the 254 tunes in Beregovski’s volume, and sections from four additional tunes. It leaves out tunes and sections without a time signature or with variable meter (i.e., with varying time signatures and frequent fermatas). There are five pieces without a regular meter: the Dobranoch no. 9, Kale-bazetsns nos. 13 and 14, and the Ava rabos nos. 17 and 18. There are also four pieces that begin without a regular meter and have metric sections at the end: the Khtsos no. 19, the Taksim no. 20, and the Doinas nos. 21 and 22. The metric sections at the ends of these are included in the corpus.\nThe corpus was digitized from the second English edition by Research Assistants Rebecca Hamel and Izzy Fincher with funding from the Center for Humanities & the Arts and Program in Jewish Studies at the University of Colorado Boulder. Research Assistant Laine Gruver assisted with data entry for the website."
   },
   {
-    "objectID": "corpus_download.html",
-    "href": "corpus_download.html",
-    "title": "Downloadable Corpus",
+    "objectID": "introduction.html#metadata",
+    "href": "introduction.html#metadata",
+    "title": "Introduction",
+    "section": "Metadata",
+    "text": "Metadata\nThis website enables searches based on Beregovski’s metadata, provides corpus-level data on mode, and a resource for further computational analysis. It is not a replacement for the full volume and does not include key features: editor’s notes by Slobin and Rothstein (from the first edition) and Bjorling (for the second), an introductory essay by Beregovski, remarks on the transcriptions by Beregovski, a music editor’s Note by Kurt Bjorling, an addendum by Izaly Zemtsovsky, and more. The music notation is also incomplete in some regards; see further notes below. The second edition is available from Kurt Bjorling at https://muziker.org/. The Russian edition is in the public domain and available from https://yiddish-culture.com/ru/yiddish_ru/beregovsky-works_ru/.\nThere are two kinds of metadata on this site:\n\nMetadata from Beregovski’s notes, which includes genre, source (i.e., the musician who performed, recorded, or notated the music), source type (recording, transcription, or manuscript), the source instrument or voice, the location where the item was collected, main region, subregion, the date it was collected, and the original location for instances where the musician reported learning the tune from somewhere else.\nMalin’s analysis of mode in the volume. This includes a modal designation for each tune as a whole, an indication of whether there are changes of mode, secondary modes (as applicable), the measures for secondary modes (as applicable), and additional notes for instances of ambiguity.\n\nThis information is available in two searchable spreadsheets: (1) a spreadsheet with Beregovki’s metadata and (2) a spreadsheet with Malin’s analysis.\nBeregovski notated all of the tunes in the volume in G for ease of comparison. Thus pitch data on this website correlates with scale-degree data. Passages that modulate to modes with other tonics are tagged and analyzed separately.\nBeregovski also notated the tunes with G4 as the main tonic and our pitch data is differentiated by register. (It is based on pitch, not pitch-class.) Thus, G4 in the data represents the main tonic, D5 represents scale-degree ^5 in the main 8ve and D4 represents scale-degree ^5 in the octave below."
+  },
+  {
+    "objectID": "introduction.html#analysis",
+    "href": "introduction.html#analysis",
+    "title": "Introduction",
+    "section": "Analysis",
+    "text": "Analysis\nThe full methodology behind the mode analysis is provided in the article by Malin and Shanahan (in progress). We summarize four main criteria for the purposes of this website:\n\nWe identify mode by section, when possible;\nWe document shifts at cadences when there is a return to a primary mode;\nHowever, when two modes in a section share the same pitch collection and cadence in the primary mode (e.g., Bb major to G minor), we use the cadence as the guide;\nWe include modal shifts within a section when they are between secondary modes with no single mode taking obvious precedent.\n\nCriteria no. 1 in particular means that if a section begins in one mode, departs briefly to another mode, and returns to the first mode, the digression is not included in the analysis. Further examples and explanations are provided in the article.\nMalin’s analysis relies on a basic classification of four modes in klezmer music. The names given here are freygish, raised fourth, minor, and major. These same modes are sometimes known by other names, which reference Jewish prayer modes or the Church mode: freygish = ahavah rabbah; raised fourth = altered Dorian or misheberakh; minor = magen avot; major = adonai malakh. Furthermore, while there are elements of Western European tonality, the “major” and “minor” modes in klezmer should not be taken as equivalent to major and minor keys in the European tradition. An introduction to the modes is provided in the article by Malin and Shanahan. Additional sources can be found in Beregovski 2015; Slobin 1980; Sokolow 1987; Horowitz 1993; Netsky 2015; Feldman 2016; and Rubin 2020. (See full citations in the references section.)\nMalin’s mode analysis answers three basic questions: What is the pitch profile of each mode? What are characteristic melodic tendencies of each mode? And what are characteristic modulation pathways? These questions can be explored with the data in this website; they are addressed directly in the article by Malin and Shanahan. The article and this website may also serve as the basis for comparison with adjacent repertoires from both Jewish and non-Jewish traditions."
+  },
+  {
+    "objectID": "introduction.html#additioanl-details",
+    "href": "introduction.html#additioanl-details",
+    "title": "Introduction",
+    "section": "Additioanl Details",
+    "text": "Additioanl Details\nThere are a few additional details that users of the corpus should take note of:\n\nThe corpus does not include local variants within tunes–i.e., places where Beregovski notated an additional option for a few measures. It also does not include the tune variants that come one right after the other in the volume. For instance, the corpus includes the Freylekhs no. 132, but not the variant 132a. The study of tune variants is an important topic in klezmer music, but it is not one that we deal with directly here.\nThe digital music files at present do not include first and second endings. This is an issue that we expect to resolve soon. See the paper by Malin and Shanahan (in progress) for a discussion of how this affects the mode data.\nMeasure numbers in the mode analysis and digital music files are counted through the first and second endings in the music. For instance, if the first ending is measure 8, the second ending is counted here as measure 9.\n\nHere, readers can also find the corpus downloadable as kern files, as well as analyses conducted with the Humdrum Toolkit, and scores visualized with the Verovio Humdrum Viewer. These analyses include frequency distributions, and n-gram analyses.\nReferences\nBeregovski, Moshe. 2001. Jewish Instrumental Folk Music: The Collections and Writings of Moshe Beregovski. Edited by Mark Slobin, Robert A. Rothstein, and Michael Alpert. Syracuse, N.Y: Syracuse University Press.\n———. 2013. Jewish Musical Folklore. 5 volumes, 5 CD Set. Kiev: Dukh i Litera.\n———. 2015. Jewish Instrumental Folk Music: The Collections and Writings of Moshe Beregovski. Edited by Mark Slobin, Michael Alpert, and Robert Rothstein. Second edition, Revised by Kurt Björling. Draft 3.4.\nBeregovskiĭ, Moisei. 1987. Еврейская народная инструментальная музыка (Evreiskaia narodnaia instrumental’naia muzyka). Edited by Goldin. Moscow: Советский композитор.\nFeldman, Walter Zev. 2016. Klezmer: Music, History, and Memory. New York: Oxford University Press.\nHorowitz, Joshua. 1993. “The Klezmer Freygish Shteyger: Mode, Sub-Mode and Modal Progression.” Unpublished manuscript.http://www.budowitz.com/Budowitz/Essays.html.\nNetsky, Hankus. 2015. Klezmer: Music and Community in Twentieth-Century Jewish Philadelphia. Philadelphia: Temple University Press.\nRubin, Joel E. 2020. New York Klezmer in the Early Twentieth Century: The Music of Naftule Brandwein and Dave Tarras. Rochester: University of Rochester Press.\nSlobin, Mark. 1980. “The Evolution of a Musical Symbol in Yiddish Culure.” In Studies in Jewish Folklore: Proceedings of a Regional Conference of the Association for Jewish Studies Held at the Spertus College of Judaica, Chicago, 313–30. Cambridge, MA: Association for Jewish Studies.\n———. 1986. “A Fresh Look at Beregovski’s Folk Music Research.” Ethnomusicology 30 (2): 253–60.\nSokolow, Pete. 1987. “A Few Notes and Observations on the Theory and Performance of Klezmer Music.” In The Compleat Klezmer, 19–28. Cedarhurst, N.Y.: Tara Publications."
+  },
+  {
+    "objectID": "pdf_output/beregovski_metadata.html",
+    "href": "pdf_output/beregovski_metadata.html",
+    "title": "Beregovkski’s Metadata",
     "section": "",
-    "text": "The full corpus can be found here.\nIf you would like to see more, including the data broken into mode and the scripts for analysis, you can view them on our github site."
-  },
-  {
-    "objectID": "corpus_download.html#the-link-to-the-corpus",
-    "href": "corpus_download.html#the-link-to-the-corpus",
-    "title": "Downloadable Corpus",
-    "section": "",
-    "text": "The full corpus can be found here.\nIf you would like to see more, including the data broken into mode and the scripts for analysis, you can view them on our github site."
-  },
-  {
-    "objectID": "corpus_download.html#how-the-corpus-was-assembled.",
-    "href": "corpus_download.html#how-the-corpus-was-assembled.",
-    "title": "Downloadable Corpus",
-    "section": "How the corpus was assembled.",
-    "text": "How the corpus was assembled.\nThe dataset is collected from Beregovski’s Jewish Instrumental Folk Music (see the introduction page for a description of this). The corpus was digitized from the second English edition by Research Assistants Rebecca Hamel and Izzy Fincher with funding from the Center for Humanities & the Arts and Program in Jewish Studies at the University of Colorado Boulder. Daniel Shanahan converted xml files to the **kern format. Research Assistant Laine Gruver assisted with data entry for the website.\nMore information can be found on the introduction page."
-  },
-  {
-    "objectID": "corpus_download.html#how-to-cite",
-    "href": "corpus_download.html#how-to-cite",
-    "title": "Downloadable Corpus",
-    "section": "How to Cite",
-    "text": "How to Cite\nPlease cite the following work when using this corpus:\nMalin, Y. and Shanahan, D. (under review). Modes in Klezmer Music: A Corpus Study Based on Beregovski’s Jewish Instrumental Folk Music."
-  },
-  {
-    "objectID": "pdf_output/melodic_tendencies.html#freygish",
-    "href": "pdf_output/melodic_tendencies.html#freygish",
-    "title": "Melodic Tendencies",
-    "section": "Freygish",
-    "text": "Freygish\nAnd here we see a barplot of the top ten bigrams in Freygish.\n\n\n# A tibble: 178 × 2\n   bigram     n\n   &lt;chr&gt;  &lt;int&gt;\n 1 C5_B4    604\n 2 D5_C5    535\n 3 Ab4_G4   501\n 4 B4_Ab4   441\n 5 Eb5_D5   346\n 6 B4_C5    339\n 7 G4_G4    331\n 8 C5_D5    288\n 9 G4_Ab4   228\n10 G4_B4    194\n# ℹ 168 more rows\n\n\nAnd here is a barplot of the top ten bigrams in freygish."
-  },
-  {
-    "objectID": "pdf_output/melodic_tendencies.html#raised-fourth",
-    "href": "pdf_output/melodic_tendencies.html#raised-fourth",
-    "title": "Melodic Tendencies",
-    "section": "Raised Fourth",
-    "text": "Raised Fourth\n\n\n# A tibble: 178 × 2\n   bigram      n\n   &lt;chr&gt;   &lt;int&gt;\n 1 D5_C#5    526\n 2 E5_D5     344\n 3 Bb4_A4    316\n 4 C#5_Bb4   309\n 5 C#5_D5    290\n 6 A4_G4     244\n 7 F5_E5     188\n 8 A4_Bb4    158\n 9 D5_D5     155\n10 D5_E5     144\n# ℹ 168 more rows"
-  },
-  {
-    "objectID": "pdf_output/melodic_tendencies.html#major",
-    "href": "pdf_output/melodic_tendencies.html#major",
-    "title": "Melodic Tendencies",
-    "section": "Major",
-    "text": "Major\nAnd here we see a barplot of the top ten bigrams in major.\n\n\n# A tibble: 151 × 2\n   bigram     n\n   &lt;chr&gt;  &lt;int&gt;\n 1 C5_B4    377\n 2 B4_A4    344\n 3 A4_G4    296\n 4 D5_C5    282\n 5 B4_C5    238\n 6 A4_B4    233\n 7 G4_B4    206\n 8 G4_A4    166\n 9 B4_G4    161\n10 B4_B4    159\n# ℹ 141 more rows"
-  },
-  {
-    "objectID": "pdf_output/melodic_tendencies.html#minor",
-    "href": "pdf_output/melodic_tendencies.html#minor",
-    "title": "Melodic Tendencies",
-    "section": "Minor",
-    "text": "Minor\n\n\n# A tibble: 296 × 2\n   bigram      n\n   &lt;chr&gt;   &lt;int&gt;\n 1 C5_Bb4    783\n 2 D5_C5     677\n 3 Bb4_A4    654\n 4 A4_G4     477\n 5 Bb4_C5    472\n 6 Eb5_D5    450\n 7 A4_Bb4    421\n 8 G4_G4     390\n 9 C5_D5     387\n10 Bb4_Bb4   319\n# ℹ 286 more rows\n\n\nHere we see a barplot of the top ten bigrams in minor."
-  },
-  {
-    "objectID": "pdf_output/index.html",
-    "href": "pdf_output/index.html",
-    "title": "Preface",
-    "section": "",
-    "text": "Preface\nThis website provides machine-readable music files, searchable metadata, mode analyses, and mode data for a corpus of klezmer tunes from the volume Jewish Instrumental Folk Music, compiled by the pre-eminent Ukrainian Jewish ethnomusicologist Moshe Beregovski (1892-1961). The website is intended as a self-standing resource for musicians and scholars and as a supplement to an article by [Authors Names Redacted], currently in progress."
+    "text": "── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.3     ✔ readr     2.1.4\n✔ forcats   1.0.0     ✔ stringr   1.5.0\n✔ ggplot2   3.4.3     ✔ tibble    3.2.1\n✔ lubridate 1.9.2     ✔ tidyr     1.3.0\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nAttaching package: 'janitor'\n\n\nThe following objects are masked from 'package:stats':\n\n    chisq.test, fisher.test\n\n\n\nAttaching package: 'kableExtra'\n\n\nThe following object is masked from 'package:dplyr':\n\n    group_rows"
   },
   {
     "objectID": "pdf_output/pitch_histograms.html",
@@ -238,101 +273,66 @@
     "text": "Minor"
   },
   {
-    "objectID": "pdf_output/beregovski_metadata.html",
-    "href": "pdf_output/beregovski_metadata.html",
-    "title": "Beregovkski’s Metadata",
+    "objectID": "pdf_output/index.html",
+    "href": "pdf_output/index.html",
+    "title": "Preface",
     "section": "",
-    "text": "── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.3     ✔ readr     2.1.4\n✔ forcats   1.0.0     ✔ stringr   1.5.0\n✔ ggplot2   3.4.3     ✔ tibble    3.2.1\n✔ lubridate 1.9.2     ✔ tidyr     1.3.0\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nAttaching package: 'janitor'\n\n\nThe following objects are masked from 'package:stats':\n\n    chisq.test, fisher.test\n\n\n\nAttaching package: 'kableExtra'\n\n\nThe following object is masked from 'package:dplyr':\n\n    group_rows"
+    "text": "Preface\nThis website provides machine-readable music files, searchable metadata, mode analyses, and mode data for a corpus of klezmer tunes from the volume Jewish Instrumental Folk Music, compiled by the pre-eminent Ukrainian Jewish ethnomusicologist Moshe Beregovski (1892-1961). The website is intended as a self-standing resource for musicians and scholars and as a supplement to an article by [Authors Names Redacted], currently in progress."
   },
   {
-    "objectID": "pdf_output/pitch_counts.html",
-    "href": "pdf_output/pitch_counts.html",
-    "title": "Pitch Counts",
-    "section": "",
-    "text": "Below are sortable tables showing the counts of pitches in each mode. This can be cross-references with the visualizations from the pitch histogram page, or can be used for additional data analysis as needed."
+    "objectID": "pdf_output/melodic_tendencies.html#freygish",
+    "href": "pdf_output/melodic_tendencies.html#freygish",
+    "title": "Melodic Tendencies",
+    "section": "Freygish",
+    "text": "Freygish\nAnd here we see a barplot of the top ten bigrams in Freygish.\n\n\n# A tibble: 178 × 2\n   bigram     n\n   &lt;chr&gt;  &lt;int&gt;\n 1 C5_B4    604\n 2 D5_C5    535\n 3 Ab4_G4   501\n 4 B4_Ab4   441\n 5 Eb5_D5   346\n 6 B4_C5    339\n 7 G4_G4    331\n 8 C5_D5    288\n 9 G4_Ab4   228\n10 G4_B4    194\n# ℹ 168 more rows\n\n\nAnd here is a barplot of the top ten bigrams in freygish."
   },
   {
-    "objectID": "pdf_output/pitch_counts.html#g-freygish",
-    "href": "pdf_output/pitch_counts.html#g-freygish",
-    "title": "Pitch Counts",
-    "section": "G Freygish",
-    "text": "G Freygish\n\n\n# A tibble: 48 × 2\n   Pitch     n\n   &lt;chr&gt; &lt;int&gt;\n 1 G4     1275\n 2 B4     1222\n 3 C5     1187\n 4 D5     1065\n 5 Ab4     825\n 6 Eb5     491\n 7 F4      390\n 8 G5      338\n 9 F5      262\n10 E4       55\n# ℹ 38 more rows"
+    "objectID": "pdf_output/melodic_tendencies.html#raised-fourth",
+    "href": "pdf_output/melodic_tendencies.html#raised-fourth",
+    "title": "Melodic Tendencies",
+    "section": "Raised Fourth",
+    "text": "Raised Fourth\n\n\n# A tibble: 178 × 2\n   bigram      n\n   &lt;chr&gt;   &lt;int&gt;\n 1 D5_C#5    526\n 2 E5_D5     344\n 3 Bb4_A4    316\n 4 C#5_Bb4   309\n 5 C#5_D5    290\n 6 A4_G4     244\n 7 F5_E5     188\n 8 A4_Bb4    158\n 9 D5_D5     155\n10 D5_E5     144\n# ℹ 168 more rows"
   },
   {
-    "objectID": "pdf_output/pitch_counts.html#g-raised-fourth",
-    "href": "pdf_output/pitch_counts.html#g-raised-fourth",
-    "title": "Pitch Counts",
-    "section": "G “Raised Fourth”",
-    "text": "G “Raised Fourth”\n\n\n# A tibble: 65 × 2\n   Pitch     n\n   &lt;chr&gt; &lt;int&gt;\n 1 D5     1087\n 2 C#5     746\n 3 Bb4     715\n 4 G4      534\n 5 E5      472\n 6 A4      465\n 7 G5      299\n 8 F5      253\n 9 D4      100\n10 C5       57\n# ℹ 55 more rows"
+    "objectID": "pdf_output/melodic_tendencies.html#major",
+    "href": "pdf_output/melodic_tendencies.html#major",
+    "title": "Melodic Tendencies",
+    "section": "Major",
+    "text": "Major\nAnd here we see a barplot of the top ten bigrams in major.\n\n\n# A tibble: 151 × 2\n   bigram     n\n   &lt;chr&gt;  &lt;int&gt;\n 1 C5_B4    377\n 2 B4_A4    344\n 3 A4_G4    296\n 4 D5_C5    282\n 5 B4_C5    238\n 6 A4_B4    233\n 7 G4_B4    206\n 8 G4_A4    166\n 9 B4_G4    161\n10 B4_B4    159\n# ℹ 141 more rows"
   },
   {
-    "objectID": "pdf_output/pitch_counts.html#g-major",
-    "href": "pdf_output/pitch_counts.html#g-major",
-    "title": "Pitch Counts",
-    "section": "G Major",
-    "text": "G Major\n\n\n# A tibble: 60 × 2\n   Pitch     n\n   &lt;chr&gt; &lt;int&gt;\n 1 B4     1097\n 2 G4      734\n 3 A4      729\n 4 D5      690\n 5 C5      670\n 6 E5      196\n 7 D4      179\n 8 G5      124\n 9 F#4     116\n10 F#5      64\n# ℹ 50 more rows"
+    "objectID": "pdf_output/melodic_tendencies.html#minor",
+    "href": "pdf_output/melodic_tendencies.html#minor",
+    "title": "Melodic Tendencies",
+    "section": "Minor",
+    "text": "Minor\n\n\n# A tibble: 296 × 2\n   bigram      n\n   &lt;chr&gt;   &lt;int&gt;\n 1 C5_Bb4    783\n 2 D5_C5     677\n 3 Bb4_A4    654\n 4 A4_G4     477\n 5 Bb4_C5    472\n 6 Eb5_D5    450\n 7 A4_Bb4    421\n 8 G4_G4     390\n 9 C5_D5     387\n10 Bb4_Bb4   319\n# ℹ 286 more rows\n\n\nHere we see a barplot of the top ten bigrams in minor."
   },
   {
-    "objectID": "pdf_output/pitch_counts.html#g-minor",
-    "href": "pdf_output/pitch_counts.html#g-minor",
-    "title": "Pitch Counts",
-    "section": "G Minor",
-    "text": "G Minor\n\n\n# A tibble: 56 × 2\n   Pitch     n\n   &lt;chr&gt; &lt;int&gt;\n 1 Bb4    2096\n 2 D5     1781\n 3 C5     1693\n 4 G4     1499\n 5 A4     1128\n 6 G5      701\n 7 Eb5     613\n 8 F5      505\n 9 D4      238\n10 F4      223\n# ℹ 46 more rows"
-  },
-  {
-    "objectID": "pdf_output/intro.html",
-    "href": "pdf_output/intro.html",
-    "title": "Introduction",
-    "section": "",
-    "text": "This website provides machine-readable music files, searchable metadata, mode analyses, and mode data for a corpus of klezmer tunes from the volume Jewish Instrumental Folk Music, compiled by the pre-eminent Ukrainian Jewish ethnomusicologist Moshe Beregovski (1892-1961). The volume was published posthumously, first in Russian (1987) and then in English (2001 and 2015). A hand-written manuscript of the volume is also available in Beregovski 2013. The tunes were collected from a variety of sources in Ukraine, in the decades before World War II, and the volume represents one of the most important sources for Jewish instrumental music from Eastern Europe, now known as klezmer (Slobin 1986, 253; Feldman 2016, 128).\nThe website is intended as a self-standing resource for musicians and scholars and as a supplement to an article by [Authors Names Redacted], currently in progress.\nAt present, this collection has 245 out of the 254 tunes in Beregovski’s volume, and sections from four additional tunes. It leaves out tunes and sections without a time signature or with variable meter (i.e., with varying time signatures and frequent fermatas). There are five pieces without a regular meter: the Dobranoch no. 9, Kale-bazetsns nos. 13 and 14, and the Ava rabos nos. 17 and 18. There are also four pieces that begin without a regular meter and have metric sections at the end: the Khtsos no. 19, the Taksim no. 20, and the Doinas nos. 21 and 22. The metric sections at the ends of these are included in the corpus.\nThe corpus was digitized from the second English edition by Research Assistants Rebecca Hamel and Izzy Fincher with funding from the Center for Humanities & the Arts and Program in Jewish Studies at the University of Colorado Boulder. Research Assistant Laine Gruver assisted with data entry for the website."
-  },
-  {
-    "objectID": "pdf_output/intro.html#metadata",
-    "href": "pdf_output/intro.html#metadata",
-    "title": "Introduction",
-    "section": "Metadata",
-    "text": "Metadata\nThis website enables searches based on Beregovski’s metadata, provides corpus-level data on mode, and a resource for further computational analysis. It is not a replacement for the full volume and does not include key features: editor’s notes by Slobin and Rothstein (from the first edition) and Bjorling (for the second), an introductory essay by Beregovski, remarks on the transcriptions by Beregovski, a music editor’s Note by Kurt Bjorling, an addendum by Izaly Zemtsovsky, and more. The music notation is also incomplete in some regards; see further notes below. The second edition is available from Kurt Bjorling at https://muziker.org/. The Russian edition is in the public domain and available from https://yiddish-culture.com/ru/yiddish_ru/beregovsky-works_ru/.\nThere are two kinds of metadata on this site:\n\nMetadata from Beregovski’s notes, which includes genre, source (i.e., the musician who performed, recorded, or notated the music), source type (recording, transcription, or manuscript), the source instrument or voice, the location where the item was collected, main region, subregion, the date it was collected, and the original location for instances where the musician reported learning the tune from somewhere else.\n[Author 1]’s analysis of mode in the volume. This includes a modal designation for each tune as a whole, an indication of whether there are changes of mode, secondary modes (as applicable), the measures for secondary modes (as applicable), and additional notes for instances of ambiguity.\n\nThis information is available in three searchable spreadsheets: (1) a complete spreadsheet with Beregovski’s metadata and [Author 1]’s mode analysis, (2) a spreadsheet with Beregovki’s metadata on its own, and (3) a spreadsheet with [Author 1]’s analysis on its own.\nBeregovski notated all of the tunes in the volume in G for ease of comparison. Thus pitch data on this website correlates with scale-degree data. Passages that modulate to modes with other tonics are tagged and analyzed separately.\nBeregovski also notated the tunes with G4 as the main tonic and our pitch data is differentiated by register. (It is based on pitch, not pitch-class.) Thus, G4 in the data represents the main tonic, D5 represents scale-degree ^5 in the main 8ve and D4 represents scale-degree ^5 in the octave below."
-  },
-  {
-    "objectID": "pdf_output/intro.html#analysis",
-    "href": "pdf_output/intro.html#analysis",
-    "title": "Introduction",
-    "section": "Analysis",
-    "text": "Analysis\nThe full methodology behind the mode analysis is provided in the article by [Authors Names Redacted] (in progress). We summarize four main criteria for the purposes of this website:\n\nWe identify mode by section, when possible;\nWe document shifts at cadences when there is a return to a primary mode;\nHowever, when two modes in a section share the same pitch collection and cadence in the primary mode (e.g., Bb major to G minor), we use the cadence as the guide;\nWe include modal shifts within a section when they are between secondary modes with no single mode taking obvious precedent.\n\nCriteria no. 1 in particular means that if a section begins in one mode, departs briefly to another mode, and returns to the first mode, the digression is not included in the analysis. Further examples and explanations are provided in the article.\n[Author 1]’s analysis relies on a basic classification of four modes in klezmer music. The names given here are freygish, raised fourth, minor, and major. These same modes are sometimes known by other names, which reference Jewish prayer modes or the Church mode: freygish = ahavah rabbah; raised fourth = altered Dorian or misheberakh; minor = magen avot; major = adonai malakh. Furthermore, while there are elements of Western European tonality, the “major” and “minor” modes in klezmer should not be taken as equivalent to major and minor keys in the European tradition. An introduction to the modes is provided in the article by [Authors Names Redacted]. Additional sources can be found in Beregovski 2015; Slobin 1980; Sokolow 1987; Horowitz 1993; Netsky 2015; Feldman 2016; and Rubin 2020. (See full citations in the references section.)\n[Author 1]’s mode analysis answers three basic questions: What is the pitch profile of each mode? What are characteristic melodic tendencies of each mode? And what are characteristic modulation pathways? These questions can be explored with the data in this website; they are addressed directly in the article by [Authors Names Redacted]. The article and this website may also serve as the basis for comparison with adjacent repertoires from both Jewish and non-Jewish traditions."
-  },
-  {
-    "objectID": "pdf_output/intro.html#additional-details",
-    "href": "pdf_output/intro.html#additional-details",
-    "title": "Introduction",
-    "section": "Additional Details",
-    "text": "Additional Details\nThere are a few additional details that users of the corpus should take note of:\n\nThe corpus does not include local variants within tunes–i.e., places where Beregovski notated an additional option for a few measures. It also does not include the tune variants that come one right after the other in the volume. For instance, the corpus includes the Freylekhs no. 132, but not the variant 132a. The study of tune variants is an important topic in klezmer music, but it is not one that we deal with directly here.\nThe digital music files at present do not include first and second endings. This is an issue that we expect to resolve soon. See the paper by [Authors Names Redacted] (in progress) for a discussion of how this affects the mode data.\nMeasure numbers in the mode analysis and digital music files are counted through the first and second endings in the music. For instance, if the first ending is measure 8, the second ending is counted here as measure 9.\n\nHere, readers can also find the corpus downloadable as kern files, as well as analyses conducted with the Humdrum Toolkit, and scores visualized with the Verovio Humdrum Viewer. These analyses include frequency distributions, and n-gram analyses.\nReferences\nBeregovski, Moshe. 2001. Jewish Instrumental Folk Music: The Collections and Writings of Moshe Beregovski. Edited by Mark Slobin, Robert A. Rothstein, and Michael Alpert. Syracuse, N.Y: Syracuse University Press.\n———. 2013. Jewish Musical Folklore. 5 volumes, 5 CD Set. Kiev: Dukh i Litera.\n———. 2015. Jewish Instrumental Folk Music: The Collections and Writings of Moshe Beregovski. Edited by Mark Slobin, Michael Alpert, and Robert Rothstein. Second edition, Revised by Kurt Björling. Draft 3.4.\nBeregovskiĭ, Moisei. 1987. Еврейская народная инструментальная музыка (Evreiskaia narodnaia instrumental’naia muzyka). Edited by Goldin. Moscow: Советский композитор.\nFeldman, Walter Zev. 2016. Klezmer: Music, History, and Memory. New York: Oxford University Press.\nHorowitz, Joshua. 1993. “The Klezmer Freygish Shteyger: Mode, Sub-Mode and Modal Progression.” Unpublished manuscript.http://www.budowitz.com/Budowitz/Essays.html.\nNetsky, Hankus. 2015. Klezmer: Music and Community in Twentieth-Century Jewish Philadelphia. Philadelphia: Temple University Press.\nRubin, Joel E. 2020. New York Klezmer in the Early Twentieth Century: The Music of Naftule Brandwein and Dave Tarras. Rochester: University of Rochester Press.\nSlobin, Mark. 1980. “The Evolution of a Musical Symbol in Yiddish Culure.” In Studies in Jewish Folklore: Proceedings of a Regional Conference of the Association for Jewish Studies Held at the Spertus College of Judaica, Chicago, 313–30. Cambridge, MA: Association for Jewish Studies.\n———. 1986. “A Fresh Look at Beregovski’s Folk Music Research.” Ethnomusicology 30 (2): 253–60.\nSokolow, Pete. 1987. “A Few Notes and Observations on the Theory and Performance of Klezmer Music.” In The Compleat Klezmer, 19–28. Cedarhurst, N.Y.: Tara Publications."
-  },
-  {
-    "objectID": "pdf_output/corpus_download.html",
-    "href": "pdf_output/corpus_download.html",
+    "objectID": "corpus_download.html",
+    "href": "corpus_download.html",
     "title": "Downloadable Corpus",
     "section": "",
     "text": "The full corpus can be found here.\nIf you would like to see more, including the data broken into mode and the scripts for analysis, you can view them on our github site."
   },
   {
-    "objectID": "pdf_output/corpus_download.html#the-link-to-the-corpus",
-    "href": "pdf_output/corpus_download.html#the-link-to-the-corpus",
+    "objectID": "corpus_download.html#the-link-to-the-corpus",
+    "href": "corpus_download.html#the-link-to-the-corpus",
     "title": "Downloadable Corpus",
     "section": "",
     "text": "The full corpus can be found here.\nIf you would like to see more, including the data broken into mode and the scripts for analysis, you can view them on our github site."
   },
   {
-    "objectID": "pdf_output/corpus_download.html#how-the-corpus-was-assembled.",
-    "href": "pdf_output/corpus_download.html#how-the-corpus-was-assembled.",
+    "objectID": "corpus_download.html#how-the-corpus-was-assembled.",
+    "href": "corpus_download.html#how-the-corpus-was-assembled.",
     "title": "Downloadable Corpus",
     "section": "How the corpus was assembled.",
-    "text": "How the corpus was assembled.\nThe dataset is collected from Beregovski’s Jewish Instrumental Folk Music (see the introduction page for a description of this). The corpus was digitized from the second English edition by [Redacted]. [Author 2] converted xml files to the **kern format. Research Assistant [Redacted] assisted with data entry for the website.\nMore information can be found on the introduction page."
+    "text": "How the corpus was assembled.\nThe dataset is collected from Beregovski’s Jewish Instrumental Folk Music (see the introduction page for a description of this). The corpus was digitized from the second English edition by Research Assistants Rebecca Hamel and Izzy Fincher with funding from the Center for Humanities & the Arts and Program in Jewish Studies at the University of Colorado Boulder. Daniel Shanahan converted xml files to the **kern format. Research Assistant Laine Gruver assisted with data entry for the website.\nMore information can be found on the introduction page."
   },
   {
-    "objectID": "pdf_output/corpus_download.html#how-to-cite",
-    "href": "pdf_output/corpus_download.html#how-to-cite",
+    "objectID": "corpus_download.html#how-to-cite",
+    "href": "corpus_download.html#how-to-cite",
     "title": "Downloadable Corpus",
     "section": "How to Cite",
-    "text": "How to Cite\nPlease cite the following work when using this corpus:\n[Author Names Redacted] (under review). Modes in Klezmer Music: A Corpus Study Based on Beregovski’s Jewish Instrumental Folk Music."
+    "text": "How to Cite\nPlease cite the following work when using this corpus:\nMalin, Y. and Shanahan, D. (under review). Modes in Klezmer Music: A Corpus Study Based on Beregovski’s Jewish Instrumental Folk Music."
   }
 ]
