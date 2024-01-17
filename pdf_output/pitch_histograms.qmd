@@ -1,0 +1,232 @@
+---
+title: Pitch Histograms
+---
+
+```{r, echo=F, warnings=FALSE, message=FALSE}
+library(tidyverse)
+library(humdrumR)
+```
+
+
+## Pitch histograms in Freygish
+
+```{r, freygish-histograms, echo=F, warnings=FALSE, message=FALSE}
+library(tidyverse)
+library(humdrumR)
+freygish <- readHumdrum('corpus/extracts/freygish/*.krn')
+freygish_in_G <- freygish |> mutate(Transposed = transpose(Token, from = Key, to = 'G'))
+freygish_1 <- freygish_in_G |> 
+    pitch(simple = FALSE) |>
+    humdrumR::tally() |> as_tibble() |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
+
+freygish_1$Pitch <- factor(freygish_1$Pitch, levels = freygish_1$Pitch)
+    
+ggplot(freygish_1, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    labs(y="count") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+As a percentage.
+
+```{r, freygish-histograms-percentage, echo=F, warnings=FALSE, message=FALSE}
+x <-  freygish_in_G |> 
+    pitch(simple = FALSE) |>
+    humdrumR::tally() 
+     
+percentage <- x/sum(x) * 100
+percentage <- as_tibble(percentage)
+percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)   
+percentage <- percentage |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
+
+ggplot(percentage, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    labs(y="percentage") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+## Pitch histograms for the Raised Fourth mode.
+
+```{r, raised-fourth-histogram, echo=F, warnings=FALSE, message=FALSE}
+raised_four <- readHumdrum('corpus/extracts/raised_fourth/*.krn')
+raised_four_1 <- raised_four |> 
+    pitch(simple = FALSE) |>
+    humdrumR::tally() |> as_tibble() |>
+    filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
+
+raised_four_1$Pitch <- factor(raised_four_1$Pitch, levels = raised_four_1$Pitch)
+    
+ggplot(raised_four_1, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    labs(y="count") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+And again as a percentage:
+
+```{r, raised-fourth-percentage, echo=F, warnings=FALSE, message=FALSE}
+x <-  raised_four |> 
+    pitch(simple = FALSE) |>
+    humdrumR::tally() 
+percentage <- x/sum(x) * 100
+percentage <- as_tibble(percentage)
+percentage <- percentage |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
+
+percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch) 
+
+ggplot(percentage, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    labs(y="percentage") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+
+## Pitch histograms for the Major mode.
+
+```{r, major-histogram, echo=F, warnings=FALSE, message=FALSE}
+major <- readHumdrum('corpus/extracts/major/*.krn')
+major_1 <- major |> 
+    pitch(simple = FALSE) |>
+    humdrumR::tally() |> as_tibble() |>
+    filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
+
+
+major_1$Pitch <- factor(major_1$Pitch, levels = major_1$Pitch)
+    
+ggplot(major_1, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    labs(y="count") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+
+Looking at this as a percentage of total pitches might be more useful. The numbers on the y-axis represent the percentage of pitches used in a given mode. 
+
+```{r, major-percentage, echo=F, warnings=FALSE, message=FALSE}
+x <-  major |> 
+    pitch(simple = FALSE) |>
+    humdrumR::tally() 
+percentage <- x/sum(x) * 100
+percentage <- as_tibble(percentage)
+percentage <- percentage |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
+
+percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
+ggplot(percentage, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    labs(y="percentage") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+
+```
+
+Note: Other major keys can be found [here](other_major_keys.qmd).
+
+## Pitch histograms for the minor mode.
+
+```{r, minor-histogram, echo=F, warnings=FALSE, message=FALSE}
+minor <- readHumdrum('corpus/extracts/minor/*.krn')
+minor_1 <- minor |> 
+    pitch(simple = FALSE) |>
+    humdrumR::tally() |> as_tibble() |>
+    filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
+
+minor_1$Pitch <- factor(minor_1$Pitch, levels = minor_1$Pitch)
+    
+ggplot(minor_1, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    labs(y="count") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+
+
+```
+
+Again, here we might explore it as a percentage of total pitches used in this mode.
+
+```{r, minor-percentage, echo=F, warnings=FALSE, message=FALSE}
+x <-  minor |> 
+    pitch(simple = FALSE) |>
+    humdrumR::tally() 
+percentage <- x/sum(x) * 100
+percentage <- as_tibble(percentage)
+percentage <- percentage |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
+
+percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
+
+ggplot(percentage, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    labs(y="percentage") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+
+# The Meertens Tune Collection of Dutch Folksongs
+
+For comparison, here we have the pitch distributions of the major and minor modes from the Meertens Tune Collection of Dutch Folksongs.
+
+## Major
+
+```{r, meertens-histogram-major, echo=F, warnings=FALSE, message=FALSE}
+meertens_major <- readHumdrum('corpus/meertens/meertens_major/*.krn')
+meertens_major_in_G <- meertens_major |> mutate(Transposed = transpose(Token, from = Key, to = 'G'))
+
+
+major_1 <- meertens_major_in_G |> 
+    pitch(simple = FALSE) |>
+    humdrumR::tally() |> as_tibble() |>
+    filter(!grepl("[GABCDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
+
+
+major_1$Pitch <- factor(major_1$Pitch, levels = major_1$Pitch)
+    
+ggplot(major_1, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    labs(y="count") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+
+## Minor
+
+
+```{r, meertens-histogram-minor,echo=F, warnings=FALSE, message=FALSE}
+meertens_minor <- readHumdrum('corpus/meertens/meertens_minor/*.krn')
+meertens_minor_in_G <- meertens_minor |> mutate(Transposed = transpose(Token, from = Key, to = 'G'))
+#meertens_minor <- rename(meertens_major, Pitch = V1, n = V2)
+
+minor_1 <- meertens_minor_in_G |> 
+    pitch(simple = FALSE) |>
+    humdrumR::tally() |> as_tibble() |>
+    filter(!grepl("[GABCDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch))
+
+
+minor_1$Pitch <- factor(minor_1$Pitch, levels = minor_1$Pitch)
+    
+ggplot(minor_1, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    labs(y="count") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```

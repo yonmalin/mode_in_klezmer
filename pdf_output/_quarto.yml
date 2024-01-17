@@ -1,0 +1,27 @@
+project:
+  type: book
+
+book:
+  title: "Supplemental Website for MTO Submission"
+  date: "1/12/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - beregovski_metadata.qmd
+    - corpus_download.qmd
+    - pitch_counts.qmd
+    - pitch_histograms.qmd
+    - melodic_tendencies.qmd
+
+  
+
+
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
