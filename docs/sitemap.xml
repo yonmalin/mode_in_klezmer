@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/melodic_tendencies.html</loc>
-    <lastmod>2023-12-18T18:31:46.857Z</lastmod>
+    <lastmod>2024-01-17T20:28:16.543Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/analyses_by_mode.html</loc>
@@ -10,11 +10,11 @@
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/introduction.html</loc>
-    <lastmod>2023-12-18T18:31:28.981Z</lastmod>
+    <lastmod>2024-01-17T20:28:36.721Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/index.html</loc>
-    <lastmod>2023-12-18T18:31:17.224Z</lastmod>
+    <lastmod>2024-01-17T20:26:13.481Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/pitch_counts.html</loc>
@@ -30,7 +30,7 @@
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/other_major_keys.html</loc>
-    <lastmod>2023-12-18T18:31:28.399Z</lastmod>
+    <lastmod>2024-01-17T20:28:32.514Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/malin_and_shanahan_metadata.html</loc>
@@ -38,6 +38,34 @@
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/corpus_download.html</loc>
-    <lastmod>2023-12-18T18:31:31.656Z</lastmod>
+    <lastmod>2024-01-17T20:28:00.045Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/melodic_tendencies.html</loc>
+    <lastmod>2024-01-17T20:27:59.671Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/index.html</loc>
+    <lastmod>2024-01-17T20:27:42.921Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/pitch_histograms.html</loc>
+    <lastmod>2024-01-17T20:27:41.938Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/beregovski_metadata.html</loc>
+    <lastmod>2024-01-17T20:26:19.704Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/pitch_counts.html</loc>
+    <lastmod>2024-01-17T20:26:33.393Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/intro.html</loc>
+    <lastmod>2024-01-17T20:27:42.576Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/corpus_download.html</loc>
+    <lastmod>2024-01-17T20:27:43.297Z</lastmod>
   </url>
 </urlset>

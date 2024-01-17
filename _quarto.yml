@@ -10,8 +10,6 @@ website:
   repo-url: "https://github.com/shanahdt/mode_in_klezmer"
   repo-actions: [edit, issue]
 
-    
-
   sidebar:
     style: "docked"
     search: true
