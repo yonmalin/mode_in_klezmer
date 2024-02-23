@@ -16,6 +16,9 @@ freygish <- readHumdrum('corpus/extracts/freygish/*.krn')
 major <- readHumdrum('corpus/extracts/major/*.krn')
 minor <- readHumdrum('corpus/extracts/minor/*.krn')
 raised_four <- readHumdrum('corpus/extracts/raised_four/*.krn')
+```
+
+```{r, echo=F, warnings=FALSE, message=FALSE}
 bigram_table <- function(mode){
   x <- mode |> 
       humdrumR::pitch(simple = FALSE) 
@@ -28,7 +31,7 @@ bigram_table <- function(mode){
   
   
   y |> dplyr::count(bigram) |>
-    arrange(desc(n)) 
+    arrange(desc(n)) |> datatable()
   
   
   
@@ -103,7 +106,7 @@ bigram_bar <- function(mode){
 And here we see a barplot of the top ten bigrams in Freygish.
 ```{r, freygish-bigram-table, echo=F, warnings=FALSE, message=FALSE}
 
-bigram_table(freygish)
+x <- bigram_table(freygish)
 ```
 
 

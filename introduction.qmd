@@ -42,7 +42,7 @@ Malin’s analysis relies on a basic classification of four modes in klezmer mus
 Malin’s mode analysis answers three basic questions: What is the pitch profile of each mode? What are characteristic melodic tendencies of each mode? And what are characteristic modulation pathways? These questions can be explored with the data in this website; they are addressed directly in the article by Malin and Shanahan. The article and this website may also serve as the basis for comparison with adjacent repertoires from both Jewish and non-Jewish traditions. 
 
 
-## Additioanl Details
+## Additional Details
 
 There are a few additional details that users of the corpus should take note of:
 
