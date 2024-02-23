@@ -4,8 +4,6 @@ title: Melodic Tendencies
 
 ## Pitch-to-pitch transitions
 
-
-
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 library(humdrumR)
 library(tidyverse)
@@ -103,14 +101,12 @@ bigram_bar <- function(mode){
 
 ## Freygish
 
-And here we see a barplot of the top ten bigrams in Freygish.
 ```{r, freygish-bigram-table, echo=F, warnings=FALSE, message=FALSE}
 
-x <- bigram_table(freygish)
+bigram_table(freygish)
 ```
 
 
-And here is a barplot of the top ten bigrams in freygish.
 ```{r, freygish-bigram-barplot, echo=F, warnings=FALSE, message=FALSE}
 
 bigram_bar(freygish)
@@ -134,7 +130,7 @@ bigram_bar(raised_four)
 
 ## Major
 
-And here we see a barplot of the top ten bigrams in major.
+
 
 
 ```{r, major-bigram-table, echo=F, warnings=FALSE, message=FALSE}
@@ -153,7 +149,7 @@ bigram_bar(major)
 bigram_table(minor)
 ```
 
-Here we see a barplot of the top ten bigrams in minor.
+
 
 ```{r, minor-bigram-barplot, echo=F, warnings=FALSE, message=FALSE}
 
