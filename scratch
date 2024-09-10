@@ -1,0 +1,18 @@
+
+tibble_result <- tibble(
+  pitch = pitch(freygish_1$Token),
+  duration = dur(freygish_1$Token)
+)
+tibble_result
+tibble_result$duration <- as.numeric(tibble_result$duration)
+tibble_result$pitch <- as.factor(tibble_result$pitch)
+
+duration <- tibble_result |> 
+    group_by(pitch) |>
+    summarise(by_duration = sum(duration))
+
+
+ggplot(duration, aes(x=pitch, y=by_duration)) +
+    geom_bar(stat="identity") + theme_bw() +
+    labs(y="count weighted by duration") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))

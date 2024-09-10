@@ -1,71 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/pitch_histograms.html</loc>
+    <lastmod>2024-09-10T18:51:15.218Z</lastmod>
+  </url>
+  <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/melodic_tendencies.html</loc>
-    <lastmod>2024-02-23T16:46:10.734Z</lastmod>
+    <lastmod>2024-09-10T14:20:20.059Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/analyses_by_mode.html</loc>
-    <lastmod>2024-02-23T16:45:54.339Z</lastmod>
+    <lastmod>2024-09-10T04:16:16.645Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/corpus_download.html</loc>
-    <lastmod>2024-02-23T16:45:36.304Z</lastmod>
+    <lastmod>2024-09-10T04:16:15.680Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/intro.html</loc>
-    <lastmod>2024-02-23T16:45:35.587Z</lastmod>
+    <lastmod>2024-09-10T04:16:14.733Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/pitch_counts.html</loc>
-    <lastmod>2024-02-23T16:44:27.643Z</lastmod>
+    <lastmod>2024-09-10T04:16:13.374Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/malin_and_shanahan_metadata.html</loc>
-    <lastmod>2024-02-23T16:44:11.917Z</lastmod>
+    <lastmod>2024-09-10T04:16:12.114Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/other_major_keys.html</loc>
-    <lastmod>2024-02-23T16:44:09.101Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/pitch_histograms.html</loc>
-    <lastmod>2024-02-23T16:43:55.717Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/beregovski_metadata.html</loc>
-    <lastmod>2024-02-23T16:42:41.584Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/pitch_counts.html</loc>
-    <lastmod>2024-02-23T16:42:54.251Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/index.html</loc>
-    <lastmod>2024-02-23T16:43:56.067Z</lastmod>
+    <lastmod>2024-09-10T04:16:10.827Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/introduction.html</loc>
-    <lastmod>2024-02-23T16:44:09.677Z</lastmod>
+    <lastmod>2024-09-10T04:16:11.621Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/beregovski_metadata.html</loc>
-    <lastmod>2024-02-23T16:44:14.289Z</lastmod>
+    <lastmod>2024-09-10T04:16:12.875Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/pitch_histograms.html</loc>
-    <lastmod>2024-02-23T16:45:34.966Z</lastmod>
+    <lastmod>2024-09-10T04:16:13.921Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/index.html</loc>
-    <lastmod>2024-02-23T16:45:35.930Z</lastmod>
+    <lastmod>2024-09-10T04:16:15.184Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/melodic_tendencies.html</loc>
-    <lastmod>2024-02-23T16:45:53.988Z</lastmod>
+    <lastmod>2024-09-10T04:16:16.205Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/corpus_download.html</loc>
-    <lastmod>2024-02-23T16:45:54.716Z</lastmod>
+    <lastmod>2024-09-10T04:16:17.135Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/index.html</loc>
+    <lastmod>2024-09-10T18:43:01.089Z</lastmod>
   </url>
 </urlset>

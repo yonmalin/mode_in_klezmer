@@ -29,7 +29,9 @@ bigram_table <- function(mode){
   
   
   y |> dplyr::count(bigram) |>
-    arrange(desc(n)) |> datatable()
+    arrange(desc(n)) |> 
+    mutate(proportion = signif(n / sum(n), digits=3)) |>
+    datatable()
   
   
   

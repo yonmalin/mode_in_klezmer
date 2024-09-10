@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "pitch_histograms.html",
+    "href": "pitch_histograms.html",
+    "title": "Pitch Histograms",
+    "section": "",
+    "text": "Bag of NotesCumulative Duration\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAs a percentage.\nLooking at this as a percentage of total pitches might be more useful. The numbers on the y-axis represent the percentage of pitches used in a given mode.\nNote: Other major keys can be found here."
+  },
+  {
     "objectID": "melodic_tendencies.html#freygish",
     "href": "melodic_tendencies.html#freygish",
     "title": "Melodic Tendencies",
@@ -124,69 +131,6 @@
     "title": "Other Major Keys",
     "section": "",
     "text": "B-Flat Major\n\n\n\n\n\nAnd as a percentage:\n\n\n\n\n\n\n\nC Major\n\n\n\n\n\nAs a percentage:\n\n\n\n\n\n\n\nF Major\n\n\n\n\n\nAs a percentage:"
-  },
-  {
-    "objectID": "pitch_histograms.html",
-    "href": "pitch_histograms.html",
-    "title": "Pitch Histograms",
-    "section": "",
-    "text": "As a percentage."
-  },
-  {
-    "objectID": "pitch_histograms.html#major",
-    "href": "pitch_histograms.html#major",
-    "title": "Pitch Histograms",
-    "section": "Major",
-    "text": "Major"
-  },
-  {
-    "objectID": "pitch_histograms.html#minor",
-    "href": "pitch_histograms.html#minor",
-    "title": "Pitch Histograms",
-    "section": "Minor",
-    "text": "Minor"
-  },
-  {
-    "objectID": "pitch_counts.html",
-    "href": "pitch_counts.html",
-    "title": "Pitch Counts",
-    "section": "",
-    "text": "Below are sortable tables showing the counts of pitches in each mode. This can be cross-references with the visualizations from the pitch histogram page, or can be used for additional data analysis as needed."
-  },
-  {
-    "objectID": "pitch_counts.html#g-freygish",
-    "href": "pitch_counts.html#g-freygish",
-    "title": "Pitch Counts",
-    "section": "G Freygish",
-    "text": "G Freygish"
-  },
-  {
-    "objectID": "pitch_counts.html#g-raised-fourth",
-    "href": "pitch_counts.html#g-raised-fourth",
-    "title": "Pitch Counts",
-    "section": "G “Raised Fourth”",
-    "text": "G “Raised Fourth”"
-  },
-  {
-    "objectID": "pitch_counts.html#g-major",
-    "href": "pitch_counts.html#g-major",
-    "title": "Pitch Counts",
-    "section": "G Major",
-    "text": "G Major"
-  },
-  {
-    "objectID": "pitch_counts.html#g-minor",
-    "href": "pitch_counts.html#g-minor",
-    "title": "Pitch Counts",
-    "section": "G Minor",
-    "text": "G Minor"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Modes in Klezmer Music: A Corpus Study Based on Beregovski’s Jewish Instrumental Folk Music",
-    "section": "",
-    "text": "This website provides machine-readable music files, searchable metadata, mode analyses, and mode data for a corpus of klezmer tunes from the volume Jewish Instrumental Folk Music, compiled by the pre-eminent Ukrainian Jewish ethnomusicologist Moshe Beregovski (1892-1961). The website is intended as a self-standing resource for musicians and scholars and as a supplement to an article by Malin and Shanahan, currently in progress."
   },
   {
     "objectID": "introduction.html",
@@ -334,5 +278,26 @@
     "title": "Downloadable Corpus",
     "section": "How to Cite",
     "text": "How to Cite\nPlease cite the following work when using this corpus:\nMalin, Y. and Shanahan, D. (under review). Modes in Klezmer Music: A Corpus Study Based on Beregovski’s Jewish Instrumental Folk Music."
+  },
+  {
+    "objectID": "pitch_histograms.html#major",
+    "href": "pitch_histograms.html#major",
+    "title": "Pitch Histograms",
+    "section": "Major",
+    "text": "Major"
+  },
+  {
+    "objectID": "pitch_histograms.html#minor",
+    "href": "pitch_histograms.html#minor",
+    "title": "Pitch Histograms",
+    "section": "Minor",
+    "text": "Minor"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Modes in Klezmer Music: A Corpus Study Based on Beregovski’s Jewish Instrumental Folk Music",
+    "section": "",
+    "text": "This website provides machine-readable music files, searchable metadata, mode analyses, and mode data for a corpus of klezmer tunes from the volume Jewish Instrumental Folk Music, compiled by the pre-eminent Ukrainian Jewish ethnomusicologist Moshe Beregovski (1892-1961). The website is intended as a self-standing resource for musicians and scholars and as a supplement to an article by Malin and Shanahan, currently in progress."
   }
 ]
