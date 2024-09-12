@@ -1,63 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/pitch_histograms.html</loc>
-    <lastmod>2024-09-10T18:51:15.218Z</lastmod>
-  </url>
-  <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/melodic_tendencies.html</loc>
-    <lastmod>2024-09-10T14:20:20.059Z</lastmod>
+    <lastmod>2024-09-12T15:16:30.648Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/analyses_by_mode.html</loc>
-    <lastmod>2024-09-10T04:16:16.645Z</lastmod>
+    <lastmod>2024-09-12T15:16:16.007Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/corpus_download.html</loc>
-    <lastmod>2024-09-10T04:16:15.680Z</lastmod>
+    <lastmod>2024-09-12T15:16:01.532Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/intro.html</loc>
-    <lastmod>2024-09-10T04:16:14.733Z</lastmod>
+    <lastmod>2024-09-12T15:16:00.856Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/pitch_counts.html</loc>
-    <lastmod>2024-09-10T04:16:13.374Z</lastmod>
+    <lastmod>2024-09-12T15:15:05.222Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/malin_and_shanahan_metadata.html</loc>
-    <lastmod>2024-09-10T04:16:12.114Z</lastmod>
+    <lastmod>2024-09-12T15:14:51.257Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/other_major_keys.html</loc>
-    <lastmod>2024-09-10T04:16:10.827Z</lastmod>
+    <lastmod>2024-09-12T15:14:48.788Z</lastmod>
   </url>
   <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/introduction.html</loc>
-    <lastmod>2024-09-10T04:16:11.621Z</lastmod>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/pitch_histograms.html</loc>
+    <lastmod>2024-09-12T15:14:38.820Z</lastmod>
   </url>
   <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/beregovski_metadata.html</loc>
-    <lastmod>2024-09-10T04:16:12.875Z</lastmod>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/beregovski_metadata.html</loc>
+    <lastmod>2024-09-12T15:13:26.990Z</lastmod>
   </url>
   <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/pitch_histograms.html</loc>
-    <lastmod>2024-09-10T04:16:13.921Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/index.html</loc>
-    <lastmod>2024-09-10T04:16:15.184Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/melodic_tendencies.html</loc>
-    <lastmod>2024-09-10T04:16:16.205Z</lastmod>
-  </url>
-  <url>
-    <loc>https://shanahdt.github.io/mode_in_klezmer/corpus_download.html</loc>
-    <lastmod>2024-09-10T04:16:17.135Z</lastmod>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/pitch_counts.html</loc>
+    <lastmod>2024-09-12T15:13:39.285Z</lastmod>
   </url>
   <url>
     <loc>https://shanahdt.github.io/mode_in_klezmer/index.html</loc>
-    <lastmod>2024-09-10T18:43:01.089Z</lastmod>
+    <lastmod>2024-09-12T15:14:39.164Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/introduction.html</loc>
+    <lastmod>2024-09-12T15:14:49.344Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/beregovski_metadata.html</loc>
+    <lastmod>2024-09-12T15:14:53.563Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/pitch_histograms.html</loc>
+    <lastmod>2024-09-12T15:16:00.281Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/index.html</loc>
+    <lastmod>2024-09-12T15:16:01.192Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/pdf_output/melodic_tendencies.html</loc>
+    <lastmod>2024-09-12T15:16:15.664Z</lastmod>
+  </url>
+  <url>
+    <loc>https://shanahdt.github.io/mode_in_klezmer/corpus_download.html</loc>
+    <lastmod>2024-09-12T15:16:16.357Z</lastmod>
   </url>
 </urlset>

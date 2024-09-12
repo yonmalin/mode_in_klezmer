@@ -12,11 +12,12 @@ library(humdrumR)
 
 ```{r, freygish-histograms, echo=F, warnings=FALSE, message=FALSE}
 freygish <- readHumdrum('corpus/extracts/freygish/*.krn')
-freygish_in_G <- humdrumR::transpose(freygish$Token, to = 'G:', real = FALSE) 
-pitches <- freygish_in_G |> pitch(simple = FALSE) 
+freygish_in_G <- freygish |> mutate(kern(Token, simple = FALSE, transposeArgs = list(to = 'G:'))) 
+
+pitches <- freygish_in_G |> pitch(simple = FALSE)
 pitches <- as.character(pitches)
 pitches <- as.factor(pitches)
-durations <- dur(freygish_in_G) 
+durations <- dur(freygish_in_G$Token) 
 durations <- as.numeric(gsub(':', '', durations))
 pitch_dur <- data.frame(pitches, durations)
 freygish_1 <- pitch_dur |> 
@@ -24,10 +25,13 @@ freygish_1 <- pitch_dur |>
     filter(!grepl("[789]", pitches)) |> 
     filter(!grepl("[A|B].*6", pitches)) |>
     filter(!grepl("G#6", pitches)) |> 
-    filter(!is.na(pitches))
+    filter(!is.na(pitches)) |> 
+    drop_na(pitches)
 
 ### this works but puts it in the wrong order.
-freygish_pitches <- freygish_1 |> group_by(pitches) |> summarise(n = n(), na.omit=TRUE)
+freygish_pitches <- freygish_1 |> group_by(pitches) |> 
+                summarise(n = n())|> 
+                filter(!is.na(pitches))
 freygish_duration <- freygish_1 |> group_by(pitches) |> summarise(cumulative = sum(durations))
 
 ordered_pitches <- c("D4","E4","F4","F#4","G4",
@@ -41,6 +45,23 @@ ordered_pitches <- c("D4","E4","F4","F#4","G4",
 
 ordered_pitches <- factor(ordered_pitches, ordered=TRUE)
 
+####percentages
+x <-  pitches |> 
+    pitch(simple = FALSE) |>
+    humdrumR::tally() 
+     
+percentage <- x/sum(x) * 100
+percentage <- as_tibble(percentage)
+percentage$Pitch <- percentage$`pitch(pitches)` 
+percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)   
+percentage <- percentage |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> 
+    filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[3]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch)) |> 
+    filter(!is.na(Pitch))
+
 
 ```
 
@@ -49,151 +70,65 @@ ordered_pitches <- factor(ordered_pitches, ordered=TRUE)
 ## Bag of Notes
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 
-ggplot(freygish_pitches, aes(x=factor(pitches, 
-                        level=ordered_pitches), y =n)) +
-                        geom_bar(stat="identity") + theme_bw() +
-                        labs(y="count", x="pitches") +
-                        theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+ggplot(data=subset(freygish_pitches, !is.na(pitches)),
+                    aes(x=factor(pitches, 
+                    level=ordered_pitches), y =n, na.rm=TRUE)) +
+                    geom_bar(stat="identity", na.rm=TRUE) + 
+                    scale_x_discrete(na.translate = FALSE) + theme_bw() +
+                    labs(y="count", x="pitches") +
+                    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+## Percentage
+ 
+```{r, freygish-histograms-percentage, echo=F, warnings=FALSE, message=FALSE}
+
+ggplot(percentage, na.rm=TRUE, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    labs(y="percentage") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
 ```
 
 ## Cumulative Duration
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 
 ggplot(freygish_duration, aes(x=factor(pitches, 
-                        level=ordered_pitches), y =cumulative)) +
-                        geom_bar(stat="identity") + theme_bw() +
-                        labs(y="count (in beats)", x="pitches") +
-                        theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+                level=ordered_pitches), y =cumulative)) +
+                geom_bar(stat="identity", na.rm=TRUE) +
+                scale_x_discrete(na.translate = FALSE) +  
+                theme_bw() +
+                labs(y="count (in beats)", x="pitches") +
+                theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 
 ```
 :::
-As a percentage.
- 
-```{r, freygish-histograms-percentage, echo=F, warnings=FALSE, message=FALSE}
-# x <-  freygish_in_G |> 
-#     pitch(simple = FALSE) |>
-#     humdrumR::tally() 
-#      
-# percentage <- x/sum(x) * 100
-# percentage <- as_tibble(percentage)
-# percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)   
-# percentage <- percentage |> 
-#     filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
-#     filter(!grepl("[A|B].*6", Pitch)) |>
-#     filter(!grepl("G#6", Pitch))
-# 
-# ggplot(percentage, aes(x=Pitch, y=n)) +
-#     geom_bar(stat="identity") + theme_bw() +
-#     labs(y="percentage") +
-#     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
-#```
 
-### Pitch histograms for the Raised Fourth mode.
+### Pitch Histograms for the Raised Fourth Mode.
 
-#```{r, raised-fourth-histogram, echo=F, warnings=FALSE, message=FALSE}
-# raised_four <- readHumdrum('corpus/extracts/raised_fourth/*.krn')
-# raised_four_1 <- raised_four |> 
-#     pitch(simple = FALSE) |>
-#     humdrumR::tally() |> as_tibble() |>
-#     filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
-#     filter(!grepl("[A|B].*6", Pitch)) |>
-#     filter(!grepl("G#6", Pitch))
-# 
-# raised_four_1$Pitch <- factor(raised_four_1$Pitch, levels = raised_four_1$Pitch)
-#     
-# ggplot(raised_four_1, aes(x=Pitch, y=n)) +
-#     geom_bar(stat="identity") + theme_bw() +
-#     labs(y="count") +
-#     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
-# ``` -->
-# <!-- 
-# And again as a percentage: -->
-# 
-# <!-- ```{r, raised-fourth-percentage, echo=F, warnings=FALSE, message=FALSE}
-# x <-  raised_four |> 
-#     pitch(simple = FALSE) |>
-#     humdrumR::tally() 
-# percentage <- x/sum(x) * 100
-# percentage <- as_tibble(percentage)
-# percentage <- percentage |> 
-#     filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
-#     filter(!grepl("[A|B].*6", Pitch)) |>
-#     filter(!grepl("G#6", Pitch))
-# 
-# percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch) 
-# 
-# ggplot(percentage, aes(x=Pitch, y=n)) +
-#     geom_bar(stat="identity") + theme_bw() +
-#     labs(y="percentage") +
-#     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
-#```
- 
+```{r, raised-fourth-histogram, echo=F, warnings=FALSE, message=FALSE}
+raised_four <- readHumdrum('corpus/extracts/raised_fourth/*.krn')
+# raised_four_in_G <- humdrumR::transpose(raised_four$Token, to = 'G', real = FALSE) 
+raised_four_in_G <- raised_four |> mutate(kern(Token, simple = FALSE, transposeArgs = list(to = 'G:'))) 
 
-### Pitch histograms for the Major mode.
-
-#```{r, major-histogram, echo=F, warnings=FALSE, message=FALSE}
-# major <- readHumdrum('corpus/extracts/major/*.krn')
-# major_1 <- major |> 
-#     pitch(simple = FALSE) |>
-#     humdrumR::tally() |> as_tibble() |>
-#     filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
-#     filter(!grepl("[A|B].*6", Pitch)) |>
-#     filter(!grepl("G#6", Pitch))
-# 
-# 
-# major_1$Pitch <- factor(major_1$Pitch, levels = major_1$Pitch)
-#     
-# ggplot(major_1, aes(x=Pitch, y=n)) +
-#     geom_bar(stat="identity") + theme_bw() +
-#     labs(y="count") +
-#     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
-```
-
-
-Looking at this as a percentage of total pitches might be more useful. The numbers on the y-axis represent the percentage of pitches used in a given mode. 
-
-```{r, major-percentage, echo=F, warnings=FALSE, message=FALSE}
-# x <-  major |> 
-#     pitch(simple = FALSE) |>
-#     humdrumR::tally() 
-# percentage <- x/sum(x) * 100
-# percentage <- as_tibble(percentage)
-# percentage <- percentage |> 
-#     filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
-#     filter(!grepl("[A|B].*6", Pitch)) |>
-#     filter(!grepl("G#6", Pitch))
-# 
-# percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
-# ggplot(percentage, aes(x=Pitch, y=n)) +
-#     geom_bar(stat="identity") + theme_bw() +
-#     labs(y="percentage") +
-#     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
-
-```
-
-Note: Other major keys can be found [here](other_major_keys.qmd).
-
-### Pitch histograms for the minor mode.
-
-```{r, minor-histogram, echo=F, warnings=FALSE, message=FALSE}
-minor <- readHumdrum('corpus/extracts/minor/*.krn')
-minor_in_G <- humdrumR::transpose(minor$Token, to = 'G:', real = FALSE) 
-pitches <- minor_in_G |> pitch(simple = FALSE) 
+pitches <- raised_four_in_G |> pitch(simple = FALSE)
 pitches <- as.character(pitches)
 pitches <- as.factor(pitches)
-durations <- dur(minor_in_G) 
+durations <- dur(raised_four_in_G$Token) 
 durations <- as.numeric(gsub(':', '', durations))
 pitch_dur <- data.frame(pitches, durations)
-minor_1 <- pitch_dur |> 
+raised_four_1 <- pitch_dur |> 
     filter(!grepl("[CDEF].*3", pitches)) |> 
     filter(!grepl("[789]", pitches)) |> 
     filter(!grepl("[A|B].*6", pitches)) |>
     filter(!grepl("G#6", pitches)) |> 
-    filter(!is.na(pitches))
+    filter(!is.na(pitches)) |> 
+    drop_na(pitches)
 
 ### this works but puts it in the wrong order.
-minor_pitches <- minor_1 |> group_by(pitches) |> summarise(n = n(), na.omit=TRUE)
-minor_duration <- minor_1 |> group_by(pitches) |> summarise(cumulative = sum(durations))
+raised_four_pitches <- raised_four_1 |> group_by(pitches) |> 
+                summarise(n = n())|> 
+                filter(!is.na(pitches))
+raised_four_duration <- raised_four_1 |> group_by(pitches) |> summarise(cumulative = sum(durations))
 
 ordered_pitches <- c("D4","E4","F4","F#4","G4",
                     "G#4", "A4", "A#4", "Bb4","B4",
@@ -206,9 +141,132 @@ ordered_pitches <- c("D4","E4","F4","F#4","G4",
 
 ordered_pitches <- factor(ordered_pitches, ordered=TRUE)
 
-
+####percentages
+x <-  pitches |> 
+    pitch(simple = FALSE) |>
+    humdrumR::tally() 
+     
+percentage <- x/sum(x) * 100
+percentage <- as_tibble(percentage)
+percentage$Pitch <- percentage$`pitch(pitches)` 
+percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)   
+percentage <- percentage |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> 
+    filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[3]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch)) |> 
+    filter(!is.na(Pitch))
+    
 ```
 
+::: panel-tabset
+
+## Bag of Notes
+```{r, raised_fourth_bag, echo=F, warnings=FALSE, message=FALSE}
+
+ggplot(data=subset(raised_four_pitches, !is.na(pitches)),
+                    aes(x=factor(pitches, 
+                    level=ordered_pitches), y =n, na.rm=TRUE)) +
+                    geom_bar(stat="identity", na.rm=TRUE) + 
+                    scale_x_discrete(na.translate = FALSE) + theme_bw() +
+                    labs(y="count", x="pitches") +
+                    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+## Percentage
+ 
+```{r, raised_four-histograms-percentage, echo=F, warnings=FALSE, message=FALSE}
+
+ggplot(percentage, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    labs(y="percentage") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
+```
+
+## Cumulative Duration
+```{r, raised_four_duration, echo=F, warnings=FALSE, message=FALSE}
+
+ggplot(data=subset(raised_four_duration, !is.na(pitches)),
+                    aes(x=factor(pitches, 
+                    level=ordered_pitches), y=cumulative, na.rm=TRUE)) +
+                    geom_bar(stat="identity", na.rm=TRUE) + 
+                    scale_x_discrete(na.translate = FALSE) + theme_bw() +
+                    labs(y="count", x="pitches") +
+                    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+
+```
+:::
+
+
+### Pitch histograms for the Major mode.
+
+```{r, major-histogram, echo=F, warnings=FALSE, message=FALSE}
+major <- readHumdrum('corpus/extracts/major/*.krn')
+major_in_G <- major |> mutate(kern(Token, simple = FALSE, transposeArgs = list(to = 'G:'))) 
+
+major_pitches <- major_in_G |> pitch(simple = FALSE)
+major_pitches <- as.character(major_pitches)
+major_pitches <- as.factor(major_pitches)
+major_durations <- dur(major_in_G$Token) 
+major_durations <- as.numeric(gsub(':', '', major_durations))
+major_pitch_dur <- data.frame(major_pitches, major_durations)
+major_1 <- major_pitch_dur |> 
+    filter(!grepl("[CDEF].*3", major_pitches)) |> 
+    filter(!grepl("[789]", major_pitches)) |> 
+    filter(!grepl("[A|B].*6", major_pitches)) |>
+    filter(!grepl("G#6", major_pitches)) |> 
+    filter(!is.na(major_pitches)) 
+```
+
+
+
+```{r, major-histogram-grouping, echo=F, warnings=FALSE, message=FALSE}
+major_1$major_pitches <- as.factor(major_1$major_pitches)
+major_pitches <- major_1 |> 
+                group_by(major_pitches) |> 
+                summarise(n = n())
+```
+
+```{r, major-histogram-grouping-e-check1, echo=F, warnings=FALSE, message=FALSE}
+major_duration <- major_1 |> 
+        group_by(major_pitches) |> 
+        summarise(cumulative = sum(major_durations))
+```
+
+```{r, major-histogram-grouping-e-check2, echo=F, warnings=FALSE, message=FALSE}
+major_ordered_pitches <- c("D4","E4","F4","F#4","G4",
+                    "G#4", "A4", "A#4", "Bb4","B4",
+                    "C5","C#5","Db5", "D5","Eb5",
+                    "E5","F5","F#5","Gb5","G5","G#5",
+                    "Ab5","A5", "A#5", "Bb5",
+                    "B5","C6", "C#6", "Db6","D6", 
+                    "D#6","Eb6","E6","F6","F#6","Gb6","G6")
+
+
+major_ordered_pitches <- factor(major_ordered_pitches, ordered=TRUE)
+```
+
+
+```{r major-percentagese, cho=F, warnings=FALSE, message=FALSE}
+####percentages
+x <-  pitches |> 
+    pitch(simple = FALSE) |>
+    humdrumR::tally() 
+     
+major_percentage <- x/sum(x) * 100
+major_percentage <- as_tibble(major_percentage)
+major_percentage$Pitch <- major_percentage$`pitch(pitches)` 
+major_percentage$Pitch <- factor(major_percentage$Pitch, levels = major_percentage$Pitch)   
+major_percentage <- major_percentage |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> 
+    filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[3]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch)) |> 
+    filter(!is.na(Pitch))
+
+```
 
 
 ::: panel-tabset
@@ -216,46 +274,142 @@ ordered_pitches <- factor(ordered_pitches, ordered=TRUE)
 ## Bag of Notes
 ```{r, echo=F, warnings=FALSE, message=FALSE}
 
-ggplot(minor_pitches, aes(x=factor(pitches, 
-                        level=ordered_pitches), y =n)) +
-                        geom_bar(stat="identity") + theme_bw() +
-                        labs(y="count", x="pitches") +
-                        theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+ggplot(data=subset(major_pitch_dur, !is.na(pitches)),
+            aes(x=factor(pitches, 
+            level=ordered_pitches), y=major_durations, na.rm=TRUE)) +
+            geom_bar(stat="identity", na.rm=TRUE) + 
+             scale_x_discrete(na.translate = FALSE) + theme_bw() +
+            labs(y="count", x="pitches") +
+            theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+## Percentage
+ 
+```{r, major-histograms-percentage1, echo=F, warnings=FALSE, message=FALSE}
+
+ggplot(percentage, na.rm=TRUE, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    labs(y="percentage") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
 ```
 
 ## Cumulative Duration
-```{r, echo=F, warnings=FALSE, message=FALSE}
+```{r, major-cumulative, echo=F, warnings=FALSE, message=FALSE}
 
-ggplot(minor_duration, aes(x=factor(pitches, 
-                        level=ordered_pitches), y =cumulative)) +
-                        geom_bar(stat="identity") + theme_bw() +
-                        labs(y="count (in beats)", x="pitches") +
-                        theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+ggplot(major_duration, aes(x=factor(major_pitches, 
+                level=ordered_pitches), y =cumulative)) +
+                geom_bar(stat="identity", na.rm=TRUE) +
+                scale_x_discrete(na.translate = FALSE) +  
+                theme_bw() +
+                labs(y="count (in beats)", x="pitches") +
+                theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 
 ```
 :::
 
 
-Again, here we might explore it as a percentage of total pitches used in this mode.
 
-```{r, minor-percentage, echo=F, warnings=FALSE, message=FALSE}
-# x <-  minor |> 
-#     pitch(simple = FALSE) |>
-#     humdrumR::tally() 
-# percentage <- x/sum(x) * 100
-# percentage <- as_tibble(percentage)
-# percentage <- percentage |> 
-#     filter(!grepl("[CDEF].*3", Pitch)) |> filter(!grepl("[789]", Pitch)) |> 
-#     filter(!grepl("[A|B].*6", Pitch)) |>
-#     filter(!grepl("G#6", Pitch))
-# 
-# percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)
-# 
-# ggplot(percentage, aes(x=Pitch, y=n)) +
-#     geom_bar(stat="identity") + theme_bw() +
-#     labs(y="percentage") +
-#     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+Looking at this as a percentage of total pitches might be more useful. The numbers on the y-axis represent the percentage of pitches used in a given mode. 
+
+Note: Other major keys can be found [here](other_major_keys.qmd).
+
+### Pitch histograms for the minor mode.
+
+```{r, minor-histogram, echo=F, warnings=FALSE, message=FALSE}
+minor <- readHumdrum('corpus/extracts/minor/*.krn')
+minor_in_G <- minor |> mutate(kern(Token, simple = FALSE, transposeArgs = list(to = 'G:'))) 
 ```
+
+
+```{r, minor-e-check2, echo=F, warnings=FALSE, message=FALSE}
+minor_pitches <- minor_in_G |> pitch(simple = FALSE)
+minor_pitches <- as.character(minor_pitches)
+minor_pitches <- as.factor(minor_pitches)
+minor_durations <- dur(minor_in_G$Token) 
+minor_durations <- as.numeric(gsub(':', '', minor_durations))
+minor_pitch_dur <- data.frame(minor_pitches, minor_durations)
+minor_1 <- minor_pitch_dur |> 
+    filter(!grepl("[CDEF].*3", minor_pitches)) |> 
+    filter(!grepl("[789]", minor_pitches)) |> 
+    filter(!grepl("[A|B].*6", minor_pitches)) |>
+    filter(!grepl("G#6", minor_pitches)) |> 
+    filter(!is.na(minor_pitches)) 
+
+### this works but puts it in the wrong order.
+minor_pitches <- minor_1 |> group_by(minor_pitches) |> 
+                summarise(n = n())
+minor_duration <- minor_1 |> group_by(minor_pitches) |> summarise(cumulative = sum(minor_durations))
+
+```{r, minor-e-checka, echo=F, warnings=FALSE, message=FALSE}
+
+ordered_pitches <- c("D4","E4","F4","F#4","G4",
+                    "G#4", "A4", "A#4", "Bb4","B4",
+                    "C5","C#5","Db5", "D5","Eb5",
+                    "E5","F5","F#5","Gb5","G5","G#5",
+                    "Ab5","A5", "A#5", "Bb5",
+                    "B5","C6", "C#6", "Db6","D6", 
+                    "D#6","Eb6","E6","F6","F#6","Gb6","G6")
+
+
+ordered_pitches <- factor(ordered_pitches, ordered=TRUE)
+```
+
+```{r, minor-e-check3, echo=F, warnings=FALSE, message=FALSE}
+####percentages
+x <-  minor_pitches 
+     
+minor_pitches$percentage <- minor_pitches$n/sum(minor_pitches$n) * 100
+minor_percentage <- as_tibble(minor_pitches)
+minor_percentage$Pitch <- factor(minor_percentage$minor_pitches, levels = minor_percentage$minor_pitches)   
+minor_percentage <- minor_percentage |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> 
+    filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[3]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch)) |> 
+    filter(!is.na(Pitch))
+
+```
+
+
+::: panel-tabset
+
+## Bag of Notes
+```{r, minor-bag-of-notes2, echo=F, warnings=FALSE, message=FALSE}
+
+ggplot(data=subset(minor_pitch_dur, !is.na(minor_pitches)),
+            aes(x=factor(minor_pitches, 
+            level=ordered_pitches), y=minor_durations, na.rm=TRUE)) +
+            geom_bar(stat="identity", na.rm=TRUE) + 
+             scale_x_discrete(na.translate = FALSE) + theme_bw() +
+            labs(y="count", x="pitches") +
+            theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+## Percentage
+ 
+```{r, minor-histograms-percentage, echo=F, warnings=FALSE, message=FALSE}
+
+ggplot(minor_percentage, na.rm=TRUE, aes(x=Pitch, y=n)) +
+    geom_bar(stat="identity") + theme_bw() +
+    labs(y="percentage") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
+```
+
+## Cumulative Duration
+```{r, minor-cumulative, echo=F, warnings=FALSE, message=FALSE}
+
+ggplot(minor_duration, aes(x=factor(minor_pitches, 
+                level=ordered_pitches), y =cumulative)) +
+                geom_bar(stat="identity", na.rm=TRUE) +
+                scale_x_discrete(na.translate = FALSE) +  
+                theme_bw() +
+                labs(y="count (in beats)", x="pitches") +
+                theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+
+```
+:::
+
 
 
 # The Meertens Tune Collection of Dutch Folksongs
@@ -264,63 +418,186 @@ For comparison, here we have the pitch distributions of the major and minor mode
 
 ## Major
 
-```{r, meertens-histogram-major, echo=F, warnings=FALSE, message=FALSE}
-# meertens_major <- readHumdrum('corpus/meertens/meertens_major/*.krn')
-# 
-# meertens_major_in_G <- humdrumR::transpose(meertens_major$Token, to = 'G:', real = FALSE)
-# 
-# major_1 <- meertens_major_in_G |> 
-#     pitch(simple = FALSE) |>
-#     humdrumR::tally() |> as_tibble()
-# 
-# major_1$pitch <- major_1$`pitch(meertens_major_in_G)`
-# major_1 <- major_1[,2:3]
-# major_1 |>
-#     filter(!grepl("[GABCDEF].*3", pitch)) |> 
-#     filter(!grepl("[789]", pitch)) |> 
-#     filter(!grepl("[A|B].*6", pitch)) |>
-#     filter(!grepl("G#6", pitch))
-# 
-# 
-# major_1$pitch <- factor(major_1$pitch, levels = major_1$pitch)
-#     
-# ggplot(major_1, aes(x=pitch, y=n)) +
-#     geom_bar(stat="identity") + theme_bw() +
-#     labs(y="count") +
-#     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
-# 
-# 
-    #####note: major is now fixed, now to fix minor.
+```{r, meertens-histogram-minor2, echo=F, warnings=FALSE, message=FALSE}
+meertens_major <- readHumdrum('corpus/meertens/meertens_major/*.krn')
+
+meertens_major_in_G <- meertens_major |> mutate(kern(Token, simple = FALSE, transposeArgs = list(to = 'G:'))) 
+
+ meertens_major_pitches <- meertens_major_in_G |> pitch(simple = FALSE)
+ meertens_major_pitches <- as.character(meertens_major_pitches)
+ meertens_major_pitches <- as.factor(meertens_major_pitches)
+ meertens_major_durations <- dur(meertens_major_in_G$Token) 
+ meertens_major_durations <- as.numeric(gsub(':', '', meertens_major_durations))
+ meertens_major_pitch_dur <- data.frame(meertens_major_pitches, meertens_major_durations)
+ meertens_major_1 <- meertens_major_pitch_dur |> 
+    filter(!grepl("[CDEF].*3", meertens_major_pitches)) |> 
+    filter(!grepl("[789]", meertens_major_pitches)) |> 
+    filter(!grepl("[A|B].*6", meertens_major_pitches)) |>
+    filter(!grepl("G#6", meertens_major_pitches)) |> 
+    filter(!is.na(meertens_major_pitches)) 
+
+### this works but puts it in the wrong order.
+meertens_major_pitches <- meertens_major_1 |> group_by(meertens_major_pitches) |> 
+                summarise(n = n())
+meertens_major_duration <- meertens_major_1 |> group_by(meertens_major_pitches) |> summarise(cumulative = sum(meertens_major_durations))
+
+ordered_pitches <- c("D4","E4","F4","F#4","G4",
+                    "G#4", "A4", "A#4", "Bb4","B4",
+                    "C5","C#5","Db5", "D5","Eb5",
+                    "E5","F5","F#5","Gb5","G5","G#5",
+                    "Ab5","A5", "A#5", "Bb5",
+                    "B5","C6", "C#6", "Db6","D6", 
+                    "D#6","Eb6","E6","F6","F#6","Gb6","G6")
+
+
+ordered_pitches <- factor(ordered_pitches, ordered=TRUE)
+
+####percentages
+
+
+meertens_major_pitches$percentage <- meertens_major_pitches$n/sum(meertens_major_pitches$n) * 100
+meertens_major_pitches <- as_tibble(meertens_major_pitches)
+meertens_major_pitches$Pitch <- meertens_major_pitches$meertens_major_pitches
+meertens_major_pitches$Pitch <- factor(meertens_major_pitches$Pitch, levels = meertens_major_pitches$Pitch)   
+meertens_major_pitches <- meertens_major_pitches |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> 
+    filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[3]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch)) |> 
+    filter(!is.na(Pitch))
+
 ```
 
+
+::: panel-tabset
+
+## Bag of Notes
+```{r, major-bag-of-notes, echo=F, warnings=FALSE, message=FALSE}
+
+ggplot(data=subset(meertens_major_pitch_dur, !is.na(meertens_major_pitches)),
+            aes(x=factor(meertens_major_pitches, 
+            level=ordered_pitches), y=meertens_major_durations, na.rm=TRUE)) +
+            geom_bar(stat="identity", na.rm=TRUE) + 
+             scale_x_discrete(na.translate = FALSE) + theme_bw() +
+            labs(y="count", x="pitches") +
+            theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+## Percentage
+ 
+```{r, major-histograms-percentage, echo=F, warnings=FALSE, message=FALSE}
+
+ggplot(meertens_major_pitches, na.rm=TRUE, aes(x=Pitch, y=percentage)) +
+    geom_bar(stat="identity") + theme_bw() +
+    labs(y="percentage") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
+```
+
+## Cumulative Duration
+```{r, meertens-major-cumulative2, echo=F, warnings=FALSE, message=FALSE}
+
+ggplot(meertens_major_duration, aes(x=factor(meertens_major_pitches, 
+                level=ordered_pitches), y =cumulative)) +
+                geom_bar(stat="identity", na.rm=TRUE) +
+                scale_x_discrete(na.translate = FALSE) +  
+                theme_bw() +
+                labs(y="count (in beats)", x="pitches") +
+                theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+
+```
+:::
 
 ## Minor
 
 
 ```{r, meertens-histogram-minor,echo=F, warnings=FALSE, message=FALSE}
-# meertens_minor <- readHumdrum('corpus/meertens/meertens_minor/*.krn')
-# 
-# meertens_minor_in_G <- humdrumR::transpose(meertens_minor$Token, to = 'G:', real = FALSE)
-# 
-# minor_1 <- meertens_minor_in_G |> 
-#     pitch(simple = FALSE) |>
-#     humdrumR::tally() |> as_tibble()
-# 
-# minor_1$pitch <- minor_1$`pitch(meertens_minor_in_G)`
-# minor_1 <- minor_1[,2:3]
-# minor_1 |>
-#     filter(!grepl("[GABCDEF].*3", pitch)) |> 
-#     filter(!grepl("[789]", pitch)) |> 
-#     filter(!grepl("[A|B].*6", pitch)) |>
-#     filter(!grepl("G#6", pitch))
-# 
-# 
-# minor_1$pitch <- factor(minor_1$pitch, levels = minor_1$pitch)
-#     
-# ggplot(minor_1, aes(x=pitch, y=n)) +
-#     geom_bar(stat="identity") + theme_bw() +
-#     labs(y="count") +
-#     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+meertens_minor <- readHumdrum('corpus/meertens/meertens_minor/*.krn')
+meertens_minor_in_G <- meertens_minor |> mutate(kern(Token, simple = FALSE, transposeArgs = list(to = 'G:'))) 
+
+ meertens_minor_pitches <- meertens_minor_in_G |> pitch(simple = FALSE)
+ meertens_minor_pitches <- as.character(meertens_minor_pitches)
+ meertens_minor_pitches <- as.factor(meertens_minor_pitches)
+ meertens_minor_durations <- dur(meertens_minor_in_G$Token) 
+ meertens_minor_durations <- as.numeric(gsub(':', '', meertens_minor_durations))
+ meertens_minor_pitch_dur <- data.frame(meertens_minor_pitches, meertens_minor_durations)
+ meertens_minor_1 <- meertens_minor_pitch_dur |> 
+    filter(!grepl("[CDEF].*3", meertens_minor_pitches)) |> 
+    filter(!grepl("[789]", meertens_minor_pitches)) |> 
+    filter(!grepl("[A|B].*6", meertens_minor_pitches)) |>
+    filter(!grepl("G#6", meertens_minor_pitches)) |> 
+    filter(!is.na(meertens_minor_pitches)) 
+
+### this works but puts it in the wrong order.
+meertens_minor_pitches <- meertens_minor_1 |> group_by(meertens_minor_pitches) |> 
+                summarise(n = n())
+meertens_minor_duration <- meertens_minor_1 |> group_by(meertens_minor_pitches) |> summarise(cumulative = sum(meertens_minor_durations))
+
+ordered_pitches <- c("D4","E4","F4","F#4","G4",
+                    "G#4", "A4", "A#4", "Bb4","B4",
+                    "C5","C#5","Db5", "D5","Eb5",
+                    "E5","F5","F#5","Gb5","G5","G#5",
+                    "Ab5","A5", "A#5", "Bb5",
+                    "B5","C6", "C#6", "Db6","D6", 
+                    "D#6","Eb6","E6","F6","F#6","Gb6","G6")
 
 
-``` -->
+ordered_pitches <- factor(ordered_pitches, ordered=TRUE)
+
+####percentages
+```
+
+
+
+```{r, meertens-histogram-minor-echeck,echo=F, warnings=FALSE, message=FALSE}
+meertens_minor_pitches$percentage <- meertens_minor_pitches$n/sum(meertens_minor_pitches$n) * 100
+meertens_minor_pitches$Pitch <- meertens_minor_pitches$meertens_minor_pitches
+meertens_minor_pitches$Pitch <- factor(meertens_minor_pitches$Pitch, levels = meertens_minor_pitches$Pitch)   
+meertens_minor_pitches <- meertens_minor_pitches |> 
+    filter(!grepl("[CDEF].*3", Pitch)) |> 
+    filter(!grepl("[789]", Pitch)) |> 
+    filter(!grepl("[3]", Pitch)) |> 
+    filter(!grepl("[A|B].*6", Pitch)) |>
+    filter(!grepl("G#6", Pitch)) |> 
+    filter(!is.na(Pitch))
+
+```
+
+
+::: panel-tabset
+
+## Bag of Notes
+```{r, minor-bag-of-notes, echo=F, warnings=FALSE, message=FALSE}
+
+ggplot(data=subset(meertens_minor_pitch_dur, !is.na(meertens_minor_pitches)),
+            aes(x=factor(meertens_minor_pitches, 
+            level=ordered_pitches), y=meertens_minor_durations, na.rm=TRUE)) +
+            geom_bar(stat="identity", na.rm=TRUE) + 
+             scale_x_discrete(na.translate = FALSE) + theme_bw() +
+            labs(y="count", x="pitches") +
+            theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+## Percentage
+ 
+```{r, meertens-minor-histograms-percentage, echo=F, warnings=FALSE, message=FALSE}
+
+ggplot(meertens_minor_pitches, na.rm=TRUE, aes(x=Pitch, y=percentage)) +
+    geom_bar(stat="identity") + theme_bw() +
+    labs(y="percentage") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
+```
+
+## Cumulative Duration
+```{r, meertens-minor-cumulative, echo=F, warnings=FALSE, message=FALSE}
+
+ggplot(meertens_minor_duration, aes(x=factor(meertens_minor_pitches, 
+                level=ordered_pitches), y =cumulative)) +
+                geom_bar(stat="identity", na.rm=TRUE) +
+                scale_x_discrete(na.translate = FALSE) +  
+                theme_bw() +
+                labs(y="count (in beats)", x="pitches") +
+                theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+
+```
+:::
