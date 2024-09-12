@@ -248,7 +248,7 @@ major_ordered_pitches <- factor(major_ordered_pitches, ordered=TRUE)
 ```
 
 
-```{r major-percentagese, cho=F, warnings=FALSE, message=FALSE}
+```{r major-percentagese, echo=F, warnings=FALSE, message=FALSE}
 ####percentages
 x <-  pitches |> 
     pitch(simple = FALSE) |>
@@ -473,13 +473,13 @@ meertens_major_pitches <- meertens_major_pitches |>
 ::: panel-tabset
 
 ## Bag of Notes
-```{r, major-bag-of-notes, echo=F, warnings=FALSE, message=FALSE}
+```{r, meertens-major-bag-of-notes, echo=F, warnings=FALSE, message=FALSE}
 
 ggplot(data=subset(meertens_major_pitch_dur, !is.na(meertens_major_pitches)),
             aes(x=factor(meertens_major_pitches, 
             level=ordered_pitches), y=meertens_major_durations, na.rm=TRUE)) +
             geom_bar(stat="identity", na.rm=TRUE) + 
-             scale_x_discrete(na.translate = FALSE) + theme_bw() +
+            scale_x_discrete(na.translate = FALSE) + theme_bw() +
             labs(y="count", x="pitches") +
             theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 ```
@@ -488,7 +488,7 @@ ggplot(data=subset(meertens_major_pitch_dur, !is.na(meertens_major_pitches)),
  
 ```{r, major-histograms-percentage, echo=F, warnings=FALSE, message=FALSE}
 
-ggplot(meertens_major_pitches, na.rm=TRUE, aes(x=Pitch, y=percentage)) +
+ggplot(meertens_major_pitches, na.rm=TRUE, aes(x=factor(Pitch, level=ordered_pitches), y=percentage)) +
     geom_bar(stat="identity") + theme_bw() +
     labs(y="percentage") +
     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
@@ -554,7 +554,7 @@ meertens_minor_pitches$percentage <- meertens_minor_pitches$n/sum(meertens_minor
 meertens_minor_pitches$Pitch <- meertens_minor_pitches$meertens_minor_pitches
 meertens_minor_pitches$Pitch <- factor(meertens_minor_pitches$Pitch, levels = meertens_minor_pitches$Pitch)   
 meertens_minor_pitches <- meertens_minor_pitches |> 
-    filter(!grepl("[CDEF].*3", Pitch)) |> 
+    filter(!grepl("[CDEFG].*3", Pitch)) |> 
     filter(!grepl("[789]", Pitch)) |> 
     filter(!grepl("[3]", Pitch)) |> 
     filter(!grepl("[A|B].*6", Pitch)) |>
@@ -582,7 +582,7 @@ ggplot(data=subset(meertens_minor_pitch_dur, !is.na(meertens_minor_pitches)),
  
 ```{r, meertens-minor-histograms-percentage, echo=F, warnings=FALSE, message=FALSE}
 
-ggplot(meertens_minor_pitches, na.rm=TRUE, aes(x=Pitch, y=percentage)) +
+ggplot(meertens_minor_pitches, na.rm=TRUE, aes(x=factor(Pitch, level=ordered_pitches), y=percentage)) +
     geom_bar(stat="identity") + theme_bw() +
     labs(y="percentage") +
     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
