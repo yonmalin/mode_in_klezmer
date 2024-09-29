@@ -1,7 +1,7 @@
 !!!Genre:	Gas-nign
 !!!Mode:	Minor
 !!!Listening/dance:	listening
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
 *I"P1
 *clefG2
@@ -9,6 +9,8 @@
 *g:
 *M2/4
 *>A
+*>bM
+*c:
 =1
 16gLL
 16gJ
@@ -33,6 +35,9 @@
 8ggJ
 =4
 2cc
+*>eM
+*>bM
+*B-:
 =5
 16ccLL
 16cc
@@ -63,6 +68,8 @@
 4.b-
 16r
 *>B
+*>eM
+*g:
 16g
 =10||
 16gLL
