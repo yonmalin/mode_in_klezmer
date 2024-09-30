@@ -1,7 +1,7 @@
 !!!Genre:	Skotshne
 !!!Mode:	Major
 !!!Listening/dance:	dance
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
 *I"P1
 *clefG2
@@ -50,6 +50,8 @@
 4.g
 8r
 =10!|:
+*>bM
+*D:
 *>B
 8a
 8r
@@ -105,6 +107,8 @@
 =18:|!
 4.d
 8r
+*>eM
+*G:
 =19!|:
 *>C
 2dd
