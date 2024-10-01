@@ -1,5 +1,0 @@
----
-title: Accessing the Data
----
-
-## How to Access the Data
