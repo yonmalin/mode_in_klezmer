@@ -1,7 +1,7 @@
 !!!Genre:	Freylekhs
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	dance
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
 *part1
 *staff1
@@ -71,6 +71,8 @@
 4g
 4r
 =9||
+*>bM
+*G:
 *>B
 8bnL
 16bL
@@ -124,6 +126,8 @@
 16cc#XJJ
 =16
 2dd
+*>eM
+*g:dor
 =17
 16ggLL
 16ff
