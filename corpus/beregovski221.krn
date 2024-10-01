@@ -1,7 +1,7 @@
 !!!Genre:	Khosid
 !!!Mode:	Minor
 !!!Listening/dance:	dance
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
 *I"P1
 *clefG2
@@ -46,6 +46,8 @@
 16gJJ)
 =8
 2g
+*>bM
+*B-:
 =9||
 *>B
 2b-
@@ -114,6 +116,8 @@
 16aJJ
 =24
 2b-
+*>eM
+*g:
 =25
 (16b-LL
 16ccJ)
