@@ -1,0 +1,112 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074043_01
+!! NLB record number: 74043
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4cc	Met
+4cc	haar
+4cc	em-
+8b	-mer-
+8cc	-tjes
+=2	=2
+4dd	aan
+4ee	haar
+2dd;}	hand
+!! verse 1
+=3	=3
+{4cc	zo
+8cc	trok
+8cc	zij
+(4cc	langs
+8dd)	.
+8ee	de
+=4	=4
+(4dd	groe-
+8cc)	.
+8b	-ne
+2a;}	kant
+!! verse 2
+=5	=5
+{4.dd	om
+8cc	haar
+4b	koei-
+4a	-kes
+=6	=6
+4cc	te
+4b	gaan
+4a	mel-
+4g;}	-ken
+!! verse 3
+=7	=7
+{4b	o
+8.a	la-
+16g	-de-
+4a	-ri-
+4a	-ne
+=8	=8
+8.g	fal-
+16a	-de-
+8.b	-ra-
+16cc	-de-
+4.dd;}	-ra
+!! verse 4
+{8d	ze
+=9	=9
+4.g	was
+8a	zo
+4b	zwaar
+8b	van
+8cc	het
+=10	=10
+4dd	melk-
+8dd	-en
+8ee	be-
+4dd;}	-laan
+!! verse 5
+{8cc	dat
+8b	ze
+=11	=11
+*M2/4	*
+8a	haast
+8cc	niet
+8b	meer
+8a	kon
+=12	=12
+4.g;}	gaan
+!! verse 6
+{8d	ze
+=13	=13
+*M4/4	*
+4.g	was
+8a	zo
+4b	zwaar
+8b	van
+8cc	het
+=14	=14
+4dd	melk-
+8dd	-en
+8ee	be-
+4dd;}	-laan
+!! verse 7
+{8cc	dat
+8b	ze
+=15	=15
+*M2/4	*
+8a	haast
+8cc	niet
+8b	meer
+8a	kon
+=16	=16
+*M4/4	*
+1g;}	gaan
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

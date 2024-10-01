@@ -1,0 +1,97 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140798_01
+!! NLB record number: 140798
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#c#g#]	*
+*A:	*
+!! verse 0
+{4e	Hup
+=1	=1
+4a	een!
+4r	.
+4a	hup
+=2	=2
+4dd	twee!
+4r	.
+4r;}	.
+!! verse 1
+=3	=3
+{8b	Laat
+8a	ons
+8g#	dan-
+8b	-sen,
+8ee	laat
+8dd	ons
+=4	=4
+4cc#	zin-
+4a	-gen
+4b	en
+=5	=5
+4cc#	sprin-
+4a	-gen,
+4b	hup
+=6	=6
+4r;}	.
+!! verse 2
+{8.cc#	tra-
+16b	-la-
+8a	-la
+8r	.
+=7	=7
+4r	.
+8.a	tra-
+16g#	-la-
+8f#	-la.
+8r;}	.
+!! verse 3
+=8	=8
+{8g#	Dans
+8f#	in 't
+8e	ron-
+8d	-de
+8c#	met
+8B	el-
+=9	=9
+4A	-kaar,
+4c#	twee
+4e	hup,
+=10	=10
+4A	spring,
+4c#	twee
+4e	hup!
+=11	=11
+4r;}	.
+!! verse 4
+{8.e	tra-
+16d	-la-
+8c#	-la,
+8r	.
+=12	=12
+4r	.
+8.f#	tra-
+16e	-la-
+8d	-la.
+8r	.
+=13	=13
+4r;}	.
+!! verse 5
+{8e	Kom,
+8e	dans
+8e	vroo-
+8g#	-lijk,
+=14	=14
+4a	ha-
+4A	-ha
+4r	.
+=15	=15
+4a	ha-
+4A	-ha!
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

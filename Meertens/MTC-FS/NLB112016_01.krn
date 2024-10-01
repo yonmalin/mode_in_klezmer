@@ -1,0 +1,106 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB112016_01
+!! NLB record number: 112016
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	Te
+=1	=1
+4f	La-
+8f	-ren,
+8c	te
+=2	=2
+4f	La-
+8f	-ren,
+8c	te
+=3	=3
+8.f	La-
+16c	-ren
+8f	op
+8a	de
+=4	=4
+4.cc;}	Dom
+!! verse 1
+{8a	Daar
+=5	=5
+8.a	wa-
+16a	-ren
+8a	drie
+8b-	stu-
+=6	=6
+4cc	-den-
+8b-	-tjes,
+8a	Mooi
+=7	=7
+8.g	meis-
+16g	-je
+12g	keer
+12g	je
+12g	eens
+=8	=8
+4.g;}	om!
+!! verse 2
+{8g	De
+=9	=9
+8.g	eer-
+16a	-ste
+8g	was
+8f	een
+=10	=10
+8e	of-
+8d	-fi-
+8c;}	-cier,
+!! verse 3
+{8g	De
+=11	=11
+8.g	twee-
+16a	-de
+8g	was
+8f	een
+=12	=12
+8e	gre-
+8d	-na-
+8c;}	-dier,
+!! verse 4
+{8c	De
+=13	=13
+8.f	der-
+16f	-de
+8f	was
+8a	een
+=14	=14
+4cc	jon-
+8a	-ker,
+8r	.
+=15	=15
+4cc	jon-
+8a	-ker:
+8r;}	.
+!! verse 5
+=16	=16
+{8f	Drie
+8g	maal
+8a	in
+8b-	de
+=17	=17
+8cc	ma-
+8cc	-ne-
+8cc	-schijn
+8cc	En
+=18	=18
+8dd	zes
+8cc	maal
+8b-	in
+8a	het
+=19	=19
+4g	don-
+8f;}	-ker!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

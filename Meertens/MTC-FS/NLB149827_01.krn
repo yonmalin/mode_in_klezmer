@@ -1,0 +1,93 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB149827_01
+!! NLB record number: 149827
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4g	Jus-
+4g	-ter-
+4g	-joun
+4g	by
+=2	=2
+4f#	Ka-
+4e	-ke
+4d	west
+4r	.
+=3	=3
+4g	Bo-
+4g	-ven
+4f#	op
+4g	'e
+=4	=4
+2a	ka-
+2a;}	-mer.
+!! verse 1
+=5	=5
+{4a	Jil-
+4a	-ke
+4a	vloog
+4b	ut
+=6	=6
+4cc	ven-
+4b	-ster
+4a	ut,
+4g	Ik
+=7	=7
+4f#	sloeg
+4d	'm
+4e	mei
+4f#	de
+=8	=8
+2g	ha-
+4.g;}	-mer.
+!! verse 2
+{8b	Kom
+=9	=9
+*M6/8	*
+4b	sil-
+8b	-le
+4b	wy
+8b	ris
+=10	=10
+4.cc	douns-
+4cc	-je?
+8a	'k Haw
+=11	=11
+4a	tri-
+8a	-tich
+8a	skel-
+8a	-lin-
+8a	-gen
+=12	=12
+4dd	yn
+8dd	'e
+4dd;}	bus.
+!! verse 3
+{8dd	Dy
+=13	=13
+4cc	ha 'k
+8cc	fan
+4cc	om-
+8cc	-ke
+=14	=14
+4.b	Wat-
+4b	-se,
+8b	Dy
+=15	=15
+4a	hat
+8g	se
+4a	by
+8b	de
+=16	=16
+4.g	rus.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

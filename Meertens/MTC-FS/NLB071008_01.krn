@@ -1,0 +1,95 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071008_01
+!! NLB record number: 71008
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Ik
+=1	=1
+8.g	ben
+16g	met
+8.g	mijn
+16g	Ca-
+8.g	-toot-
+16g	-je
+8.f#	naar
+16g	de
+=2	=2
+8.a	Ro-
+16g	-zen-
+8.f#	-gracht
+16e	ge-
+4d;}	-gaan
+!! verse 1
+{8.d	En
+16d	ze
+=3	=3
+4cc	maak-
+8.cc	-te
+16cc	me
+4cc	daar
+8.dd	wat
+16cc	ze
+=4	=4
+2.b;}	wou:
+!! verse 2
+{8.g	En
+16b	ze
+=5	=5
+4dd	maak-
+8.dd	-te
+16dd	me
+4dd	daar
+(8.ee	een
+16dd)	.
+=6	=6
+4dd	vi-
+4cc	-o-
+4cc;}	-lien
+!! verse 3
+{8a	vi-
+8b	-o-
+=7	=7
+8cc	-li-
+8cc	-ne,
+8a	vi-
+8b	-o-
+8cc	-li-
+8cc	-ne
+8dd	zei
+8cc	die
+=8	=8
+4cc	vi-
+4b	-o-
+4b;}	-lien.
+!! verse 4
+{8.dd	vi-
+16ee	-o-
+=9	=9
+2dd	-li-
+4b	-ne,
+8.dd	vi-
+16ee	-o-
+=10	=10
+2dd	-li-
+4b;}	-ne
+!! verse 5
+{8.b	En
+16b	mijn
+=11	=11
+4cc	zus-
+8.cc	-ter
+16cc	die
+4dd	heet
+4dd	Ma -
+=12	=12
+2.g;}	-rie.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

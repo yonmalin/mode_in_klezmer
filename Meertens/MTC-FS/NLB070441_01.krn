@@ -1,0 +1,62 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070441_01
+!! NLB record number: 70441
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{16g	En
+16b	wie
+=1	=1
+4dd	binn
+8dd	nog
+4dd	vrij-
+8ee	-ge-
+=2	=2
+(4dd	-zel-
+8b)	.
+4a;}	-len
+!! verse 1
+{8b	Wie
+=3	=3
+4dd	hem
+8dd	nog
+(8cc	geld
+8b)	.
+8a	te
+=4	=4
+(4g	tel-
+8e)	.
+4d;}	-len
+!! verse 2
+{8d	Ti-
+=5	=5
+8.g	-ral-
+16g	-la-
+8g	-la-
+4g	-la,
+8a	ti-
+=6	=6
+8.b	-ral-
+16b	-la-
+8b	-la-
+8b;}	-la
+!! verse 3
+{8b	En
+8cc	wat
+=7	=7
+4dd	ge-
+8dd	-ven
+4cc	wie
+8cc	d'r
+=8	=8
+[4.b	noa
+4b];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

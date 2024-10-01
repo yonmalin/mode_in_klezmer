@@ -1,0 +1,69 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140435_01
+!! NLB record number: 140435
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#c#g#]	*
+*A:	*
+!! verse 0
+{8e	Ik
+=1	=1
+8.f#	voe-
+16e	-le
+8.f#	mij
+16g#	ge-
+=2	=2
+8.a	-dron-
+16g#;}	-gen,
+!! verse 1
+{8.a	Dat
+16b	ik
+=3	=3
+4dd	zin-
+4cc#	-gen
+=4	=4
+8.b;}	moet,
+!! verse 2
+{16g#	Ja,
+8.a	dat
+16b	ik
+=5	=5
+4dd	zin-
+4cc#	-gen
+=6	=6
+4b	moet:
+8r;}	.
+!! verse 3
+{8b	Een
+=7	=7
+8.dd	lie-
+16cc#	-de-
+8.b	-ken
+16a	van
+=8	=8
+8.g#	min-
+16f#;}	-nen,
+!! verse 4
+{8.g#	Dat
+16a	mij
+=9	=9
+4cc#	treu-
+4b	-ren
+=10	=10
+8.a;}	doet
+!! verse 5
+{16g#	Ja,
+8.a	dat
+16b	mij
+=11	=11
+4cc#	treu-
+4b	-ren
+=12	=12
+4.a;}	doet!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

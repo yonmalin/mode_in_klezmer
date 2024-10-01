@@ -1,0 +1,86 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075286_01
+!! NLB record number: 75286
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4dd	En
+=1	=1
+4gg	Los-
+4dd	-brouk
+4b	vaart
+4dd	ten
+=2	=2
+2g	oor-
+4g;}	-log
+!! verse 1
+{8a	van
+8b	je
+=3	=3
+12cc	sjoe-
+12cc	-me-
+12cc	-le-
+8.cc	-sjer-
+16cc	-le-
+4cc	-sjim
+8.b	van
+16cc	je
+=4	=4
+12ee	sjoe-
+12ee	-me-
+12ee	-le-
+8.dd	-sjer-
+16cc#	-le-
+4dd;}	-sjim
+!! verse 2
+{4dd	En
+=5	=5
+4gg	Los-
+4dd	-broek
+4b	vaart
+4dd	ten
+=6	=6
+2g	oor-
+4g;}	-log
+!! verse 3
+{4gg	En
+=7	=7
+4aa	hij
+4gg	keert
+4ff#	nooit
+4ee	weer-
+=8	=8
+(4dd	-om
+4cc	.
+4b);}	.
+!! verse 4
+{4gg	En
+=9	=9
+4gg	hij
+4gg	keert
+4gg	nooit
+4gg	weer-
+=10	=10
+(4bb	-om
+4gg	.
+2dd)	.
+=11	=11
+4r;}	.
+!! verse 5
+{4aa	En
+4aa	hij
+4ccc	keert
+=12	=12
+2bb	nooit
+2aa	weer-
+=13	=13
+2.gg;}	-om.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

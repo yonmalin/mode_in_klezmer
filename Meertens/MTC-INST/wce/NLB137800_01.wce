@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ExcelProcessingDefaults-beginSignatureRangeTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-beginSignatureScriptTextView</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-endSignatureRangeTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-endSignatureScriptTextView</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-fileNameTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-scoreLeftEdgeTextField</key>
+	<string>A1</string>
+	<key>ExcelProcessingDefaults-scoreRangeTextField</key>
+	<string>A1:Z100</string>
+	<key>ExcelProcessingDefaults-scoreScriptTextView</key>
+	<string></string>
+	<key>NLBController-incipitNormTextField</key>
+	<string></string>
+	<key>NLBController-melodyNormTextField</key>
+	<string></string>
+	<key>NLBController-recordIDTextField</key>
+	<string>137800</string>
+	<key>NLBController-tagsTextField</key>
+	<string></string>
+	<key>SignatureController-encoderNameTextField</key>
+	<string></string>
+	<key>SignatureController-footerTextView</key>
+	<string>\markup { \wordwrap-string #" 
+Transcriptie Simon Plantinga
+"}</string>
+	<key>SignatureController-hasChangesWithRespectToTranscriptionSwitch</key>
+	<false/>
+	<key>SignatureController-headerTextView</key>
+	<string></string>
+	<key>SignatureController-isEachPhraseNewStaffSwitch</key>
+        <true/>
+	<key>SignatureController-isMeterInvisibleSwitch</key>
+	<false/>
+	<key>SignatureController-isMultiVoiceDocumentSwitch</key>
+	<false/>
+	<key>SignatureController-keyTextField</key>
+	<string>g \major</string>
+	<key>SignatureController-partialTextField</key>
+	<string></string>
+	<key>SignatureController-relativeTextField</key>
+	<string>g'</string>
+	<key>SignatureController-stropheNumberTextField</key>
+	<string>1</string>
+	<key>SignatureController-tempoTextField</key>
+	<string>4=120</string>
+	<key>SignatureController-timeTextField</key>
+	<string>3/4</string>
+	<key>SignatureController-titleTextField</key>
+	<string>593</string>
+	<key>SignatureController-updateTextViewsWhenFieldChangedSwitch</key>
+	<true/>
+	<key>TextProcessingDefaults-beginSignatureTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-commentTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-endSignatureTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-inputTextView</key>
+	<string>g'8 fis16 e16 d16 c16 b16 a16 g8 d'8 | e8 c16 b16 a16 g16 fis16 e16 d8 d'16 c16 \sb | b8 d8 g8 b,8 a8 fis'8 | g8 d16 c16 b16 a16 g16 fis16 g8 g,8 \bar ":|:"
+
+b'8 b16 a16 g16 a16 b16 c16 d8 d,8 | d'8 d16 a16 d8 d16 a16 d4 \sb | e8 e16 d16 c16 e16 d16 fis16 e16 g16 fis16 a16 | g8 g16 d16 g8 b16 g16 g4</string>
+	<key>version</key>
+	<string>1.12</string>
+</dict>
+</plist>

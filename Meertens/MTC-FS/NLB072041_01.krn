@@ -1,0 +1,90 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072041_01
+!! NLB record number: 72041
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4gg	Mal-
+4dd	-broek
+4b	vaart
+4dd	ten
+=2	=2
+2g	oor-
+4g;}	-log
+!! verse 1
+{8g	van
+8a	je
+=3	=3
+8b	zjim-
+8b	-me
+8a	zjim-
+8g	-me
+4a;}	sjim
+!! verse 2
+{8b	van
+8cc	je
+=4	=4
+8ee	zjoem-
+8dd	-me
+8dd	zmoem-
+8cc#	-me
+4dd;}	zjoem
+!! verse 3
+{4dd	en
+=5	=5
+4gg	Mal-
+4dd	-broek
+4b	vaart
+4dd	ten
+=6	=6
+2g	oor-
+4g;}	-log
+!! verse 4
+{8.gg	Maar
+16gg	wie
+=7	=7
+4aa	weet
+4gg	wan-
+4ff#	-neer
+4ee	hij
+=8	=8
+(2dd	komt
+2cc	.
+=9	=9
+4b)	.
+2r;}	.
+!! verse 5
+{8.gg	maar
+16gg	wie
+=10	=10
+4gg	weet
+4gg	wan-
+4ff#	-neer
+4gg	hij
+=11	=11
+(2bb	komt
+2gg	.
+=12	=12
+4ee);}	.
+!! verse 6
+{8.aa	maar
+16aa	wie
+4aa	weet
+4aa	wan-
+=13	=13
+2gg	-neer
+2ff#	hij
+=14	=14
+4gg	komt.
+4r	.
+2r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

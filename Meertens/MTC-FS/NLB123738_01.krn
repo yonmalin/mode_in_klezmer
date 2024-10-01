@@ -1,0 +1,90 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB123738_01
+!! NLB record number: 123738
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[b-e-]	*
+*g:	*
+!! verse 0
+{8b-	Komt
+=1	=1
+8b-	die
+8a	wilt
+8g	hoo-
+8g	-ren
+=2	=2
+8g	in
+8dd	een
+8dd;}	lied,
+!! verse 1
+{8dd	Wat
+=3	=3
+8dd	dat
+8gg	ik
+8gg	hier
+8gg	zal
+=4	=4
+(16cc	zin-
+16ee-)	.
+8dd	-gen,
+8r;}	.
+!! verse 2
+{8dd	't
+=5	=5
+8dd	Is
+8dd	waer-
+8gg	-lijk
+16dd	ee-
+16dd	-ne
+=6	=6
+(16dd	vie-
+16ee-)	.
+(16dd	-ze
+16cc)	.
+8b-;}	klucht,
+!! verse 3
+{8cc	Die
+=7	=7
+8dd	ik
+16ee-	voor
+16dd	den
+8cc	dag
+8b-	zal
+=8	=8
+(8a	bren-
+8b-)	.
+8g;}	-gen.
+!! verse 4
+{8b-	Hop-
+=9	=9
+8b-	-sa-
+4g	-sa,
+16dd	ri-
+16dd	-be-
+=10	=10
+16dd	-doe-
+16dd	-be-
+8dd;}	-da,
+!! verse 5
+{8dd	Die
+8dd	ik
+=11	=11
+16cc	voor
+16cc	den
+8b-	dag
+8a	zal
+(16a	bren-
+16b-)	.
+=12	=12
+8g;}	-gen.
+!! verse 6
+{8.b-	Fa,
+16b-	la,
+4b-;}	la.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

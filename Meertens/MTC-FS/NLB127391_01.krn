@@ -1,0 +1,92 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB127391_01
+!! NLB record number: 127391
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/8	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{4.d	Palm,
+=2	=2
+4.e	palm-
+=3	=3
+4.d	-pa-
+=4	=4
+4c	-schen,
+8e	hoe-
+=5	=5
+4d	-rei
+8d	koe-
+=6	=6
+4.c;}	-rei,
+!! verse 1
+=7	=7
+*M4/8	*
+{8d	had-
+8d	-den
+8d	we
+8d	nog
+=8	=8
+*M3/8	*
+4e	ee-
+8e	-nen
+=9	=9
+4.d	Zon-
+=10	=10
+4c;}	-dag,
+!! verse 2
+{8e	dan
+=11	=11
+8d	had-
+8d	-den
+8d	we een
+=12	=12
+4.c;}	ei;
+!! verse 3
+=13	=13
+{4.d	één
+=14	=14
+4e	ei
+8e	dat
+=15	=15
+4d	is
+8d	geen
+=16	=16
+4.c;}	ei,
+!! verse 4
+=17	=17
+{4.d	twéé
+=18	=18
+4e	ei
+8e	dat
+=19	=19
+4d	is
+8d	geen
+=20	=20
+4c;}	ei,
+!! verse 5
+{8c	maar
+=21	=21
+4.g	drie
+=22	=22
+4c	ei,
+8c	dat
+=23	=23
+4d	is
+8d	het
+=24	=24
+4e	rech-
+8e	-te
+=25	=25
+4.d	Paasch-
+=26	=26
+4c	-ei.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

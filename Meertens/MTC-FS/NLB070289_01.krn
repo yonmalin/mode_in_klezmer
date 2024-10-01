@@ -1,0 +1,77 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070289_01
+!! NLB record number: 70289
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4dd	Schuit-
+8dd	-je
+8b	va-
+8b	-ren
+8ee	naar
+=2	=2
+4dd	O-
+8dd	-poe
+4.b;}	toe
+!! verse 1
+=3	=3
+{4dd	O-
+8dd	-poe
+4b	had
+8ee	een
+=4	=4
+4dd	bon-
+8dd	-te
+4.b;}	koe
+!! verse 2
+=5	=5
+{4dd	Die
+8dd	kon
+8b	O-
+8b	-poe
+8ee	niet
+=6	=6
+4dd	mel-
+8dd	-le-
+4.b;}	-ken
+!! verse 3
+=7	=7
+{4dd	Toen
+8dd	moest
+4b	Wil-
+8ee	-ly
+=8	=8
+4dd	hel-
+8dd	-le-
+4.b;}	-pen
+!! verse 4
+=9	=9
+{4ccx	Wil-
+8ccx	-ly
+4ccx	kan
+8gx	het
+=10	=10
+4eex	ook
+8eex	niet
+4.eex;}	doen
+!! verse 5
+=11	=11
+{4gg	Toen
+8dd	moest
+4cc	O-
+8b	-poe
+=12	=12
+8a	't zel-
+8a	-lef
+8a	maar
+4.g;}	doen
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

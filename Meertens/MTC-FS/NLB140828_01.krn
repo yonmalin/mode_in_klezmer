@@ -1,0 +1,59 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140828_01
+!! NLB record number: 140828
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{8g	Een
+=1	=1
+8.e	den-
+16g	-ne-
+4.cc	-boom
+8g	stond
+=2	=2
+8.b	in
+16a	het
+4.f;}	dal
+!! verse 1
+{8g	Van
+=3	=3
+8.a	on'-
+16cc	-dren
+4.b	breed
+8f	van
+=4	=4
+8.a	bo-
+16g	-ven
+4.e;}	smal
+!! verse 2
+{8g	Daaar
+=5	=5
+8.e	on-
+16g	-der
+4.cc	zat
+8ee	een
+=6	=6
+8.dd	min-
+16cc	-nend
+4.a;}	paar,
+!! verse 3
+{8dd	dat
+=7	=7
+8.dd	zoo
+16cc	ver-
+4.b	-liefd
+8ee	was
+=8	=8
+8.ee	van
+16dd	el-
+4cc	-kaar.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

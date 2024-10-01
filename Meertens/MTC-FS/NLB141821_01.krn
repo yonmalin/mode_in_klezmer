@@ -1,0 +1,111 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB141821_01
+!! NLB record number: 141821
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{16g	De
+8.g	lief-
+16g	-de
+=1	=1
+4d	is
+8g	won-
+8g	-der-
+4d	-baar
+8g	in
+8a	haar
+=2	=2
+(4b	wer-
+4dd)	.
+8.dd;}	-ken
+!! verse 1
+{16dd	Bij-
+8cc	-zon-
+8b	-der-
+=3	=3
+4.a	-lijk
+8a	on-
+8a	-der
+8a	het
+8.b	vrouw-
+16cc#	-ge-
+=4	=4
+2dd	-slacht
+4r;}	.
+!! verse 2
+{4dd	Een
+=5	=5
+4b	stuk
+4dd	weer-
+8b	-dig
+8b	om
+8b	te
+8b	be-
+=6	=6
+(4cc	-mer-
+4ee)	.
+8ee;}	-ken
+!! verse 3
+{8dd	Dat
+8cc	heb-
+8b	-ben
+=7	=7
+4.a	wij
+8a	hier
+8a	in
+8a	dees
+8b	lied
+8cc#	ge-
+=8	=8
+2dd	-bracht
+4r;}	.
+!! verse 4
+{4dd	Ee-
+=9	=9
+4.b	-ne
+8b	sol-
+8b	-daat
+8b	schoon
+8b	van
+8b	ge-
+=10	=10
+(4cc	-slach-
+4ee)	.
+8ee;}	-te
+!! verse 5
+{8dd	Ee-
+8cc	-ne
+8b	sol-
+=11	=11
+[2a	-daat
+8a]	.
+8a	schoon
+8b	van
+8cc	ge-
+=12	=12
+2ee	-slach-
+8dd;}	-te
+!! verse 6
+{8cc	stond
+8b	bij
+8a	den
+=13	=13
+4g	ge-
+4b	-ne-
+8dd	-raal
+8dd	zoo
+8cc	me-
+8cc	-nig
+=14	=14
+4b	nacht
+4dd	op
+8.b;}	wacht
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

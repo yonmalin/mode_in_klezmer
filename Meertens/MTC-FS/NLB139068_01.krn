@@ -1,0 +1,83 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB139068_01
+!! NLB record number: 139068
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*d:dor	*
+!! verse 0
+=1	=1
+{(8c	Wel
+8d)	.
+8e	vrien-
+8f	-den,
+4g	blijft
+(8f	wat
+8g)	.
+=2	=2
+*M2/4	*
+2d;}	staan
+!! verse 1
+=3	=3
+*M4/4	*
+{4f	En
+8f	hoort
+8g	dit
+4a	lied
+4g	eens
+=4	=4
+*M2/4	*
+2e;}	aan,
+!! verse 2
+=5	=5
+*M4/4	*
+{4d	't Geen
+8d	ik
+8e	u
+4f	zal
+4d	ver-
+=6	=6
+*M2/4	*
+4c	-kla-
+4A;}	-ren,
+!! verse 3
+=7	=7
+*M4/4	*
+{4a	Hoe
+8a	dat
+8g	een
+8f	schoon
+8e	ma-
+4d;}	-dam
+!! verse 4
+=8	=8
+{8g	Bui-
+8a	-ten
+8f	Na-
+8e	-men
+8f	is
+8g	ge-
+(8a	-va-
+8g)	.
+=9	=9
+*M2/4	*
+2e;}	-ren,
+!! verse 5
+=10	=10
+*M4/4	*
+{4g	Die
+8a	om
+8g	ver-
+4d	-maak
+(8f	daar
+8g)	.
+=11	=11
+*M2/4	*
+2d;}	kwam.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ExcelProcessingDefaults-beginSignatureRangeTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-beginSignatureScriptTextView</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-endSignatureRangeTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-endSignatureScriptTextView</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-fileNameTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-scoreLeftEdgeTextField</key>
+	<string>A1</string>
+	<key>ExcelProcessingDefaults-scoreRangeTextField</key>
+	<string>A1:Z100</string>
+	<key>ExcelProcessingDefaults-scoreScriptTextView</key>
+	<string></string>
+	<key>NLBController-incipitNormTextField</key>
+	<string></string>
+	<key>NLBController-melodyNormTextField</key>
+	<string></string>
+	<key>NLBController-recordIDTextField</key>
+	<string>134765</string>
+	<key>NLBController-tagsTextField</key>
+	<string></string>
+	<key>SignatureController-encoderNameTextField</key>
+	<string></string>
+	<key>SignatureController-footerTextView</key>
+	<string>\markup { \wordwrap-string #" 
+1) No notation as triplet in original.
+
+2) No dot in original.
+
+3) c sharp in original.
+
+The dots aren't put consequently correct - they are both incorrectly omitted in eight-sixtheenth combinations and put in quarter-eight combinations.
+"}</string>
+	<key>SignatureController-hasChangesWithRespectToTranscriptionSwitch</key>
+	<false/>
+	<key>SignatureController-headerTextView</key>
+	<string></string>
+	<key>SignatureController-isEachPhraseNewStaffSwitch</key>
+        <true/>
+	<key>SignatureController-isMeterInvisibleSwitch</key>
+	<false/>
+	<key>SignatureController-isMultiVoiceDocumentSwitch</key>
+	<false/>
+	<key>SignatureController-keyTextField</key>
+	<string>d \major</string>
+	<key>SignatureController-partialTextField</key>
+	<string>8*1</string>
+	<key>SignatureController-relativeTextField</key>
+	<string>g'</string>
+	<key>SignatureController-stropheNumberTextField</key>
+	<string>1</string>
+	<key>SignatureController-tempoTextField</key>
+	<string>4=120</string>
+	<key>SignatureController-timeTextField</key>
+	<string>6/8</string>
+	<key>SignatureController-titleTextField</key>
+	<string>96</string>
+	<key>SignatureController-updateTextViewsWhenFieldChangedSwitch</key>
+	<true/>
+	<key>TextProcessingDefaults-beginSignatureTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-commentTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-endSignatureTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-inputTextView</key>
+	<string>\times 2/3 { a16^"1)" b cis } d4 a8 b a g fis4 d8 d4 \sb d'8 d4 e8 fis4 g8 a8. b16 a8 a8. b,16 cis8 d4 a8 b8. a16 g8 fis4 d8 d4 \sb cis'8 d8.^"2)" e16 d cis b8. a16 gis8 a4.~ a4 \bar ":|:"
+
+b8 e8. d16 e8 b8. cis16 d8 cis4. a4 \sb e'8 a8. g16 a8 e8. fis16 g8 fis4.^\trill d4 a'8 b8. a16 b8 e,8. fis16 g8 a8. g16 a8 d,8. \sb e16 fis8 g8. a16 fis8 e8. d16 cis8 d2.^"3)" \bar "|."</string>
+	<key>version</key>
+	<string>1.12</string>
+</dict>
+</plist>

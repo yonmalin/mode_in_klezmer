@@ -1,0 +1,52 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070800_01
+!! NLB record number: 70800
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-e-]	*
+*g:	*
+!! verse 0
+{8dd	O
+=1	=1
+4.dd	dag,
+8dd	o
+4.ee-	lang
+8dd	ge-
+=2	=2
+4.cc	-wens-
+8b-	-te
+4a;}	dag
+!! verse 1
+{8a	't Geen
+8b-	daar
+=3	=3
+4.cc	me-
+8cc	-nig
+4dd	mens
+(8dd	naar
+8cc)	.
+=4	=4
+4b-	wen-
+4g	-sen
+4g	mag
+8r;}	.
+!! verse 2
+{8d	Ons
+=5	=5
+4g	scheep-
+4a	-jes
+4dd	ko-
+4cc	-men
+=6	=6
+(8b-	bin-
+8g	.
+4b-)	.
+4g	-nen.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

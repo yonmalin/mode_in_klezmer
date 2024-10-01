@@ -1,0 +1,112 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070277_01
+!! NLB record number: 70277
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8.g	Bruid
+16a	ik
+8.b	heb
+16cc	je
+=2	=2
+8.ee	meer
+16dd	ge-
+4dd	-zien
+=3	=3
+8.dd	meer
+16cc	ge-
+4cc	-zien
+=4	=4
+8.cc	meer
+16b	ge-
+4b;}	-zien
+!! verse 1
+=5	=5
+{8.g	Daar-
+16a	-om
+8.b	wil
+16cc	'k je
+=6	=6
+(2dd	prij-
+=7	=7
+2cc#)	.
+=8	=8
+4..dd;}	-zen
+!! verse 2
+{16dd	En
+=9	=9
+8.g	zet
+16a	het
+8.b	gla-
+16cc	-sie
+=10	=10
+8.ee	aan
+16dd	je
+4dd	mond,
+=11	=11
+8.dd	aan
+16cc	je
+4cc	mond,
+=12	=12
+8.cc	aan
+16b	je
+4b;}	mond
+!! verse 3
+=13	=13
+{8.g	Druk
+16a	het
+8.b	leeg
+16cc	tot
+=14	=14
+2dd	aan
+=15	=15
+2cc#	de
+=16	=16
+4dd;}	grond
+!! verse 4
+{4a	van
+=17	=17
+*M3/4	*
+12b	dril-
+12b	-le-
+12b	-me
+4..a	dril
+16a	van
+=18	=18
+12b	dril-
+12b	-le-
+12b	-me-
+4..a	-dril
+16a	van
+=19	=19
+*M2/4	*
+12b	dril-
+12b	-le-
+12b	-me
+12cc#	dril-
+12cc#	-le-
+12cc#	-me
+=20	=20
+4dd;}	dril
+!! verse 5
+{4gg	van
+=21	=21
+12ff#	dril-
+12ff#	-le-
+12ff#	-me
+12ee	dril-
+12ee	-le-
+12ee	-me
+=22	=22
+4dd	dril
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

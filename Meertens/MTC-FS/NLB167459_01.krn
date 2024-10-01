@@ -1,0 +1,100 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB167459_01
+!! NLB record number: 167459
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#c#g#]	*
+*A:	*
+!! verse 0
+=1	=1
+{2a	Bo-
+2cc#	-na
+=2	=2
+2f#	nox,
+2r;}	.
+!! verse 1
+=3	=3
+{4b	Bist
+4cc#	a
+4dd	rech-
+4b	-ter
+=4	=4
+2cc#	Ochs:
+4r;}	.
+!! verse 2
+{8ee	Bo-
+8dd	-na
+=5	=5
+4cc#	no-
+4a	-te
+4r;}	.
+!! verse 3
+{8a	Lie-
+8cc#	-be
+=6	=6
+4dd	Lot-
+4ff#	-te
+4r;}	.
+!! verse 4
+{4dd	Bonn'
+=7	=7
+2e	nuit
+4r;}	.
+!! verse 5
+{4ee	Pfui
+=8	=8
+4ee	pfui
+(8ee	Good-
+8dd)	.
+4cc#	-night,
+(8cc#	goo-
+8b)	.
+=9	=9
+4a;}	-night
+!! verse 6
+{4cc#	Heut
+4a	muss
+8f#	man
+8a	so
+=10	=10
+4b;}	weit
+!! verse 7
+{8b	Gu-
+8cc#	-te
+4dd	Nacht,
+8b	Gu-
+8a	-te
+=11	=11
+4g#;}	nacht
+!! verse 8
+{8a	Mar-
+8a	-schin's
+4b	Bett,
+4g#	Gibt's
+=12	=12
+4a	kracht!
+8cc#	Gu-
+8cc#	-te
+4a	Nacht!
+4r;}	.
+!! verse 9
+=13	=13
+{2a	Schlaf
+2f#	sei
+=14	=14
+2d	g'sund,
+2B	Und
+=15	=15
+4e	werd
+4c#	recht
+4B	ku-
+4e	-gel-
+=16	=16
+2A;}	-rund!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

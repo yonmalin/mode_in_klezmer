@@ -1,0 +1,100 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB148546_01
+!! NLB record number: 148546
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8a	Daar
+8b	spruit
+8cc	e
+=1	=1
+4dd	bloemp-
+8cc	-tjen
+8b	al
+=2	=2
+8cc	uit
+8dd	den
+4b	dauw,
+=3	=3
+8r;}	.
+!! verse 1
+{8a	Daar
+8b	spruit
+8cc	e
+=4	=4
+4dd	bloemp-
+8cc	-tjen
+8b	al
+=5	=5
+8cc	uit
+8dd	den
+4b	dauw,
+=6	=6
+8r;}	.
+!! verse 2
+{8b	Van
+8.dd	on-
+16dd	-der
+=7	=7
+8.dd	breed,
+16ee	van
+8.dd	bo-
+16cc	-ven
+=8	=8
+4b	smal,
+8r;}	.
+!! verse 3
+{[8b	Ei
+=9	=9
+8.b]	.
+16b	sa-
+8.b	-sa!
+16dd	cou-
+=10	=10
+12dd	-ra-
+12cc	-ge
+12b	vi-
+4a	-va!
+=11	=11
+8r;}	.
+!! verse 4
+{8b	Van
+8.dd	on-
+16dd	-der
+=12	=12
+8.dd	breed,
+16ee	van
+8.dd	bo-
+16cc	-ven
+=13	=13
+4b	smal,
+8r;}	.
+!! verse 5
+{8dd	Au-
+=14	=14
+4dd	-ro-
+8cc	-ra
+8cc	vi-
+=15	=15
+4b	-va!
+8r;}	.
+!! verse 6
+{8b	Au-
+=16	=16
+4b	-ro-
+8a	-ra
+8a	vi-
+=17	=17
+4g	-va!
+4r	.
+=18	=18
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

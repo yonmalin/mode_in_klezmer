@@ -1,0 +1,1772 @@
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*staff1
+*IPiano	*IPiano	*IPiano
+*clefF4	*clefF4	*clefF4
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*M4/4	*M4/4	*M4/4
+=1	=1	=1
+!Tempo Marking: Anime et tumultueux	!Tempo Marking: Anime et tumultueux	!Tempo Marking: Anime et tumultueux
+2FFF#	(16.FFF#LL	pp
+.	32DDkJJ	.
+.	32AALLL	.
+.	32Cn	.
+.	32F#	.
+.	32AJJJ	.
+.	32cnLLL	.
+.	32d	.
+.	32c	.
+.	32A	.
+.	32F#	.
+.	32C	.
+.	32AA	.
+.	32DDJJJ)	.
+2FFF#	(16.FFF#LL	.
+.	32DDkJJ	.
+.	32AALLL	.
+.	32C	.
+.	32F#	.
+.	32AJJJ	.
+.	32cLLL	.
+.	32d	.
+.	32c	.
+.	32A	.
+.	32F#	.
+.	32C	.
+.	32AA	.
+.	32DDJJJ)	.
+=2	=2	=2
+2FFF#	(16.FFF#LL	.
+.	32DDkJJ	.
+.	32AALLL	.
+.	32Cn	.
+.	32F#	.
+.	32AJJJ	.
+.	32cnLLL	.
+.	32d	.
+.	32c	.
+.	32A	.
+.	32F#	.
+.	32C	.
+.	32AA	.
+.	32DDJJJ)	.
+2FFF#	(16.FFF#LL	.
+.	32DDkJJ	.
+.	32AALLL	.
+.	32C	.
+.	32F#	.
+.	32AJJJ	.
+.	32cLLL	.
+.	32d	.
+.	32c	.
+.	32A	.
+.	32F#	.
+.	32C	.
+.	32AA	.
+.	32DDJJJ)	.
+=3	=3	=3
+*	*^	*
+2FFF#	(16.FFF#LL	4ryy	.
+.	32DDkJJ	.	.
+.	32AALLL	.	.
+.	32Cn	.	.
+.	32F#	.	.
+.	32AJJJ	.	.
+!	!	!Expression: m.g.	!
+.	32cnLLL	8e-~	.
+.	32d	.	.
+.	32c	.	.
+.	32A	.	.
+.	32F#	8ryy	.
+.	32C	.	.
+.	32AA	.	.
+.	32DDJJJ)	.	.
+2FFF#	(16.FFF#LL	4ryy	.
+.	32DDkJJ	.	.
+.	32AALLL	.	.
+.	32C	.	.
+.	32F#	.	.
+.	32AJJJ	.	.
+.	.	(<32qqa-/LLL	.
+.	.	32qqg-/JJJ	.
+.	32cLLL	8e-X~)	.
+.	32d	.	.
+.	32c	.	.
+.	32A	.	.
+.	32F#	8r	.
+.	32C	.	.
+.	32AA	.	.
+.	32DDJJJ)	.	.
+=4	=4	=4	=4
+2FFF#	(16.FFF#LL	4ryy	.
+.	32DDkJJ	.	.
+.	32AALLL	.	.
+.	32Cn	.	.
+.	32F#	.	.
+.	32AJJJ	.	.
+.	32cnLLL	8e-~	.
+.	32d	.	.
+.	32c	.	.
+.	32A	.	.
+.	32F#	8ryy	.
+.	32C	.	.
+.	32AA	.	.
+.	32DDJJJ)	.	.
+2FFF#	(16.FFF#LL	4ryy	.
+.	32DDkJJ	.	.
+.	32AALLL	.	.
+.	32C	.	.
+.	32F#	.	.
+.	32AJJJ	.	.
+.	.	(<32qqa-/LLL	.
+.	.	32qqg-/JJJ	.
+.	32cLLL	8e-X~)	.
+.	32d	.	.
+.	32c	.	.
+.	32A	.	.
+.	32F#	8r	.
+.	32C	.	.
+.	32AA	.	.
+.	32DDJJJ)	.	.
+*	*v	*v	*
+=5	=5	=5
+*^	*	*
+1FFF#	4ryy	(16.FFF#LL	<
+.	.	32DDkJJ	.
+.	.	48AALLL	.
+.	.	48Cn	.
+.	.	48F#	.
+.	.	48A	.
+.	.	48cn	.
+.	.	48dJJJ	.
+*	*	*clefG2	*
+.	32ryy	32a-LLL	.
+.	32ryy	32g-	.
+.	32ryy	32e	.
+.	32r	32dd	.
+.	8r	32ccn	.
+.	.	32an	.
+.	.	32f#	.
+.	.	32cnJJJ	.
+.	2r	32aa-LLL	.
+.	.	32gg-	.
+.	.	32ee-	.
+.	.	32ddd	.
+.	.	32cccn	.
+.	.	32aan	.
+.	.	32ff#	.
+.	.	32ccnJJJ	.
+*	*	*8va	*
+.	.	32aaa-LLL	.
+.	.	32ggg-	.
+.	.	32eee-	.
+!	!	!	!Dynamic Expression: molto
+.	.	32dddd	.
+.	.	32ccccn	.
+.	.	32aaan	.
+.	.	32fff-	.
+.	.	32cccnJJJ	.
+*	*	*X8va	*
+*v	*v	*	*
+=6	=6	=6
+4ryy	32aa-LLL	[
+.	32gg-	.
+.	32ee-	.
+.	32ddd	.
+.	32cccn	.
+.	32aan	.
+.	32ff#	.
+.	32ccnJJJ	.
+4ryy	32a-LLL	.
+.	32g-	.
+.	32e-	.
+.	32dd	.
+.	32ccn	.
+.	32an	.
+.	32f#	.
+.	32cnJJJ	.
+*clefF4	*clefF4	*
+32ryy	32A-LLL	>
+32ryy	32G-	.
+32ryy	32E-JJJ	.
+32ryy	32dLLL	.
+8ryy	32cn	.
+.	32An	.
+.	32F#	.
+.	32CnJJJ	.
+4ryy	32AA-LLL	.
+.	32GG-	.
+.	32EE-	.
+.	32DJJ	.
+.	48CnLL	.
+.	48AAn	.
+.	48FF#	.
+.	48CCn	.
+.	48DD	.
+.	48CCnJJJ)	]
+=7	=7	=7
+(<4FFF#l	4r	pp
+4CC#j)	[2.FF#~ [2.AA# [2.C# [2.F#	p
+(<4FFF#l	.	.
+4CC#j)	.	.
+=8	=8	=8
+(>8FFF#lL	(>4FF#] 4AA#] 4C#] 4F#]	<
+8CC#jJ	.	.
+8EE-lL	4E- 4Gn 4B- 4e-	.
+8BB-jJ	.	.
+8AAlL	4A 4c#X 4en 4a	.
+8EnjJ	.	.
+8BB-lL	4E- 4G 4B- 4e-X	[>
+8EE-jJ	.	.
+=9	=9	=9
+8FFF#lL	4FF#) 4AA#X 4C# 4F#	]
+8CC#)jJ	.	.
+(<4EE-l	(>2E- 2Gn 2B- 2e-	>
+4BB-j	.	.
+8AAlL	4A) 4c# 4en 4a	]
+8En)jJ	.	.
+=10	=10	=10
+(<32qqc#^\LLL	.	sfz<
+32qqF#\	.	.
+32qqC#\	.	.
+32qqGGn/	.	[
+32qqFF#/	.	.
+32qqCC#/JJJ	.	.
+(4FFF#l)	2r	p
+4GGGnj)	.	>
+*	*clefG2	*
+!	!Expression: plaintif et lointain	!
+(<4FFF#l	(>[2c#X~ [2d [2cc#X [2dd	]pp
+4GGGj)	.	.
+=11	=11	=11
+(>2FFF#l	4c#] 4d] 4cc#] 4dd]	.
+.	[2Gn [2A [2gn [2a	.
+2GGGnj	.	.
+.	8.GL] 8.A] 8.g] 8.a]	.
+.	16fnJk 16gn 16ffn 16ggn	.
+=12	=12	=12
+2FFF#l	4c# 4d#X 4cc# 4dd#X	.
+.	2Gn 2A 2gn 2a	>
+2GGGn)j	.	.
+*	*clefF4	*
+.	4C#) 4D#X 4c# 4d#X	]
+=13	=13	=13
+(<32qqc#^\LLL	.	sfz<
+32qqF#\	.	.
+32qqC#\	.	.
+32qqGGn/	.	[
+32qqFF#/	.	.
+32qqCC#/JJJ	.	.
+2FFF#l)	4r	.
+!	!	!Dynamic Expression: piu
+.	(>[2.GGn [2.AA [2.Gn [2.A	pp
+2GGGnj	.	]
+=14	=14	=14
+2FFF#l	2GGn] 2AA] 2Gn] 2A]	>
+2GGGnj)	2CC#) 2DD# 2C# 2D#	.
+=15	=15	=15
+*^	*	*
+!Tempo Marking: Commencer un peu au-dessous du mouvt	!Tempo Marking: Commencer un peu au-dessous du mouvt	!Tempo Marking: Commencer un peu au-dessous du mouvt	!Tempo Marking: Commencer un peu au-dessous du mouvt
+!Expression: un peu marque	!	!	!
+8rEE	(<[4.FFF#~	8r	]pp
+8BBB#'L	.	(<24BB#LL	.
+.	.	24AA	.
+.	.	24EE#)	.
+8CC#'J	.	(<24C#	.
+.	.	24AA#	.
+.	.	24FF#JJ)	.
+8DD'L	8FFF#_	(<24DLL	<
+.	.	24BBn	.
+.	.	24GGn)	.
+8DD#'	8..FFF#L]	(<24D#	.
+.	.	24BB#	.
+.	.	24GG#)	.
+8EEn'J	.	(<24E	.
+.	.	24C#	.
+.	.	24AAnJJ)	.
+.	32GGGnJkk)	.	.
+8rEE	(<[4.FFF#~	8r	[
+8BBB#'L	.	(<24BB#XLL	pp
+.	.	24AA	.
+.	.	24EE#X)	.
+8CC#'J	.	(<24C#	.
+.	.	24AA#	.
+.	.	24FF#JJ)	.
+8DDn'L	8FFF#L_	(<24DnLL	<
+.	.	24BBn	.
+.	.	24GGn)	.
+8DD#'	8..FFF#]	(<24D#	.
+.	.	24BB#	.
+.	.	24GG#)	.
+8EE'J	.	(<24E	.
+.	.	24C#	.
+.	.	24AAnJJ)	.
+.	32AAA#Jkk)	.	.
+=16	=16	=16	=16
+8rEE	(<[4.FFF#~	8r	[pp
+8BBB#'L	.	(<24BB#LL	.
+.	.	24AA	.
+.	.	24EE#)	.
+8CC#'J	.	(<24C#	.
+.	.	24AA#X	.
+.	.	24FF#JJ)	.
+8DD'L	8FFF#_	(<24DLL	<
+.	.	24BBn	.
+.	.	24GGn)	.
+8DD#'	8..FFF#L]	(<24D#	.
+.	.	24BB#	.
+.	.	24GG#)	.
+8EEn'J	.	(<24E	.
+.	.	24C#	.
+.	.	24AAnJJ)	.
+.	32GGGnJkk)	.	.
+8rEE	2.FFF#~	8r	[
+8BBB#'L	.	(<24BB#XLL	pp
+.	.	24AA	.
+.	.	24EE#X)	.
+8CC#'J	.	(<24C#	.
+.	.	24AA#	.
+.	.	24FF#JJ)	.
+8DDn'L	.	(<24DnLL	<
+.	.	24BBn	.
+.	.	24GGn)	.
+8DD#'	.	(<24D#	.
+.	.	24BB#	.
+.	.	24GG#)	.
+8EE'J	.	(<24E	.
+.	.	24C#	.
+.	.	24AAnJJ)	.
+=17	=17	=17	=17
+*	*	*clefG2	*
+*	*^	*	*
+8r	(<[4.FFF# 4.FF#	8rEE	(<4.F#~ [4.f#	[p<
+24B#LL	.	8BB#'\L	.	.
+24A	.	.	.	.
+24E#	.	.	.	.
+24c#	.	8C#'\J	.	.
+24A#	.	.	.	.
+24F#JJ	.	.	.	.
+24dLL	8FFF#_	8D'\L	8f#_	.
+24Bn	.	.	.	.
+24Gn	.	.	.	.
+24d#	8..FFF#L]	8D#'\	8..f#L]	.
+24B#	.	.	.	.
+24G#	.	.	.	.
+24e	.	8En'\J	.	.
+24c#	.	.	.	.
+24AnJJ	.	.	.	.
+.	32GGGnJkk) 32GGn	.	32GnJkk) 32gn	[
+8r	(<[4.FFF# 4.FF#	8rEE	(<4.F#~ [4.f#	p<
+24B#XLL	.	8BB#'\L	.	.
+24A	.	.	.	.
+24E#	.	.	.	.
+24c#	.	8C#'\J	.	.
+24A#	.	.	.	.
+24F#JJ	.	.	.	.
+24d#LL	8FFF#_	8Dn'\L	8f#_	.
+24Bn	.	.	.	.
+24Gn	.	.	.	.
+24d#	8..FFF#L]	8D#'\	8..f#L]	.
+24B#	.	.	.	.
+24G#	.	.	.	.
+24e	.	8En'\J	.	.
+24c#	.	.	.	.
+24AnJJ	.	.	.	.
+.	32AAA#JKK) 32AA#	.	32A#Jkk) 32a#	[
+=18	=18	=18	=18	=18
+!Tempo Marking: Revenir progressivement au mouvt anime	!Tempo Marking: Revenir progressivement au mouvt anime	!Tempo Marking: Revenir progressivement au mouvt anime	!Tempo Marking: Revenir progressivement au mouvt anime	!Tempo Marking: Revenir progressivement au mouvt anime
+8r	(<[4.FFF# 4.FF#	8rEE	(<4.F#~ [4.f#	p<
+24B#LL	.	8BB#'\L	.	.
+24A	.	.	.	.
+24E#	.	.	.	.
+24c#	.	8C#'\J	.	.
+24A#	.	.	.	.
+24F#JJ	.	.	.	.
+24dLL	8FFF#_	8D'\L	8f#_	.
+24Bn	.	.	.	.
+24Gn	.	.	.	.
+24d#	8..FFF#L]	8D#'\	8..f#L]	.
+24B#	.	.	.	.
+24G#	.	.	.	.
+.	.	.	.	.
+24e	.	8En'\J	.	.
+24c#	.	.	.	.
+24AnJJ	.	.	.	.
+.	32GGGnJkk) 32GGn	.	32c#Jkk) 32cc#	[
+8r	[2FFF# 2FF#	8rEE	[2F#~ 2f#	<
+24B#LL	.	8BB#'\L	.	.
+24A	.	.	.	.
+24E#	.	.	.	.
+24c#	.	8C#'\J	.	.
+24A#	.	.	.	.
+24F#JJ	.	.	.	.
+24d#LL	.	8Dn'\L	.	.
+24Bn	.	.	.	.
+24Gn	.	.	.	.
+24d#	4FFF#] 4FF#	8D#'\	4F#] 4f#	.
+24B#	.	.	.	.
+24G#	.	.	.	.
+24e	.	8En'\J	.	.
+24c#	.	.	.	.
+24AnJJ	.	.	.	.
+=19	=19	=19	=19	=19
+8rCC	4..F# 4..B- 4..e	8ryy	(<4..cn~ 4..f# 4..b- 4..ccn	[mf<
+!Expression: m.d.	!	!	!	!
+(>16CnLL	.	4.FFF#\ 4.FF#	.	.
+32DL	.	.	.	.
+32E	.	.	.	.
+32F#	.	.	.	.
+32A-	.	.	.	.
+32B-	.	.	.	.
+32cn	.	.	.	.
+32d	.	.	.	[
+!Expression: m.g.	!	!	!	!
+32eJJJ)	.	.	.	.
+16ryy	16A- 16cn 16f#	.	16d) 16a 16cc 16dd	[
+8rCC	4..F# 4..B- 4..e	8r	(<4..c#~ 4..f# 4..b- 4..cc	mf<
+(>16CLL	.	4.FFF#\ 4.FF#	.	.
+32DL	.	.	.	.
+32E	.	.	.	.
+32F#	.	.	.	.
+32A-	.	.	.	.
+32B-	.	.	.	.
+32c	.	.	.	.
+32d	.	.	.	[
+32eJJJ)	.	.	.	.
+16ryy	16A- 16c 16f#	.	16e) 16a 16cc 16ee	[
+=20	=20	=20	=20	=20
+8rCC	4..F# 4..B- 4..e	8ryy	(<4..cn~ 4..f# 4..b- 4..ccn	mf<
+(>16CnLL	.	4.FFF#\ 4.FF#	.	.
+32DL	.	.	.	.
+32E	.	.	.	.
+32F#	.	.	.	.
+32A-	.	.	.	.
+32B-	.	.	.	.
+32cn	.	.	.	.
+32d	.	.	.	[
+32eJJJ)	.	.	.	.
+16ryy	16ryy	.	16a-) 16cc 16ee 16aa-	[
+8rCC	4..F# 4..B- 4..e	8r	(<4..c#X~ 4..f# 4..b- 4..cc	mf<
+(>16CLL	.	4.FFF#\ 4.FF#	.	.
+32DL	.	.	.	.
+32E	.	.	.	.
+32F#	.	.	.	.
+32A-	.	.	.	.
+32B-	.	.	.	.
+32c	.	.	.	.
+32d	.	.	.	[
+32eJJJ)	.	.	.	.
+16ryy	16ryy	.	16cc) 16aa- 16ccc#	[
+*	*v	*v	*	*
+=21	=21	=21	=21
+*	*	*^	*
+(>4.A-~^ 4.B- 4.d 4.fn	8r	(>4.b-~^ 4.ddn 4.ffn 4.bb-	24r	f
+.	.	.	(<24B-LL	<
+.	.	.	24b-)	.
+.	[8FFF#Xi [8FF#Xi	.	24b-	.
+.	.	.	24bb-	.
+.	.	.	24bb-JJ	.
+.	2.FFF#] 2.FF#]	.	(<32bbb-LLL	.
+.	.	.	32bb-)	.
+.	.	.	(<32bb-JJJ	.
+.	.	.	32b-)	[
+8F-~^) 8G- 8B-X 8f-	.	8g-~^) 8b-X 8dd- 8gg-	8ryy	.
+8.G-X~^L 8.A-X 8.cn 8.g-	.	8.a-~^L 8.ccn 8.een 8.aa-	2ryy	.
+16A-~^K 16B- 16d 16a-	.	16b-X~^K 16ddn 16ff 16bb-X	.	.
+8B-~^ 8c 8e 8b-	.	8cc~^ 8een 8aa- 8ccc#	.	.
+8G-~^J 8A- 8c 8g-	.	8a-~^J 8cc 8ee- 8aa-	.	.
+=22	=22	=22	=22	=22
+8A-~^L 8B- 8d 8a-	4ryy	8b-~^L 8dd 8ffn 8bb-	4ryy	.
+8E~^J 8F# 8B- 8e	.	8f#X~^J 8b- 8dd 8ff#X	.	.
+2Cn~^^ 2D 2F# 2cn	8rBB	2d~^^ 2f# 2b- 2dd	24re	.
+.	.	.	(<24B-LL	<
+.	.	.	24b-	.
+.	[8FFF# [8FF#	.	24b-	.
+.	.	.	24bb-	.
+.	.	.	24bb-JJ	.
+.	2FFF#] 2FF#]	.	8bbb-')	[
+.	.	.	8rbbb	.
+4E-X~^^ 4Fn 4An 4e-X	.	4fn~^^ 4a 4dd-X 4ffn	4rggg	.
+*	*v	*v	*	*
+*	*	*^	*
+=23||	=23||	=23||	=23||	=23||
+*k[]	*k[]	*k[]	*k[]	*k[]
+1BB-~^^ 1C 1E 1B-	8rGG	1c~^^ 1e 1a- 1cc	24rc	ff
+.	.	.	(<24B-LL	<
+.	.	.	24b-	.
+.	[8FFF# [8FF#	.	24b-	.
+.	.	.	24bb-	.
+.	.	.	24bb-JJ)	.
+.	2.FFF#] 2.FF#]	.	(<24bbb-LL	[>
+.	.	.	24bb-	.
+.	.	.	24bb-	.
+.	.	.	24b-	.
+.	.	.	24b-	.
+.	.	.	24B-JJ)	]
+!	!	!	!Expression: strident	!
+.	.	.	24cLL	.
+.	.	.	24d	.
+.	.	.	24c	.
+.	.	.	24d	.
+.	.	.	24c	.
+.	.	.	24dJJ	.
+.	.	.	24cLL	.
+.	.	.	24d	.
+.	.	.	24c	.
+.	.	.	24d	.
+.	.	.	24c	.
+.	.	.	24dJJ	.
+=24	=24	=24	=24	=24
+1BB-~^^ 1C 1E 1B-	8rGG	1c~^^ 1e 1a- 1cc	24rc	ff
+.	.	.	(<24B-LL	<
+.	.	.	24b-	.
+.	[8FFF# [8FF#	.	24b-	.
+.	.	.	24bb-	.
+.	.	.	24bb-JJ)	.
+.	2.FFF#] 2.FF#]	.	(<24bbb-LL	[>
+.	.	.	24bb-	.
+.	.	.	24bb-	.
+.	.	.	24b-	.
+.	.	.	24b-	.
+.	.	.	24B-JJ)	]
+!	!	!	!Expression: strident	!
+.	.	.	(24cLL	.
+.	.	.	24d	.
+.	.	.	24c	.
+.	.	.	24d	.
+.	.	.	24c	.
+.	.	.	24dJJ	.
+.	.	.	24cLL	.
+.	.	.	24d	.
+.	.	.	24c	.
+.	.	.	24d	.
+.	.	.	24c	.
+.	.	.	24dJJ	.
+*v	*v	*	*	*
+*	*v	*v	*
+=25	=25	=25
+!	!	!Dynamic Expression: dim.
+1ryy	24cLL	.
+.	24d	.
+.	24c	.
+.	24d	.
+.	24c	.
+.	24dJJ	.
+.	24cLL	.
+.	24d	.
+.	24c	.
+!	!	!Dynamic Expression: molto
+.	24d	.
+.	24c	.
+.	24dJJ	.
+.	24cLL	.
+.	24d	.
+.	24c	.
+.	24d	.
+.	24c	.
+.	24dJJ	.
+.	24cLL	.
+.	24d	.
+.	24c	.
+.	24d	.
+.	24c	.
+.	24dJJ)	.
+=26	=26	=26
+!Tempo Marking: Un peu retenu	!Tempo Marking: Un peu retenu	!Tempo Marking: Un peu retenu
+(>16cLL	4.r	p
+16d	.	.
+16c	.	.
+16d	.	.
+16c	.	.
+16dJJ	.	.
+!	!Expression: mais en dehors et angoisse	!
+16cLL	(>4b-'~	p
+16d	.	.
+16c	.	.
+16B-	.	.
+16c	8B-')	.
+16dJJ	.	.
+16cLL	4.r	.
+16d	.	.
+16c	.	.
+16d	.	.
+16c	.	.
+16d	.	.
+16cLL	(<4f#'~	.
+16d	.	.
+16c	.	.
+16F#	.	.
+16c	8F#')	.
+16d)	.	.
+=27	=27	=27
+(>16cLL	2.r	.
+16d	.	.
+16c	.	.
+16d	.	.
+16c	.	.
+16dJJ	.	.
+16cLL	.	.
+16d	.	.
+16c	.	.
+16d	.	.
+16c	.	.
+16dJJ	.	.
+16cLL	4.r	.
+16d	.	.
+16c	.	.
+16d	.	.
+16c	.	.
+16dJJ	.	.
+16cLL	(<4a'~	p<
+16d	.	.
+16c	.	.
+16A	.	.
+16c	8A')	.
+16JJ	.	.
+=28	=28	=28
+(>16cLL	(<4b-'~	.
+16d	.	.
+16c	.	.
+16B-	.	.
+16c	8B-')	.
+16JJ	.	.
+16cLL	(<4f#'~	[
+16d	.	.
+16c	.	.
+16F#	.	.
+16c	8F#')	.
+16dJJ	.	.
+16cLL	4.r	.
+16d	.	.
+16c	.	.
+16d	.	.
+16c	.	.
+16dJJ	.	.
+16cLL	(<4b-'~	p
+16d	.	.
+16c	.	.
+16B-	.	.
+16c	8B-)	.
+16dJJ)	.	.
+=29	=29	=29
+16cLL	(<4bn'~	.
+16d	.	.
+16c	.	.
+16Bn	.	.
+16c	8Bn')	.
+16dJJ	.	.
+16cLL	(<4f#	.
+16d	.	.
+16c	.	.
+16F#	.	.
+16c	8F#)	.
+16dJJ	.	.
+16cLL	4r	p
+16d	.	.
+16c	.	.
+16d	.	.
+16c	2r	.
+16dJJ	.	.
+16cLL	.	.
+16d	.	.
+16c	.	.
+16	.	.
+16c	.	.
+16dJJ	.	.
+=30	=30	=30
+24cLL	1ryy	.
+24d	.	.
+24c	.	.
+24d	.	.
+24c	.	.
+24dJJ	.	.
+24cLL	.	.
+24d	.	.
+24c	.	.
+24d	.	.
+24c	.	.
+24JJ	.	.
+(>32cLLL	.	f<
+32d	.	.
+32c	.	.
+32d	.	.
+32c#	.	.
+32d#	.	.
+32c#	.	.
+32d#JJJ	.	.
+32dnLLL	.	.
+32e	.	.
+32d	.	.
+32e	.	.
+32e-	.	.
+32fnX	.	.
+32e-	.	.
+32fJJJ)	.	.
+=31	=31	=31
+16enLL	(<4dd#'~	[p
+16f#	.	.
+16e	.	.
+16d#	.	.
+16e	8d#)	.
+16f#JJ	.	.
+16eLL	(<4a#~	.
+16f#	.	.
+16e	.	.
+16A#	.	.
+16e	8A#)	.
+16f#JJ	.	.
+16eLL	(<4cc#'~	.
+16f#	.	.
+16e	.	.
+16c#	.	.
+16e	8c#)	.
+16f#JJ	.	.
+16eLL	(<4dd#~	.
+16f#	.	.
+16e	.	.
+16d#	.	.
+16e	8d#)	.
+16f#JJ	.	.
+=32	=32	=32
+*	*^	*
+16eLL	(>4a#~	4.ryy	.
+16f#	.	.	.
+16e	.	.	.
+16A#	.	.	.
+16e	8A#)	.	.
+16f#JJ	.	.	.
+16eLL	(<4cc#yy~	(>2.cc#	<
+16f#	.	.	.
+16e	.	.	.
+16c#	.	.	.
+16e	8c#)	.	.
+16f#JJ	.	.	.
+16eLL	4.ryy	.	.
+16f#	.	.	.
+16e	.	.	.
+16f#	.	.	.
+16e	.	.	.
+16f#JJ	.	.	.
+16eLL	4.ryy	4ddn~)	[
+16f#	.	.	.
+16e	.	.	.
+16d#	.	.	.
+16e	.	8d)	.
+16f#JJ	.	.	.
+*	*v	*v	*
+=33	=33	=33
+*clefG2	*	*
+!Tempo Marking: En serrant et augmentant beaucoup	!Tempo Marking: En serrant et augmentant beaucoup	!Tempo Marking: En serrant et augmentant beaucoup
+16fnLL	4.dd#'~	mf
+16g	.	.
+16f	.	.
+16d#	.	.
+16f	.	.
+16gJJ	.	.
+16f#LL	4.ee'~	.
+16g#	.	.
+16f#	.	.
+16e	.	.
+16f#	.	.
+16g#JJ	.	.
+16gnLL	4.ffn'~	.
+16a	.	.
+16g	.	.
+16fn	.	.
+16g	.	.
+16aJJ	.	.
+16g#LL	4.ff#'~	.
+16a#	.	.
+16g#	.	.
+16f#	.	.
+16g#	.	.
+16a#JJ	.	.
+=34	=34	=34
+16aLL	4.gg'~	.
+16b	.	.
+16a	.	.
+16g	.	.
+16a	.	.
+16bJJ	.	.
+16a#LL	4.gg#'~	.
+16b#	.	.
+16a#	.	.
+16g#	.	.
+16a#	.	.
+16b#JJ	.	.
+16bnLL	4.aa'~	.
+16cc#	.	.
+16b	.	.
+16an	.	.
+16b	.	.
+16cc#JJ	.	.
+16ccnLL	4.bb-'~	.
+16dd	.	.
+16cc	.	.
+16b-	.	.
+16cc	.	.
+16ddJJ	.	.
+=35||	=35||	=35||
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*M3/4	*M3/4	*M3/4
+*	*8va	*
+*^	*	*
+*clefF4	*	*	*
+!Expression: tres en dehors	!	!	!
+4C#'~ 4D# 4c# 4d#	8rGG	(>48cccc#LLL	f
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+.	4BBBB~ 4BBB	(>48cccc#LLL	ff
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+4.GGn'~ 4.AA 4.Gn 4.A	.	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+.	8ryy	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+.	4ryy	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+8Fn'~ 8G 8fn 8gn	.	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+=36	=36	=36	=36
+4C#'~ 4D# 4c# 4d#	8rGG	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+.	4BBBB 4BBB	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+4.GGn'~ 4.AA 4.Gn 4.A	.	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+.	8ryy	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+.	4ryy	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+8Fn'~ 8G 8fn 8gn	.	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+=37	=37	=37	=37
+4C#'~ 4D# 4c# 4d#	8r	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+.	4BBBB 4BBB	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+(>4GGn 4AA 4Gn 4A	.	(>48cccc#LLL	<
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+.	8ryy	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+4Fn) 4G 4fn 4gn	4ryy	(>48cccc#LLL	[
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+.	.	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+*	*	*X8va	*
+=38	=38	=38	=38
+*	*^	*	*
+2.E#	24r	2.DD#~^^\ 2.EE# 2.D#X	2.d#X~^^ 2.e#	ff
+.	48GG#LLL	.	.	p
+.	48BB 48D# 48E#X	.	.	.
+.	48AA#X	.	.	.
+.	48BB 48D# 48F#	.	.	.
+.	48GG#	.	.	.
+.	48BB 48D# 48E#	.	.	.
+.	48AA#	.	.	.
+.	48BB 48D# 48F#	.	.	.
+.	48GG#	.	.	.
+.	48BBJJJ 48D# 48E#	.	.	.
+.	48AA#LLL	.	.	<
+.	48BB 48D# 48F#	.	.	.
+.	48GG#	.	.	.
+.	48BB 48D# 48E#	.	.	.
+.	48AA#	.	.	.
+.	48BB 48D# 48F#	.	.	.
+.	48GG#	.	.	.
+.	48BB 48D# 48E#	.	.	.
+.	48AA#	.	.	.
+.	48BB 48D# 48F#	.	.	.
+.	48GG#	.	.	.
+.	48BBJJJ 48D# 48E#	.	.	[
+.	48C#LLL	.	.	>
+.	48D# 48F# 48A#X	.	.	.
+.	48BB	.	.	.
+.	48D# 48F# 48G#	.	.	.
+.	48AA#	.	.	.
+.	48BB 48D# 48F#	.	.	.
+.	48GG#	.	.	.
+.	48BB 48D# 48E#	.	.	.
+.	48C#	.	.	.
+.	48D# 48F# 48A#	.	.	.
+.	48BB	.	.	.
+.	48D#JJJ 48E# 48G#	.	.	]
+*v	*v	*	*	*
+=39	=39	=39	=39
+4C#'~ 4D# 4c# 4d#	8rGG	(>48ccc#LLL	f
+*	*	*8va	*
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+.	4BBBB 4BBB	(>48cccc#LLL	ff
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+4.GGn'~ 4.AA 4.Gn 4.A	.	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+.	8ryy	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+.	4ryy	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+8Fn'~ 8G 8fn 8g#	.	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+=40	=40	=40	=40
+4C#'~ 4D# 4c# 4d#	8r	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+.	4BBBB 4BBB	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+4.GGn 4.AA 4.Gn 4.A	.	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+.	8ryy	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+.	4ryy	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+8Fn'~ 8G 8fn 8gn	.	(>48cccc#LLL	.
+.	.	48ccc#	.
+.	.	48ccc#	.
+.	.	48cc#	.
+.	.	48ccc#	.
+.	.	48ccc#JJJ)	.
+*v	*v	*	*
+=41	=41	=41
+4C#'~ 4D# 4c# 4d#	(>48cccc#LLL	.
+.	48ccc#	.
+.	48ccc#	.
+.	48cc#	.
+.	48ccc#	.
+.	48ccc#JJJ)	.
+.	(>48cccc#LLL	.
+.	48ccc#	.
+.	48ccc#	.
+.	48cc#	.
+.	48ccc#	.
+.	48ccc#JJJ)	.
+(>4GGn'~ 4AA 4Gn 4A	(>48cccc#LLL	<
+.	48ccc#	.
+.	48ccc#	.
+.	48cc#	.
+.	48ccc#	.
+.	48ccc#JJJ)	.
+.	(>48cccc#LLL	.
+.	48ccc#	.
+.	48ccc#	.
+.	48cc#	.
+.	48ccc#	.
+.	48ccc#JJJ)	.
+4Fn'~) 4G 4fn 4gn	(>48cccc#LLL	[
+.	48ccc#	.
+.	48ccc#	.
+.	48cc#	.
+.	48ccc#	.
+.	48ccc#JJJ)	.
+.	(>48cccc#LLL	.
+.	48ccc#	.
+.	48ccc#	.
+.	48cc#	.
+.	48ccc#	.
+*	*X8va	*
+.	48cc#JJJ)	.
+=42	=42	=42
+*^	*	*
+*	*^	*	*
+2.E#	24r	2.DD#~^^\ 2.EE# 2.D#	2.d#X~^^ 2.e#X	ff
+.	48GG#LLL	.	.	p
+.	48BB 48D# 48E#X	.	.	.
+.	48AA#X	.	.	.
+.	48BB 48D# 48F#	.	.	.
+.	48GG#	.	.	.
+.	48BB 48D# 48E#	.	.	.
+.	48AA#	.	.	.
+.	48BB 48D# 48F#	.	.	.
+.	48GG#	.	.	.
+.	48BBJJJ 48D# 48E#	.	.	.
+.	48AA#LLL	.	.	<
+.	48BB 48D# 48F#	.	.	.
+.	48GG#	.	.	.
+.	48BB 48D# 48E#	.	.	.
+.	48AA#	.	.	.
+.	48BB 48D# 48F#	.	.	.
+.	48GG#	.	.	.
+.	48BB 48D# 48E#	.	.	.
+.	48AA#	.	.	.
+.	48BB 48D# 48F#	.	.	.
+.	48GG#	.	.	.
+.	48BBJJJ 48D# 48E#	.	.	[
+.	48C#LLL	.	.	>
+.	48D# 48F# 48A#X	.	.	.
+.	48BB	.	.	.
+.	48D# 48F# 48G#	.	.	.
+.	48AA#	.	.	.
+.	48BB 48D# 48F#	.	.	.
+.	48GG#	.	.	.
+.	48BB 48D# 48E#	.	.	.
+.	48C#	.	.	.
+.	48D# 48F# 48A#	.	.	.
+.	48BB	.	.	.
+.	48D#JJJ 48E# 48G#	.	.	]
+*	*v	*v	*	*
+=43||	=43||	=43||	=43||
+*	*	*clefF4	*
+*M4/4	*M4/4	*M4/4	*M4/4
+!Tempo Marking: Quarter = Eighth	!Tempo Marking: Quarter = Eighth	!Tempo Marking: Quarter = Eighth	!Tempo Marking: Quarter = Eighth
+!	!Expression: non legato	!	!
+1DD#X^	24AA#LL	1ryy	p
+.	24BB 24D# 24F#	.	.
+.	24GG#	.	.
+.	24BB 24D# 24E#	.	.
+.	24FF#	.	.
+.	24BBJJ 24D# 24A#	.	.
+.	24EE#LL	.	.
+.	24BB 24D# 24G#	.	.
+.	24AA#	.	.
+.	24BB 24D# 24F#	.	.
+.	24GG#	.	.
+.	24BBJJ 24D# 24E#	.	.
+.	24C#LL	.	.
+.	24D# 24F# 24A#	.	.
+.	24BB	.	.
+.	24D# 24F# 24G#	.	.
+.	24AA#	.	.
+.	24D#JJ 24F# 24c#	.	.
+.	24GG#LL	.	.
+.	24D# 24F# 24B	.	.
+.	24C#	.	.
+.	24D# 24F# 24A#	.	.
+.	24BB	.	.
+.	24D#JJ 24F# 24G#	.	.
+*v	*v	*	*
+=44	=44	=44
+*	*clefG2	*
+!Tempo Marking:peu a peu cresc. en serrant	!Tempo Marking:peu a peu cresc. en serrant	!Tempo Marking:peu a peu cresc. en serrant
+1D#^	24A#LL	.
+.	24B 24d# 24f#	.
+.	24G#	.
+.	24B 24d# 24e#	.
+.	24F#	.
+.	24BJJ 24d# 24a#	.
+.	24E#LL	.
+.	24B 24d# 24g#	.
+.	24A#	.
+.	24B 24d# 24f#	.
+.	24G#	.
+.	24BJJ 24d# 24e#	.
+.	24c#LL	.
+.	24d# 24f# 24a#	.
+.	24B	.
+.	24d# 24f# 24g#	.
+.	24A#	.
+.	24d#JJ 24f# 24cc#	.
+.	24G#LL	.
+.	24d# 24f# 24b	.
+.	24c#	.
+.	24d# 24f# 24a#	.
+.	24B	.
+.	24d#JJ 24f# 24g#	.
+=45	=45	=45
+*clefG2	*	*
+1d#^	24a#LL	.
+.	24b 24dd# 24ff#	.
+.	24g#	.
+.	24b 24dd# 24ee#	.
+.	24f#	.
+.	24bJJ 24dd# 24aa#	.
+.	24e#LL	.
+.	24b 24dd# 24gg#	.
+.	24a#	.
+.	24b 24dd# 24ff#	.
+.	24g#	.
+.	24bJJ 24dd# 24ee#	.
+.	24cc#LL	.
+.	24dd# 24ff# 24aa#	.
+.	24b	.
+.	24dd# 24ff# 24gg#	.
+.	24a#	.
+.	24dd#JJ 24ff# 24ccc#	.
+.	24g#LL	.
+.	24dd# 24ff# 24bb	.
+.	24cc#	.
+.	24dd# 24ff# 24aa#	.
+.	24b	.
+.	24dd#JJ 24ff# 24gg#	.
+=46	=46	=46
+1ryy	24b#LL	f
+.	24cc# 24ee# 24gg# 24ccc#	.
+.	24cc#	.
+!	!	!Dynamic Expression: cresc.
+.	24dd 24ff# 24aa 24ddd	.
+.	24dd	.
+.	24dd#JJ 24ff## 24aa# 24ddd#	.
+.	24dd#XLL	.
+.	24een 24gg# 24bb 24eee	.
+.	24ee	.
+!	!	!Dynamic Expression: molto
+.	24ffn 24aa# 24cccn 24fffn	.
+.	24ffn	.
+.	24ff#JJ 24aa#X 24ccc# 24fff#	.
+*	*8va	*
+.	24ff#XLL	.
+.	24ggn 24bbn 24dddn 24gggn	.
+.	24ggn	.
+.	24gg# 24bb# 24ddd# 24ggg#	.
+.	24gg#X	.
+.	24aaJJ 24ccc# 24eee 24aaan	.
+.	24aaLL	.
+.	24aa# 24ccc## 24eee# 24aaa#	.
+.	24aa#X	.
+.	24bbn 24ddd#X 24fff# 24bbbn	.
+.	24bb	.
+.	24cccnJJ 24eee# 24gggn 24ccccn	.
+=47	=47	=47
+!Expression: en dehors	!	!
+4.f##'~ 4.a# 4.cc# 4.dd#	(>32dddd#LLL	f
+.	32ddd#	.
+.	32dddd#	.
+.	32ddd#	.
+.	32dddd#	.
+.	32ddd#	.
+.	32dddd#	.
+.	32ddd#JJJ	.
+.	32dddd#LLL	.
+.	32ddd#	.
+.	32dddd#	.
+.	32ddd#	.
+8d#'~ 8f# 8an 8b	32dddd#	.
+.	32ddd#	.
+.	32dddd#	.
+.	32ddd#JJJ	.
+(<8.e#'~L 8.g# 8.b 8.cc#	32dddd#LLL	.
+.	32ddd#	.
+.	32dddd#	.
+.	32ddd#	.
+.	32dddd#	.
+.	32ddd#	.
+16f#K) 16a 16b 16dd#	32dddd#	.
+.	32ddd#JJJ	.
+8g#'~ 8b 8cc# 8ee#	32dddd#LLL	.
+.	32ddd#	.
+.	32dddd#	.
+.	32ddd#	.
+8e#'~J 8g# 8b 8cc#	32dddd#	.
+.	32ddd#	.
+.	32dddd#	.
+.	32ddd#JJJ)	.
+=48	=48	=48
+8f#'~L 8a 8b 8dd#	(>32dddd#LLL	.
+.	32ddd#	.
+.	32dddd#	.
+.	32ddd#	.
+8d#X'~J 8f# 8a 8b	32dddd#	.
+.	32ddd#	.
+.	32dddd#	.
+.	32ddd#JJJ)	.
+(<2B~^^ 2dn 2fn 2gn	(>32ggggn^LLL	sff
+.	32gggn	.
+.	32gggg	.
+.	32ggg	.
+.	32gggg	.
+.	32ggg	.
+.	32gggg	.
+.	32gggJJJ	.
+.	32ggggLLL	.
+.	32ggg	.
+.	32gggg	.
+.	32ggg)	.
+.	(>32ffff#^	.
+.	32fff#	.
+.	32ffff#	.
+.	32fff#JJJ)	.
+8e#L 8g# 8b 8cc#	(>32ffffn^LLL	.
+.	32fffn	.
+.	32ffff	.
+.	32fff)	.
+8a#J) 8cc# 8een 8ff#	(>32eeee^	.
+.	32eee	.
+.	32eeee	.
+.	32eeeJJJ)	.
+=49	=49	=49
+*^	*	*
+!	!	!	!Dynamic Expression: piu
+8f## 8a# 8cc# 8dd#	4rc	(>32dddd#LLL	f
+.	.	32ddd#)	.
+*	*	*X8va	*
+.	.	(>32ddd#	.
+.	.	32dd#JJJ)	.
+*clefF4	*	*	*
+(>4F##~^^ 4A# 4c# 4d#	.	(<4f##~^^ 4a# 4cc# 4dd#	ff
+.	2.DDD#X~^^ 2.DD#X	.	ff
+8D#) 8F# 8An 8B	.	8d#) 8f# 8an 8b	.
+8.E#L 8.G# 8.B 8.c#	.	8.e#L 8.g# 8.b 8.cc#	.
+16F#K 16A 16B 16d#	.	16f#K 16a 16b 16dd#	.
+8G# 8B 8c# 8e#	.	8g# 8b 8cc# 8ee#	.
+8E#J 8G# 8B 8c#	.	8e#J 8g# 8b 8cc#	.
+=50	=50	=50	=50
+*	*	*^	*
+8F#L 8A 8c# 8d#	4rBByy	8f#L 8a 8b 8dd#	4ryy	.
+8D#J 8F# 8A 8B	.	8d#J 8f# 8a 8b	.	.
+(>2BB 2Dn 2Fn 2Gn	8ryy	(>2B~^^ 2dn 2fn 2gn	24rc	.
+.	.	.	(<24d#LL	<
+.	.	.	24dd#)	.
+!	!Dynamic Marking: ff	!	!	!
+.	4.DDD#~^^ 4.DD#	.	(<24dd#	.
+.	.	.	24ddd#)	.
+.	.	.	(<24ddd#JJ	.
+*	*	*	*8va	*
+.	.	.	16dddd#')	[
+*	*	*	*X8va	*
+.	.	.	16r	.
+.	.	.	8r	.
+4C#) 4E 4G#X 4A#	4ryy	4c#) 4e 4g# 4a#	4ryy	.
+*v	*v	*	*	*
+=51	=51	=51	=51
+(>2.AAn~^^ 2.BB 2.D# 2.E#	(>2.An 2.B 2.d# 2.e#	24rccc	.
+*	*	*8va	*
+.	.	(<24dddd#LL	.
+.	.	24ddd#)	.
+*	*	*X8va	*
+.	.	(<24ddd#	.
+.	.	24dd#)	.
+.	.	(>24dd#JJ	.
+.	.	24d#LL)	.
+.	.	(>24d#	.
+.	.	24D#)	.
+.	.	(>24D#	.
+.	.	24DD#)	.
+.	.	(>24DD#JJ	.
+.	.	4DDD#)	.
+4Cn) 4Dn 4F# 4G#	4cn) 4dn 4f# 4g#	4ryy	.
+*	*v	*v	*
+*	*clefF4	*
+=52	=52	=52
+*^	*	*
+[1GGn [1AA [1C# [1D#	8rCC	[1Gn~^^ [1A [1c#X [1d#X	ff
+.	8.DDD#l	.	.
+.	8.DD#j	.	.
+.	4DDD#l	.	.
+.	4DD#j	.	.
+=53	=53	=53	=53
+!	!	!	!Dynamic Expression: dim. molto
+4GGnX] 4AA] 4C#] 4D#X]	4DDD#l	4GnX] 4A] 4c#] 4d#X]	.
+4r	4DD#j	4r	.
+2r	4DDD#l	2r	.
+.	4DD#j	.	.
+*v	*v	*	*
+=54	=54	=54
+(<32FFF#~LLL	1r	<
+32GGGn	.	.
+32FFF#	.	[pp
+32GGG	.	.
+32FFF#	.	.
+32GGG	.	.
+32FFF#	.	.
+32GGGJJJ)	.	.
+(<32FFF#~LLL	.	<
+32GGG#	.	.
+32FFF#	.	[pp
+32GGG#	.	.
+32FFF#	.	.
+32GGG#	.	.
+32FFF#	.	.
+32GGG#JJJ)	.	.
+(<32FFF#~LLL	.	<
+32GGGn	.	.
+32FFF#	.	[pp
+32GGG	.	.
+32FFF#	.	.
+32GGG	.	.
+32FFF#	.	.
+32GGGJJJ)	.	.
+(<32FFF#~LLL	.	<
+32GGG#	.	.
+32FFF#	.	[pp
+32GGG#	.	.
+32FFF#	.	.
+32GGG#	.	.
+32FFF#	.	.
+32GGG#JJJ)	.	.
+=55	=55	=55
+(<32FFF#~LLL	8r	pp<
+32GGGn	.	.
+32FFF#	.	[pp
+32GGG	.	.
+.	(<32qqdn/LLL	.
+.	32qqcn/	.
+.	32qqA/	.
+!	!Expression: incisif	!
+.	32qqF#/JJJ)	.
+32FFF#	8Cn~^	.
+32GGG	.	.
+32FFF#	.	.
+32GGGJJJ)	.	.
+(<32FFF#~LLL	8r	<
+32GGG#X	.	.
+32FFF#	.	[pp
+32GGG#	.	.
+.	32qqD#/LLL	.
+.	32qqC/	.
+.	32qqAA/	.
+.	32qqFF#/JJJ	.
+32FFF#	8CCn~^	.
+32GGG#	.	.
+32FFF#	.	.
+32GGG#JJJ)	.	.
+(<32FFF#~LLL	8r	<
+32GGGn	.	.
+32FFF#	.	[pp
+32GGG	.	.
+.	(<32qqdn/LLL	.
+.	32qqc/	.
+.	32qqA/	.
+.	32qqF#/JJJ)	.
+32FFF#	8C~^	.
+32GGG	.	.
+32FFF#	.	.
+32GGGJJJ)	.	.
+(<32FFF#~LLL	8r	<
+32GGG#X	.	.
+32FFF#	.	[pp
+32GGG#	.	.
+.	32qqD#/LLL	.
+.	32qqC/	.
+.	32qqAA/	.
+.	32qqFF#/JJJ	.
+32FFF#	8CC~^	.
+32GGG#	.	.
+32FFF#	.	.
+32GGG#JJJ)	.	.
+=56	=56	=56
+(<32FFF#~LLL	8r	<
+32GGGn	.	.
+32FFF#	.	[pp
+32GGG	.	.
+.	(<32qqd/LLL	.
+.	32qqcn/	.
+.	32qqA/	.
+.	32qqF#/JJJ)	.
+32FFF#	8Cn'^	.
+32GGG	.	.
+32FFF#	.	.
+32GGGJJJ)	.	.
+.	(<32qqD#X/LLL	.
+.	32qqC/	.
+.	32qqAA/	.
+.	32qqFF#/JJJ)	.
+(<32FFF#~LLL	8CCn'^	<
+32GGG#X	.	.
+32FFF#	.	[pp
+32GGG#	.	.
+.	(<32qqg#/LLL	sf<
+.	32qqf#/JJJ)	.
+32FFF#	8d#	[
+32GGG#	.	.
+32FFF#	.	.
+32GGG#JJJ)	.	.
+(<32FFF#~LLL	8r	<
+32GGGn	.	.
+32FFF#	.	[pp
+32GGG	.	.
+.	(<32qqdn/LLL	.
+.	32qqc/	.
+.	32qqA/	.
+.	32qqF#/JJJ)	.
+32FFF#	8C'^	.
+32GGG	.	.
+32FFF#	.	.
+32GGGJJJ)	.	.
+.	(<32qqD#/LLL	.
+.	32qqC/	.
+.	32qqAA/	.
+.	32qqFF#/JJJ)	.
+(<32FFF#~LLL	8CC'^	<
+32GGG#X	.	.
+32FFF#	.	[pp
+32GGG#	.	.
+.	(<32qqg#/LLL	sf<
+.	32qqf#/JJJ)	.
+32FFF#	8d#'	[
+32GGG#	.	.
+32FFF#	.	.
+32GGG#JJJ)	.	.
+=57	=57	=57
+*^	*	*
+!Tempo Marking: Furieux et rapide	!Tempo Marking: Furieux et rapide	!Tempo Marking: Furieux et rapide	!Tempo Marking: Furieux et rapide
+1FFF#'~	4ryy	(16.FFF#LL	.
+.	.	32DDkJJ	.
+.	.	48AALLL	.
+.	.	48Cn	.
+.	.	48F#	<
+.	.	48A	.
+.	.	48cn	.
+.	.	48dnJJJ	.
+*clefG2	*	*clefG2	*
+.	32ryy	32a-LLL	.
+.	32ryy	32g-	.
+.	32ryy	32e-JJJ	.
+.	32ryy	32ddLLL	.
+.	8ryy	32ccn	.
+.	.	32an	.
+.	.	32f#	.
+.	.	32cnJJJ	.
+.	2ryy	32aa-LLL	.
+.	.	32gg-	.
+.	.	32ee-	.
+.	.	32ddd	.
+.	.	32cccn	.
+.	.	32aan	.
+.	.	32ff#	.
+.	.	32ccnJJJ	.
+*	*	*8va	*
+.	.	32aa-LLL	.
+.	.	32gg-	.
+.	.	32ee-	.
+.	.	32dddd	.
+.	.	32ccccn	.
+.	.	32aaan	.
+.	.	32fff#	.
+.	.	32cccnJJJ	.
+*v	*v	*	*
+*	*X8va	*
+=58	=58	=58
+2ryy	32aa-LLL	[ff
+.	32gg-	.
+.	32ee-	.
+.	32ddd	.
+.	32cccn	.
+.	32aan	.
+.	32ff#	.
+.	32ccnJJJ	.
+.	32a-LLL	.
+.	32g-	.
+.	32e-	.
+.	32dd	.
+.	32cc	.
+.	32an	.
+.	32f#	.
+.	32cnJJJ	.
+*clefF4	*clefF4	*
+32ryy	32A-LLL	>
+32ryy	32G-	.
+32ryy	32E-	.
+32ryy	32d	.
+8ryy	32cn	.
+.	32An	.
+.	32F#	.
+.	32CnJJJ	.
+4ryy	40AA-LLL	.
+.	40GG-	.
+.	40EE-	.
+.	40D	.
+.	40C	.
+.	40AAn	.
+.	40FF#	.
+.	40CCn	]
+.	40AAA-	.
+.	40GGG-JJJ)	.
+=59	=59	=59
+*8ba	*	*
+!	!	!Dynamic Expression: subito
+(4CCCnl	4r	pp
+4GGGnj)	[2.Cn~ [2.E [2.Gn [2.cn	.
+(4CCCl	.	.
+4GGGj)	.	.
+=60	=60	=60
+(<8CCCnlL	(>4C] 4E] 4G] 4c]	.
+8GGGnjJ	.	.
+*	*clefG2	*
+*X8ba	*	*
+8GGG#lL	4G# 4B# 4d# 4g#	<
+8DD#jJ	.	.
+8DDnlL	4dn 4f# 4a 4dd	[
+8AAjJ	.	.
+8DD#lL	4G# 4B# 4d#X 4g#	>
+8GGG#jJ)	.	.
+*	*clefF4	*
+=61	=61	=61
+*8ba	*	*
+(<4.CCCn	1Cn) 1E 1Gn 1cn	]
+4.GGGn	.	.
+32DDDnLLL	.	.
+32GGG	.	.
+32DDD	.	.
+32GGG	.	.
+32EEE	.	.
+32GGG	.	.
+32EEE	.	.
+32GGGJJJ)	.	.
+*X8ba	*	*
+=62	=62	=62
+!	!	!Dynamic Expression: piu
+(8FFF#lL	(>4FF# 4AA# 4C#X 4F#	pp
+8CC#XjJ	.	.
+8EE-lL	4E- 4Gn 4B- 4e-	.
+8BB-jJ	.	.
+8AAlL	4A 4c#X 4en 4a	.
+8EnjJ	.	.
+8BB-lL	4E-) 4G 4B- 4e-X	.
+8EE-jJ)	.	.
+=63	=63	=63
+!Tempo Marking: Serrez et augmentez	!Tempo Marking: Serrez et augmentez	!Tempo Marking: Serrez et augmentez
+*^	*	*
+>12FF#'~L	1FFF#	8AA'^^H 8Cn 8D 8F#h	p
+(12..DD	.	.	.
+.	.	8r	.
+48EEJkk)	.	.	.
+12CCn'L	.	4r	.
+12DD'	.	.	.
+12EE'J	.	.	.
+12FF#'L	.	2r	.
+12GG#'	.	.	.
+12EE'J	.	.	.
+12FF#'L	.	.	.
+12DD'	.	.	.
+12EE'J	.	.	.
+=64	=64	=64	=64
+>12FF#'~L	1FFF#	8AA'^^H 8Cn 8D 8F#h	.
+(12..DD	.	.	.
+.	.	8r	.
+48EEJkk)	.	.	.
+12CCn'L	.	4r	.
+12DD'	.	.	.
+12EE'J	.	.	.
+12FF#'L	.	2r	.
+12GG#'	.	.	.
+12EE'J	.	.	.
+12FF#'L	.	.	.
+12DD'	.	.	.
+12EE'J	.	.	.
+=65	=65	=65	=65
+12FF#L	1FFF#	8AA'^^H 8Cn 8D 8F#h	.
+(>12..DD	.	.	.
+.	.	8r	.
+48EEJkk)	.	.	.
+12CCn'L	.	8FF#'^^H 8AA 8C 8Dh	.
+12DD'	.	.	.
+.	.	8r	.
+12EE'J	.	.	.
+12FF#'L	.	2ryy	.
+12GG#'	.	.	.
+12EE'J	.	.	.
+12FF#'L	.	.	.
+12DD'	.	.	.
+12EE'J	.	.	.
+=66	=66	=66	=66
+12FF#L	1FFF#	8AA'^^H 8Cn 8D 8F#h	.
+(>12..DD	.	.	.
+.	.	8r	.
+48EEJkk)	.	.	.
+12CCn'L	.	8FF#'^^H 8AA 8C 8Dh	.
+12DD'	.	.	.
+.	.	8r	.
+12EE'J	.	.	.
+12FF#'L	.	2ryy	.
+12GG#'	.	.	.
+12EE'J	.	.	.
+12FF#'L	.	.	.
+12DD'	.	.	.
+12EE'J	.	.	.
+=67	=67	=67	=67
+!	!	!Dynamic Expression: sempre cresc.	!
+*	*	*^	*
+(>32FF#LLL	1FFF#	12r	12ryy	.
+32GG#	.	.	.	.
+32FF#	.	.	.	.
+.	.	(>12..DL	[6AA 6Cn	.
+32GG#JJ	.	.	.	.
+8FF#'J)	.	.	.	.
+.	.	48EJkk)	.	.
+(>32F#LLL	.	12C#L	4AA]	.
+32G#	.	.	.	.
+32F#	.	.	.	.
+.	.	12D	.	.
+32G#JJ	.	.	.	.
+8F#'J)	.	.	.	.
+.	.	12EJ	.	.
+*	*	*clefG2	*	*
+(>32F#LLL	.	12r	12ryy	.
+32G#	.	.	.	.
+32F#	.	.	.	.
+.	.	(>12..dL	[6A 6cn	.
+32G#JJ	.	.	.	.
+8F#'J)	.	.	.	.
+.	.	48eJkk)	.	.
+*clefG2	*	*	*	*
+(>32f#LLL	.	12c#L	4A]	.
+32g#	.	.	.	.
+32f#	.	.	.	.
+.	.	12d	.	.
+32g#JJ	.	.	.	.
+8f#'J)	.	.	.	.
+.	.	12eJ	.	.
+*v	*v	*	*	*
+=68	=68	=68	=68
+(<32f#LLL	12r	12ryy	f<
+32g#	.	.	.
+32f#	.	.	.
+.	(>12..ddL	[6a 6ccn	.
+32g#JJ	.	.	.
+8f#'J)	.	.	.
+.	48eeJkk)	.	.
+(>32ff#LLL	12cc#XL	4a]	.
+32gg#	.	.	.
+32ff#	.	.	.
+.	12dd	.	.
+32gg#JJ	.	.	.
+8ff#'J)	.	.	.
+.	12eeJ	.	.
+(>32ff#LLL	12r	12ryy	[f<
+32gg#	.	.	.
+32ff#	.	.	.
+.	12..dddL	[6aa 6cccn	.
+32gg#JJ	.	.	.
+8ff#'J)	.	.	.
+.	48eeeJkk	.	.
+(>32fff#LLL	12cccL	4aa]	.
+32ggg#	.	.	.
+32fff#	.	.	.
+.	12ddd	.	.
+32ggg#JJ	.	.	.
+8fff#'J)	.	.	.
+.	12eeeJ	.	.
+*	*v	*v	*
+=69||	=69||	=69||
+*M3/4	*M3/4	*M3/4
+!Tempo Marking: Retenu	!Tempo Marking: Retenu	!Tempo Marking: Retenu
+*^	*	*
+*	*	*8va	*
+(>4cc#X^^ 4dd#	4rBB	(>4cc#X~^^ 4dd# 4ccc#X 4ddd#	[ff
+*	*	*X8va	*
+*clefF4	*	*clefF4	*
+4.GGGn^^) 4.AAA 4.GGn	4rDDD	4.AA~^^) 4.Gn 4.A	.
+.	4CCC#'	.	.
+8FFn'^^ 8GG 8Fn	.	8G'^^ 8fn 8gn	.
+*v	*v	*	*
+=70||	=70||	=70||
+*M4/4	*M4/4	*M4/4
+!Tempo Marking: au Mouvt	!Tempo Marking: au Mouvt	!Tempo Marking: au Mouvt
+2FFF# 2CC#l	2C# 2D# 2c# 2d#	>
+2DD#j	6r	]f<
+.	6C#~ 6D#	.
+.	6C#~ 6D#	.
+=71	=71	=71
+!	!c	!Dynamic Expression: sec
+8FFF#' 8CC#	8FF# 8AA# 8C# 8D#	[sff
+8r	8r	.
+4r	4r	.
+2r	2r	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = start tremolo
+!!!RDF**kern: j = end tremolo

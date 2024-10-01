@@ -1,0 +1,113 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074943_01
+!! NLB record number: 74943
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8.a	Hei
+16a	je
+8.a	wel
+16b	ge-
+4a	-hoord
+8.f#x	van 't
+16g	O-
+=2	=2
+4a	-ran-
+4b	-je-
+2a;}	-lied,
+!! verse 1
+=3	=3
+{4a	Wat
+8.a	er
+16b	in
+4a	Bos-
+8.f#x	-koop
+16g	al
+=4	=4
+4a	is
+4b	ge-
+4a;}	-schied.
+!! verse 2
+{8.a	Met
+16a	een
+=5	=5
+4b	rij-
+4g	-ke
+4b	koop-
+4ee	-mans-
+=6	=6
+(4dd	-zo-
+4ee)	.
+2dd;}	-ne,
+!! verse 3
+=7	=7
+{8.b	Die
+16b	ver-
+8b	-ke-
+8a	-ring
+4g	had
+8.b	met
+16b	een
+=8	=8
+8a	ar-
+8g	-me
+(8f#	dienst-
+8e)	.
+4d;}	-maagd
+!! verse 4
+{8g	En
+8f#	hij
+=9	=9
+8e	kon
+8f#	er
+8g	wel
+8e	een
+8.d	rij-
+16d	-ke-
+8cc	-re
+8cc	be-
+=10	=10
+(4b	-ko-
+4a)	.
+2dd;}	-ren.
+!! verse 5
+=11	=11
+{8.b	Die
+16b	ver-
+8b	-ke-
+8a	-ring
+4g	had
+8.b	met
+16b	een
+=12	=12
+8a	ar-
+8g	-me
+(8f#	dienst-
+8e)	.
+4d;}	-maagd
+!! verse 6
+{8g	En
+8f#	hij
+=13	=13
+8e	kon
+8f#	er
+8g	wel
+8e	een
+8.d	rij-
+16d	-ke-
+8cc	-re
+8cc	be-
+=14	=14
+(4b	-ko-
+4a)	.
+2g;}	-ren.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

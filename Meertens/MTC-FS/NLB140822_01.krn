@@ -1,0 +1,93 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140822_01
+!! NLB record number: 140822
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+=1	=1
+{2f	Waar-
+2c	-om
+=2	=2
+4f	moet
+4f	de
+2c;}	haan,
+!! verse 1
+=3	=3
+{2g	Al-
+2c	-tijd
+=4	=4
+4g	vroeg
+4g	op-
+2c;}	-staan?
+!! verse 2
+=5	=5
+{2a	Hij
+4a	jaagt
+4b-	de
+=6	=6
+4cc	kip-
+4cc	-pen
+4ff	van
+4cc	den
+=7	=7
+4b-;}	stok
+!! verse 3
+{4b-	En
+4g	drijft
+4f	ze
+=8	=8
+4e	ook
+4c	nog
+4e	uit
+4g	het
+=9	=9
+2cc	hok.
+4r;}	.
+!! verse 4
+{4g	De
+=10	=10
+8a	kip-
+8b-	-pen
+8a	zeg-
+8b-	-gen:
+8a	tok-
+8g	-tok-
+8a;}	-tok,
+!! verse 5
+{8f	We
+=11	=11
+8c	wil-
+8d	-len
+8c	nog
+8d	niet
+8c	van
+8d	den
+8c;}	stok,
+!! verse 6
+{8d	tok-
+=12	=12
+8c	-tok-
+8d	-tok-
+8e	-tok-
+8f	-tok-
+8g	-tok-
+8a	-tok-
+8b-	-tok-
+8cc;}	-tok!
+!! verse 7
+=13	=13
+{4.cc	Ku-
+8cc	-kle-
+4cc	-ku,
+4cc	sta
+=14	=14
+1ff;}	op!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

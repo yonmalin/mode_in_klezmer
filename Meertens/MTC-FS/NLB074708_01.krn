@@ -1,0 +1,65 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074708_01
+!! NLB record number: 74708
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{16b	Ao-
+16b	-rend
+=1	=1
+16b	Eem-
+16b	-ten
+8b	zul
+8b	naar
+8dd	de
+=2	=2
+16cc	peer-
+16cc	-den-
+8b	-markt
+4a;}	gaon
+!! verse 1
+=3	=3
+{8dd	Hup
+16dd	van
+16dd	de
+8dd	la
+16cc	fie-
+16cc	-de
+=4	=4
+8b	ral-
+8a	-dal-
+8g;}	-da
+!! verse 2
+{16b	Ao-
+16b	-rend
+=5	=5
+16b	Eem-
+16b	-ten
+8b	zul
+8b	naor
+8dd	de
+=6	=6
+16cc	peer-
+16cc	-den-
+8b	-markt
+8a;}	gaon
+!! verse 3
+{16dd	Fie-
+16dd	-ke-
+=7	=7
+8dd	-dom
+16dd	fie-
+16dd	-de-
+8ee	-del
+8dd	poes
+=8	=8
+4.g;}	weg
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

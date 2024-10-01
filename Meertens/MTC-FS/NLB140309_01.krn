@@ -1,0 +1,94 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140309_01
+!! NLB record number: 140309
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8b	In 't
+=1	=1
+8.b	stal-
+16b	-le-
+(16b	-ken
+16cc)	.
+8dd	van
+=2	=2
+8.a	Beth-
+16a	-le-
+8a;}	-hem
+!! verse 1
+{8d	Is
+=3	=3
+(16d	de-
+16e)	.
+8f#	-zen
+8.g	nacht
+16a	ge-
+=4	=4
+4a	-bo-
+8g;}	-ren
+!! verse 2
+{8b	Den
+=5	=5
+8.b	ko-
+16b	-ning
+(16b	van
+16cc)	.
+8dd	Je-
+=6	=6
+8.a	-ru-
+16a	-sa-
+8a;}	-lem
+!! verse 3
+{8d	Mes-
+=7	=7
+(16d	-si-
+16e)	.
+8f#	-as
+8.g	uit-
+16a	-ver-
+=8	=8
+4a	-ko-
+8g;}	-ren.
+!! verse 4
+{8a	Hij
+=9	=9
+(16a	leit
+16b)	.
+8a	in
+8f#	hooi,
+8a	hij
+=10	=10
+(16a	leit
+16b)	.
+8a	in
+8f#;}	strooi
+!! verse 5
+{8dd	In
+=11	=11
+8cc	doek-
+8cc	-jes
+8cc	klein
+8dd	ge-
+=12	=12
+4b	-won-
+8a;}	-den
+!! verse 6
+{8cc	Och
+=13	=13
+8.cc	mensch
+16b	om
+8b	u-
+8a	-we
+=14	=14
+4a	zon-
+8g	-den.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

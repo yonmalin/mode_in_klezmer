@@ -1,0 +1,86 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113252_01
+!! NLB record number: 113252
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{4g	Ja
+=1	=1
+4cc	wijn-
+4dd	-tje
+4ee	jij
+4ff	bent
+=2	=2
+4.gg	groen
+8aa	en
+4gg	je
+4ff	gaat
+=3	=3
+4ee	door
+(4ee	bruid-
+4dd)	.
+4dd	-jes
+=4	=4
+4.cc	hals,
+4.r;}	.
+!! verse 1
+{4g	En
+=5	=5
+4cc	als
+4dd	ze
+4ee	dan
+4ff	ge-
+=6	=6
+4.gg	-dron-
+8aa	-ken
+4gg	heeft
+4ff	dan
+=7	=7
+4ee	zingt
+4ee	ze
+4dd	schots
+4dd	en
+=8	=8
+4.cc	walsch,
+4.r;}	.
+!! verse 2
+{4cc	Ja
+=9	=9
+4ee	wijnt-
+4ee	-je
+4ee	jij
+4ee	gaat
+=10	=10
+4ff	in,
+4ff	gaat
+4ff	in,
+4ee	ja
+=11	=11
+2dd	wijn-
+4dd	-tje
+4dd	jij
+=12	=12
+4gg	gaat
+4gg	in
+4gg	gaat
+4ee;}	in
+!! verse 3
+=13	=13
+{4ee	ja
+4ee	wijnt-
+4ee	-je
+4ee	jij
+=14	=14
+(2gg	gaat
+2ff)	.
+=15	=15
+1ee;}	in.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

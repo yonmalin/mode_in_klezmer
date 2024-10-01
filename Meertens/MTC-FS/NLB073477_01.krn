@@ -1,0 +1,76 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073477_01
+!! NLB record number: 73477
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Er
+=1	=1
+8g	ging
+8f#	eens
+8g	een
+8a	ja-
+8g	-ger
+8a	uit
+=2	=2
+8b	ja-
+8g	-gen,
+4r	.
+8r;}	.
+!! verse 1
+{(16g	Daar
+16a)	.
+=3	=3
+(8b	kwam
+8a)	.
+8b	naar
+(8cc	zijn
+8b)	.
+8cc	be-
+=4	=4
+8.dd	-ha-
+16ee	-gen
+16dd	aan-
+16cc	-ge-
+4b;}	-gaan,
+!! verse 2
+{16g	Een
+16b	mooi
+=5	=5
+8dd	meis-
+8dd	-je
+16dd	naar
+16cc	zijn
+8b	zin-
+8a	-ne,
+8b	hij
+=6	=6
+8cc	sprak:
+8cc	Ziels-
+8b	-vrien-
+8a	-din-
+8g;}	-ne,
+!! verse 3
+{8a	Waar
+=7	=7
+8b	gaat
+8a	gij
+(16b	toch
+16cc)	.
+4dd	heen,
+16dd	dat
+16dd	gij
+=8	=8
+8ee	zijt
+8cc	zo
+8a	all-
+4g;}	-leen
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

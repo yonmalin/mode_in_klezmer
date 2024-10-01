@@ -1,0 +1,57 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075288_01
+!! NLB record number: 75288
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Komt
+=1	=1
+4g	vrien-
+4d	-den
+4B	jong
+4d	en
+=2	=2
+2g;}	oud
+!! verse 1
+{8r	.
+8f#	Wat
+8g	men
+8a	xxx
+=3	=3
+4b	Hoo-
+4g	-gert
+4d	heeft
+4b	aan-
+=4	=4
+2b	-schouwd
+4.r;}	.
+!! verse 2
+{8b	Daar
+=5	=5
+4.b	woont
+8dd	een
+4.cc	man
+8b	ge-
+=6	=6
+2a	-trouwd
+4r;}	.
+!! verse 3
+{4d	Die
+=7	=7
+4.a	zij-
+8a	-ne
+4g	vrouw
+4a	voor
+=8	=8
+4.b	niets
+8a	aan-
+2g;}	-schouwt
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

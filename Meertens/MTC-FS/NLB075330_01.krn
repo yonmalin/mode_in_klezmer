@@ -1,0 +1,66 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075330_01
+!! NLB record number: 75330
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8r	.
+16d	En
+16d	ach
+=1	=1
+4b	moe-
+4b	-der
+8.b	geef
+16a	me
+4cc	eens
+=2	=2
+4cc	gauw
+4cc	m'n
+4cc	kleed
+4r;}	.
+!! verse 1
+=3	=3
+{4a	Want
+8.a	mij-
+16a	-ne
+4a	vrij-
+8b	-er
+8cc	die
+=4	=4
+4dd	staat
+4dd	al
+4.dd	g'reed
+8r;}	.
+!! verse 2
+=5	=5
+{8.b	Riep
+16b	ze
+8.b	met
+16b	d'r
+4b	oog-
+4g	-jes
+=6	=6
+4ee	vol
+4ee	ge-
+4gg;}	-traan
+!! verse 3
+{8ff#	En
+8ee	nou
+=7	=7
+8dd	kun-
+8dd	-nen
+8ee	wij
+8dd	eens
+4cc	dan-
+4a	-sen
+=8	=8
+2.g;}	gaan.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

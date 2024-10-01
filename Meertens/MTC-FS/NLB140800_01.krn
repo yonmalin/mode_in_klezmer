@@ -1,0 +1,114 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140800_01
+!! NLB record number: 140800
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{2g	Heil
+4g	en
+=2	=2
+2g	ze-
+4d	-gen
+=3	=3
+2b	in
+4b	je
+=4	=4
+2b	le-
+4g;}	-ven:
+!! verse 1
+=5	=5
+{2dd	Leef
+4dd	ge-
+=6	=6
+(4dd	-luk-
+4b)	.
+4g	-kig
+=7	=7
+2d	met
+4f#	el-
+=8	=8
+2.g;}	-kaar!
+!! verse 2
+=9	=9
+{2.r	.
+=10	=10
+4r	.
+(8b	Heil
+8dd)	.
+(8cc	en
+8a)	.
+=11	=11
+2g	ze-
+4d	-gen
+=12	=12
+4r;}	.
+!! verse 3
+{(8d	in
+8g)	.
+(8g	je
+8b)	.
+=13	=13
+2b	le-
+4b;}	-ven:
+!! verse 4
+=14	=14
+{(4b	Leef
+4dd)	.
+4b	ge-
+=15	=15
+4.a	-luk-
+8a	-kig
+8a	met
+8a	el-
+=16	=16
+4b;}	-kaar!
+!! verse 5
+{4b	Heil
+4dd	en
+=17	=17
+4b	ze-
+4g	-gen
+4r	.
+=18	=18
+4r;}	.
+!! verse 6
+{(8g	heil
+8b)	.
+(8a	en
+8f#)	.
+=19	=19
+(4g	ze-
+4d)	.
+4B	-gen
+=20	=20
+4r;}	.
+!! verse 7
+{(8B	in
+8d)	.
+(8d	je
+8g)	.
+=21	=21
+2g	le-
+4g	-ven:
+=22	=22
+4r;}	.
+!! verse 8
+{4g	Leef
+4g	ge-
+=23	=23
+4.f#	-luk-
+8dd	-kig
+8dd	met
+8dd	el-
+=24	=24
+2.dd;}	-kaar!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

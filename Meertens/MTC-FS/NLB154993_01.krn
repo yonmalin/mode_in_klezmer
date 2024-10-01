@@ -1,0 +1,129 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB154993_01
+!! NLB record number: 154993
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	Doar
+=1	=1
+8f	was
+16f	'n
+16f	boe-
+8f	-rin
+8f	in
+=2	=2
+4a	Boa-
+8f;}	-kel
+!! verse 1
+{8f	'n
+=3	=3
+8g	Boa-
+8f	-kel-
+8e	-se
+8d	boe-
+=4	=4
+4.c;}	-rin
+!! verse 2
+{8g	Die
+=5	=5
+8g	vrij-
+8g	-de
+8g	joa
+8g	zo
+=6	=6
+8g	ste-
+4g;}	-vig
+!! verse 3
+{(16g	Zo
+16a)	.
+=7	=7
+8g	ste-
+8f	-vig
+8e	vree
+8d	die
+=8	=8
+4.c	boe-
+8c;}	-rin
+!! verse 4
+=9	=9
+{8f	Zo
+16f	ste-
+16f	-vig
+8f	vree
+8f	die
+=10	=10
+8a	boer-
+8f	-ren-
+8f;}	-meid
+!! verse 5
+{8f	al
+=11	=11
+8g	mee
+8f	geen
+8e	kalf
+8f	of
+=12	=12
+8g	mee
+8e	geen
+8c;}	gijt
+!! verse 6
+{8c	mer
+=13	=13
+8b-	mee
+8b-	ne
+8b-	boe-
+8b-	-re-
+=14	=14
+8a	-jong-
+8g	-e
+8f	vree
+8g	die
+=15	=15
+4a	boe-
+4f	-ren-
+=16	=16
+8f;}	-meid
+!! verse 7
+{8f	Um
+8.e	de't
+16f	zo
+=17	=17
+4d	lek-
+4d	-ker
+=18	=18
+8d	is
+8g	um
+8.e	de
+16g	't
+=19	=19
+4g	zo
+8.c	lek-
+16c	-ker
+=20	=20
+4.c;}	is
+!! verse 8
+{8c	mer
+=21	=21
+8b-	mee
+8b-	ne
+8b-	boe-
+8b-	-re-
+=22	=22
+8a	-jong-
+8g	-e
+8f	vree
+8g	die
+=23	=23
+4a	boe-
+4g	-ren-
+=24	=24
+4.f;}	-meid
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

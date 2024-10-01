@@ -1,0 +1,92 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB112074_01
+!! NLB record number: 112074
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Er
+=1	=1
+12g	gin-
+12g	-gen
+12g	drie
+8g	re-
+8g	-gi-
+4g	-men-
+8g	-ten
+8a	al
+=2	=2
+4b	o-
+8.b	-ver
+16a	de
+4.g;}	Rijn
+!! verse 1
+{8g	Er
+=3	=3
+12a	gin-
+12a	-gen
+12a	drie
+8a	re-
+8a	-gi-
+4a	-men-
+8b	-ten
+8cc	al
+=4	=4
+4dd	o-
+8.dd	-ver
+16cc	de
+4b;}	Rijn
+!! verse 2
+{8.dd	En
+16cc	een
+=5	=5
+8.b	re-
+16b	-gi-
+8.b	-ment
+16b	te
+(8b	voet
+8a)	.
+8.g	en
+16b	een
+=6	=6
+8.dd	re-
+16dd	-gi-
+8.dd	-ment
+16dd	te
+(8dd	paard
+8cc);}	.
+!! verse 3
+{8b	En
+8a	een
+=7	=7
+4g	re-
+4ee	-gi-
+(8dd	-ment
+8cc)	.
+(8b	dra-
+8a)	.
+=8	=8
+2a	-gon-
+4g;}	-ders
+!! verse 4
+{8g	En
+8g	een
+=9	=9
+4g	re-
+4ee	-gi-
+(8dd	-ment
+8cc)	.
+(8b	dra-
+8a)	.
+=10	=10
+2a	-gon-
+4g	-ders.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

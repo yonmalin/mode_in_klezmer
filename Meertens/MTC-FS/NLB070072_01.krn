@@ -1,0 +1,102 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070072_01
+!! NLB record number: 70072
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8b	Wij
+=1	=1
+8.b	kwa-
+16b	-men
+8.b	al
+16cc	uit
+=2	=2
+4dd	Ham-
+4b;}	-burg
+!! verse 1
+=3	=3
+{8.cc	Zon-
+16b	-der
+8.cc	geld
+16gg	of
+=4	=4
+4.ff#;}	goed
+!! verse 2
+{8ff#	na
+=5	=5
+8.a	ve-
+16a	-le
+8.a	da-
+16b	-gen
+=6	=6
+4cc	zwer-
+8.cc;}	-ven
+!! verse 3
+{16dd	met
+=7	=7
+8.ff#	een
+16ee	be-
+8.dd	-blaar-
+16cc	-de
+=8	=8
+2b;}	voet
+!! verse 4
+=9	=9
+{4ee	Nu
+8.ff#	zijn
+16gg	we 'n
+=10	=10
+4ff#	Ols-
+4ee	-burg
+=11	=11
+4ee	aan-
+4dd	-ge-
+=12	=12
+4.ff#;}	-land
+!! verse 5
+{8ee	nog
+=13	=13
+4dd	ver
+4cc	 van 't
+=14	=14
+4.ee	dier-
+8dd	-baar
+=15	=15
+4cc	va-
+4b	-der-
+=16	=16
+4.dd;}	-land
+!! verse 6
+{8b	Toch
+=17	=17
+4.dd	heb-
+8cc#	-ben
+=18	=18
+4cc	wij
+4aa	nog
+=19	=19
+2gg	moed
+=20	=20
+4r;}	.
+!! verse 7
+{4b	Wat
+=21	=21
+4.dd	ons
+8cc#	hier
+=22	=22
+4cc	zin-
+4f#	-gen
+=23	=23
+2g	doet
+=24	=24
+4r	.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

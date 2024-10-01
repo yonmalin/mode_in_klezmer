@@ -1,0 +1,84 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075225_01
+!! NLB record number: 75225
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	O
+=1	=1
+(4g	Straats-
+8b	.
+8dd)	.
+4dd	-burg
+4b	O
+=2	=2
+(4a	Straats-
+4b)	.
+4cc;}	-burg
+!! verse 1
+{4cc	Die
+=3	=3
+4b	o-
+(8b	-ver-
+8dd)	.
+4dd	-scho-
+(8cc	-ne
+8b)	.
+=4	=4
+2.a;}	stad
+!! verse 2
+{(8a	Daar-
+8b)	.
+=5	=5
+4cc	-on-
+4ee	-der
+4ee	ligt
+4ee	be-
+=6	=6
+(4dd	-gra-
+4b)	.
+4b;}	-ven
+!! verse 3
+{4dd	Zo
+=7	=7
+(6dd	me-
+6ee)	.
+6dd	-nig
+4cc	braaf
+4dd	sol-
+=8	=8
+(8b	-daat
+8a	.
+8b	.
+8cc	.
+4dd);}	.
+!! verse 4
+{4b	Daar
+=9	=9
+4cc	on-
+4ee	-der
+4ee	ligt
+4ee	be-
+=10	=10
+(4dd	-gra-
+4b)	.
+4g;}	-ven
+!! verse 5
+{4dd	Zo
+=11	=11
+4dd	me-
+(8ee	-nig
+8dd)	.
+4cc	braaf
+4dd	sol-
+=12	=12
+2.b;}	-daat
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

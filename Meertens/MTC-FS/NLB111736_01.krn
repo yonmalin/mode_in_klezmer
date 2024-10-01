@@ -1,0 +1,115 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB111736_01
+!! NLB record number: 111736
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+=1	=1
+{4f	Wat
+8.a	is
+16f	het
+4.cc	schoon
+8cc	Wel-
+=2	=2
+8b-	-da-
+8a	-dig-
+8g	-heid
+8f	te
+4f	ple-
+8c;}	-gen
+!! verse 1
+{8g	Als
+=3	=3
+4a	w'an-
+4cc	-d'ren
+4.g	doen
+8f	ge-
+=4	=4
+4e	-luk-
+4d	-kig
+4.c;}	zijn
+!! verse 2
+{8c	O
+=5	=5
+4f	Mensch
+8.a	wilt
+16f	dan
+4.cc	toch
+8cc	wel-
+=6	=6
+(8b-	-da-
+8a)	.
+8g	-dig
+8f	steeds
+4f	we-
+8c;}	-zen
+!! verse 3
+{8g	Dat
+=7	=7
+4a	is
+4cc	het-
+4g	-geen
+8g	de
+8f	na-
+=8	=8
+4e	-tuur
+8.d	u
+16d	be-
+4.c;}	-veelt
+!! verse 4
+{8c	Een
+=9	=9
+4.b-	bra-
+8b-	-ve
+4.a	daad,
+8f	vol-
+=10	=10
+4.dd	-voerd
+8dd	met
+2cc;}	vreugd,
+!! verse 5
+=11	=11
+{4b-	Schenkt
+8b-	ons
+8b-	het
+(8a	schoon-
+8cc)	.
+(8b-	-ste
+8g)	.
+=12	=12
+4f	ziels-
+4e	-ge-
+4.f;}	-neugt.
+!! verse 6
+{8c	Een
+=13	=13
+4.b-	bra-
+8b-	-ve
+4.a	daad,
+8f	vol-
+=14	=14
+4.dd	-voerd
+8dd	met
+2cc;}	vreugd,
+!! verse 7
+=15	=15
+{4b-	Schenkt
+8b-	ons
+8b-	het
+(8a	schoon-
+8cc)	.
+(8b-	-ste
+8g)	.
+=16	=16
+4f	ziels-
+4e	-ge-
+2f;}	-neugt.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

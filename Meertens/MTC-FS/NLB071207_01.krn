@@ -1,0 +1,55 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071207_01
+!! NLB record number: 71207
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4dd	Lan-
+4dd	-ge
+4ee	lan-
+4ee	-ge
+=2	=2
+2dd	rie-
+4b;}	-ge,
+!! verse 1
+{4cc	daar
+=3	=3
+4dd	ginds
+4dd	daar
+4ee	loopt
+4ee	een
+=4	=4
+2dd	stie-
+4b;}	-ge
+!! verse 2
+{4b	Daar
+=5	=5
+4cc	ginds
+4cc	daar
+4cc	is
+4a	een
+=6	=6
+4cc	ooi-
+4cc	-e-
+2cc;}	-vaar
+!! verse 3
+=7	=7
+{4ee	Het-
+4dd	-ty,
+4a	het-
+8b	-ty
+8b	wat
+=8	=8
+4a	doe
+4a	je
+2g;}	daar.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

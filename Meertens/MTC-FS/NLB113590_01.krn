@@ -1,0 +1,80 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113590_01
+!! NLB record number: 113590
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-e-a-]	*
+*E-:	*
+!! verse 0
+{4b-	Komt
+=1	=1
+4.b-	vrien-
+8b-	-den,
+8a-	luis-
+8g	-tert
+8a-	naar
+8b-	dit
+=2	=2
+2g	lied,
+8r;}	.
+!! verse 1
+{8b-	Wat
+8b-	ik
+8b-	u
+=3	=3
+4f	hier
+4f	wel
+(8g	zal
+8f)	.
+(8e-	ver-
+8f)	.
+=4	=4
+4g	-ha-
+4e-	-len,
+8r;}	.
+!! verse 2
+{8b-	Wat
+8b-	laatst
+8b-	in
+=5	=5
+4f	Scha-
+(8b-	-gen
+8cc)	.
+4dd	is
+4cc	ge-
+=6	=6
+2b-;}	-schied,
+!! verse 3
+{4b-	Hoe
+8a-	dat
+8g	een
+=7	=7
+8f	boos-
+8g	-wicht
+8a-	steeds
+8f	kan
+(4e-	dwa-
+4f)	.
+=8	=8
+2g;}	-len.
+!! verse 4
+{4b-	Hoe
+8cc	dat
+8dd	een
+=9	=9
+8ee-	boos-
+8g	-wicht
+8g	steeds
+8a-	kan
+(4g	dwa-
+4f)	.
+=10	=10
+2e-	-len.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

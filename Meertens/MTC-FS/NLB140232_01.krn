@@ -1,0 +1,82 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140232_01
+!! NLB record number: 140232
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	Daar
+8c	kwam
+=1	=1
+4f	laatst
+8f	nen
+4e	boer
+16e	in
+16e	den
+=2	=2
+4d	donke-
+8d	-ren
+8c;}	nacht,
+!! verse 1
+{8c	Daar
+8c	kwam
+=3	=3
+4f	laatst
+8f	nen
+4e	boer
+16e	in
+16e	den
+=4	=4
+4d	don-
+16d	-ke-
+16d	-ren
+[8c	nacht,
+8c];}	.
+!! verse 2
+{8c	al
+=5	=5
+[8f	bij
+8f]	.
+8f	zijn
+(8f	lief-
+8c)	.
+8c	-ste
+=6	=6
+[8f	on-
+8f]	.
+8g	-ver-
+4.a;}	-wacht.
+!! verse 3
+=7	=7
+{4g	Ach,
+8a	lief
+8b-	Lij-
+8e	-ne-
+8e	-ke,
+=8	=8
+8g	slaap-
+8f	-te
+8e	gij
+4f	nog?
+8r;}	.
+!! verse 4
+=9	=9
+{4g	Ach,
+8a	lief
+8b-	Lij-
+8e	-ne-
+8e	-ke,
+=10	=10
+8g	slaap-
+8f	-te
+8e	gij
+4f	nog?
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

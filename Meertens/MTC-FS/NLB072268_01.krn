@@ -1,0 +1,59 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072268_01
+!! NLB record number: 72268
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{8g	En
+8a	al
+(8f	o-
+8e)	.
+8d	-ver
+8a	die
+=1	=1
+8.g	groe-
+16f	-ne-
+8g	-land-
+8a	-se
+(8f	hei-
+8e)	.
+4d	-de
+=2	=2
+4r;}	.
+!! verse 1
+{8a	En
+8b	daar
+4cc	staat
+8b	er
+8b	een
+=3	=3
+(8a	her-
+8cc)	.
+8b	-berg-
+8a	-je
+2g	fier
+=4	=4
+4r;}	.
+!! verse 2
+{8a	Ja
+8b	daar
+4cc	staat
+8b	er
+8b	een
+=5	=5
+(8a	her-
+8cc)	.
+8b	-berg-
+8a	-je
+2g	fier
+=6	=6
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

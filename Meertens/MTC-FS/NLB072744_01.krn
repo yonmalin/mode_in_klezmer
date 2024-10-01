@@ -1,0 +1,85 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072744_01
+!! NLB record number: 72744
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Wel-
+8d	-kom
+=1	=1
+4g	wel-
+4b	-kom
+4g	va-
+4b	-der-
+=2	=2
+2g	-land
+4r;}	.
+!! verse 1
+{8f#	Wij
+8g	zijn
+=3	=3
+4a	weer
+4a	aan
+4a	Hol-
+4cc	-lands
+=4	=4
+2a	strand
+4r;}	.
+!! verse 2
+{8g	Niets
+8a	kan
+=5	=5
+4b	meer
+4dd	ge-
+4b	-noe-
+4g	-gen
+=6	=6
+(4a	ge-
+4f#)	.
+8d;}	-ven
+!! verse 3
+{8d	Hoe-
+8g	-ra,
+8a	hoe-
+=7	=7
+4b	-ra
+4dd	het
+4b	zee-
+4g	-mans-
+=8	=8
+(4a	-le-
+4f#)	.
+4d;}	-ven
+!! verse 4
+{8d	Ko-
+8d	-men
+=9	=9
+4.g	wij
+8g	dan
+4a	weer
+4b	aan
+=10	=10
+2cc	ree
+8r;}	.
+!! verse 5
+{8a	Dan
+8b	bren-
+8cc	-gen
+=11	=11
+(6dd	wij
+6ff#	.
+6ee)	.
+4dd	duit-
+4f#	-jes
+=12	=12
+2g	mee.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

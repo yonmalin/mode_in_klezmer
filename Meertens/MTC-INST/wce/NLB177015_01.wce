@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ExcelProcessingDefaults-beginSignatureRangeTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-beginSignatureScriptTextView</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-endSignatureRangeTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-endSignatureScriptTextView</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-fileNameTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-scoreLeftEdgeTextField</key>
+	<string>A1</string>
+	<key>ExcelProcessingDefaults-scoreRangeTextField</key>
+	<string>A1:Z100</string>
+	<key>ExcelProcessingDefaults-scoreScriptTextView</key>
+	<string></string>
+	<key>NLBController-incipitNormTextField</key>
+	<string></string>
+	<key>NLBController-melodyNormTextField</key>
+	<string></string>
+	<key>NLBController-recordIDTextField</key>
+	<string>177015</string>
+	<key>NLBController-tagsTextField</key>
+	<string></string>
+	<key>SignatureController-encoderNameTextField</key>
+	<string></string>
+	<key>SignatureController-footerTextView</key>
+	<string>\markup { \wordwrap-string #" 
+1) Dubbelgreep: bes klein oktaaf - f'.
+
+2) Dubbelgreep: g klein oktaaf - es'.
+
+3) Dubbelgreep: g klein oktaaf - es' - bes' - g''.
+
+4) Dubbelgreep: d'-bes'-f''.
+
+5) Dubbelgreep: g klein oktaaf - es' - c''.
+"}</string>
+	<key>SignatureController-hasChangesWithRespectToTranscriptionSwitch</key>
+	<false/>
+	<key>SignatureController-headerTextView</key>
+	<string></string>
+	<key>SignatureController-isEachPhraseNewStaffSwitch</key>
+        <true/>
+	<key>SignatureController-isMeterInvisibleSwitch</key>
+	<false/>
+	<key>SignatureController-isMultiVoiceDocumentSwitch</key>
+	<false/>
+	<key>SignatureController-keyTextField</key>
+	<string>ees \major</string>
+	<key>SignatureController-partialTextField</key>
+	<string>8</string>
+	<key>SignatureController-relativeTextField</key>
+	<string>g'</string>
+	<key>SignatureController-stropheNumberTextField</key>
+	<string>1</string>
+	<key>SignatureController-tempoTextField</key>
+	<string>4=120</string>
+	<key>SignatureController-timeTextField</key>
+	<string>6/8</string>
+	<key>SignatureController-titleTextField</key>
+	<string>No30.</string>
+	<key>SignatureController-updateTextViewsWhenFieldChangedSwitch</key>
+	<true/>
+	<key>TextProcessingDefaults-beginSignatureTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-commentTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-endSignatureTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-inputTextView</key>
+	<string>bes8 g( es) bes'\staccatissimo g( es) bes'\staccatissimo as( f) bes\staccatissimo as( f) bes\staccatissimo g( es) bes'\staccatissimo g( es) bes'\staccatissimo f f^"1)" f f4^"1)"
+
+bes8 g( es) bes'\staccatissimo g( es) bes'\staccatissimo as( f) bes\staccatissimo as( f) bes\staccatissimo g( es) bes'\staccatissimo as f d es es^"2)" es es4^"2)" s8 \fine \bar "||"
+
+g'4.^"3)" es8 f g f4.^"4)" g16( f es d c bes) a8 bes c g' f es cis4. d4
+
+bes8 g'4. es8 f g f4.^"4)" g16( f es d c bes) a8 c f es c a bes bes bes bes4 \segno \bar "||"
+
+g8 c4.^"5)" \grace {es8} d8 c d es4. d c4 c8 \grace {d8} c8 bes c b16( c d) c b as g8 as b
+
+c4. \grace {es8} d8 c d es4. d c4 c8 c d b c c c c4 \dc \bar "||"</string>
+	<key>version</key>
+	<string>1.12</string>
+</dict>
+</plist>

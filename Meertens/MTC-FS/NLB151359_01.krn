@@ -1,0 +1,91 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB151359_01
+!! NLB record number: 151359
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4d	Een,
+4g	twee,
+4g	drie,
+4g	vier,
+=2	=2
+4f#	vijf,
+4a	zes,
+4g	ze-
+4d	-ven,
+=3	=3
+4d	Jan,
+4b	waar
+4b	is
+4b	je
+=4	=4
+4a	meis-
+8cc	-je
+8cc	ge-
+4b	-ble-
+4g;}	-ven?
+!! verse 1
+=5	=5
+{8cc	Is
+8cc	zij
+8cc	dan
+8cc	niet
+(4b	hier,
+4a)	.
+=6	=6
+8b	is
+8b	zij
+8b	dan
+8b	niet
+(4a	daar,
+4g)	.
+=7	=7
+4a	Is
+8a	zij
+8a	dan
+(8g	soms
+8f#)	.
+8e	in
+8f#	A-
+=8	=8
+4g	-me-
+4b	-ri-
+2dd;}	-ka?
+!! verse 2
+=9	=9
+{8cc	Is
+8cc	zij
+8cc	dan
+8cc	niet
+(4b	hier,
+4a)	.
+=10	=10
+8b	is
+8b	zij
+8b	dan
+8b	niet
+(4a	daar,
+4g)	.
+=11	=11
+4a	Is
+8a	zij
+8a	dan
+(8g	soms
+8f#)	.
+8e	in
+8f#	A-
+=12	=12
+4g	-me-
+4b	-ri-
+4g	-ka?
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

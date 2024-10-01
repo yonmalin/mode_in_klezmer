@@ -1,0 +1,105 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB133779_01
+!! NLB record number: 133779
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	Daar
+=1	=1
+8f	zat
+8e	nen
+8d	uit
+8c	en
+=2	=2
+8f	spon
+8f	spon
+8f;}	spon,
+!! verse 1
+{8g	Daar
+=3	=3
+8b-	zat
+8a	nen
+8g	uil
+8cc	en...
+=4	=4
+4.r;}	.
+!! verse 2
+{8c	Daar
+=5	=5
+8f	zat
+8e	nen
+8d	uil
+8c	en
+=6	=6
+8f	spon
+8f	spon
+8f;}	spon,
+!! verse 3
+{8g	Daar
+=7	=7
+8b-	zat
+8a	nen
+8g	uil
+8cc	en
+=8	=8
+4f	spon.
+8r;}	.
+!! verse 4
+{16a	En
+16b-	hij
+=9	=9
+*M3/8	*
+4cc	spon
+8a	dat
+=10	=10
+4dd	fijn-
+8cc	-ste
+=11	=11
+4cc	ga-
+8b-	-ren-
+=12	=12
+4b-;}	-tje,
+!! verse 5
+{16g	Fal-
+16a	-de-
+=13	=13
+4b-	-ri-
+8g	-o,
+=14	=14
+4cc	si-
+8b-	-o,
+=15	=15
+4b-	hop-
+8a	-sa-
+=16	=16
+[4.a	-sa!
+=17	=17
+4a];}	.
+!! verse 6
+{8a	Van
+=18	=18
+*M2/4	*
+8b-	bo-
+8a	-ven
+8g	op
+8cc	een...
+=19	=19
+4.r;}	.
+!! verse 7
+{8a	Van
+=20	=20
+8b-	bo-
+8a	-ven
+8g	op
+8cc	een
+=21	=21
+4.f;}	ton!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

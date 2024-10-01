@@ -1,0 +1,74 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113251_01
+!! NLB record number: 113251
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#c#]	*
+*D:	*
+!! verse 0
+=1	=1
+{8d	Kun
+8e	je
+8f#	dan
+8g	wel
+=2	=2
+4a	dan-
+8.dd	-sen
+16dd	de
+=3	=3
+4b	ze-
+8.b	-ven
+16b	de
+=4	=4
+4b	ze-
+4a;}	-ven
+!! verse 1
+=5	=5
+{8g	Kun
+8g	je
+8g	dan
+8g	wel
+=6	=6
+4f#	dan-
+8.a	-sen
+16a	de
+=7	=7
+4e	ze-
+4a	-ven-
+=8	=8
+4d	-sprong?
+8r;}	.
+!! verse 2
+{8a	Ja-
+=9	=9
+6a	-wel
+12f#	mijn-
+6d	-heer,
+12f#	die
+=10	=10
+*M5/8	*
+6a	ken
+12f#	ik
+4d;}	wel
+!! verse 3
+{8f#	die
+=11	=11
+*M2/4	*
+6a	ken-
+12f#	-nen
+6d	al-
+12f#	-le
+=12	=12
+6a	meis-
+12f#	-jes
+6d	wel,
+12f#	dat 's
+=13	=13
+2f#;}	een.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

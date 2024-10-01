@@ -1,0 +1,115 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074071_01
+!! NLB record number: 74071
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4b	Schoon-
+=1	=1
+8b	-lief
+8a	ont-
+4.g	-wak
+8dd	't is
+=2	=2
+8dd	mid-
+8ee	-der-
+4.dd;}	-nacht
+!! verse 1
+{8dd	sta
+=3	=3
+8dd	op
+8dd	en
+8ff#	laat
+8ee	uw
+8dd	min-
+8cc	-naar
+=4	=4
+4a	bin-
+4.b;}	-nen
+!! verse 2
+{8b	het
+=5	=5
+8b	is
+8a	Al-
+4g	-bert
+4dd	die
+=6	=6
+8.ee	naar
+16ee	u
+4.dd;}	vraagt
+!! verse 3
+{8dd	en
+=7	=7
+8cc#	gij
+8dd	schoon
+8ff#	lief
+8ee	schoon
+8.dd	en-
+16cc	-ge-
+=8	=8
+4a	-lin-
+4.b;}	-ne
+!! verse 4
+{8ee	het
+=9	=9
+*M4/4	*
+4.cc	is
+8b	Al-
+8cc	-bert
+8dd	Al-
+8.ee	-bert
+16ee	die
+=10	=10
+*M3/4	*
+8dd	naar
+8cc	u
+4.b;}	vraagt
+!! verse 5
+{8dd	en
+=11	=11
+*M4/4	*
+4.cc	gij
+8b	schoon-
+8cc	-lief
+8dd	ach
+8ee	hoor
+8ee	zijn
+=12	=12
+4.dd	droef
+8cc	ge-
+4b;}	-klaag
+!! verse 6
+{8cc	't is
+8dd	Al-
+=13	=13
+4.ee	-bert
+8ee	Al-
+8.ee	-bert
+16ee	die
+8ff#	naar
+8gg	u
+=14	=14
+[2dd	vraagt
+8dd];}	.
+!! verse 7
+{8dd	en
+8ee	gij
+8dd	schoon-
+=15	=15
+4.ff#	-lief
+8ee	ach
+8.dd	hoor
+16cc#	zijn
+8.cc	droef
+16f#	ge-
+=16	=16
+2.g;}	-klaag.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

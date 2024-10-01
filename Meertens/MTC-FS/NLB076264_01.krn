@@ -1,0 +1,86 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB076264_01
+!! NLB record number: 76264
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Daar
+=1	=1
+8.dd	bo-
+16dd	-ven
+8b	door
+8dd	het
+8.ee	ven-
+16dd	-ster-
+8dd;}	-tje
+!! verse 1
+{8dd	Daar
+=2	=2
+8dd	lag
+8cc	een
+8b	meis-
+8a	-je
+2g;}	fijn
+!! verse 2
+=3	=3
+{8g	Stil
+8g	kwam
+8g	daar
+16b	e-
+16b	-ne
+8.ee	mul-
+16dd	-der
+8dd;}	aan:
+!! verse 3
+{8dd	Zeg
+=4	=4
+8.dd	meis-
+16cc	-je
+8b	wilt
+8a	gij
+2g;}	mij?
+!! verse 4
+=5	=5
+{8dd	O
+8dd	gij
+8dd	mul-
+8dd	-der
+8ee	wit
+8ee	van
+4ee;}	meel
+!! verse 5
+=6	=6
+{8cc	gij
+8cc	die
+8cc	ie-
+8cc	-de-
+8dd	-reen
+8dd	be-
+8dd;}	-steelt.
+!! verse 6
+{8g	Gij
+=7	=7
+8g	zult
+16g	mij-
+16g	-ne
+8g	man
+8b	niet
+4.dd;}	zijn
+!! verse 7
+{16ee	mij-
+16ee	-ne
+=8	=8
+8dd	man
+8dd	zult
+8cc	gij
+8cc	niet
+4.b;}	zijn.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

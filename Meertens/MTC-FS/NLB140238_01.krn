@@ -1,0 +1,98 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140238_01
+!! NLB record number: 140238
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{4g	Drie
+8.e	ko-
+16f	-ning-
+4.g	-en,
+8g	zij
+=2	=2
+8g	kwa-
+8f	-men
+8e	uit
+8d	het
+4d	Oos-
+4c;}	-ten,
+!! verse 1
+=3	=3
+{4e	Troost
+8g	en
+8e	ver-
+4.d	-driet,
+8g	om
+=4	=4
+8b	Ma-
+8b	-ri-
+8a	-a
+8g	te
+4a	troos-
+4g;}	-ten,
+!! verse 2
+=5	=5
+{4g	Troost
+8b	en
+8a	ver-
+4g	-driet,
+8b	en
+8a	ze
+=6	=6
+8g	von-
+8f	-den
+8e	Je-
+8d	-zus
+8c;}	niet.
+!! verse 3
+{8g	Ma-
+8e	-ria,
+8f	Ons
+=7	=7
+2g	Lam,
+(8g	die
+8f)	.
+8e	was
+8d	de
+=8	=8
+4e	moe-
+4c;}	-der,
+!! verse 4
+{4e	och,
+8g	Glo-
+8e	-ri-
+=9	=9
+4d	-a,
+8.g	en-
+16g	-den
+8b	ex
+8b	Ce-
+8a	-ci-
+8a	-li-
+=10	=10
+2g;}	-a,
+!! verse 5
+{4g	och
+8.b	Glo-
+16a	-ri-
+=11	=11
+4g	-a,
+8.b	en
+16a	den
+8g	ex
+8f	Ce-
+8e	-ci-
+8d	-li-
+=12	=12
+2c	-a!
+2r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

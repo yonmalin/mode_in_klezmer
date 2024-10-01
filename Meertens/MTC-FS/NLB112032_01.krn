@@ -1,0 +1,110 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB112032_01
+!! NLB record number: 112032
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	Het
+=1	=1
+8c	is
+8d	van
+8e	den
+4f	en-
+8f	-gel
+=2	=2
+4f	Ga-
+8g	-bri-
+4f;}	-el
+!! verse 1
+{8f	dat
+=3	=3
+4g	wis-
+8g	-ten
+4g	al
+8f	die
+=4	=4
+4e	en-
+8d	-g'len
+4c;}	wel.
+!! verse 2
+{8c	Het
+=5	=5
+8c	is
+8d	van
+8e	den
+4f	en-
+8f	-gel
+=6	=6
+4f	Ga-
+8g	-bri-
+4f;}	-el
+!! verse 3
+{8f	dat
+=7	=7
+4g	wis-
+8g	-ten
+4g	al
+8f	die
+=8	=8
+4e	en-
+8d	-g'len
+4c;}	wel.
+!! verse 4
+{8c	Dat
+=9	=9
+4f	wis-
+8f	-ten
+4f	al
+8e	die
+=10	=10
+4d	en-
+8d	-g'len
+4b-	wel
+8b-	van
+=11	=11
+([4.cc	bo-
+4cc]	.
+8b-)	.
+=12	=12
+[4.a	-ven.
+4a];}	.
+!! verse 5
+{8f	dat
+=13	=13
+4g	wis-
+8g	-ten
+4g	al
+8f	die
+=14	=14
+4e	en-
+8d	-g'len
+4c;}	wel.
+!! verse 6
+{8c	Dat
+=15	=15
+4f	wis-
+8f	-ten
+4f	al
+8e	die
+=16	=16
+4d	en-
+8d	-g'len
+4b-	wel
+8b-	van
+=17	=17
+([4.cc	bo-
+8cc]	.
+8b-	.
+8g)	.
+=18	=18
+[4.f	-ven.
+4f];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,89 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB146322_01
+!! NLB record number: 146322
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-e-]	*
+*B-:	*
+!! verse 0
+{8d	En
+8d	waar
+=1	=1
+*M2/4	*
+8.d	leid-
+16d	-de
+8d	zei-
+8c	-de
+=2	=2
+*M4/4	*
+2d	zij
+4c	een
+4c	schoon
+=3	=3
+*M2/4	*
+8.d	doch-
+16c	-ter-
+8d	-tje
+8e-	van
+=4	=4
+4f;}	mij
+!! verse 1
+{8d	En
+8d	waar
+=5	=5
+*M2/4	*
+8.d	leid-
+16d	-de
+8d	zei-
+8c	-de
+=6	=6
+*M4/4	*
+2d	zij
+4c	een
+4c	schoon
+=7	=7
+*M2/4	*
+8.d	doch-
+16c	-ter-
+8d	-tje
+8e-	van
+=8	=8
+4f;}	mij
+!! verse 2
+{8f	En
+8f	waar
+=9	=9
+*M4/4	*
+4g	zal
+8g	jij
+8a	zo
+8b-	haas-
+(8a	-tig-
+8g)	.
+8g	-lijk
+=10	=10
+(4c	he-
+4g)	.
+4f;}	-nen
+!! verse 3
+{8f	En
+8f	waar
+=11	=11
+4g	zal
+8g	jij
+8a	zo
+(8cc	haas-
+8a)	.
+8g	-tig-
+8g	-lijk
+=12	=12
+(4c	he-
+4g)	.
+4f;}	-nen
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

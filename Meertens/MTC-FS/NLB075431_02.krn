@@ -1,0 +1,88 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075431_02
+!! NLB record number: 75431
+!! NLB strophe/voice number: 2
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Zij
+8g	is
+8a	toen
+=1	=1
+4b	voor
+4b	haar
+8a	va-
+8g	-der
+8a	moe-
+8dd	-ten
+=2	=2
+4b	tre-
+4.b;}	-den.
+!! verse 1
+{8dd	Hij
+8ee	sprak:
+8dd	Mijn
+=3	=3
+4.cc	kind,
+8a	zie
+8b	toch
+8cc	eens
+8ee	wat
+8ee	gij
+=4	=4
+[2dd	doet.
+8dd];}	.
+!! verse 2
+{8g	Ver-
+8g	-laat
+8dd	de
+=5	=5
+*M3/4	*
+8gg	jon-
+8ff#	-ge-
+8ee	-ling
+8ff#	op
+8gg	staan-
+8ee	-de
+=6	=6
+*M4/4	*
+4dd	voe-
+4.b;}	-ten
+!! verse 3
+{16a	Of
+16a	gij
+8b	zult
+8cc	de
+=7	=7
+4ee	dood-
+4dd	-straf
+8cc#	moe-
+8dd	-ten
+8ee	on-
+8dd	-der-
+=8	=8
+[2b	-gaan
+8b];}	.
+!! verse 4
+{16dd	Of
+16dd	gij
+8dd	zult
+8cc	de
+=9	=9
+4b	dood-
+4g	-straf
+8g	moe-
+8cc	-ten
+8b	on-
+8a	-der-
+=10	=10
+[2g	-gaan.
+8g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

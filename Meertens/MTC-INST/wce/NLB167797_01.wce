@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ExcelProcessingDefaults-beginSignatureRangeTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-beginSignatureScriptTextView</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-endSignatureRangeTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-endSignatureScriptTextView</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-fileNameTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-scoreLeftEdgeTextField</key>
+	<string>A1</string>
+	<key>ExcelProcessingDefaults-scoreRangeTextField</key>
+	<string>A1:Z100</string>
+	<key>ExcelProcessingDefaults-scoreScriptTextView</key>
+	<string></string>
+	<key>NLBController-incipitNormTextField</key>
+	<string></string>
+	<key>NLBController-melodyNormTextField</key>
+	<string></string>
+	<key>NLBController-recordIDTextField</key>
+	<string>167797</string>
+	<key>NLBController-tagsTextField</key>
+	<string></string>
+	<key>SignatureController-encoderNameTextField</key>
+	<string></string>
+	<key>SignatureController-footerTextView</key>
+	<string>\markup { \wordwrap-string #" 
+1) Achtste noot in bron.
+"}</string>
+	<key>SignatureController-hasChangesWithRespectToTranscriptionSwitch</key>
+	<false/>
+	<key>SignatureController-headerTextView</key>
+	<string></string>
+	<key>SignatureController-isEachPhraseNewStaffSwitch</key>
+        <true/>
+	<key>SignatureController-isMeterInvisibleSwitch</key>
+	<false/>
+	<key>SignatureController-isMultiVoiceDocumentSwitch</key>
+	<false/>
+	<key>SignatureController-keyTextField</key>
+	<string>e \mixolydian</string>
+	<key>SignatureController-partialTextField</key>
+	<string>4</string>
+	<key>SignatureController-relativeTextField</key>
+	<string>g'</string>
+	<key>SignatureController-stropheNumberTextField</key>
+	<string>1</string>
+	<key>SignatureController-tempoTextField</key>
+	<string>4=120</string>
+	<key>SignatureController-timeTextField</key>
+	<string>2/2</string>
+	<key>SignatureController-titleTextField</key>
+	<string>Nr. 38</string>
+	<key>SignatureController-updateTextViewsWhenFieldChangedSwitch</key>
+	<true/>
+	<key>TextProcessingDefaults-beginSignatureTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-commentTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-endSignatureTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-inputTextView</key>
+	<string>cis4 \grace { d8 } cis4 b8( a) \grace { a16 } gis8 gis gis fis \grace { gis8 } fis4 \grace { e16 fis } e8 r16 a16 \grace { a8 } gis4 a cis( b8) r16 a \grace { a8 } gis4 a cis2 b4 \sb cis cis b8( a) \grace { a16 } gis8 gis gis fis \grace { gis8 } fis4 \grace { e16 fis } e8 r16 e'16 fis4 b16( a) gis fis \grace { fis16 } e8 e g16 fis e d cis4( b)^\trill \grace { a16 b b8 } cis4. r16 \sb e^"1)" g( fis e fis) b( a gis fis) fis e d e g fis e d cis4 \grace { b16 a } b4 \grace { a16 b } a2 \bar ":|:"
+
+r4 cis \grace { b8 } a4 b8( cis) d d fis d \grace { e8 } d4 \grace { cis16 d } cis4 r8 \sb cis cis b a a gis fis b4. cis8 \grace { a8 } gis4 \grace { fis8 } e4 b'e \grace { e8 } dis4 cis8 b b4. \sb gis'8 \grace { gis4 } fis2 b,4 e \grace { d8 } cis4 d16 cis b a gis4 fis^\trill \grace { e16 fis } e1~ e2. \bar "|."</string>
+	<key>version</key>
+	<string>1.12</string>
+</dict>
+</plist>

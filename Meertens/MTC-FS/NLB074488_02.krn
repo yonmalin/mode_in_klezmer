@@ -1,0 +1,85 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074488_02
+!! NLB record number: 74488
+!! NLB strophe/voice number: 2
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4b	Het
+=1	=1
+4.a	was
+8b	's nachts
+4ee	twa-
+4dd	-lef
+=2	=2
+4cc	u-
+4b	-ren
+4r;}	.
+!! verse 1
+{4b	Het
+=3	=3
+4dd	meis-
+8dd	-je
+8dd	zag
+4ee	in
+4ee	de
+=4	=4
+4dd	droom
+2r;}	.
+!! verse 2
+{4dd	Dat
+=5	=5
+4ee	haar
+4ee	zoet-
+4ee	-lief
+8ee	was
+8ee	ver-
+=6	=6
+(4dd	-dron-
+4b)	.
+4g;}	-ken
+!! verse 3
+{4dd	Al
+=7	=7
+4dd	in
+8cc	e-
+8b	-ne
+4cc	wa-
+4dd	-ter
+=8	=8
+4b	stroom
+8b	ja
+8cc	o
+4dd	ja,
+4dd;}	Dat
+!! verse 4
+=9	=9
+{4ee	haar
+4ee	zoet-
+4ee	-lief
+8ee	was
+8ee	ver-
+=10	=10
+(4dd	-dron-
+4b)	.
+4g;}	-ken
+!! verse 5
+{4dd	Al
+=11	=11
+4dd	in
+8cc	e-
+8b	-ne
+4cc	wa-
+4dd	-ter
+=12	=12
+4b	stroom
+4r	.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

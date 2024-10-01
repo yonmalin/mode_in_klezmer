@@ -1,0 +1,100 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB107401_01
+!! NLB record number: 107401
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{4c	Jan-
+8d	-tje
+4e	trek
+8f	je
+=2	=2
+4g	want-
+8g	-jes
+4g;}	aan
+!! verse 1
+{8f	Want
+=3	=3
+4e	't is
+8e	zoo
+8d	bit-
+8d	-te-
+8d	-re
+=4	=4
+[4.c	koud
+4c];}	.
+!! verse 2
+{8G	Wij
+=5	=5
+4c	zij-
+8d	-ne
+4e	jon-
+8f	-ge
+=6	=6
+4.g	luid-
+4g;}	-jes
+!! verse 3
+{16f	En
+16f	we
+=7	=7
+4e	zij-
+8e	-ne
+4d	pas
+8d	ge-
+=8	=8
+[4.c	-trouwd
+4c];}	.
+!! verse 4
+{8e	En
+=9	=9
+4g	één
+8g	en
+4a	twee
+8a	is
+=10	=10
+[4.g	drie
+4g];}	.
+!! verse 5
+{8e	En
+=11	=11
+4g	nog
+8g	eens
+4a	drie
+8a	is
+=12	=12
+[4.g	zes
+4g];}	.
+!! verse 6
+{16e	en
+16e	de
+=13	=13
+4e	boer
+8e	ver-
+4e	-loor
+8e	zijn
+=14	=14
+4f	lin-
+8f	-ker-
+4a;}	-oor
+!! verse 7
+{8a	En 't
+=15	=15
+4g	pun-
+8g	-tje
+(8f	van
+8e)	.
+8d	zijn
+=16	=16
+[4.c	mes.
+4c]	.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

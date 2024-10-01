@@ -1,0 +1,106 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075214_01
+!! NLB record number: 75214
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{2dd	Ik
+=1	=1
+4g	ken
+4b	een
+4dd	heel
+4cc	schoon
+=2	=2
+4b	mes-
+2a;}	-ke
+!! verse 1
+{8.dd	Van
+16dd	den
+=3	=3
+4dd	oei
+4a	oei
+4a	oei,
+8.cc	van
+16cc	den
+=4	=4
+4b	ui
+4g	ui
+4g;}	ui.
+!! verse 2
+{4d	Ik
+=5	=5
+4g	ken
+4b	een
+4dd	heel
+4cc	schoon
+=6	=6
+4b	mes-
+2a;}	-ke
+!! verse 3
+{4dd	dat
+=7	=7
+8.dd	trouw-
+16dd	-de
+8.dd	mee
+16dd	'nen
+4ff#	ad-
+4ee	-vo-
+=8	=8
+2dd;}	-caat.
+!! verse 4
+{4.dd#	van
+8dd#	den
+=9	=9
+4ee	oei
+4cc	oei
+4cc	oei
+8.ee	van
+16ee	den
+=10	=10
+4dd	ui
+4b	ui
+4b;}	ui
+!! verse 5
+{4dd	dat
+=11	=11
+8.dd	trouw-
+16dd	-de
+8.cc	mè-
+16cc	-'nen
+4b	ad-
+4a	-vo-
+=12	=12
+2dd;}	-caat
+!! verse 6
+{4.dd#	van
+8dd#	den
+=13	=13
+4ee	oei
+4cc	oei
+4cc	oei
+8.ee	van
+16ee	den
+=14	=14
+4dd	ui
+4b	ui
+4b;}	ui
+!! verse 7
+{4dd	dat
+=15	=15
+8.dd	trouw-
+16dd	-de
+8.cc	mè-
+16cc	-'nen
+4b	ad-
+4a	-vo-
+=16	=16
+2g;}	-caat.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,77 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB122766_01
+!! NLB record number: 122766
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[b-]	*
+*d:	*
+!! verse 0
+=1	=1
+{4d	Daer
+4d	staet
+4d	een
+=2	=2
+4a	cloos-
+4a	-ter
+4a	in
+=3	=3
+2cc	Oos-
+4cc	-ten-
+=4	=4
+2f;}	-rijc,
+!! verse 1
+{4g	het
+=5	=5
+(4a	is
+4b-)	.
+4cc	so
+=6	=6
+2a	wel
+4b-	ghe-
+=7	=7
+2.a	-cie-
+=8	=8
+2a;}	-ret
+!! verse 2
+{4a	met
+=9	=9
+2b-	sil-
+4a	-ver
+=10	=10
+2g	en-
+4b-	-de
+=11	=11
+2a	roo-
+4a	-den
+=12	=12
+2d;}	gout,
+!! verse 3
+{4a	met
+=13	=13
+(4.g	roo-
+8a)	.
+(8b-	-den
+8a)	.
+=14	=14
+2cc;}	gout,
+!! verse 4
+{4a	met
+=15	=15
+(4b-	grau-
+4a)	.
+4g	-wen
+=16	=16
+(4f	steen
+4e)	.
+4e	door-
+=17	=17
+2.d	-moe-
+=18	=18
+2.d;}	-ret.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

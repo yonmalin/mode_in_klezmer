@@ -1,0 +1,53 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB076515_02
+!! NLB record number: 76515
+!! NLB strophe/voice number: 2
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Wat
+=1	=1
+4g	zag
+4b	hij
+4b	on-
+4a	-der-
+=2	=2
+4g	-we-
+4d	-gen
+4d;}	staan
+!! verse 1
+{8d	Een
+8d	mooi
+=3	=3
+8e	meis-
+8e	-je
+8e	aan-
+8e	-ge-
+4d;}	-daan,
+!! verse 2
+{8d	een
+8d	mooi
+=4	=4
+8e	meis-
+8e	-je
+8e	aan-
+8e	-ge-
+4d;}	-daan,
+!! verse 3
+{8d	Een
+8d	mooi
+=5	=5
+4d	meis-
+4cc	-je
+4b	aan-
+4a	-ge-
+=6	=6
+2.g;}	-daan.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

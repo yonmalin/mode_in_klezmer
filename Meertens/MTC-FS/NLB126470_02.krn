@@ -1,0 +1,67 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB126470_02
+!! NLB record number: 126470
+!! NLB strophe/voice number: 2
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{4.e	Slaap
+(8d	kind-
+8e)	.
+8d	-je
+=2	=2
+4.c	slaap!
+8r;}	.
+!! verse 1
+{(8e	daar
+8f)	.
+=3	=3
+4g	bui-
+8g	-ten
+4f	loopt
+8f	een
+=4	=4
+4.e	schaap,
+8r;}	.
+!! verse 2
+{(8e	een
+8f)	.
+=5	=5
+4g	schaap
+8g	met
+(8.g	wit-
+16f)	.
+8e	-te
+=6	=6
+4.f	voet-
+4f;}	-jes,
+!! verse 3
+{8f	dat
+=7	=7
+4e	drinkt
+8e	zijn
+(8.e	melk
+16d)	.
+8c	zoo
+=8	=8
+4.d	zoet-
+4d	-jes;
+8r;}	.
+!! verse 4
+=9	=9
+{4.e	Slaap
+(8d	kind-
+8e)	.
+8d	-je
+=10	=10
+4.c	slaap!
+4.r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

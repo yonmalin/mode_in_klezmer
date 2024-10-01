@@ -1,0 +1,67 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071953_02
+!! NLB record number: 71953
+!! NLB strophe/voice number: 2
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Des
+=1	=1
+4.cc	nachts
+8dd	om
+8b	twa-
+8g	-lef
+=2	=2
+(8a	u-
+8f#)	.
+4d;}	-ren
+!! verse 1
+{4d	Toen
+=3	=3
+4.cc	zij
+8dd	op
+16b	straat
+16b	geen
+16g	mens
+16g	meer
+=4	=4
+(8a	za-
+8f#)	.
+8d;}	-gen
+!! verse 2
+{8d	Zij
+8e	zijn
+8f#	ge-
+=5	=5
+4g	-gaan
+4b	langs
+8.b	e-
+16a	-ne
+=6	=6
+*M4/4	*
+(8g	kruis-
+8f#)	.
+4.e;}	-baan
+!! verse 3
+{8cc	Al
+8b	waar
+8a	zij
+=7	=7
+4dd	za-
+8.dd	-gen
+16ee	het
+8dd	beeld
+8dd	van
+8cc	Je-
+8cc	-zus
+=8	=8
+2b	staan
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

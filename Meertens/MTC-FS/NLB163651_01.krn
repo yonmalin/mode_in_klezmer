@@ -1,0 +1,87 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB163651_01
+!! NLB record number: 163651
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Ik
+=1	=1
+4.g	ging
+8a	laatst
+4b	o-
+8g	-ver
+8b	de
+=2	=2
+4dd	zee,
+8dd	ga
+8ee	je
+4dd;}	mee
+!! verse 1
+{8cc	en
+8b	ik
+=3	=3
+4a	ging
+4ee	laatst
+4dd	o-
+8dd	-ver
+8dd	de
+=4	=4
+2g	zee.
+4r;}	.
+!! verse 2
+{4d	Al
+=5	=5
+4.g	met
+8a	een
+4b	hou-
+(8g	-ten
+8b)	.
+=6	=6
+4dd	le-
+4dd	-pel-
+4dd;}	-tje
+!! verse 3
+{4dd	o-
+=7	=7
+4ee	-le
+4dd	o-
+4cc	-le
+4b	o
+=8	=8
+8a	fal-
+8b	-de-
+8a	-ral-
+8b	-de-
+4a;}	-ra
+!! verse 4
+{4d	Al
+=9	=9
+4.g	met
+8a	een
+4b	hou-
+(8g	-ten
+8b)	.
+=10	=10
+4dd	le-
+4dd	-pel-
+4dd;}	-tje
+!! verse 5
+{8cc	En
+8b	de
+=11	=11
+4a	steel
+4ee	die
+4dd	brak
+4dd	in
+=12	=12
+2g	twee.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

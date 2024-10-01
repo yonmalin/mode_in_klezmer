@@ -1,0 +1,100 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB112409_01
+!! NLB record number: 112409
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{4f	De
+=1	=1
+4.f	wijn
+8a	is
+(4cc	goed
+8.dd)	.
+16cc	en
+=2	=2
+(4cc	kost
+8b-)	.
+8a	geen
+4b-;}	geld
+!! verse 1
+{4b-	Dat
+=3	=3
+4.a	heb
+8a	ik
+(4a	aan
+8cc)	.
+8a	mijn
+=4	=4
+4.g	vriend
+8g	ver-
+4.a;}	-teld
+!! verse 2
+{8f	Kom
+=5	=5
+4.f	geef
+8a	me
+(4cc	nog
+8a)	.
+8f	een
+=6	=6
+2g	glaas-
+4f;}	-je
+!! verse 3
+{8f	Zet
+8f	het
+=7	=7
+8f	glaas-
+8f	-je
+8f	aan
+8f	je
+8f	lip-
+8f	-pen
+8f	zet
+8a	het
+=8	=8
+2cc;}	aan
+!! verse 4
+{4.ff	Laat
+8cc	het
+=9	=9
+4.cc	zacht
+8a	naar
+(4cc	bin-
+8b-)	.
+8g	-nen
+=10	=10
+4f;}	gaan
+!! verse 5
+{4fx	Al
+4fx	die
+8fx	hier
+8fx	ver-
+=11	=11
+8fx	-ga-
+8fx	-derd
+4fx;}	zijn
+!! verse 6
+{8a	Dat
+8cc	gaat
+4cc	goed
+=12	=12
+8a	bruid-
+8a	-je
+8a	bruid-
+8a	-je
+8a	Dat
+8cc	gaat
+4cc	goed
+=13	=13
+4g	bruid-
+4f	-je.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

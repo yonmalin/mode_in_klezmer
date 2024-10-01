@@ -1,0 +1,62 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB111659_01
+!! NLB record number: 111659
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#c#]	*
+*D:	*
+!! verse 0
+=1	=1
+{4.f#	Eerst
+8e	naar
+4f#	reu-
+4d	-ring
+=2	=2
+4f#	Dan
+8.e	naar
+16e	de
+4f#	keu-
+8.d;}	-ring
+!! verse 1
+{16e	En
+=3	=3
+4d	dan
+8.f#	er-
+16g	-eis
+4a	kij-
+8.b	-ken
+16a	hoe
+=4	=4
+4g	laat
+8.a	of
+16g	het
+4f#;}	is
+!! verse 2
+{4a	Van
+=5	=5
+16d	sin-
+16d	-ge-
+8d	-la
+4d	la
+16a	sin-
+16a	-ge-
+8a	-la
+4a;}	la
+!! verse 3
+=6	=6
+{16g	Sin-
+16g	-ge-
+8g	-la
+16g	sin-
+16g	-ge-
+8g	-la
+8b	hop-
+8a	-sa-
+4a;}	-sa.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

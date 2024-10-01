@@ -1,0 +1,51 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074935_01
+!! NLB record number: 74935
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M9/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{16b	En
+16a	er
+=1	=1
+8g	wa-
+8b	-ren
+8g	drie
+8d	zus-
+8g	-ters
+8cc	te-
+8b	-sa-
+8a;}	-men
+!! verse 1
+{16b	En
+16a	de
+=2	=2
+8g	een
+8b	was
+8g	veel
+8d	rij-
+8g	-ker
+16cc	dan
+16cc	de
+8b	an-
+8a;}	-der
+!! verse 2
+{16b	Maar
+16cc	die
+=3	=3
+8dd	der-
+8.ee	-de
+16dd	die
+(8a	had
+8cc)	.
+16b	er
+16a	geen
+4g;}	brood.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

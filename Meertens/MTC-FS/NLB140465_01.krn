@@ -1,0 +1,97 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140465_01
+!! NLB record number: 140465
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	De
+=1	=1
+4g	win-
+4g	-ter
+4a	is
+4dd	ver-
+=2	=2
+2b	-gan-
+4b;}	-gen
+!! verse 1
+{4cc	Ik
+=3	=3
+4a	zie
+4g	des
+4a	meis
+4f#	vir-
+=4	=4
+2.g;}	-tuut.
+!! verse 2
+{4d	Ik
+=5	=5
+4g	zie
+4g	die
+8a	loo-
+8a	-ver-
+4dd	-kens
+=6	=6
+2b	han-
+4b;}	-gen,
+!! verse 3
+{4cc	Die
+=7	=7
+4a	bloem-
+4g	-kens
+8a	spru-
+8a	-ten
+4f#	in 't
+=8	=8
+2.g;}	kruud.
+!! verse 4
+{(8g	In
+8a)	.
+=9	=9
+4b	ge-
+4b	-nen
+4b	groe-
+(8a	-nen
+8b)	.
+=10	=10
+2cc	da-
+4cc;}	-le
+!! verse 5
+{4cc	Daar
+=11	=11
+4b	is't
+4g	ge-
+4a	-noeg-
+(8cc	-lijk
+8b)	.
+=12	=12
+2.a;}	zijn,
+!! verse 6
+{4d	Daar
+=13	=13
+8g	zin-
+8g	-get
+4g	die
+4a	nach-
+4dd	-te-
+=14	=14
+2b	-ga-
+4b;}	-le,
+!! verse 7
+{8cc	End'
+8cc	zoo
+=15	=15
+4a	me-
+4g	-nig
+4a	vo-
+4f#	-gel-
+=16	=16
+2.g;}	-kijn.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

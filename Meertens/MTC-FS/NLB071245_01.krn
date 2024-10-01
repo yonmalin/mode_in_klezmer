@@ -1,0 +1,101 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071245_01
+!! NLB record number: 71245
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Wat
+4g	hoor
+8b	ik
+=1	=1
+*M9/8	*
+(4.dd	hier
+4ee)	.
+8dd	in 't
+8dd	mid-
+8b	-den
+8dd	al
+=2	=2
+*M6/8	*
+4dd	van
+8cc	de
+[4.b	nacht
+=3	=3
+4b];}	.
+!! verse 1
+{8g	Het
+4g	was
+8b	m'n
+=4	=4
+*M9/8	*
+(4.dd	min-
+4ee)	-naar
+8dd	ik
+(8dd	had
+8b)	.
+8dd	hem
+=5	=5
+4dd	niet
+8cc	ver-
+[4.b	-wacht
+4b];}	.
+!! verse 2
+{8dd	Ach
+=6	=6
+*M6/8	*
+8ee	min-
+8ee	-naar
+8ee	laat
+4ff#	mij
+8gg	met
+=7	=7
+4.dd;}	rust
+!! verse 3
+{4.ee	Ik
+=8	=8
+8ee	lei
+8dd	in
+8ee	mijn
+4ee	slaap
+8dd	ge-
+=9	=9
+4b;}	-rust
+!! verse 4
+{8g	Met
+4g	u
+8b	te
+=10	=10
+*M9/8	*
+4.dd	pa-
+4ee	-ren
+8dd	heb
+(8cc	ik
+8b)	.
+8a	geen
+=11	=11
+*M6/8	*
+4g;}	lust
+!! verse 5
+{8g	Met
+4g	u
+8b	te
+=12	=12
+*M9/8	*
+4.dd	pa-
+4ee	-ren
+8dd	heb
+(8cc	ik
+8b)	.
+8a	geen
+=13	=13
+*M6/8	*
+4g;}	lust
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

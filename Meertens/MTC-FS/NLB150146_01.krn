@@ -1,0 +1,120 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB150146_01
+!! NLB record number: 150146
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*a:	*
+!! verse 0
+=1	=1
+{4a	Hier
+4ee	komt
+4.ee	on-
+8dd	-ze
+=2	=2
+8cc	fie-
+8b	-re
+8b	Pink-
+8dd	-ster-
+4ee;}	-blom,
+!! verse 1
+{4a	En
+=3	=3
+4a	hier
+4ee	komt
+4ee	sy
+(8dd	haar
+8cc)	.
+=4	=4
+2b	gan-
+4a	-gen
+4r;}	.
+!! verse 2
+=5	=5
+{4a	Met
+4ee	haar
+4.ee	roo-
+8dd	-de
+=6	=6
+8cc	krans
+8b	al
+8b	om
+8dd	haar
+4ee;}	hoed,
+!! verse 3
+{4a	Met
+=7	=7
+4a	haar
+4ee	fol-
+4ee	-bloe-
+8dd	-ien-
+8cc	-de
+=8	=8
+2b	wan-
+4a;}	-gen
+!! verse 4
+{(8a	Is
+8b)	.
+=9	=9
+4cc	dat
+8b	dan
+8a	geen
+4g#	fier-
+4e	-de
+=10	=10
+(8a	Pink-
+8g#)	.
+(8a	-ster-
+8b)	.
+4cc;}	-blom,
+!! verse 5
+{(8b	Sy
+8cc)	.
+=11	=11
+4dd	wuurd
+8ee	it
+8ee	soo
+4ee	groach
+8dd	d'
+8cc	ris
+=12	=12
+2b	we-
+4a;}	-se!
+!! verse 6
+{(8a	For-
+8b)	.
+=13	=13
+4cc	-loor
+8b	sy
+8a	den
+4g#	haar
+8e	fier-
+8e	-de
+=14	=14
+(8a	maag-
+8g#)	.
+(8a	-den-
+8b)	.
+4cc;}	-blom,
+!! verse 7
+{(8b	Sy
+8cc)	.
+=15	=15
+8dd	kreegt
+8ee	fan 't
+8ee	lon-
+8ee	-ge
+4ee	jaar
+(8dd	niet
+8cc)	.
+=16	=16
+2b	weer-
+4a	-om.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

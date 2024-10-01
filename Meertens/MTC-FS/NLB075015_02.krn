@@ -1,0 +1,88 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075015_02
+!! NLB record number: 75015
+!! NLB strophe/voice number: 2
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8g	De
+=1	=1
+4a	zon
+8g	die
+8a	trok
+8a	er
+8b	niet
+=2	=2
+(4a	ho-
+8ee)	.
+8ee	-ger
+8ee	en
+8ee	het
+=3	=3
+4.dd	was
+4cc	goe-
+8cc	-den-
+=4	=4
+[4.b	-dag
+4b];}	.
+!! verse 1
+{8b	De
+=5	=5
+4a	zon
+8g	die
+4a	trok
+8b	niet
+=6	=6
+(4a	ho-
+8ee)	.
+4ee	-ger
+8ee	het
+=7	=7
+4.dd	was
+4cc	goe-
+8cc	-den-
+=8	=8
+[4.b	-dag
+4.b];}	.
+!! verse 2
+=9	=9
+*M9/8	*
+{4.dd	Dat
+(4ee	mij
+8dd)	.
+8ee	vrij-
+8dd	-heid
+16ee	niet
+16ee	ge-
+=10	=10
+*M6/8	*
+4.dd	-beu-
+4.cc	-ren
+=11	=11
+[4.b	mag
+4.b];}	.
+!! verse 3
+=12	=12
+*M9/8	*
+{(4dd	Dat
+8ff#)	.
+4ee	vrij-
+8dd	-heid
+8cc	niet
+8b	te
+8cc	ge-
+=13	=13
+*M6/8	*
+4.dd	-beu-
+4.a	-ren
+=14	=14
+[4.g	mag.
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

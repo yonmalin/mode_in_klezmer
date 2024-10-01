@@ -1,0 +1,65 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB076583_01
+!! NLB record number: 76583
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8.d	Luis-
+16d	-tert
+=1	=1
+4g	oud
+4f#	en
+4g	jong
+4a	van
+=2	=2
+(4g	ja-
+4f#)	.
+4e;}	-ren
+!! verse 1
+{8.f#	Luis-
+16g	-tert
+=3	=3
+4a	oud
+4a	en
+(8a	jong
+8g)	.
+(8f#	van
+8e)	.
+=4	=4
+(4d	ja-
+4g)	.
+4d;}	-ren
+!! verse 2
+{8B	 't Geen
+8c	ik
+=5	=5
+4d	voor
+4d	u
+4d	zin-
+4cc	-gen
+=6	=6
+8b	zal
+8dd	o
+8dd	ja
+8dd	o
+8dd;}	ja
+!! verse 3
+{8cc	Het-
+8cc	-geen
+8b	ik
+=7	=7
+4a	voor
+4cc	u
+4b	zin-
+4a	-gen
+=8	=8
+2.g;}	zal
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

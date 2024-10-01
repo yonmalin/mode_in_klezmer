@@ -1,0 +1,65 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB133686_01
+!! NLB record number: 133686
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{16g	Een
+=1	=1
+8.g	sou-
+16g	-daan
+8g	had
+8a	een
+=2	=2
+8.b-	doch-
+(32a	-ter-
+32g)	.
+8f	-tje
+16r;}	.
+!! verse 1
+{16b-	Zeer
+=3	=3
+8.b-	schoon
+16cc	van
+8dd	groo-
+8dd	-ten
+=4	=4
+*M3/8	*
+(16.cc	lo-
+32b-)	.
+8a	-ve
+16r;}	.
+!! verse 2
+{16a	Zy
+=5	=5
+*M2/4	*
+8.b-	pluk-
+16cc	-te
+8dd	's mor-
+8dd	-gens
+=6	=6
+8.g	bloe-
+(32a	-me-
+32b-)	.
+8cc	-tjes
+8r;}	.
+!! verse 3
+=7	=7
+{8b-	Al
+16a	in
+16g	haers
+8.b-	va-
+16g	-ders
+=8	=8
+4f	ho-
+8g	-ve
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

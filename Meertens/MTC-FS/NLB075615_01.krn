@@ -1,0 +1,84 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075615_01
+!! NLB record number: 75615
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Wat
+=1	=1
+4b	zag
+8dd	ik
+4ee	ginds
+8dd	van
+=2	=2
+*M9/8	*
+4.b	ver-
+[4.b	-re
+4b];}	.
+!! verse 1
+{8dd	Een
+=3	=3
+*M6/8	*
+4dd	heel
+8dd	mooi
+4cc	meis-
+8b	-je
+=4	=4
+[4.a	staan.
+4a];}	.
+!! verse 2
+{8dd	Twee
+=5	=5
+4ee	o-
+8ee	-gen
+4ee	als
+8ee	twee
+=6	=6
+*M9/8	*
+4.dd	ster-
+4gg;}	-ren
+!! verse 3
+{8ff#	Die
+8ee	blon-
+8dd	-ken
+8ee	me
+=7	=7
+*M6/8	*
+4.dd	vriend'-
+4.cc	-lijk
+=8	=8
+[4.b	aan.
+4b];}	.
+!! verse 4
+{8dd	Twee
+=9	=9
+4ee	o-
+8ee	-gen
+4ee	als
+8ee	twee
+=10	=10
+*M9/8	*
+(4dd	ster-
+8ff#)	.
+4gg;}	-ren
+!! verse 5
+{8ff#	Die
+8ee	blon-
+8dd	-ken
+8ee	me
+=11	=11
+*M6/8	*
+4.dd	vriend'-
+4.a	-lijk
+=12	=12
+[4.g	aan.
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

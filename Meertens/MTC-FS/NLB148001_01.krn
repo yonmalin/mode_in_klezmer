@@ -1,0 +1,70 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB148001_01
+!! NLB record number: 148001
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[]	*
+*d:dor	*
+!! verse 0
+{8dd	Mooi
+8b	Am-
+8b	-be-
+8cc	-recht
+=1	=1
+4dd	schreef
+8ee	een
+8dd	brie-
+8cc#	-ve-
+8dd	-tje
+=2	=2
+4b;}	fijn
+!! verse 1
+{8dd	Al
+4ee	die
+8dd	het
+=3	=3
+8cc	hoo-
+8b	-ren
+8cc	ze
+4cc	wil-
+8dd	-len
+=4	=4
+4.ee	't zien
+4r	.
+8r;}	.
+!! verse 2
+=5	=5
+{4.ee	'k Heb
+4gg	het
+8ff	van
+=6	=6
+4.dd	een
+(4ff	rijk
+8ee)	.
+=7	=7
+(8dd	ko-
+8cc)	.
+8ee	-nings-
+4.dd	-kind
+=8	=8
+4r;}	.
+!! verse 3
+{8ee	Die
+4ff	naar
+8gg	zen
+=9	=9
+4.ee	va-
+4cc	-der
+8dd	te
+=10	=10
+(8ee	ra-
+8dd)	.
+8ee	-de
+4.dd;}	ging
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

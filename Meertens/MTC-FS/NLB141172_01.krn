@@ -1,0 +1,113 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB141172_01
+!! NLB record number: 141172
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+=1	=1
+{4cc	Neen,
+4f	neen,
+4r	.
+4a	ik
+=2	=2
+4a	zeg
+4g	niets,
+4r;}	.
+!! verse 1
+{4c	ik
+=3	=3
+2b-	zeg
+4b-	het
+4b-	je
+=4	=4
+4b-	toch
+4a	niet!
+2r;}	.
+!! verse 2
+=5	=5
+{2dd	neen,
+2r	.
+=6	=6
+2cc	neen,
+4r;}	.
+!! verse 3
+{4b-	neen,
+=7	=7
+4a	neen,
+8cc	neen,
+8f	ik
+4g	zeg
+8f	het
+8e	je
+=8	=8
+2f;}	niet!
+!! verse 4
+{4cc	Neen,
+4f	neen,
+=9	=9
+4r	.
+4g	ik
+4f	zeg
+4e	niets,
+=10	=10
+2r	.
+4r;}	.
+!! verse 5
+{4c	ik
+=11	=11
+2cc	zeg
+4cc	het
+4cc	je
+=12	=12
+(4cc	toch
+4b-)	.
+2b-	niet!
+=13	=13
+2r;}	.
+!! verse 6
+{2a	Neen,
+=14	=14
+4r	.
+4a	ik
+4b-	zeg
+8a	het
+8g	je
+=15	=15
+2f;}	niet!
+!! verse 7
+{2f	Neen,
+=16	=16
+2r	.
+2cc	neen,
+=17	=17
+2r;}	.
+!! verse 8
+{2e	neen,
+=18	=18
+2r	.
+2f	neen,
+=19	=19
+4r;}	.
+!! verse 9
+{4d	neen,
+4d	neen
+4e	ik
+=20	=20
+4f	zeg
+4f	niets,
+4r;}	.
+!! verse 10
+{4g	ik
+=21	=21
+4f	zeg
+4f	niets!
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

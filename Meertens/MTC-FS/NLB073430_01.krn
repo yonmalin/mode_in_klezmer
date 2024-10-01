@@ -1,0 +1,64 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073430_01
+!! NLB record number: 73430
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Komt
+8dd	bur-
+8dd	-gers
+=1	=1
+4.dd	hoort
+8dd	komt
+8dd	bur-
+8dd	-gers
+=2	=2
+4.dd;}	ziet
+!! verse 1
+{8dd	Wat
+8dd	er
+8dd	te
+=3	=3
+4.ee	Raams-
+8dd	-donk
+8cc	is
+8a	ge-
+=4	=4
+8g;}	-schied
+!! verse 2
+{8a	Van
+8b	kre-
+8cc	-a
+8.dd	kroel-
+16dd	-de-
+=5	=5
+8cc;}	-ra
+!! verse 3
+{8cc	Van
+8cc	kre-
+8cc	-a
+8.ee	kroel-
+16ee	-de-
+=6	=6
+8dd;}	-ra
+!! verse 4
+{8dd	Van
+8dd	kre-
+8dd	-a
+8.ff#	kroel-
+16ff#	-de
+=7	=7
+8.ff#	roel-
+16ff#	-de-
+8ee	-roel-
+8ff#	-de
+4.gg;}	ra
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

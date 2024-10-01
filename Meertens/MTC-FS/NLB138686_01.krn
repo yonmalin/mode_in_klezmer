@@ -1,0 +1,131 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB138686_01
+!! NLB record number: 138686
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M5/4	*
+*MM120	*
+*k[b-]	*
+*g:dor	*
+!! verse 0
+=1	=1
+{4gg	In
+4gg	Oost-
+4gg	-lant
+4ff	wil
+4ee	ik
+=2	=2
+4cc	va-
+4dd	-ren
+2r;}	.
+!! verse 1
+{4ee	mijn
+=3	=3
+(4.ff	bli-
+8gg)	.
+4aa	-ven
+4.gg	en
+8ff	is
+=4	=4
+4gg	hier
+4ff	niet
+2dd	lanck
+4r;}	.
+!! verse 2
+=5	=5
+{4gg	Met
+4gg	een-
+4gg	-der
+4ff	schoon-
+4ee	-der
+=6	=6
+4cc	vrou-
+4dd	-wen
+2r;}	.
+!! verse 3
+{4ee	si
+=7	=7
+(4.ff	heeft
+8gg)	.
+4aa	mijn
+4.gg	her-
+8ff	-te-
+=8	=8
+4gg	-ken
+4ff	be-
+2dd	-vaen
+4r;}	.
+!! verse 4
+=9	=9
+*M3/4	*
+{4r	.
+4dd	Hi
+8dd	nam
+8dd	dat
+=10	=10
+*M5/4	*
+4dd	maech-
+4ee	-de-
+4ee	-ken
+4ff	bi-
+4ff	-der
+=11	=11
+2dd	hant
+2.r;}	.
+!! verse 5
+=12	=12
+{2r	.
+4.ff	al
+8ee	bi-
+4dd	-der
+=13	=13
+(4.cc	wit-
+8b-	.
+4a)	.
+2g	-te
+=14	=14
+2f	hand
+2.r;}	.
+!! verse 6
+=15	=15
+{8ff	hi
+8ff	ley-
+4ff	-de
+4ff	se
+4ff	op
+4ff	een
+=16	=16
+(4gg	eyn-
+2dd)	-de
+2r;}	.
+!! verse 7
+=17	=17
+{4r	.
+4dd	daer
+(4.ff	hi
+8gg)	.
+4aa	een
+=18	=18
+2gg	bed-
+4ff	-de-
+2gg	-ken
+=19	=19
+2dd	vant
+2.r;}	.
+!! verse 8
+=20	=20
+{2r	.
+4.ee	daer
+8ee	hi
+4dd	een
+=21	=21
+2cc	bed-
+4b-	-de-
+2a	-ken
+=22	=22
+1g;}	vant
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,114 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB076210_01
+!! NLB record number: 76210
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4dd	Een
+8.cc	koop-
+16a	-mans-
+4.b	-zoon
+16dd	en
+16dd	het
+=2	=2
+8g	was
+8a	een
+8b	e-
+8g	-nig
+4.d;}	kind.
+!! verse 1
+{16dd	Die
+16dd	al
+=3	=3
+*M3/4	*
+8.cc	in
+16cc	het
+16cc	bloe-
+16cc	-ien
+16a	van
+16a	zijn
+8e	jon-
+8f#	-ge
+=4	=4
+*M4/4	*
+(8g	ja-
+8dd)	.
+2.dd;}	-ren
+!! verse 2
+=5	=5
+{4dd	Al
+8.cc	op
+16a	So-
+4.b	-fie
+8dd	heeft
+=6	=6
+*M3/4	*
+8g	hij
+8a	zijn
+8b	zin-
+16g	-nen
+16g	ge-
+16.d;}	-steld
+!! verse 3
+{32d	Al
+16d	in
+16d	het
+=7	=7
+*M4/4	*
+16e	bloe-
+16e	-ien
+16f#	van
+16f#	zijn
+8g	jon-
+8a	-ge
+(12b	ja-
+12g	.
+12ee)	.
+(16ee	-ren
+8dd);}	.
+!! verse 4
+{16ee	El-
+=8	=8
+8dd	-kan-
+16cc	-der
+16cc	op-
+8a	-recht
+8cc	be-
+[4b	-mind
+16.b];}	.
+!! verse 5
+{32d	Al
+16d	in
+16d	het
+=9	=9
+*M4/4	*
+16e	bloe-
+16e	-ien
+16f#	van
+16f#	zijn
+8g	jon-
+8a	-ge
+(12b	ja-
+12g	.
+12ee)	.
+(16ee	-ren
+8dd);}	.
+!! verse 6
+{16ee	El-
+=10	=10
+8dd	-kan-
+16cc	-der
+16cc	op-
+8a	-recht
+8cc	be-
+2b;}	-mind
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

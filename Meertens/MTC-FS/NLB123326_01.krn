@@ -1,0 +1,105 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB123326_01
+!! NLB record number: 123326
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[]	*
+*d:dor	*
+!! verse 0
+=1	=1
+{2a	Puik-
+4a	-je
+=2	=2
+2g	van
+4e	de
+=3	=3
+2.f	Maeg-
+=4	=4
+2.e;}	-den,
+!! verse 1
+=5	=5
+{2f	wie
+4g	zal
+=6	=6
+2a	u
+4f	ver-
+=7	=7
+2.e	-ee-
+=8	=8
+2.d;}	-ren?
+!! verse 2
+=9	=9
+{2a	Die
+4a	elk
+=10	=10
+2g	een
+4e	be-
+=11	=11
+2.f	-haeg-
+=12	=12
+2.e;}	-den
+!! verse 3
+=13	=13
+{2f	om
+4g	u
+=14	=14
+2a	lof
+4f	te
+=15	=15
+2.e	mee-
+=16	=16
+2.d;}	-ren.
+!! verse 4
+=17	=17
+{2a	Wie
+4b	zal
+=18	=18
+2cc	niet
+4dd	be-
+=19	=19
+2.b	-gee-
+=20	=20
+2a;}	-ren
+!! verse 5
+{4a	te
+=21	=21
+2g	zin-
+4g	-gen
+=22	=22
+2a	u-
+4f	-we
+=23	=23
+2.e;}	deugd?
+!! verse 6
+=24	=24
+{2.a	Uw
+=25	=25
+4.f	re-
+8g	-den
+4a	en
+=26	=26
+4f	ze-
+4.g	-den
+8f	die
+=27	=27
+4e	ge-
+4.f	-ven
+8e	ons
+=28	=28
+4d	't le---
+4c;}	-ven
+!! verse 7
+{4A	en
+=29	=29
+(4d	zoe-
+4f)	.
+4e	-te
+=30	=30
+2.d;}	vreugd.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

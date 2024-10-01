@@ -1,0 +1,114 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB122851_01
+!! NLB record number: 122851
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*a:	*
+!! verse 0
+{4a	Die
+=1	=1
+4a	vo-
+8a	-ghel-
+8a	-kens
+4cc	in
+4a	der
+=2	=2
+(8cc	mui-
+8b	.
+8cc	.
+8dd)	.
+4ee;}	-ten,
+!! verse 1
+{4ee	sy
+=3	=3
+*M6/8	*
+4ee	sin-
+8dd	-ghen
+4cc	ha-
+8b	-ren
+=4	=4
+*M4/4	*
+2a	tijt.
+2r;}	.
+!! verse 2
+=5	=5
+{4a	sal
+4a	icks
+4a	my
+4a	ont-
+=6	=6
+(8cc	-hou-
+8b	.
+8cc	.
+8dd)	.
+4ee;}	-den?
+!! verse 3
+{4ee	ick
+=7	=7
+*M6/8	*
+4ee	ben
+8dd	mijns
+4cc	lief -
+8b	-kens
+=8	=8
+*M4/4	*
+2a	quyt.
+4r;}	.
+!! verse 4
+{4cc	Waer
+=9	=9
+4cc	sal
+4ee	icks
+4dd	my
+4cc	ont-
+=10	=10
+4.b	-hou-
+8cc;}	-den,
+!! verse 5
+{4dd	ende
+4cc	ick
+=11	=11
+4a	haer
+4g	so
+8e	gaer-
+4a	-ne
+(16g	aen-
+16f)	.
+=12	=12
+2e	-sie.
+4r;}	.
+!! verse 6
+{4b	Al
+=13	=13
+4cc	spreec
+8dd	ick
+8dd	u
+(8ee	lief-
+8dd)	.
+8cc	-ken
+(16b	so
+16a)	.
+=14	=14
+4ee	sel-
+2ee;}	-den,
+!! verse 7
+{4ee	ick
+=15	=15
+*M6/8	*
+8ee	scenc
+8.dd	u
+16dd	mijn
+8.cc	hert-
+16cc	-ken
+8b	is
+=16	=16
+*M4/4	*
+2.a;}	fier.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

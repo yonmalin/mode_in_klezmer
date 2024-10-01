@@ -1,0 +1,83 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074953_01
+!! NLB record number: 74953
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Des
+=1	=1
+4g	mor-
+8g	-gens
+4g	om
+8b	half
+=2	=2
+8b	vie-
+[4a	-fe
+4a];}	.
+!! verse 1
+{8dd	Dan
+=3	=3
+4dd	kom
+8ee	m'n
+8dd	wie-
+8a	-der
+8cc	ge-
+=4	=4
+8cc	-schwin-
+[4b	-del
+4b];}	.
+!! verse 2
+{8g	Al
+=5	=5
+4ee	naar
+8dd	ons
+4cc	ar-
+8ee	-beid
+=6	=6
+4dd	ach
+8dd	o
+4b;}	wee
+!! verse 3
+{8dd	En
+=7	=7
+8dd	Wil-
+8dd	-lems-
+8a	-hoav'n
+8cc	aan
+8dd	'n
+8dd	Noord-
+=8	=8
+[4.b	-zee.
+4b];}	.
+!! verse 4
+{8g	Al
+=9	=9
+4ee	naar
+8dd	ons
+4cc	ar-
+8ee	-beid
+=10	=10
+4dd	ach
+8dd	o
+4b;}	wee
+!! verse 5
+{8dd	En
+=11	=11
+8dd	Wil-
+8dd	-lems-
+8a	-hoav'n
+8cc	aan
+8cc	'n
+8b	Noord-
+=12	=12
+[4.g	-zee.
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

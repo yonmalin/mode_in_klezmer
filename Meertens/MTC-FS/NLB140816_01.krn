@@ -1,0 +1,55 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140816_01
+!! NLB record number: 140816
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#c#g#]	*
+*f#:	*
+!! verse 0
+{4c#	Prijst
+=1	=1
+2a	toch
+2g#	den
+=2	=2
+2f#	dag,
+4r;}	.
+!! verse 1
+{4c#	Als
+=3	=3
+4cc#	kil
+4b	de
+4a	mor-
+4g#	-gen-
+=4	=4
+4a	-ne-
+4g#	-vel
+4f#;}	grauwt:
+!! verse 2
+{4e#	Want
+=5	=5
+4f#	straks
+4g#	rijst
+4a	stra-
+4b	-lend
+=6	=6
+4a	uit
+4b	de
+4cc#;}	kim
+!! verse 3
+{4cc#	De
+=7	=7
+4cc#	zon
+(8dd	gloei-
+8b)	.
+4a	-end
+4g#	als
+=8	=8
+2f#	goud.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

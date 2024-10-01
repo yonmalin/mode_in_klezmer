@@ -1,0 +1,76 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113227_01
+!! NLB record number: 113227
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	En
+=1	=1
+8.f	ach
+16f	m'n
+8.f	lie-
+16f	-ve
+=2	=2
+4f	meis-
+8.c	-je
+16c	ik
+=3	=3
+8.f	zal
+16e	het
+8.f	je
+16g	wel
+=4	=4
+4a	zeg-
+4f;}	-gen
+!! verse 1
+=5	=5
+{4a	dat
+8.a	ik
+16a	me
+=6	=6
+8.a	hand-
+16a	-je
+8.g	op
+16f	je
+=7	=7
+4f	hoofd-
+8.e	-je
+16d	wil
+=8	=8
+4d	leg-
+8c;}	-gen
+!! verse 2
+{8c	En
+=9	=9
+4f	zoo
+8c	ga-
+8c	-ne
+=10	=10
+4f	wij
+8c	naar
+8c	den
+=11	=11
+4f	Ha-
+4a	-ha-
+=12	=12
+2cc;}	-haag
+!! verse 3
+=13	=13
+{4b-	Zoo
+8g	ga-
+8g	-nen
+=14	=14
+4e	wij
+8c	naar
+8c	den
+=15	=15
+4.f;}	Haag.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

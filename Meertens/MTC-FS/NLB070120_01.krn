@@ -1,0 +1,95 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070120_01
+!! NLB record number: 70120
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4b	Val-
+4b	-der
+4b	wol
+4b	mi
+=2	=2
+2b	ge-
+4a;}	-ven
+!! verse 1
+{4b	ain
+=3	=3
+4dd	boer
+4dd	al
+4cc	met
+4b	ge-
+=4	=4
+2.a;}	-weld
+!! verse 2
+{4b	ain
+=5	=5
+4cc	boer
+4cc	al
+4cc	om
+4cc	te
+=6	=6
+2b	le-
+4g;}	-ven
+!! verse 3
+{4g	en
+=7	=7
+4a	dat
+4cc	al-
+4b	-lein
+4a	om
+=8	=8
+2g	geld
+4r;}	.
+!! verse 4
+{4dd	o
+=9	=9
+4dd	neen
+4dd	o
+4ee	neen
+4dd	een
+=10	=10
+4dd	kno-
+4cc	-re-
+4cc;}	-boer
+!! verse 5
+{8cc	en
+8b	die
+=11	=11
+4cc	staat
+4ee	ook
+4dd	al-
+4cc	-tijd
+=12	=12
+4cc	op
+4b	de
+4b;}	loer
+!! verse 6
+{4d	en
+=13	=13
+4g	dan
+4g	en
+4g	dan
+4b	en
+=14	=14
+2.dd;}	dan
+!! verse 7
+{8dd	en
+8ee	wat
+=15	=15
+4dd	doe
+4cc	ik
+4b	met
+4a	zo'n
+=16	=16
+2.g	man
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

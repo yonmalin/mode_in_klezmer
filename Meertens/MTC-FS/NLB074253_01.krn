@@ -1,0 +1,94 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074253_01
+!! NLB record number: 74253
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Er
+8.d	was
+16g	een
+=1	=1
+4.g	meis-
+8d	-je
+8.g	dat
+16f#	ging
+=2	=2
+4e	treu-
+4d;}	-ren
+!! verse 1
+{8.d	dat
+16g	ging
+=3	=3
+4.g	beed'-
+8d	-lend
+8.g	langs
+16e	de
+=4	=4
+4e	deu-
+2d;}	-ren
+!! verse 2
+=5	=5
+*M2/4	*
+{4b	 't kwam
+4b	voor-
+=6	=6
+4a	-bij
+8.a	e-
+16b	-nen
+=7	=7
+4cc	heer
+8.dd	zij-
+16cc	-ne
+=8	=8
+4.b;}	deur
+!! verse 3
+{8a	het
+=9	=9
+4a	be-
+8.b	-del-
+16a	-de
+=10	=10
+4g	met
+4b	een
+=11	=11
+4a	droef
+4f#	ge-
+=12	=12
+2g;}	-treur
+!! verse 4
+=13	=13
+{4b	 't kwam
+4b	voor-
+=14	=14
+4a	-bij
+8.a	e-
+16b	-nen
+=15	=15
+4cc	heer
+8.dd	zij-
+16cc	-ne
+=16	=16
+4.b;}	deur
+!! verse 5
+{8a	het
+=17	=17
+4a	be-
+8.b	-del-
+16a	-de
+=18	=18
+4g	met
+4b	een
+=19	=19
+4a	droef
+4f#	ge-
+=20	=20
+4.g;}	-treur
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

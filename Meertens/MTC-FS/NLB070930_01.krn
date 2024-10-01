@@ -1,0 +1,74 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070930_01
+!! NLB record number: 70930
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{2a	Moal,
+4.b	moal,
+8b	woar
+=2	=2
+4a	is
+4a	de
+4.g;}	moal?
+!! verse 1
+{8b	Hai's
+=3	=3
+2a	hier
+4g	nait
+4b	hai's
+=4	=4
+2a	doar
+4g;}	nait!
+!! verse 2
+{4b	Woar
+=5	=5
+4a	is
+4a	hai
+4g	din?
+4b	In 't
+=6	=6
+2a	geut-
+4g;}	-gat
+!! verse 3
+{4b	Wat
+=7	=7
+4a	deet
+4a	hai
+4g	doar?
+4b	Hai
+=8	=8
+4a	kamt
+4a	zien
+4g;}	hoar,
+!! verse 4
+{4g	Hai
+=9	=9
+4a	wast
+4a	zien
+4b	gat
+4b	mit 'n
+=10	=10
+4a	boes-
+4a	-kool-
+4g	-blad
+4r;}	.
+!! verse 5
+=11	=11
+{2a	Foei,
+4b	foei
+4b	wat
+=12	=12
+2a	stinkt
+4g	dat!
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

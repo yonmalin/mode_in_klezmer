@@ -1,0 +1,90 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB149872_01
+!! NLB record number: 149872
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{(8g	Wer
+8a)	.
+=1	=1
+4b	moast
+4b	dou
+(8b	nou
+8cc)	.
+=2	=2
+4dd	hin-
+4b	-ne,
+(8b	myn
+8cc)	.
+=3	=3
+4dd	schut-
+4b;}	-ter?
+!! verse 1
+{(8g	Wer
+8a)	.
+=4	=4
+4b	moast
+4b	dou
+(8b	nou
+8cc)	.
+=5	=5
+4dd	hin-
+4b	-ne,
+(8b	myn
+8cc)	.
+=6	=6
+4dd	schut-
+4b;}	-ter?
+!! verse 2
+{(8a	Nei
+8b)	.
+=7	=7
+8cc	Bra-
+8cc	-bant
+8cc	ta,
+8cc	myn
+8dd	ljea-
+8cc	-we
+=8	=8
+4cc	Nyn-
+4b;}	-ke!
+!! verse 3
+{(8a	Nei
+8b)	.
+=9	=9
+8cc	Bra-
+8cc	-bant
+8cc	ta,
+8cc	myn
+8dd	ljea-
+8cc	-we
+=10	=10
+4b	Tryn!
+4r;}	.
+!! verse 4
+{4d	Kom,
+=11	=11
+4g	taap-
+4g	-je
+4b	ris
+=12	=12
+4dd	yn
+4r	.
+4b	Kom,
+=13	=13
+4a	taap-
+4dd	-je
+(8cc	ris
+8a)	.
+=14	=14
+4g	yn.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

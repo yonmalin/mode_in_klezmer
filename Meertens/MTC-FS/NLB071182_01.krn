@@ -1,0 +1,100 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071182_01
+!! NLB record number: 71182
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8g	An-
+8g	-ton
+8g	met
+8g	den
+4g	bok
+8r;}	.
+!! verse 1
+{8d	den
+=2	=2
+8g	wol
+8g	is
+8g	rie-
+8a	-en
+4b	le-
+8g;}	-ren
+!! verse 2
+{8g	Toen
+=3	=3
+8a	har-
+8a	-rer
+8a	nog
+8a	geen
+4a	peerd
+8r;}	.
+!! verse 3
+{8b	Toen
+=4	=4
+8cc	kon
+8cc	er
+8b	dat
+8a	niet
+4a	le-
+8g;}	-ren
+!! verse 4
+{8d	Toen
+=5	=5
+8g	nam
+8g	z'n
+8g	moe
+8g	'n
+8g	sie-
+8g	-ge-
+4g;}	-bok
+!! verse 5
+=6	=6
+{8g	zet-
+8g	-te
+4g	doar
+8g	An-
+8g	-ton
+4g;}	op
+!! verse 6
+=7	=7
+{8g	Sie-
+8g	-ge-
+4g	-bok
+8g	An-
+8g	-ton
+8g	d'r
+8g;}	op
+!! verse 7
+=8	=8
+{8g	is
+8a	dat
+8b	dan
+8cc	geen
+4dd	sjeu-
+4dd	-ne
+=9	=9
+4ee	rij-
+4ee	-e-
+2dd;}	-rij
+!! verse 8
+=10	=10
+{8cc	Is
+8cc	dat
+8cc	dan
+8cc	geen
+4b	sjeu-
+4b	-ne
+=11	=11
+4a	rij-
+4a	-e-
+2g;}	-rij.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

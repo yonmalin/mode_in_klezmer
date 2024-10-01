@@ -1,0 +1,115 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074036_01
+!! NLB record number: 74036
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8.dd	Vrien-
+16dd	-den
+8dd	ik
+8dd	zal
+4gg	U
+8ff#	er
+8gg	een
+=2	=2
+4cc	klucht-
+8gg	-je
+8ff#	ver-
+4ee	-ha-
+8dd;}	-len
+!! verse 1
+{8cc	al
+=3	=3
+(8b	van
+8cc)	.
+4dd	een
+4.ee	lo-
+8dd	-ze
+=4	=4
+4cc	schip-
+4b	-pers-
+4.a;}	-vent
+!! verse 2
+{8dd	al
+=5	=5
+4dd	van
+8bb	der
+8aa	een
+4.gg	lo-
+8ff#	-ze
+=6	=6
+4ee	schip-
+4dd	-pers-
+4.cc;}	-vent
+!! verse 3
+{8dd	die
+=7	=7
+4ee	o-
+8ff#	-ver
+8gg	de
+(4aa	zee
+8bb)	.
+8aa	was
+=8	=8
+4gg	wel-
+8ff#	-le-
+8gg	-be-
+2dd;}	-kend
+!! verse 4
+=9	=9
+{4.gg	Hij
+8ff#	kon
+4gg	zei-
+8ff#	-len
+8ee	al
+=10	=10
+4dd	bij
+(8gg	de
+8ff#)	.
+(8ee	nacht
+8dd);}	.
+!! verse 5
+{8cc	net
+8dd	zo
+=11	=11
+4ee	wel
+4ee	al
+(4dd	bij
+8ee)	.
+8ff#	de
+=12	=12
+1gg;}	dag
+!! verse 6
+=13	=13
+{4.gg	Hij
+8ff#	kon
+4gg	zei-
+8ff#	-len
+8ee	al
+=14	=14
+4dd	bij
+(8gg	de
+8ff#)	.
+(8ee	nacht
+8dd);}	.
+!! verse 7
+{8cc	net
+8dd	zo
+=15	=15
+4ee	wel
+4ee	al
+(4dd	bij
+8ee)	.
+8ff#	de
+=16	=16
+1gg;}	dag
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

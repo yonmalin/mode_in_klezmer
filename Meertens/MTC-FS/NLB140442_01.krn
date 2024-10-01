@@ -1,0 +1,85 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140442_01
+!! NLB record number: 140442
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[]	*
+*e:phr	*
+!! verse 0
+{4e	Toen
+=1	=1
+4.g	Han-
+8g	-se-
+4g	-lijn
+=2	=2
+4.g	o-
+8g	-ver
+4g	de
+=3	=3
+2a	hei-
+4g	-de
+=4	=4
+2a;}	reed
+!! verse 1
+{4a	Hoe
+=5	=5
+2cc	haas-
+4cc	-tig
+=6	=6
+4b	werd
+4a	hij
+4a	ge-
+=7	=7
+(2g	-van-
+4f)	.
+=8	=8
+2e;}	-gen
+!! verse 2
+{4e	Hij
+=9	=9
+4a	werd
+4a	al
+4a	op
+=10	=10
+2a	ee-
+4a	-nen
+=11	=11
+*M4/4	*
+4g	to-
+4g	-ren
+2e	ge-
+=12	=12
+2c	-leid,
+4r;}	.
+!! verse 3
+{4c	Ge-
+=13	=13
+*M3/4	*
+2g	-boeid
+4g	wel
+=14	=14
+(4e	al
+4f)	.
+4g	zoo
+=15	=15
+*M3/2	*
+2a	stran-
+2g	-ge,
+4r;}	.
+!! verse 4
+{4cc	Ja
+=16	=16
+*M3/4	*
+(4.b	stran-
+8a	.
+8g	.
+8f)	.
+=17	=17
+2e;}	-ge.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

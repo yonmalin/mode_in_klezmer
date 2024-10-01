@@ -1,0 +1,96 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB122586_01
+!! NLB record number: 122586
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[b-]	*
+*d:	*
+!! verse 0
+=1	=1
+{2dd	Myn
+4dd	hert-
+4dd	-ken
+=2	=2
+4a	heeft
+(8cc#	al-
+8dd)	.
+4ff	-tijds
+(8ee	ver-
+8dd)	.
+=3	=3
+2ee	-lan-
+2a	-ghen,
+=4	=4
+4r;}	.
+!! verse 1
+{4ee	Naer
+4ff	u
+4ff	die
+=5	=5
+4ee	al-
+4gg	-der-
+(8ff	-lief-
+8ee)	.
+(8dd	-ste
+8cc#)	.
+=6	=6
+2dd;}	mijn,
+!! verse 2
+{2cc	Die
+=7	=7
+4ee	al-
+4dd	-der-
+(8cc	-lief-
+8b-)	.
+(8a	-ste
+8g)	.
+=8	=8
+1a	mijn
+=9	=9
+4r;}	.
+!! verse 3
+{4ff	U
+4ee	lief-
+4dd	-de
+=10	=10
+4.cc	he-
+8b-	-vet
+4a	my
+4a	soe
+=11	=11
+4.b-	seer
+8a	be-
+(4dd	-van-
+4cc#)	.
+=12	=12
+2dd;}	-ghen,
+!! verse 4
+{4.ee	U
+8ee	vry-
+=13	=13
+4.ff	-ei-
+8ff	-gen'
+4ee	wil-
+4dd	-lic
+=14	=14
+2cc;}	sijn
+!! verse 5
+{4ee	U
+4ee	vry-
+=15	=15
+4ff	-ei-
+(8ee	-ge-
+8gg)	-ne
+(8ff	wil-
+8ee)	.
+(8dd	-ic
+8cc#)	.
+=16	=16
+1dd;}	sijn.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

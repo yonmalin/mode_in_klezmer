@@ -1,0 +1,49 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071261_01
+!! NLB record number: 71261
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8b	Lie-
+8b	-ve
+8b	schip-
+8b	-per
+8b	vaar
+8dd	mij
+=2	=2
+(8dd	o-
+8cc)	.
+2a;}	-ver
+!! verse 1
+=3	=3
+{8cc	Lie-
+8cc	-ve
+8cc	schip-
+8cc	-per
+8cc	vaar
+8ee	mij
+=4	=4
+(8ee	o-
+8dd)	.
+4b;}	-ver
+!! verse 2
+{8g	Naar
+8b	dat
+=5	=5
+4.dd	gind-
+8b	-se
+8.cc	dorp-
+16a	-je
+=6	=6
+(4a	heen
+4g);}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

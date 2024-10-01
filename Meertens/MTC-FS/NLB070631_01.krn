@@ -1,0 +1,60 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070631_01
+!! NLB record number: 70631
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Mag
+=1	=1
+4g	ik
+4g	nait
+4g	sin-
+4g	-gen
+=2	=2
+4g	wat
+4d	ik
+4d;}	wil,
+!! verse 1
+{(8e	Hou
+8d)	.
+=3	=3
+4c	holt
+4c	ik
+(8c	dan
+8e)	.
+(8d	mien
+8c)	.
+=4	=4
+4B	klein-
+4B	-tje
+4B	stil
+8r;}	.
+!! verse 2
+{8d	Mien
+=5	=5
+4d	man
+4B	is
+4.e	thoes
+8B	mien
+=6	=6
+4c	man
+4A	is
+4.d;}	thoes
+!! verse 3
+{8g	mien
+=7	=7
+4b	lai-
+4d	-ve,
+4e	lai-
+4f#	-ve
+=8	=8
+2.g;}	man.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

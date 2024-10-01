@@ -1,0 +1,83 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074673_01
+!! NLB record number: 74673
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8b	Kom
+=1	=1
+4a	bur-
+8a	-gers
+8b	wij
+4a	we-
+8g	-ten
+8a	al-
+=2	=2
+4b	-weer
+4dd	een
+4a	lied
+8r;}	.
+!! verse 1
+{8b	van
+=3	=3
+4a	wat
+8a	er
+8b	hier
+4a	laatst
+8g	in
+8a	ons
+=4	=4
+4b	dorp
+8dd	is
+8dd	ge-
+4a	-schied
+8r;}	.
+!! verse 2
+{8a	het
+=5	=5
+4b	is
+8b	van
+8b	een
+4cc	koop-
+4ee	-mans-
+=6	=6
+(4dd	-zoon-
+4b)	.
+4dd	-tje
+8r;}	.
+!! verse 3
+{8a	Die
+=7	=7
+4dd	vrij-
+4dd	-de
+4g	met
+4b	een
+=8	=8
+4a	dienst-
+8a	-mei-
+8f#	-den-
+4d;}	-maagd
+!! verse 4
+{8e	en
+8f#	hij
+=9	=9
+4g	kon
+8b	d'r
+8cc	wel
+4dd	veel
+8dd	be-
+8cc	-ter
+=10	=10
+(4b	krij-
+4a)	.
+4g	-gen.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

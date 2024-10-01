@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Mode in Klezmer Music"
+  description: "Supplemental Materials for MTO Submission"
+  site-url: "https://shanahdt.github.io/mus-345-445/"
+  repo-url: "https://github.com/shanahdt/mus-345-445"
+  repo-actions: [edit, issue]
+  # navbar:
+  #   left:
+  #     - href: index.qmd
+  #       text: Home
+  #     - href: course-syllabus.qmd
+  #       text: Syllabus
+  #     
+
+  open-graph: true
+
+  sidebar:
+    style: "docked"
+    search: true
+    title: false
+    pinned: false
+    collapse-level: 0
+    contents:
+      - about.qmd
+      - section: "The Corpus"
+        contents:
+          - introduction.qmd
+          - data_files.qmd
+        collapse-level: 1
+      - section: "Mode in Klezmer Music"
+        contents:
+          - analyses_by_mode.qmd
+
+         
+
+          
+
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2023, Yonatan Malin and Daniel Shanahan"
+    background: "#D9E3E4"
+
+
+format:
+  html:
+    theme:
+      light: [flatly, theme.scss]
+      dark: [flatly, theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
+    toc: true

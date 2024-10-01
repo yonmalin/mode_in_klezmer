@@ -1,0 +1,90 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075111_01
+!! NLB record number: 75111
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8.gx	't Was
+16g	er
+8g	op
+8g	een
+4g	a-
+4a	-vond,
+=2	=2
+4b	a-
+(8b	-vond
+8a)	.
+4.g;}	laat,
+!! verse 1
+{8b	Dat
+=3	=3
+4b	ik
+8.b	er
+16a	ging
+4b	wan-
+4dd	-d'len
+=4	=4
+(8dd	o-
+8ee)	.
+8dd	-ver
+8cc	die
+4b;}	straat.
+!! verse 2
+{8g	En
+8b	het
+=5	=5
+4dd	maan-
+4dd	-tje
+4dd	scheen
+8ee	er
+8dd	zo
+=6	=6
+(4cc	duis-
+4ee)	.
+2dd;}	-ter,
+!! verse 3
+=7	=7
+{4.b	Ja,
+8b	o
+(8b	ja
+8dd	.
+8cc)	.
+8b	zo
+=8	=8
+(4a	duis-
+4dd)	.
+4dd;}	-ter
+!! verse 4
+{8g	Dat
+8b	ik
+=9	=9
+4dd	schier
+4dd	geen
+4cc	ster
+4dd	meer
+=10	=10
+(8.b	zag.
+16a	.
+8b	.
+8cc	.
+4dd);}	.
+!! verse 5
+{8g	Dat
+8b	ik
+=11	=11
+4dd	schier
+4dd	geen
+4cc	ster
+4dd	meer
+=12	=12
+2.b;}	zag.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

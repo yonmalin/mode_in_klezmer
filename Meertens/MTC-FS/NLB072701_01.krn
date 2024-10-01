@@ -1,0 +1,64 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072701_01
+!! NLB record number: 72701
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Het
+=1	=1
+8g	was
+8b	op
+8dd	een
+8.dd	zoa-
+16cc	-ter-
+8b	-dag-
+=2	=2
+4.a	-ao-
+4g;}	-vend
+!! verse 1
+{8b	Stond
+=3	=3
+8b	ik
+8a	veur
+8b	men
+8cc	zoe-
+8dd	-te-
+8ee	-liefs
+=4	=4
+[4.ee	deur,
+4ee];}	.
+!! verse 2
+{16dd	En
+16dd	ik
+=5	=5
+8gg	riep
+8ff#	er
+8gg	wel
+8ee	Bet-
+8dd	-je
+8b	doe
+=6	=6
+(4cc	o-
+8b)	.
+4a;}	-pen
+!! verse 3
+{8dd	Ik
+=7	=7
+8ee	stao
+8ff#	hier
+8gg	al
+8dd	lan-
+8b	-ge
+8a	maor
+=8	=8
+[4.g	veur.
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

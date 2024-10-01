@@ -1,0 +1,93 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB126476_01
+!! NLB record number: 126476
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{4.d	Roe!
+4.e	roe!
+=2	=2
+4.d	kind-
+4c	-je,
+8c	joe
+=3	=3
+4d	ben
+8d	je
+4e	toch
+8e	zo
+=4	=4
+4.d	stout!
+4.r;}	.
+!! verse 1
+=5	=5
+{4d	Heb
+8d	je
+4d	pijn
+8d	in
+=6	=6
+4.e	't buik-
+4e;}	-je,
+!! verse 2
+{8e	of
+=7	=7
+4d	zijn
+8d	je
+(8d	voet
+8e)	.
+8d	jes
+=8	=8
+4.c	koud!
+4r;}	.
+!! verse 3
+{8c	We
+=9	=9
+8d	zul-
+8d	-len
+8d	een
+4e	vuur-
+8e	-tje
+=10	=10
+4.d	sto-
+4c	-ken;
+8r;}	.
+!! verse 4
+=11	=11
+{4d	en
+8d	een
+4e	pap-
+8e	-je
+=12	=12
+4.d	ko-
+4c	-ken;
+8r;}	.
+!! verse 5
+=13	=13
+{4e	't Wieg-
+8c	-je
+4c	dat
+8c	gaat
+=14	=14
+4e	zwik,
+8r	.
+4e	zwak,
+8r;}	.
+!! verse 6
+=15	=15
+{4d	voor
+8c	den
+4d	klei-
+8e	-ne
+=16	=16
+4.c	dik-
+4c	-zak.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

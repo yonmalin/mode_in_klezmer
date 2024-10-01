@@ -1,0 +1,92 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073475_01
+!! NLB record number: 73475
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4dd	Ik
+8cc	ben
+8b	ver-
+4cc	-blijd
+4dd	ver-
+=2	=2
+8.ee	-blijd
+16ee	van
+8.dd	mijn
+16cc#	jonk
+4dd	le-
+4b;}	-ven
+!! verse 1
+=3	=3
+{4dd	Ik
+8cc	heb
+8b	er
+4cc	al
+4dd	aan
+=4	=4
+4ee	die
+8dd	wet
+8cc#	vol-
+2dd;}	-daan
+!! verse 2
+=5	=5
+{4g	Nu
+8b	wil
+8dd	ik
+4gg	mij
+8ff#	in
+8ee	het
+=6	=6
+8.ee	hu-
+16dd	-we-
+8ff#	-lijk
+8ee	be-
+4dd	-ge-
+8.b;}	-ven
+!! verse 3
+{16b	En
+=7	=7
+8cc	naar
+8dd	mijn
+8ee	Ro-
+8ee	-sa-
+4dd	-li-
+4cc	-na
+=8	=8
+1b;}	gaan.
+!! verse 4
+=9	=9
+{4g	Nu
+8b	wil
+8dd	ik
+4gg	mij
+8ff#	in
+8ee	het
+=10	=10
+8.ee	hu-
+16dd	-we-
+8ff#	-lijk
+8ee	be-
+4dd	-ge-
+8.b;}	-ven
+!! verse 5
+{16b	En
+=11	=11
+8cc	naar
+8dd	mijn
+8ee	Ro-
+8ee	-sa-
+4dd	-li-
+4cc	-na
+=12	=12
+1b;}	gaan.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,77 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB123159_01
+!! NLB record number: 123159
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8f	Te
+=1	=1
+[4f	Kiel-
+8f]	.
+4f	-drecht,
+8a	te
+=2	=2
+[4cc	Kiel-
+8cc]	.
+4cc;}	-drecht,
+!! verse 1
+{8cc	daer
+=3	=3
+4cc	zijn
+8cc	de
+4ff	meis-
+8ee	-kens
+=4	=4
+4.dd	koe-
+4cc;}	-ne,
+!! verse 2
+{8cc	zy
+=5	=5
+4cc	vrij-
+8cc	-en
+4dd	tot
+8dd	den
+=6	=6
+4cc	mid-
+8b-	-der-
+4a;}	-nacht,
+!! verse 3
+{8cc	en
+=7	=7
+4cc	sla-
+8cc	-pen
+4dd	tot
+8b-	den
+=8	=8
+(4a	noe-
+8g)	.
+4.f;}	-ne.
+!! verse 4
+=9	=9
+{4.ff	Ik
+4f	maei,
+8f	is
+=10	=10
+4g	dat
+8a	niet
+4f;}	fraei?
+!! verse 5
+{8cc	en
+=11	=11
+4cc	sla-
+8cc	-pen
+4dd	tot
+8b-	den
+=12	=12
+(4a	noe-
+8g)	.
+4f;}	-ne.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

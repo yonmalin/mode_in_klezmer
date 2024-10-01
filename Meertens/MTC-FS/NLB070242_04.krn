@@ -1,0 +1,70 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070242_04
+!! NLB record number: 70242
+!! NLB strophe/voice number: 4
+**kern	**text
+*staff1	*staff1
+*M12/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	En
+=1	=1
+4g	is
+8g	de
+4a	week
+8a	ten
+4.b;}	end
+!! verse 1
+{4.ee	dan
+=2	=2
+4dd	gooi-
+8dd	-en
+8dd	we
+8cc	ze in
+8b	de
+8b	wij-
+[4a	-e
+4a];}	.
+!! verse 2
+{8d	M'n
+=3	=3
+4g	bees-
+8g	-jes
+4a	per-
+8a	-ti-
+4.b;}	-nent
+!! verse 3
+{4.ee	dat
+=4	=4
+4dd	kan
+8dd	een
+(8cc	dag-
+8b)	.
+8a	-je
+8a	lij-
+[4g	-je
+4g];}	.
+!! verse 4
+{8d	En
+=5	=5
+4g	ons
+8g	gaen
+4d	naar
+8d	de
+4.g;}	meid
+!! verse 5
+{4.ee	In
+=6	=6
+4dd	al-
+8dd	-le
+(8cc	eer-
+8b)	.
+8a	-baar-
+[4.g	-heid
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

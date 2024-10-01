@@ -1,0 +1,362 @@
+!!!COM: Haydn, Franz Joseph
+!!!OPR: String Quartet in C Major
+!!!ONM: Opus 20, No. 2
+!!!OTL: Allegro 
+!!!OMV: 3
+!!!SCT: H III:32
+!!!SCA: Thematisch-bibliographisches Werkevererzeichnis (A. van Hoboken)
+!!!YOR: Trautwein Edition
+!!!ENC: Frances Bennion
+!!!CDT: 1732/3/31/-1809/5/31/
+!!!CNT: Oesterreich
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+**solfa	**solfa	**solfa	**solfa
+*k[]	*k[]	*k[]	*k[]
+*C:	*C:	*C:	*C:
+*clefF4	*clefC3	*clefG	*clefG
+*M3/4	*M3/4	*M3/4	*M3/4
+4do	[2.do	[2.so	[2.mi 2.so
+4do	.	.	.
+[4do	.	.	.
+=2	=2	=2	=2
+4do]	4do]	2.so_	4mi 4so]
+4re	4re	.	4fa
+[4ti	[4ti	.	[4re
+=3	=3	=3	=3
+4ti]	4ti]	2.so_	[4re 4so]
+4do	4do	.	4mi
+[4mi	[4mi	.	[4so
+=4	=4	=4	=4
+4mi]	4mi]	2.so_	4so 4so]_
+4re	4re	.	4fa
+[4do	[4do	.	[4mi
+=5	=5	=5	=5
+4do]	4do]	2.so]	4mi 4so]
+4ti	4ti	.	4re
+4do	4do	.	4mi
+=6	=6	=6	=6
+[2.so	[2.re	[2.ti	[2.fa 2.so
+=7	=7	=7	=7
+2so]	2re]	2ti]	2fa]
+4r	4r	8re	16fa
+.	.	.	16mi
+.	.	8mi	16fa
+.	.	.	16so
+=8	=8	=8	=8
+2.r	2.r	4fa	4la
+.	.	4mi	4so
+.	.	4re	4fa
+=9	=9	=9	=9
+2.r	2.r	4re	4fa
+.	.	4do	4mi
+.	.	4ti	4ri
+=10	=10	=10	=10
+2.r	2.r	2.ti	2.ri
+=11	=11	=11	=11
+4r	4r	4do	4mi
+4do	4do	4so	4mi
+4la	4la	4do	4fi
+=12	=12	=12	=12
+4ti	2so	2.re	4so
+4ti	.	.	4so
+4fi	4re	.	4la
+=13	=13	=13	=13
+4so	4re	4re	4ti
+2r	2r	4so	4ti
+.	.	4la	4do
+=14	=14	=14	=14
+2.r	2.r	4ti	4re
+.	.	4so	4ti
+.	.	4r	4so
+=15	=15	=15	=15
+4so	4re	4ti	2re
+4so	4re	4ti	.
+4r	4r	4r	8fi
+.	.	.	8so
+=16	=16	=16	=16
+4so	4re	4ti	4re
+4so	4re	4ti	4re
+4r	4r	4r	8fi
+.	.	.	8so
+=17	=17	=17	=17
+2.r	2.r	2.r	4re
+.	.	.	8mi
+.	.	.	8fi
+.	.	.	8so
+.	.	.	8la
+=18	=18	=18	=18
+2r	2r	2r	4ti
+.	.	.	4r
+4ti	4ti	4ti	4ti
+=19	=19	=19	=19
+4do	4do	4do	4do
+4la	4la	4la	4la
+4re	4re	4re	4re
+=20	=20	=20	=20
+4so	4so	4so	4so
+2r	2r	2r	2r
+=21	=21	=21	=21
+4so	2.r	2.r	2so 2so]
+2r	.	.	.
+.	.	.	4fi
+=22	=22	=22	=22
+2.r	2r	2r	4fa 4so
+.	.	.	4mi
+.	4do	4fi	4me
+=23	=23	=23	=23
+4so	4ti	4so	4re 4so
+2r	2r	2r	4so
+.	.	.	4fi
+=24	=24	=24	=24
+2.r	2r	2r	4fa 4so
+.	.	.	4mi
+.	4do	4fi	4me
+=25	=25	=25	=25
+4so	4ti	4so	4re 4so
+2r	2r	2r	4so
+.	.	.	4fi
+=26	=26	=26	=26
+2.r	2r	2r	4fa 4so
+.	.	.	4mi
+.	4do	4fi	4me
+=27	=27	=27	=27
+4so	4ti	4so	4re 4so
+2r	4r	4r	4so
+.	4do	4fi	4me
+=28	=28	=28	=28
+4so	4ti	4so	4so 4re
+2r	2r	2r	2r
+=29	=29	=29	=29
+4do	[2.do	[2.so	[2.mi 2.so
+4do	.	.	.
+[4do	.	.	.
+=30	=30	=30	=30
+4do]	4do]	2.so_	4mi 4so]_
+4re	4re	.	4fa
+[4ti	[4ti	.	[4re
+=31	=31	=31	=31
+4ti]	4ti]	2.so_	4re 4so]_
+4do	4do	.	4mi
+[4mi	[4mi	.	[4so
+=32	=32	=32	=32
+4mi]	4mi]	2.so_	4so 4so]_
+4re	4re	.	4fa
+[4do	[4do	.	[4mi
+=33	=33	=33	=33
+4do]	4do]	2.so]	4mi 4so]
+4ti	4ti	.	4re
+4do	4do	.	4mi
+=34	=34	=34	=34
+[2.so	[2.re	[2.ti	[2.fa 2.so
+=35	=35	=35	=35
+2so]	2re]	2ti]	2fa]
+4r	4r	8re	16fa
+.	.	.	16mi
+.	.	8mi	16fa
+.	.	.	16so
+=36	=36	=36	=36
+2.r	2.r	4fa	4la
+.	.	4mi	4so
+.	.	4re	4fa
+=37	=37	=37	=37
+2.r	2.r	4re	4fa
+.	.	4do	4mi
+.	.	4re	4fa
+=38	=38	=38	=38
+4mi	4do	4mi	4so
+2r	2r	8do	8mi
+.	.	8re	8fa
+.	.	8mi	8so
+.	.	8fa	8la
+=39	=39	=39	=39
+2r	2r	4so	4te
+.	.	4fa	4la
+4do	4do	4mi	4so
+=40	=40	=40	=40
+4fa	2do	4fa	4la
+4fa	.	4do	4la
+4re	4re	4fa	4ti
+=41	=41	=41	=41
+4mi	2so	4mi	4do
+4mi	.	4so	4do
+4ti	4fa	4so	4re
+=42	=42	=42	=42
+4do	4mi	4so	4mi
+2r	2r	4do	4mi
+.	.	4re	4fa
+=43	=43	=43	=43
+2.r	2.r	4mi	4so
+.	.	2r	8so
+.	.	.	8mi
+.	.	.	8la
+.	.	.	8fa
+=44	=44	=44	=44
+4do	4so	4mi	2so
+4do	4so	4mi	.
+4r	4r	4r	4do
+=45	=45	=45	=45
+4do	4so	4mi	4so
+4do	4so	4mi	4so
+4r	4r	4r	4do
+=46	=46	=46	=46
+2r	2r	2r	2so
+4la	4la	4mi	4do
+=47	=47	=47	=47
+4fa	4fa	4la	4re
+4r	4r	4fa	4fa
+4so	4fa	4re	4ti
+=48	=48	=48	=48
+4do	4mi	4mi	4do
+2r	2r	2r	2r
+=49	=49	=49	=49
+[2.do	[2.do	[2.so	[2.mi
+=50	=50	=50	=50
+4do]	4do]	2.so_	4mi]
+4re	4re	.	4fa
+[4ti	[4ti	.	[4re
+=51	=51	=51	=51
+4ti]	4ti]	2.so_	4re]
+4do	4do	.	4mi
+[4mi	[4mi	.	[4so
+=52	=52	=52	=52
+4mi]	4mi]	2.so_	4so]
+4re	4re	.	4fa
+4do	4do	.	4mi
+=53	=53	=53	=53
+4do	4do	2.so]	4mi
+4ti	4ti	.	4re
+4do	4do	.	4mi
+=54	=54	=54	=54
+2.fa	[2.fa	2.la	2.fa
+=55	=55	=55	=55
+2.so	2.fa]	2.ti	4re
+.	.	.	4do
+.	.	.	4re
+=56	=56	=56	=56
+4do	4mi	4do	4do
+2r	2r	2r	2r
+=57	=57	=57	=57
+*c:	*c:	*c:	*c:
+4do	[2.do	[2.me	2.so
+4ti	.	.	.
+4do	.	.	.
+=58	=58	=58	=58
+4le	2.do]	2.me]	[2.fa
+4le	.	.	.
+4le	.	.	.
+=59	=59	=59	=59
+4te	[2.te	[2.re	2.fa]
+4le	.	.	.
+4te	.	.	.
+=60	=60	=60	=60
+4so	2.te]	2.re]	[2.me
+4so	.	.	.
+4so	.	.	.
+=61	=61	=61	=61
+4le	[2.le	[2.do	2.me]
+4so	.	.	.
+4le	.	.	.
+=62	=62	=62	=62
+4fa	2.le]	2.do]	[2.re
+4fa	.	.	.
+4fa	.	.	.
+=63	=63	=63	=63
+4so	2.so	2.ti	2.re]
+4fa	.	.	.
+4so	.	.	.
+=64	=64	=64	=64
+4me	4do	4do	4me
+4do	4do	4do	4do
+4te	4te	4te	4te
+=65	=65	=65	=65
+4le	4le	4le	4le
+4so	4so	4so	4so
+4fi	4fi	4fi	4fi
+=66	=66	=66	=66
+4so	4so	4so	4so
+4so	4so	4so	4so
+4r	4r	4ti	4re
+=67	=67	=67	=67
+2.r	2.r	4do	4me
+.	.	4r	4r
+.	.	4fi	4do
+=68	=68	=68	=68
+4so	4so	4so	4ti
+2r	2r	2r	2r
+=69	=69	=69	=69
+2.te	2.te	2.te	2.te
+=70	=70	=70	=70
+2.ra	2.ra	2.ra	2.ra
+=71	=71	=71	=71
+4do	4do	4do	4do
+4te	4te	4te	4te
+4so	4so	4so	4so
+=72	=72	=72	=72
+4le	4le	4le	4le
+4mi	4mi	4mi	4mi
+4fa	4fa	4fa	4fa
+=73	=73	=73	=73
+2.do	2.do	2.do	2.do
+=74	=74	=74	=74
+2.me	2.me	2.me	2.me
+=75	=75	=75	=75
+4re	4re	4re	4re
+4do	4do	4do	4do
+4la	4la	4la	4la
+=76	=76	=76	=76
+4ti	4ti	4ti	4ti
+4fi	4fi	4fi	4fi
+4so	4so	4so	4so
+=77	=77	=77	=77
+4so	4r	4r	[2.so
+2r	4re	4fi	.
+.	4me	4so	.
+=78	=78	=78	=78
+4so	4r	4r	2.so_
+2r	4di	4mi	.
+.	4re	4fa	.
+=79	=79	=79	=79
+4so	4r	4r	2.so_
+2r	4ti	4re	.
+.	4do	4me	.
+=80	=80	=80	=80
+4so	4r	4r	2.so]
+2r	4la	4di	.
+.	4ti	4re	.
+=81	=81	=81	=81
+4so	4r	4r	[2.so
+2r	4do	4me	.
+.	4do	4me	.
+=82	=82	=82	=82
+4so	4r	4r	2.so]
+2r	4ti	4re	.
+.	4ti	4re	.
+=83	=83	=83	=83
+4so	4r	4r	2.fi
+2r	4la	4do	.
+.	4la	4do	.
+=84	=84	=84	=84
+4so	4so	4ti	4so
+2r	2r	2r	2r
+=85	=85	=85	=85
+4so	4so	4ti	4so
+2r	2r	2r	2r
+=86	=86	=86	=86
+4so	4so	4ti	4so
+2r	2r	2r	2r
+==	==	==	==
+*-	*-	*-	*-
+!!!RWG1: This file contains only pitch and duration data.
+!!!RWG2: Transposing instruments are not transposed.
+!!!RWG3: Spines may have incompatible meters.
+!!!RWG4: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!GTL: 6 Divertimentos ("Sun")
+!!!AFT: stage1
+!!!END: 1997/04/15
+!!!KEY: 1398784136
+!!!EMD: Converted from MuseData to Humdrum Dec 16, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EMD: Manual editing by Craig Sapp, Nov 2001

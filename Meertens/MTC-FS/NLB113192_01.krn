@@ -1,0 +1,78 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113192_01
+!! NLB record number: 113192
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	Hier
+=1	=1
+4f	ach-
+8f	-ter
+4a	in
+8g	de
+=2	=2
+4f	Rid-
+8f	-der-
+4g;}	-straat
+!! verse 1
+{8a	Daar
+=3	=3
+4b-	woont
+8a	een
+4b-	meis-
+8dd	-je
+=4	=4
+4.cc	fijn.
+4r;}	.
+!! verse 2
+{8a	Ma-
+=5	=5
+4b-	-troos-
+8a	-je
+4b-	kan
+8cc	haar
+=6	=6
+4.dd	hel-
+4.dd;}	-pen
+!! verse 3
+=7	=7
+{4.cc	Ja,
+(8cc	ja
+8b-)	.
+8a	van
+=8	=8
+8g	fal-
+8g	-de-
+8g	-ra-
+4g;}	-la
+!! verse 4
+{8a	Ma-
+=9	=9
+4b-	-troos-
+8a	-je
+4b-	kan
+8cc	haar
+=10	=10
+4.dd	hel-
+(8dd	-pen
+8cc);}	.
+!! verse 5
+{8b-	van
+=11	=11
+4a	al
+8a	haar
+(8g	smart
+8f)	.
+8g	en
+=12	=12
+4.f	pijn.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

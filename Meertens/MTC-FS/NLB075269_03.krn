@@ -1,0 +1,46 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075269_03
+!! NLB record number: 75269
+!! NLB strophe/voice number: 3
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{16b	En
+16b	ik
+=1	=1
+8cc	vroeg
+8b	aan
+8a	haar
+16b	of
+16b	ze
+=2	=2
+4cc	mee
+4dd	wou
+=3	=3
+16ee	sjie-
+16ee	-re-
+16ee	-wie-
+16ee	-re
+8ee;}	wiet
+!! verse 1
+{16a	En
+16a	ik
+=4	=4
+8b	vroeg
+8cc	aan
+8dd	haar
+16ee	of
+16ee	ze
+=5	=5
+4dd	mee
+4cc	wou
+=6	=6
+4.b;}	gaan
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,141 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB139301_04
+!! NLB record number: 139301
+!! NLB strophe/voice number: 4
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4g	Twaalf
+4b	is
+2g	twaalf:
+=2	=2
+4g	de
+8b	twaalf
+8a	a-
+8.g	-pos-
+16g	-te-
+4d	-len,
+=3	=3
+4g	Elf
+8b	dui-
+8a	-zend
+4g	maag-
+4d;}	-den,
+!! verse 1
+=4	=4
+{4g	De
+8b	tien
+8a	ge-
+4g	-bo-
+4d	-den,
+=5	=5
+8.g	Die
+16g	den
+8.b	Heer
+16a	be-
+4g	-hoo-
+4d;}	-ren,
+!! verse 2
+=6	=6
+{8.g	Ne-
+16g	-gen
+12b	ko-
+12b	-ren
+12a	der
+8.g	en-
+16g	-ge-
+4d	-len,
+=7	=7
+4g	Acht
+8b	za-
+8a	-lig-
+4g	-he-
+4d;}	-den,
+!! verse 3
+=8	=8
+{8.g	Ze-
+16g	-ven
+8.b	sa-
+16a	-cra-
+4g	-men-
+4d	-ten,
+=9	=9
+4g	Zes
+8b	fles-
+8a	-schen
+2g	wijn,
+=10	=10
+4g	Vijf
+8b	boe-
+8a	-ken
+4g	Mo-
+4d;}	-zes'
+!! verse 4
+=11	=11
+{8.g	Vier
+16g	e-
+8.b	-van-
+16a	-ge-
+4g	-lis-
+4d	-ten,
+=12	=12
+8.g	Die
+16g	den
+8.b	weg
+16a	wel
+4g	wis-
+4d;}	-ten,
+!! verse 5
+=13	=13
+{4g	Drie
+8.b	pa-
+16a	-tri-
+4g	-ar-
+4b	-chen:
+=14	=14
+4.dd	A-
+8cc	-bra-
+2b	-ham,
+=15	=15
+8.a	I-
+16g	-saac
+8.a	en
+16b	Ja-
+2g;}	-kob,
+!! verse 6
+=16	=16
+{4dd	Twee
+8.f#	stee-
+16f#	-nen
+4g	ta-
+8a	-fels
+8b	en
+=17	=17
+8.cc	ee-
+16b	-ne
+8.cc	God
+16b	al-
+2a;}	-leen,
+!! verse 7
+=18	=18
+{8g	Ee-
+8g	-ne
+8g	Za-
+8g	-lig-
+8ee	-ma-
+8ee	-ker
+8ee	in
+8ee	het
+=19	=19
+4dd	al-
+4f#	-ge-
+2g;}	-meen.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

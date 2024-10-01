@@ -1,0 +1,86 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB123315_01
+!! NLB record number: 123315
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{8g	De
+=1	=1
+4cc	zoe-
+8dd	-te
+4ee	tijd
+8ff	komt
+=2	=2
+8gg	aen,
+8ff	laet
+8ee	ons
+8dd;}	gaen,
+!! verse 1
+{8gg	in
+8ff	de
+=3	=3
+8ee	vel-
+8dd	-den
+8cc	die
+(8b	lus-
+8a)	.
+8b	-tig
+=4	=4
+4.cc	staen!
+8r;}	.
+!! verse 2
+{8a	Her-
+8b	-der-
+=5	=5
+4cc	-in-
+8dd	-nen,
+4cc	die
+8b	wilt
+=6	=6
+4.a	min-
+4g;}	-nen,
+!! verse 3
+{8g	't is
+=7	=7
+4cc	nu
+8b	de
+4a	rech-
+8b	-te
+=8	=8
+8cc	tijd
+8b	dat
+8a	gy
+4g;}	vrijt.
+!! verse 4
+{8g	De
+=9	=9
+4cc	soe-
+8dd	-te
+4ee	tijd
+8ff	komt
+=10	=10
+8gg	aen,
+8ff	laet
+8ee	ons
+8dd;}	gaen
+!! verse 5
+{8gg	in
+8ff	de
+=11	=11
+8ee	vel-
+8dd	-den
+8cc	die
+(8b	lus-
+8a)	.
+8b	-tich
+=12	=12
+4.cc;}	staen.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

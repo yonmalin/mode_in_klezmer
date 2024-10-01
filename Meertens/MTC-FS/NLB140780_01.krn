@@ -1,0 +1,64 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140780_01
+!! NLB record number: 140780
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+=1	=1
+{2f	Zingt
+2f	een
+=2	=2
+2e	lof-
+2f	-lied
+=3	=3
+4f	God
+4g	den
+4a;}	Heer
+!! verse 1
+{(8b-	En
+8a)	.
+=4	=4
+4g	wilt
+4cc	hem
+4a	prij-
+4g;}	-zen,
+!! verse 2
+=5	=5
+{2f	Hem
+2c	al-
+=6	=6
+2c;}	-leen
+!! verse 3
+{2f	In
+=7	=7
+4a	dit
+4b-	ons
+4cc	mor-
+(8b-	-gen
+8cc)	.
+=8	=8
+4cc	lof-
+4g	-lied,
+4r;}	.
+!! verse 4
+{[4cc	Komt
+=9	=9
+8cc]	.
+8cc	nu
+4b-	en
+4a	brengt
+(8g	Hem
+8f)	.
+=10	=10
+4g	lof
+4g	en
+2f;}	eer!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

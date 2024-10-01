@@ -1,0 +1,96 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB137558_01
+!! NLB record number: 137558
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{8cc	Hans-
+8g	-ken
+8g	leer-
+8f	-de
+8e	goe-
+16d	-de
+16d	ma-
+8e	-nie-
+8c;}	-ren
+!! verse 1
+=2	=2
+{8cc	Hans-
+8b	-ke
+8dd	was
+8cc	ge-
+8b	-wel-
+8a	-dig
+4g;}	fijn
+!! verse 2
+=3	=3
+{8cc	Hans-
+8g	-ke
+8g	leer-
+8f	-de
+8e	ho-
+8d	-ve-
+8e	-nie-
+8c;}	-ren
+!! verse 3
+=4	=4
+{8cc	Om
+8b	niet
+8dd	leeg
+8cc	of
+8b	lui
+8a	te
+4g;}	zijn
+!! verse 4
+=5	=5
+{8g	Want
+8g	den
+8g	dui-
+8e	-vel
+8f	uit
+8g	ter
+8a	he-
+8g;}	-len
+!! verse 5
+=6	=6
+{8g	Komt
+8g	de
+8g	lui-
+8e	-aards
+8f	al-
+8g	-tijd
+8a	kwel-
+8g;}	-len
+!! verse 6
+=7	=7
+{8cc	Als
+8b	de
+8dd	jonk-
+8cc	-heid
+8b	le-
+8a	-dig
+[4g	gaat
+=8	=8
+4g];}	.
+!! verse 7
+{8.cc	Leert
+16dd	zij
+8ee	niets
+8cc	dan
+8dd	en-
+8dd	-kel
+=9	=9
+[4cc	kwaad
+8cc]	.
+8r	.
+2r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

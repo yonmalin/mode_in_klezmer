@@ -1,0 +1,118 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074820_02
+!! NLB record number: 74820
+!! NLB strophe/voice number: 2
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Ik
+=1	=1
+8g	liep
+8g	naar
+8g	haar
+4g;}	toe
+!! verse 1
+{16a	En
+16a	ik
+=2	=2
+8b	sprak
+8b	haar
+8b	eens
+4b;}	aan
+!! verse 2
+{16dd	Maar
+16dd	het
+=3	=3
+8dd	scheen
+8dd	of
+8dd	ze
+8gg	doof
+8dd;}	was
+!! verse 3
+{16b	Of
+16b	ze
+=4	=4
+12.b	wou
+24b	me
+12a	niet
+8a	ver-
+4a;}	-staan
+!! verse 4
+{16.dd	Maar
+32dd	op-
+=5	=5
+8dd	-eens
+8cc	sprak
+8dd	zij
+16.b	fluis-
+32b	-te-
+8b;}	-rend
+!! verse 5
+{8ee	Ach
+=6	=6
+8dd	doe
+8cc	mij
+8dd	plei-
+4b;}	-zier
+!! verse 6
+{8dd	En
+=7	=7
+8gg	breng
+8.dd	mij
+16b	naar
+8a	huis
+8ee;}	toe
+!! verse 7
+{16ee	Want
+16ee	ik
+=8	=8
+8dd	woon
+8cc	ver
+8dd	van
+4g;}	hier
+!! verse 8
+{16d	Van
+16d	je
+=9	=9
+16g	troe-
+16g	-la-
+8g	-la,
+16b	van
+16b	je
+16dd	troe-
+16dd	-la-
+8dd	-la,
+16dd	van
+16dd	je
+=10	=10
+8ee	troe-
+8ee	-la-
+8ee	-la-
+4dd;}	-la
+!! verse 9
+{16dd	Van
+16dd	je
+=11	=11
+16cc	troe-
+16cc	-la-
+8cc	-la,
+16cc	van
+16cc	je
+16b	troe-
+16b	-la-
+8b	-la,
+16b	van
+16b	je
+=12	=12
+8dd	troe-
+8cc#	-la-
+8dd	-la-
+4g;}	-la.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

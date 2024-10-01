@@ -1,0 +1,69 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073386_01
+!! NLB record number: 73386
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM138	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4dd	Daar
+=1	=1
+4g	ach-
+4b	-ter
+4dd	daar
+=2	=2
+(4dd	in
+4ee)	.
+(8dd	die
+8cc)	.
+=3	=3
+4b	vel-
+4a;}	-den
+!! verse 1
+{4dd	Daar
+=4	=4
+4g	staat
+4a	er
+4b	een
+=5	=5
+4cc	her-
+4dd	-re-
+4ee	-ber-
+=6	=6
+2dd;}	-gier
+!! verse 2
+{8b	Waar
+8b	ook
+=7	=7
+4cc	zo
+4dd	ve-
+4ee	-le
+=8	=8
+4ee	koop-
+4dd	-mans
+4ff#	in
+=9	=9
+(2ee	ko-
+4gg)	.
+=10	=10
+2dd;}	-men
+!! verse 3
+{8g	Zij
+8b	ver-
+=11	=11
+4dd	-koch-
+4.dd	-ten
+8dd	veel
+=12	=12
+4cc	wijn
+4b	en
+4a	veel
+=13	=13
+2g;}	bier
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

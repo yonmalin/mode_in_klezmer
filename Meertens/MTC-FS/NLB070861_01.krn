@@ -1,0 +1,125 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070861_01
+!! NLB record number: 70861
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{2g	Krui,
+2a	krui-
+=2	=2
+4g	-wa-
+4g	-gen-
+4e	-tje
+4r;}	.
+!! verse 1
+=3	=3
+{2g	krui
+4a	dan
+4a	maar
+=4	=4
+2.g;}	voort.
+!! verse 2
+{4g	Ik
+=5	=5
+4cc	heb
+4cc	zo'm
+4cc	aar-
+4cc	-dig
+=6	=6
+4b	wa-
+4b	-gen-
+4b;}	-tje
+!! verse 3
+{4b	dat
+=7	=7
+2a	mij
+4a	toe-
+4a	-be-
+=8	=8
+2.g	-hoort.
+4r;}	.
+!! verse 4
+=9	=9
+{4g	Waar
+4g	zal
+4g	ik
+4g	het
+=10	=10
+2g	zoe-
+2d;}	-ken
+!! verse 5
+=11	=11
+{4b	hier
+4b	in
+4b	al-
+4b	-le
+=12	=12
+2b	hoe-
+2g;}	-ken
+!! verse 6
+=13	=13
+{4dd	Hier
+4dd	in
+4dd	al-
+4dd	-le
+=14	=14
+4ee	stra-
+4dd;}	-ten
+!! verse 7
+{4cc	maar
+4b	ik
+=15	=15
+2a	weet
+2a	niet
+=16	=16
+2a	waar
+4r;}	.
+!! verse 8
+{4d	Ik
+=17	=17
+4g	heb
+4g	het
+4g	al
+4g	ge-
+=18	=18
+2g	-von-
+4d;}	-den
+!! verse 9
+{4d	ik
+=19	=19
+4b	ben
+4b	het
+4b	al
+4b	voor-
+=20	=20
+2b	-bij
+4r;}	.
+!! verse 10
+{4d	Kom
+=21	=21
+4cc	hier
+4cc	m'n
+4cc	lie-
+4cc	-ve
+=22	=22
+4b	lam-
+4b	-me-
+4b;}	-tje,
+!! verse 11
+{4b	kom
+=23	=23
+2a	ach-
+2a	-ter
+=24	=24
+2g	mij.
+2r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

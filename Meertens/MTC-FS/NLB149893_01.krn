@@ -1,0 +1,93 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB149893_01
+!! NLB record number: 149893
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{8g	't Wie
+8a	sim-
+8b	-mer-
+=1	=1
+4cc	-dei,
+4e	in
+4g	moai-
+4B	-je
+=2	=2
+2c	joan,
+8r;}	.
+!! verse 1
+{8c	Ik
+8d	hie
+8e	sa 'n
+=3	=3
+4f	moed.
+4d	koe
+4.e	al-
+8c	-les
+=4	=4
+(8.e	til-
+16d)	.
+4d	-le.
+8r;}	.
+!! verse 2
+{8g	'k Siet
+8g	foar
+8f	ús
+=5	=5
+4.e	doar
+8e	en
+(8d	tocht
+8g	.
+8f)	.
+8d	my
+=6	=6
+2c	bliid,
+8r;}	.
+!! verse 3
+{8c	En
+8d	breid'
+8e	en
+=7	=7
+(8d	song
+8g)	.
+(8g	fol
+8b)	.
+4.b	nocht
+8a	en
+=8	=8
+4a	wil-
+4g	-le.
+8r;}	.
+!! verse 4
+{8g	Dat
+8a	heard'
+8b	in
+=9	=9
+4cc	feint,
+4g	hy
+4dd	la-
+4g	-ke
+=10	=10
+2ee	sa:
+8r;}	.
+!! verse 5
+{8dd	Doe
+8cc	skamm'
+8b	ik
+=11	=11
+4a	my,
+4dd	mar
+4cc	brei-
+4b	-de
+=12	=12
+2cc	ta.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

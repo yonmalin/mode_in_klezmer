@@ -1,0 +1,99 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB113125_01
+!! NLB record number: 113125
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	Het
+=1	=1
+4c	zal
+8d	wel
+4c	gaan
+8d	wel
+=2	=2
+4c	gaan
+8d	wel
+4c;}	gaan
+!! verse 1
+{8c	Van-
+=3	=3
+4f	-a-
+8f	-vond
+4e	in
+8f	je
+=4	=4
+4.g	poort-
+4g;}	-je
+!! verse 2
+{8c	Als
+=5	=5
+8c	va-
+8c	-der
+8d	en
+8c	moe-
+8c	-der
+8d	naar
+=6	=6
+4c	bed
+8d	toe
+4c;}	gaan
+!! verse 3
+{8c	Dan
+=7	=7
+8g	zal
+8g	het
+8g	wel
+(8g	met
+8a)	.
+8g	ons
+=8	=8
+[4.f	gaan.
+4f]	.
+8r;}	.
+!! verse 4
+=9	=9
+{4.b-	Treedt
+4g	dan
+8g	maar
+=10	=10
+4.a	bin-
+4f;}	-nen
+!! verse 5
+{8f	Dan
+=11	=11
+4g	zal
+8g	mijn
+4e	poort-
+8e	-je
+=12	=12
+4f	o-
+8a	-pen
+4.cc;}	staan
+!! verse 6
+=13	=13
+{4.b-	Dan
+8g	zul-
+8g	-len
+8g	we
+=14	=14
+4.a	zin-
+4f;}	-gen
+!! verse 7
+{8f	Dan
+=15	=15
+4g	is
+8g	het
+4c	zoo
+8c	ge-
+=16	=16
+[4.f	-daan.
+4f];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

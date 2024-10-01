@@ -1,0 +1,80 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074430_01
+!! NLB record number: 74430
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4.dd	Dat
+=1	=1
+8g	lui-
+8g	-e
+8g	wijf
+4g	wou
+8d	niet
+=2	=2
+4g	mel-
+8b	-le-
+4dd;}	-ken
+!! verse 1
+{8b	Niet
+=3	=3
+4a	mel-
+8g	-ken
+4f#	e-
+8e	-ne
+=4	=4
+4d;}	koe
+!! verse 2
+{8d	Van
+8.d	fal-
+16e	-de-
+8f#	-ro-
+=5	=5
+4.g	-la
+4.b	links,
+=6	=6
+4b;}	rechts,
+!! verse 3
+{8g	Van
+8.g	fal-
+16f#	-de-
+8g	-ro-
+=7	=7
+4.a	-la
+4.dd	links
+=8	=8
+[4.dd	rechts
+8dd]	.
+8r;}	.
+!! verse 4
+{8dd	Dat
+=9	=9
+8ee	lui-
+8ee	-e
+8ee	wijf
+4dd	wou
+8cc	niet
+=10	=10
+4b	mel-
+8cc	-le-
+4dd;}	-ken
+!! verse 5
+{8b	Niet
+=11	=11
+4a	mel-
+8g	-ken
+4b	e-
+8a	-ne
+=12	=12
+[4.g	koe
+8g]	.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

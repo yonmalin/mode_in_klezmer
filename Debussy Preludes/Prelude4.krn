@@ -1,0 +1,573 @@
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*staff1
+*IPiano	*IPiano	*IPiano
+*clefF4	*clefG2	*clefG2
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*M5/4	*M5/4	*M5/4
+*MM84	*MM84	*MM84
+=1	=1	=1
+!Tempo Marking: Modere	!Tempo Marking: Modere	!Tempo Marking: Modere
+!	!Expression: harmonieux et souple	!
+*^	*^	*
+4r	4AAA'	4r	4ryy	pp
+4A 4c#	(<8EL	8eL 8ee	(<4a 4cc#	.
+.	8AJ	8aJ 8aa	.	.
+4B- 4d 4e 4gn	4B-	4b- 4dd 4ee 4bb-	2ryy	>
+
+4E)	4E	4e) 4ee	.	.
+4r	(<4EE'	4r	4ryy	]
+=2	=2	=2	=2	=2
+4r	4AAA')	4r	4ryy	.
+4A 4c#	(<8EL	(>8eL 8ee	4a 4cc#	.
+.	8AJ	8a 8aa	.	.
+4B- 4d 4e 4gn	8B-L	8b- 8bb-	4dd 4ee	<
+.	8f#J	8ff#J 8fff#	.	.
+="	="	="	="	="
+4c#'	2ryy	4cc#' 4ccc#	2ryy	[>
+4c#')	.	4cc#') 4ccc#	.	.
+*	*	*v	*v	*
+=3	=3	=3	=3
+*M3/4	*M3/4	*M3/4	*M3/4
+!Expression: m.d.	!	!	!
+(>4D' 4Fn 4A- 4B-	4AAAni~	4r	]pp
+4D#X' 4F#X 4An 4Bn	4r	(<8f#L	>
+.	.	8c#J)	]
+4Fn' 4A-X 4B-X 4dn	4r	4r	.
+=4	=4	=4	=4
+4E' 4Gn 4A 4c#	4r	(<8f#L	>
+.	.	8c#J)	]
+
+4D' 4Fn 4A- 4B-	4AAA~	4r	.
+4D#X') 4F#X 4An 4Bn	4r	(<8f#L	>
+.	.	8c#J)	]
+=5	=5	=5	=5
+(>4Fn 4A- 4B- 4dn	4r	4r	]<
+2A-) 2B- 2d- 2e	4r	(<8ccnL	[<
+.	.	[8gnJ	.
+.	4AAAn'	8gL]	.
+.	.	[8b-XJ)	.
+=6	=6	=6	=6
+2.r	4r	8b-]	[
+.	.	(<8c#X'L 8e	>
+.	4AAA'	8e' 8gn	.
+.	.	8g' 8b-	.
+.	4r	8b-' 8cc#X	.
+.	.	8cc#'J) 8ee	.
+=7	=7	=7	=7
+(4Fn 4A- 4B- 4dn	4r	4r	]<
+[2A-) [2B- [2d- [2e	4r	(<8ccnL	[<
+.	.	[8gnJ	.
+.	4AAA'	8gL]	.
+.	.	8b-XJ	.
+=8	=8	=8	=8
+2.A-X] 2.B-X] 2.d-X] 2.e]	4r	8cc#X)	[
+.	.	(8gn'L 8b-	>
+.	4AAA	8b-' 8cc#	.
+.	.	8cc#' 8ee	.
+.	4r	8ee' 8ggn	.
+.	.	8gg'J) 8bb-	.
+=9	=9	=9	=9
+!Tempo Marking: En animant un peu	!Tempo Marking: En animant un peu	!Tempo Marking: En animant un peu	!Tempo Marking: En animant un peu
+!Expression: m.d.	!	!	!
+*	*	*^	*
+(>2.E# 2.An 2.c# 2.e#	[2.AAA [2.AA	4r	4ryy	]p
+!	!	!Expression: expressif	!	!
+.	.	(>8cc#L 8ccc#	2ee#X	<
+.	.	8dd#J 8ddd#	.	.
+.	.	[4dd# [4ddd#	.	.
+*v	*v	*	*	*
+=10	=10	=10	=10
+4F# 4A 4c# 4f#	8dd#XL] 8ddd#X]	4ff#	[
+.	8cc# 8ccc#	.	.
+4Gn 4A 4c# 4gn	8cc# 8ccc#	4ggn	.
+.	8dd# 8ddd#	.	.
+4F#) 4A 4c# 4f#	8dd# 8ddd#	4ff#	.
+.	8cc#J) 8ccc#	.	.
+=11	=11	=11	=11
+!Expression: m.d.	!	!	!
+*^	*	*	*
+(>2.E# 2.A 2.c# 2.e#	2.AAA] 2.AA]	4r	4ryy	p
+.	.	(>8bL 8bb	2ee#	<
+.	.	8cc#J 8ccc#	.	.
+.	.	[4cc# [4ccc#	.	.
+*v	*v	*	*	*
+=12	=12	=12	=12
+4F# 4A 4c# 4f#	8cc#L] 8ccc#]	4ff#	[
+.	8b 8bb	.	.
+4Gn 4A 4c# 4gn	8b 8bb	4ggn	.
+.	8a 8aa	.	.
+4F#) 4A 4c# 4f#	8b 8bb	4ff#	.
+.	8cc#J) 8ccc#	.	.
+=13	=13	=13	=13
+*^	*	*	*
+(>2.Fn 2.B 2.fn	4r	4r	4ryy	mf
+.	[4AAA [4AA	(>8d#L 8dd#	2a	p
+.	.	8g#J 8gg#	.	.
+.	8AAA] 8AA]	4d#') 4dd#	.	.
+.	8r	.	.	.
+=14	=14	=14	=14	=14
+2.E) 2.A#X 2.e	4r	8r	8ryy	.
+.	.	(>8c#L 8cc#	4.gn	<
+.	[4AAAn [4AAn	8A# 8a#	.	.
+.	.	8c# 8cc#	.	.
+.	8AAA] 8AA]	8d# 8dd#	4ryy	.
+.	8r	8f#J) 8ff#	.	.
+*	*	*v	*v	*
+=15	=15	=15	=15
+2.Fn 2.B 2.fn	4r	8r	[p
+.	.	(<8d#'L 8dd#	>
+*clefG2	*	*	*
+.	(>8c#L	8g#' 8gg#	.
+.	8d#X	8dd#' 8ddd#	.
+*	*	*8va	*
+.	8cc#	8gg#' 8ggg#	.
+.	[8dd#J)	8ddd#'J 8dddd#	.
+=16	=16	=16	=16
+!Tempo Marking: En retenant	!Tempo Marking: En retenant	!Tempo Marking: En retenant	!Tempo Marking: En retenant
+2.ryy	(>8dd#XL]	4ggg#') 4gggg#	]
+*	*	*X8va	*
+!	!	!	!Dynamic Expression: dim.
+.	8cc#	.	.
+.	8d#	4r	.
+.	8c#	.	.
+.	8d#	4r	.
+.	8cc#J)	.	.
+*v	*v	*	*
+=17	=17	=17
+2.r	(<8dd#L	.
+.	8cc#	.
+.	8d#	.
+.	8c#	.
+.	8d#	.
+.	8cc#ZJ)	.
+*clefF4	*	*
+=18	=18	=18
+!Tempo Marking: a Tempo	!Tempo Marking: a Tempo	!Tempo Marking: a Tempo
+!Expression: en dehors	!Expression: egal et doux	!
+(>4G# 4B 4fn	(>8dd#XL	pp
+.	8cc#	.
+4Fn 4B 4c#	8d#	.
+.	8c#	.
+4G# 4B 4f	8d#	.
+.	8cc#J	.
+=19	=19	=19
+2Gn 2B-X 2e	8dd#L	.
+.	8cc#	.
+.	8d#	.
+.	8c#	.
+8EL 8Bn 8c#	8d#	.
+8GJ) 8B 8e	8cc#J)	.
+=20	=20	=20
+4G#X 4B 4fn	(>8dd#L	.
+.	8cc#	.
+4Fn 4B 4c#	8d#	.
+.	8c#	.
+4G# 4B 4f	8d#	.
+.	8cc#J	.
+=21	=21	=21
+!Tempo Marking: Serrez un peu	!Tempo Marking: Serrez un peu	!Tempo Marking: Serrez un peu
+2Gn 2B- 2e	8dd#L	.
+.	8cc#	.
+.	8d#	.
+.	8c#	.
+(>8B-L 8cn 8gn	8d#	<
+8GJ 8B- 8e	8cc#J)	.
+=22	=22	=22
+8E 8B- 8cn	(>8dd#L	.
+4.Gn) 4.B- 4.e	8cc#	[
+.	8d#	.
+.	8c#	.
+(>8B-L 8c 8gn	8d#	p<
+8GJ 8B- 8e	8cc#ZJ	.
+=23	=23	=23
+!Tempo Marking: Retenu	!Tempo Marking: Retenu	!Tempo Marking: Retenu
+8E 8B- 8cn	8dd#L	.
+4.Gn) 4.B- 4.e	8cc#	[
+.	8c#	.
+.	8d#	.
+4gn~	8cc#	p
+.	[8dd#ZJ)	.
+=24	=24	=24
+*M5/4	*M5/4	*M5/4
+!Tempo Marking: a Tempo	!Tempo Marking: a Tempo	!Tempo Marking: a Tempo
+*^	*^	*
+4r	4AAA'	4dd#X]	4rggg	.
+4A 4c#	(<8EL	(>8eL 8ee	4a 4cc#	pp
+.	8AJ	8aJ 8aa	.	.
+4d 4e 4gn	4B-	4b- 4bb-	4ddn 4ee	>
+="	="	="	="	="
+4E	4E)	4e) 4ee	2ryy	.
+4r	(<4EE'	4rff	.	]pp
+=25	=25	=25	=25	=25
+4r	4AAA')	4r	4ryy	.
+4A 4c#	(<8EL	(>8eL 8ee	4a 4cc#	.
+.	8A	8a 8aa	.	.
+4d 4e 4gn	8B-	8b- 8bb-	4dd 4ee	<
+.	8f#J	8ff#J 8fff#	.	.
+4ryy	4c#'	4cc#' 4ccc#	4ryy	[>
+4ryy	4c#')	4cc#') 4ccc#	4ryy	.
+*	*	*v	*v	*
+=26	=26	=26	=26
+!Expression: m.d.	!	!	!
+(>4D 4Fn 4A- 4B-	4AAA	4r	]pp
+4D# 4F#X 4An 4Bn	1ryy	(<8f#L	>
+.	.	8c#J)	]
+4Fn 4A- 4B- 4d	.	4r	.
+="	="	="	="
+2E) 2Gn 2An 2c#	.	(<8f#L	>
+.	.	[8c#J)	]
+.	.	4c#]	.
+=27||	=27||	=27||	=27||
+*	*	*clefF4	*
+*k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
+!Tempo Marking: Plus lent	!Tempo Marking: Plus lent	!Tempo Marking: Plus lent	!Tempo Marking: Plus lent
+*	*	*^	*
+8GG-L	2ryy	4r	4ryy	pp
+[8DD-J	.	.	.	.
+2DD-_	.	(>8E-L	4ryy	.
+.	.	8A-J	.	.
+.	[4AA-	8B--L	2D-~ 2E- 2G-	<
+.	.	8fJ	.	.
+="	="	="	="	="
+2DD-]	2AA-]	4c'	.	[>
+.	.	4c~;)	4ryy	.
+*	*	*clefG2	*	*
+=28	=28	=28	=28	=28
+!Tempo Marking: En animant	!Tempo Marking: En animant	!Tempo Marking: En animant	!Tempo Marking: En animant	!Tempo Marking: En animant
+4r	4ryy	4r	4ryy	]
+4A- 4c	(<8E-L	(>8e-L 8ee-	4a- 4cc	p<
+.	8A-J	8a- 8aa-	.	.
+4d- 4e- 4g-X	8B--L	8b-- 8bb--	4dd- 4ee-	.
+.	8fJ	8ffJ 8fff	.	.
+4c	2ryy	4cc 4ccc	4ryy	.
+*clefG2	*	*	*	*
+8B-~L 8d- 8gn 8b-	.	8gg~L 8bb-- 8ggg	4ryy	[mf<
+[8c-J) [8dn [8a- [8cc-	.	[8ddnJ) [8ccc- [8dddn	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+=29	=29	=29
+*M3/4	*M3/4	*
+(<8c-L] 8d] 8a-] 8cc-]	(>8ddnL] 8ccc-] 8dddn]	[>
+8B-' 8d- 8g 8b-	8ff' 8bb- 8fff	.
+8An' 8cn 8g- 8an	8cc' 8ff 8cccn	.
+8A-' 8c- 8f 8a-	8ee-' 8aa- 8eee-	.
+8G' 8B- 8en 8g-	8b-' 8een 8bb-	.
+8G-'J) 8An 8e- 8g-	8dd-'J) 8gg- 8ddd-	.
+*clefF4	*	*
+=30	=30	=30
+*M5/4	*M5/4	*
+!Tempo Marking: Cedez	!Tempo Marking: Cedez	!Tempo Marking: Cedez
+*^	*^	*
+*	*^	*	*	*
+4r	2.EEE-	4ryy	4r	4ryy	]
+(>8D-L 8F 8B- 8d-	.	8ryy	(>8fL 8b- 8ff	8ryy	.
+[8EnJ [8en	.	[8A-\ [8d-	8ccJ 8ccc	[8een	.
+8EL] 8e]	.	4A-/] 4d-]	4cc 4ccc	(<8eeL]	.
+8FJ 8f	.	.	.	8ffJ	.
+(<4G- 4An 4dn 4g-	2ryy	2r	4cc~) 4gg- 4ccc	8ryy	>
+.	.	.	.	8ryy	.
+4Gn) 4B- 4d- 4gn	.	.	4e-Z) 4dd- 4ee-	4ryy	]
+=31	=31	=31	=31	=31	=31
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+!Tempo Marking: Rubato	!Tempo Marking: Rubato	!Tempo Marking: Rubato	!Tempo Marking: Rubato	!Tempo Marking: Rubato	!Tempo Marking: Rubato
+4r	4ryy	4ryy	8r	4ryy	mf
+.	.	.	8g~	.	.
+4ryy	4ryy	4ryy	4f~	(>16.fLL	.
+.	.	.	.	32e-L	.
+.	.	.	.	56c	.
+.	.	.	.	56A-	.
+.	.	.	.	56E-	.
+.	.	.	.	56C	.
+.	.	.	.	56AA-	.
+.	.	.	.	56EE-	.
+.	.	.	.	[56AAA-	.
+!Tempo Marking: Serrez	!Tempo Marking: Serrez	!Tempo Marking: Serrez	!Tempo Marking: Serrez	!Tempo Marking: Serrez	!Tempo Marking: Serrez
+4A- 4c	(<8E-L	4a- 4cc	(>8e-L 8ee-	4AAA-\])	p<
+.	8A-J	.	8a-J 8aa-	.	.
+*	*v	*v	*	*	*
+=32	=32	=32	=32	=32
+4d- 4e- 4g-	8B--L	8b--L 8bb--	4dd- 4ee-	.
+.	8fJ	8ffJ 8fff	.	.
+4ryy	4c)	4ccZ) 4ccc	2ryy	.
+!Tempo Marking: Rubato	!Tempo Marking: Rubato	!Tempo Marking: Rubato	!Tempo Marking: Rubato	!Tempo Marking: Rubato
+4Gn~	4ryy	(>4Bn~ 4dn 4gn	.	[p
+=33	=33	=33	=33	=33
+4r	4ryy	2f~)	(>16.fLL	.
+.	.	.	32e-L	.
+.	.	.	48c	.
+.	.	.	48A-	.
+.	.	.	48E-	.
+.	.	.	48C	.
+.	.	.	48AA-	.
+.	.	.	48EE-	.
+4ryy	4ryy	.	4AAA-)	.
+!Tempo Marking: Serrez	!Tempo Marking: Serrez	!Tempo Marking: Serrez	!Tempo Marking: Serrez	!Tempo Marking: Serrez
+4A- 4c	(<8E-L	(>8e-L 8ee-	4a- 4cc	<
+.	8A-J	8a-J 8aa-	.	.
+=34	=34	=34	=34	=34
+4d- 4e- 4g-	8B--L	8b--L 8bb--	4dd- 4ee-	.
+.	8fJ	8ffJ 8fff	.	.
+4ryy	4c)	4ccZ) 4ccc	2ryy	.
+!Expression: la basse un peu appuyee et soutenu	!	!	!	!
+(<8GnL	4ryy	(>8Bn'L 8dn 8gn	.	[p
+8B-J	.	8d-'J 8f 8b-	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+=35	=35	=35
+8GL	8Bn'L 8dn 8g	.
+8En	8G#' 8Bn 8en	.
+8C	8E-' 8Gn 8c	.
+8E	8G#' 8B 8e	.
+8Gn	8B' 8d 8gn	.
+8EJ	8G#'J 8B 8e	.
+=36	=36	=36
+8CL	8En' 8Gn 8c	.
+8AAn	8C#' 8En 8An	.
+8Cn	8En' 8G 8C	.
+8E-'J)	8G#'J) 8Bn 8en	.
+!Tempo Marking: Rubato	!Tempo Marking: Rubato	!Tempo Marking: Rubato
+4G#~	(<4B#~ 4d# 4g#	<
+=37||	=37||	=37||
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*^	*^	*
+4r	4ryy	2f#~)	(>16.f#LL	mf
+.	.	.	32eL	[
+.	.	.	48c#	.
+.	.	.	48A	.
+.	.	.	48E	.
+.	.	.	48C#	.
+.	.	.	48AA	.
+.	.	.	48EE	.
+!	!	!	!Expression: m.d.	!
+4ryy	4ryy	.	4AAA~)	.
+!Tempo Marking: Serrez	!Tempo Marking: Serrez	!Tempo Marking: Serrez	!Tempo Marking: Serrez	!Tempo Marking: Serrez
+4A 4c#	(<8EL	(>8eL 8ee	4a 4cc#	p<
+.	8AJ	8aJ 8aa	.	.
+=38	=38	=38	=38	=38
+4.d 4.e 4.gn	8B-L	8b-L 8bb-	4dd 4ee	.
+.	8f#J	8ff#J 8fff#	.	.
+.	4c#)	4cc#) 4ccc#	4ryy	[
+(>8Bn'L 8d# 8e# 8g#	.	.	.	.
+8dn' 8fn 8gn 8bn	4r	4ryy	4ryy	.
+8B'J) 8d# 8e# 8g#	.	.	.	.
+=39	=39	=39	=39	=39
+4.dn 4.en 4.gn	(<8B-L	(>8b-L 8bb-	4dd 4ee	mf<
+.	8f#J	8ff#J 8fff#	.	.
+.	4c#)	4cc#) 4ccc#	4ryy	.
+(>8Bn'L 8d# 8e# 8g#	.	.	.	[
+8dn' 8fn 8gn 8bn	4r	4ryy	4ryy	.
+8B'J) 8d 8e# 8g	.	.	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+*	*clefF4	*
+=40	=40	=40
+!Tempo Marking: Cedez	!Tempo Marking: Cedez	!Tempo Marking: Cedez
+2.ryy	(8A'L 8B 8d 8fn	p
+.	8Fn' 8A 8B 8d	.
+!	!	!Dynamic Expression: dim.
+.	8E' 8Fn 8A 8cn	.
+.	8Cn' 8E 8F 8A	.
+.	8AA' 8BB 8D 8F	.
+.	8FFn'JZ 8AA 8BB 8D)	.
+=41	=41	=41
+*	*clefG2	*
+!Tempo Marking: Tranquille et flottant	!Tempo Marking: Tranquille et flottant	!Tempo Marking: Tranquille et flottant
+*^	*^	*
+*	*^	*	*	*
+4C#	16C#LL	(<4CCC#\ 4CC#	(>4c#	16c#LL	pp
+.	16D	.	.	16d	.
+.	16F#	.	.	16f#	.
+.	16G#JJ	.	.	16g#JJ	.
+4C# 4c#	16c#LL	2ryy	4cc# 4ccc#	16cc#LL	.
+*clefG2	*	*	*	*	*
+.	16d	.	.	16dd	.
+.	16f#	.	.	16ff#	.
+.	16g#JJ	.	.	16gg#JJ	.
+4c#	16cc#LL	.	4ccc# 4cccc#	16ccc#LL	.
+.	16g#	.	.	16gg#	.
+.	16f#	.	.	16ff#	.
+.	16dJJ	.	.	16ddJJ	.
+*v	*v	*v	*	*	*
+*clefF4	*clefF4	*	*
+=42	=42	=42	=42
+*^	*	*	*
+8r	4CCC# 4CC#	4C# 4c#	16C#LL	.
+.	.	.	16D	.
+8GG#'	.	.	16F#	.
+.	.	.	16G#JJ	.
+8r	4AAAA#X 4AAA#X	4AA#X 4A#X	16AA#LL	<
+.	.	.	16D	.
+8GG#'	.	.	16F#	.
+.	.	.	16G#JJ	.
+8r	4CCC#) 4CC#	4E) 4e	16ELL	[>
+.	.	.	16G#	.
+8GG#'	.	.	16F#	.
+.	.	.	16DJJ	.
+*v	*v	*	*	*
+*	*clefG2	*	*
+=43	=43	=43	=43
+*^	*	*	*
+*	*^	*	*	*
+4C#	16C#LL	(4CCC#\ 4CC#	(4c#	16c#LL	]p
+.	16D	.	.	16d	.
+.	16F#	.	.	16f#	.
+.	16G#JJ	.	.	16g#JJ	.
+4C# 4c#	16c#LL	2ryy	4cc# 4ccc#	16cc#LL	.
+*clefG2	*	*	*	*	*
+.	16d	.	.	16dd	.
+.	16f#	.	.	16ff#	.
+.	16g#JJ	.	.	16gg#JJ	.
+4c# 4cc#	16cc#LL	.	4ccc# 4cccc#	16ccc#LL	.
+.	16g#	.	.	16gg#	.
+.	16f#	.	.	16ff#	.
+.	16dJJ	.	.	16ddJJ	.
+=44	=44	=44	=44	=44	=44
+*clefF4	*	*	*	*	*
+*M5/4	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4
+*	*	*^	*	*	*
+4C#	16C#LL	4CCC#\ 4CC#	8r	4c#	2ryy	.
+.	16D	.	.	.	.	.
+.	16F#	.	8GG#\	.	.	.
+.	16G#JJ	.	.	.	.	.
+4AA#	16AA#LL	4AAAA#\) 4AAA#	16ryy	4A#X)	.	.
+.	16d	.	16D\LL	.	.	.
+.	16f#	.	16F#\	.	.	.
+.	16g#JJ	.	16G#\JJ	.	.	.
+*clefG2	*	*	*	*	*	*
+!Tempo Marking: Tempo	!Tempo Marking: Tempo	!Tempo Marking: Tempo	!Tempo Marking: Tempo	!Tempo Marking: Tempo	!Tempo Marking: Tempo	!Tempo Marking: Tempo
+(>4A# 4c# 4f# 4a#	2ryy	2ryy	2ryy	(>8cc#L 8ccc#	4ff#	p<
+.	.	.	.	8ff#J 8fff#	.	.
+="	="	="	="	="	="	="
+2A#) 2c# 2e# 2f## 2cc#	.	.	.	4ff## 4ccc# 4fff##X	2ryy	[>
+.	4raayy	4ryy	4ryy	4cc#) 4ccc#	.	.
+*v	*v	*v	*v	*	*	*
+=45	=45	=45	=45
+*clefF4	*clefF4	*	*
+4AAA#~ 4AA#	4r	(<16C#LL	[pp
+.	.	16D	.
+.	.	16F#	.
+.	.	16G#JJ)	.
+*clefG2	*clefG2	*	*
+(<4A# 4c# 4f# 4a#	8cc#L 8ccc#	(<4ff#	<
+.	8ff#J 8fff#	.	.
+4A# 4c# 4e 4f## 4cc#	12rggg	4ff##X 4ccc# 4fff##	[
+!	!	!	!Dynamic Expression: dim.
+.	(>12ddd#L 12dddd#	.	>
+.	12aa#XJ) 12aaa#X	.	.
+4G# 4B 4dn 4e#X 4b	12rggg	4ee#X 4bb 4eee#X	]
+.	(>12ccc#L 12cccc#	.	>
+.	12gg#J) 12ggg#	.	.
+4E#X) 4G# 4B 4d 4g#	12reee	4ddni) 4gg# 4dddni	]
+.	(>12aa#L 12aaa#	.	>
+.	12ee#J) 12eee#	.	.
+*clefF4	*	*	*
+*	*v	*v	*
+=46	=46	=46
+*M3/4	*M3/4	*M3/4
+*	*^	*
+*^	*	*	*
+!Tempo Marking: En retenant	!Tempo Marking: En retenant	!Tempo Marking: En retenant	!Tempo Marking: En retenant	!Tempo Marking: En retenant
+2.En 2.Gn 2.B- 2.d- 2.gn	4r	12rggg	2dd-~ 2ggn 2ddd-	]pp
+.	.	(>12aanL 12aaan	.	>
+.	.	12eenJ) 12eeen	.	.
+.	4AAA'	4r	.	]
+!	!	!	!Expression: leger	!
+.	4r	4rff	24r	.
+.	.	.	(>24c#LL	.
+.	.	.	24e	.
+.	.	.	24a	.
+.	.	.	24b-	.
+.	.	.	24ff#JJ)	.
+=47	=47	=47	=47	=47
+2.E 2.Gn 2.B-X 2.cn 2.gn	4r	12reee	2ccn~ 2ggn 2cccn	.
+.	.	(>12aaL 12aaa	.	>
+.	.	12eeJ) 12eee	.	.
+.	4AAA'	4r	.	]
+.	4r	4rff	24reee	.
+.	.	.	(24cnLL	.
+.	.	.	24e	.
+.	.	.	24a	.
+.	.	.	24b-X	.
+.	.	.	24ff#JJ)	.
+*v	*v	*	*	*
+=48	=48	=48	=48
+(>4E~ 4Gn 4B- 4d- 4gn	(<4dd-~ 4ggn 4ddd-	24r	.
+.	.	(>24c#LL	.
+.	.	24e	.
+.	.	24a	.
+.	.	24b-	.
+.	.	24ff#JJ)	.
+4E~ 4G 4B- 4c# 4g	4ccn~ 4gg 4cccn	24r	.
+.	.	(>24cnLL	.
+.	.	24e	.
+.	.	24a	.
+.	.	24b-	.
+.	.	24ff#JJ)	.
+4E~) 4G 4B- 4d- 4g	4dd-~) 4gg 4ddd-	24r	.
+.	.	(>24c#LL	.
+.	.	24e	.
+.	.	24a	.
+.	.	24b-	.
+.	.	24ff#JJ)	.
+=49	=49	=49	=49
+*M5/4	*M5/4	*M5/4	*M5/4
+!Tempo Marking: Plus retenu	!Tempo Marking: Plus retenu	!Tempo Marking: Plus retenu	!Tempo Marking: Plus retenu
+*^	*	*	*
+4r	4AAA	(>4.ff#	4r	pp
+(<8DL 8F# 8B 8d	1ryy	.	8f#L 8b	<
+[8E#J [8A [8d [8e#	.	[8cc# [8ccc#	[8ee#J	.
+8E#L] 8A] 8d] 8e#]	.	4cc#] 4ccc#]	8ee#L]	.
+8F#J 8f#	.	.	8ff#J	.
+="	="	="	="	="
+4Gn 4A# 4d# 4gn	.	4cc# 4ggn 4ccc#	2ryy	[>
+4G#) 4B 4dn 4g#	.	4e) 4dd 4een	.	]
+=50	=50	=50	=50	=50
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+!	!	!Expression: Comme une lointaine sonnerie de Cors	!	!
+(<8qF#/ 8qB	.	.	(>8qd#\ 8qf#	pp
+8EL) 8A	4rEE	8r	8c#'L) 8e	.
+[8EJ [8A	.	[8cc#' [8aa [8ccc#	[8c#'J) [8e	.
+2E] 2A]	4AAA'	4cc#] 4aa] 4ccc#]	2c#] 2e]	.
+*	*8vb	*	*	*
+.	4rEE	4r	.	.
+*	*X8vb	*	*	*
+=51	=51	=51	=51	=51
+(<16F#'LL 16B	4rFFF	4r	(<16d#'LL 16f#	<
+16E') 16A	.	.	16c#') 16e	.
+(<32G#~L 32c#	.	.	(<32e~L 32g#	[>
+32F#J 32B	.	.	32d#J 32f#	.
+16E'JJ) 16A	.	.	16c#'JJ) 16e	.
+2E~ 2A	4rAAA	[4cc#~ [4aa [4ccc#	2c# 2e	]pp
+*	*8vb	*	*	*
+.	4AAA	8cc#] 8aa] 8ccc#]	.	.
+*	*X8bv	*	*	*
+.	.	8r	.	.
+=52	=52	=52	=52	=52
+!	!	!Expression: Encore plus lointain et plus retenu	!	!
+(<8qF#/ 8qB	.	.	(>8qd#\ 8qf#	.
+8EL) 8A	4r	8r	8c#'L) 8e	.
+[8EJ [8A	.	[8cc# [8aa [8ccc#	[8c#J [8e	.
+*	*8vb	*	*	*
+2E] 2A]	4AAA'	4cc#] 4aa] 4ccc#]	2c#] 2e]	.
+*	*X8vb	*	*	*
+.	4r	4r	.	.
+=53	=53	=53	=53	=53
+(<16F#'LL 16B	4rFFF	4r	(<16d#X'LL 16f#	.
+16E') 16A	.	.	16c#') 16e	.
+(<32G#~L 32c#	.	.	(<32e~L 32g#	.
+32F#J 32B	.	.	32d#J 32f#	.
+16E'JJ) 16A	.	.	16c#'JJ) 16e	.
+2E~ 2A	4rAAA	4cc#~ 4aa 4ccc#	2c# 2e	.
+*	*8vb	*	*	*
+.	4AAA~	4r	.	.
+*	*X8vb	*	*	*
+*v	*v	*	*	*
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: Z = caesura

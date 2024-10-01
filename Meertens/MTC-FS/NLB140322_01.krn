@@ -1,0 +1,95 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140322_01
+!! NLB record number: 140322
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*d:dor	*
+!! verse 0
+{4a	Ik
+=1	=1
+4a	wil
+4a	mij
+4g	gaan
+4b-	ver-
+=2	=2
+2a	-troos-
+4g;}	-ten
+!! verse 1
+{4f	In
+=3	=3
+4e	Je-
+4d	-zus'
+4e	lij-
+4e	-den
+=4	=4
+2d	groot
+4r;}	.
+!! verse 2
+{4a	Al
+=5	=5
+8a	heeft
+8a	het
+4a	ge-
+4g	-staan
+4b-	ten
+=6	=6
+2a	boos-
+4g;}	-ten
+!! verse 3
+{4f	Het
+=7	=7
+4e	mocht
+4d	nog
+4e	wor-
+4e	-den
+=8	=8
+2d	goed
+4r;}	.
+!! verse 4
+{4d	Al
+=9	=9
+4f	om
+4f	mijn
+4g	zon-
+4g	-dig
+=10	=10
+2a	le-
+4f;}	-ven
+!! verse 5
+{4a	Ben
+=11	=11
+4a	ik
+4a	met
+4g	druk
+4g	be-
+=12	=12
+2f	-vaân:
+4r;}	.
+!! verse 6
+{4cc	Dat
+=13	=13
+4cc	wil
+4cc	ik
+(8a	gaan
+8g)	.
+4f	be-
+=14	=14
+2e	-ge-
+4d;}	-ven
+!! verse 7
+{4f	O
+=15	=15
+4e	Je-
+4d	-su,
+4e	ziet
+4e	mij
+=16	=16
+2.d;}	aan!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

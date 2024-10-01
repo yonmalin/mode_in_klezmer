@@ -1,0 +1,72 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075801_01
+!! NLB record number: 75801
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8g	'k Liep
+8.g	eens
+16g	te
+16g	wan-
+16g	-de-
+8.g	-len
+16g	al-
+=2	=2
+8b	-leen
+8b	op
+8b	de
+4g;}	straat
+!! verse 1
+{8dd	Zo-
+=3	=3
+8dd	-als
+8dd	het
+8dd	ge-
+8dd	-woon-
+8cc	-lijk
+16b	met
+16b	de
+=4	=4
+8b	jong-
+8a	-lin-
+8a	-gen
+4a;}	gaat.
+!! verse 2
+{8dd	Ik
+=5	=5
+8dd	liep
+8cc	in
+8cc	ge-
+8b	-dach-
+8g	-ten
+8b	om-
+=6	=6
+16cc	-dat
+16cc	ik
+8dd	al-
+8ee	-leen
+4dd;}	was
+!! verse 3
+{8b	Een
+=7	=7
+8dd	aar-
+8cc	-dig
+8cc	lief
+8b	meis-
+8g	-je
+8g	die
+=8	=8
+8cc	kwam
+8b	mij
+8a	van
+4g;}	pas.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

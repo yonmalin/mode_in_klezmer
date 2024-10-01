@@ -1,0 +1,94 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073268_01
+!! NLB record number: 73268
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4b	Lie-
+8cc	-ve
+=1	=1
+4dd	schip-
+8dd	-per
+(8dd	vaar
+8gg)	.
+8b	mij
+=2	=2
+4dd	o-
+8b;}	-ver
+!! verse 1
+{4a	Naar
+8a	dat
+=3	=3
+(8a	gind-
+8b)	.
+8cc	-se
+(8ee	dorp-
+8dd)	.
+8cc	-je
+=4	=4
+4.b;}	heen;
+!! verse 2
+{4b	Ik
+8cc	zal
+=5	=5
+4dd	u
+8dd	een
+(8dd	hals-
+8gg)	.
+8b	-snoer
+=6	=6
+4dd	ge-
+8cc;}	-ven,
+!! verse 3
+{4a	En
+8a	een
+=7	=7
+(8a	kos-
+8b)	.
+8cc	-te-
+(8ee	-lij-
+8dd)	.
+8cc	-ken
+=8	=8
+4.b;}	steen
+!! verse 4
+{8g	Si
+8ee	om
+8cc	si
+=9	=9
+16cc	tri-
+16cc	-o-
+16cc	-li-
+16cc	-o-
+8cc;}	-la
+!! verse 5
+{8gg	Si
+8gg	om
+8dd	si
+=10	=10
+16dd	tri-
+16dd	-o-
+16dd	-li-
+16dd	-o-
+8dd;}	-la
+!! verse 6
+{(8dd	En
+8cc#)	.
+8dd	een
+=11	=11
+4ff#	kos-
+8ee	-te-
+(8cc	-lij-
+8b)	.
+8a	-ke
+=12	=12
+4.g;}	steen
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,75 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075280_01
+!! NLB record number: 75280
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/2	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4g	Te
+4g	Raams-
+4b	-donk
+=1	=1
+[2dd	leef-
+8dd]	.
+8dd	-de
+4dd	een
+4dd	man
+8dd	en
+8ee	een
+=2	=2
+2.dd;}	vrouw
+!! verse 1
+{8dd	En
+8dd	die
+8dd	wa-
+8dd	-ren
+4dd	ver-
+=3	=3
+4ee	-bon-
+2ee	-den
+4dd	al
+4b	door
+4a	den
+=4	=4
+*M4/4	*
+4g;}	trouw
+!! verse 2
+{4b	Van
+4b	fi-
+4b	-o
+=5	=5
+*M4/2	*
+4.dd	fal-
+8dd-	-de-
+2cc	-ra
+4r;}	.
+!! verse 3
+{4cc	Van
+4cc	fi-
+4cc	-o
+=6	=6
+4.ee	fal-
+8ee-	-de-
+2dd	-ra
+4r;}	.
+!! verse 4
+{4dd	Van
+4dd	fi-
+4dd	-o
+=7	=7
+*M3/2	*
+2.ff#	fal-
+4ee	-de-
+4dd	-ral-
+4cc	-de-
+=8	=8
+2b	-ra
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

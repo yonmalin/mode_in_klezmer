@@ -1,0 +1,57 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140260_01
+!! NLB record number: 140260
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{8c	In
+8d	die
+8e	wre-
+8e	-de
+8g	oor-
+8g	-logs-
+=2	=2
+4f	-tij-
+2e;}	-den
+!! verse 1
+=3	=3
+{8e	moest
+8e	die
+8e	jon-
+8A	-ge
+8B	te-
+8c	-re
+=4	=4
+2.e;}	jeugd
+!! verse 2
+=5	=5
+{8e	Veel
+8e	ver-
+8e	-driet
+8A	en
+8B	hart-
+8c	-zeer
+=6	=6
+4e	lij-
+2e;}	-den
+!! verse 3
+=7	=7
+{8e	om
+8e	te
+8e	sma-
+8A	-ken
+8c	d'huw-
+8B	-lijks-
+=8	=8
+2A	-vreugd
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

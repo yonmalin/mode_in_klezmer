@@ -1,0 +1,81 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB123316_01
+!! NLB record number: 123316
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8f	Schoon
+=1	=1
+4cc	jonk-
+4cc	-vrouw,
+=2	=2
+8dd	ick
+8ff	moet
+8ff	het
+8ff	u
+=3	=3
+4ee	kla-
+4dd;}	-gen,
+!! verse 1
+=4	=4
+{8cc	dat
+8b-	ick
+8a	ben
+8g	door-
+=5	=5
+4.a;}	-wond,
+!! verse 2
+{8f	Dat
+=6	=6
+4cc	ik
+4cc	groot
+=7	=7
+8dd	ly-
+8ff	-den
+8ff	moet
+8ff	ver-
+=8	=8
+4ee	-dra-
+4dd;}	-gen
+!! verse 3
+=9	=9
+{8cc	om
+8b-	uw
+8a	roo-
+8g	-den
+=10	=10
+4.a;}	mond;
+!! verse 4
+{8dd	ja,
+=11	=11
+4.cc	ja
+8b-	om
+=12	=12
+8a	u-
+8f	-wen
+8g	roo-
+8e	-den
+=13	=13
+(4f	mond;
+8A);}	.
+!! verse 5
+{8dd	ja,
+=14	=14
+4.cc	ja,
+8b-	om
+=15	=15
+8a	u-
+8f	-wen
+8g	roo-
+8e	-den
+=16	=16
+2f;}	mond.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,109 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070110_01
+!! NLB record number: 70110
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{2dd	Lui-
+(4b	-lak
+4ee)	.
+=2	=2
+2dd	slaap-
+(4b	-zak
+4ee)	.
+=3	=3
+4dd	zon-
+8.dd	-der
+16dd	ver-
+2b;}	-driet
+!! verse 1
+=4	=4
+{4dd	jij
+4dd	weet
+4ee	on-
+4ee	-ze
+=5	=5
+4dd	lui-
+4dd	-lak
+2b;}	niet
+!! verse 2
+=6	=6
+{4dd	on-
+4dd	-ze
+4ee	lui-
+8.ee	-lak
+16ee	die
+=7	=7
+4dd	heeft
+4dd	ge-
+4b	-sla-
+4g;}	-pen
+!! verse 3
+=8	=8
+{4dd	op
+4dd	een
+4ee	stoel
+4ee	waar
+=9	=9
+4dd	hij
+4dd	op
+4b;}	zat
+!! verse 4
+{8ee	en
+8ee	een
+=10	=10
+4dd	blok
+8dd	en
+8dd	een
+4b	blok
+8ee	en
+8ee	een
+=11	=11
+4dd	vier-
+4dd	-kant
+4b;}	blok
+!! verse 5
+{8g	en
+8g	een
+=12	=12
+4dd	blok
+4dd	met
+4ee	zes
+8ee	ze-
+8ee	-ven
+=13	=13
+2dd	ga-
+2b;}	-ten
+!! verse 6
+=14	=14
+{4dd	dat
+4dd	heeft
+4dd	on-
+4a	-ze
+=15	=15
+4dd	lui-
+8dd	-lak
+8dd	ge-
+4dd;}	-daan
+!! verse 7
+{8dd	en
+8dd	die
+=16	=16
+4gg	heeft
+4dd	zo
+4cc	lang
+4b	ge-
+=17	=17
+(4a	-sla-
+4dd)	.
+2g;}	-pen
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

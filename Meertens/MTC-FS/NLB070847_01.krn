@@ -1,0 +1,84 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070847_01
+!! NLB record number: 70847
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{2dd	Oar,
+2b	oar,
+=2	=2
+8dd	spik-
+8dd	-ker
+8dd	in
+8dd	'n
+2b;}	boor
+!! verse 1
+=3	=3
+{8dd	Spik-
+8dd	-ker
+8dd	in
+8dd	'n
+4ee	boor
+8ee	en
+8ee	'n
+=4	=4
+4dd	ha-
+4dd	-mer-
+4.b;}	-tjen
+!! verse 2
+{8g	Wie
+=5	=5
+4dd	zit
+4dd	'r
+4ee	in
+4ee	m'n
+=6	=6
+4dd	ka-
+4dd	-mer-
+4b	-tjen
+4r;}	.
+!! verse 3
+=7	=7
+{4dd	Dat
+4dd	is
+4ee	oa-
+8ee	-le
+8ee	ver-
+=8	=8
+4dd	-lam-
+4dd	-me-
+4b	-tjen
+4r;}	.
+!! verse 4
+=9	=9
+{4gg	Dat
+4gg	is
+4gg	oa-
+4gg	-le
+=10	=10
+4ff#	wit-
+4ff#	-te
+4ff#	gat
+4r;}	.
+!! verse 5
+=11	=11
+{4ee	Die
+4dd	daar
+4ff#	in
+4ee	m'n
+=12	=12
+8ee	ka-
+8ee	-mer-
+4ee	-tje
+4dd	zat.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,92 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB124614_01
+!! NLB record number: 124614
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[b-e-a-]	*
+*c:	*
+!! verse 0
+{4g	O
+=1	=1
+4cc	he-
+4g	-mel,
+4e-	ik
+4g	be-
+=2	=2
+2cc;}	-speur
+!! verse 1
+{2ee-	dat
+=3	=3
+4cc	ik
+4cc	niet
+4g	meer
+4g	kan
+=4	=4
+(8g	le-
+8f)	.
+2e-;}	-ven,
+!! verse 2
+{4g	de
+=5	=5
+4cc	dood
+4g	staat
+4e-	voor
+4g	de
+=6	=6
+2cc;}	deur,
+!! verse 3
+{2ee-	wil
+=7	=7
+4cc	mij
+4cc	toch
+4g	par-
+4g	-don
+=8	=8
+(8g	ge-
+8f)	.
+2e-;}	-ven!
+!! verse 4
+{4g	Mijn
+=9	=9
+4a	le-
+4a	-vens-
+4a	-loop
+(8b	is
+8cc)	.
+=10	=10
+2.g;}	uit,
+!! verse 5
+{4cc	waar-
+=11	=11
+4cc	-med'
+4cc	ik
+4dd	ben
+4cc	ver-
+=12	=12
+2.b;}	-bruid,
+!! verse 6
+{4g	mijn
+=13	=13
+4cc	le-
+4ee-	-vens-
+4dd	-loop
+4ff	is
+=14	=14
+4ee-;}	uit,
+!! verse 7
+{4cc	waar-
+4ff	-med'
+4dd	ik
+=15	=15
+2cc	ben
+2b	ver-
+=16	=16
+2cc	-bruid.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,120 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB112212_01
+!! NLB record number: 112212
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*a:	*
+!! verse 0
+=1	=1
+{4a	Hier
+4ee	komt
+4.ee	on-
+8dd	-ze
+=2	=2
+8cc	fie-
+8g	-re
+8cc	pink-
+8dd	-ster-
+4ee;}	-blom,
+!! verse 1
+{4a	En
+=3	=3
+4a	hier
+4ee	komt
+4ee	zij
+8dd	aan-
+8cc	-ge-
+=4	=4
+2b	-gan-
+4a	-gen
+4r;}	.
+!! verse 2
+=5	=5
+{4a	Met
+4ee	een
+4.ee	ro-
+8dd	-zen-
+=6	=6
+8cc	-krans
+8g	al
+8cc	om
+8dd	haar
+4ee;}	hoed
+!! verse 3
+{4a	En
+=7	=7
+4a	haar
+4ee	ro-
+4ee	-de,
+8dd	ro-
+8cc	-de
+=8	=8
+2b	wan-
+4a;}	-gen.
+!! verse 4
+{(8a	Is
+8b)	.
+=9	=9
+4cc	dat
+8b	dan
+8a	geen
+4g#	fie-
+4e	-re
+=10	=10
+(8a	pink-
+8g#)	.
+(8a	-ster-
+8b)	.
+4cc;}	-blom?
+!! verse 5
+{(8b	Zij
+8cc)	.
+=11	=11
+4dd	wou
+8ee	het
+8ee	zo
+4ee	graag
+(8dd	eens
+8cc)	.
+=12	=12
+2b	we-
+4a;}	-zen.
+!! verse 6
+{(8a	Ver-
+8b)	.
+=13	=13
+4cc	-loor
+8b	zij
+8a	dan
+4g#	haar
+8e	fie-
+8e	-re
+=14	=14
+(8a	maag-
+8g#)	.
+(8a	-den-
+8b)	.
+4cc;}	-blom,
+!! verse 7
+{(8b	Zij
+8cc)	.
+=15	=15
+8dd	kreeg
+8ee	ze
+8ee	van't
+8ee	lang,
+4ee	lang
+8dd	jaar
+8cc	niet
+=16	=16
+2b	weer-
+4a	-om!
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,125 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB111801_01
+!! NLB record number: 111801
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{8g	Daar
+=1	=1
+8e	was
+8g	een
+8cc	smid
+8b	die
+=2	=2
+8a	had
+8f	een
+8.dd;}	knecht
+!! verse 1
+{16cc	zeer
+=3	=3
+8b	lang-
+8g	-zaam
+8a	bij
+8b	zijn
+=4	=4
+(16cc	werk
+16b	.
+16cc	.
+16dd	.
+8ee);}	.
+!! verse 2
+{8g	maar
+=5	=5
+8e	als
+8g	het
+8cc	e-
+8b	-tens-
+=6	=6
+8a	-uur-
+8f	-tje
+8dd;}	sloeg
+!! verse 3
+{8cc	dan
+=7	=7
+8b	was
+8g	hij
+8a	won-
+8b	-der-
+=8	=8
+4cc	-sterk
+8r;}	.
+!! verse 4
+{8dd	Hij
+=9	=9
+8dd	 was 't
+8cc	die 't
+8a	eerste
+8dd	aan
+=10	=10
+8dd	ta-
+8b	-fel
+8g;}	kwam
+!! verse 5
+{8dd	de
+=11	=11
+8dd	laat-
+8cc	-ste
+8a	die
+8b	ver-
+=12	=12
+4g	-dween:
+8r;}	.
+!! verse 6
+{8g	daar
+=13	=13
+8cc	kon
+8dd	hij
+8ee	vlij-
+8cc	-tig
+=14	=14
+8a	vlij-
+8f	-tig
+8dd;}	zijn
+!! verse 7
+{8cc	dan
+=15	=15
+8b	liep
+8g	't er
+8a	o-
+8b	-ver-
+=16	=16
+(16cc	-heen
+16b	.
+16cc	.
+16dd	.
+8ee);}	.
+!! verse 8
+{8g	daar
+=17	=17
+8cc	kon
+8dd	hij
+8ee	vlij-
+8cc	-tig
+=18	=18
+8a	vlij-
+8f	-tig
+8dd;}	zijn
+!! verse 9
+{8cc	dan
+=19	=19
+8b	liep
+8g	't er
+8a	o-
+8b	-ver-
+=20	=20
+4cc	-heen
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

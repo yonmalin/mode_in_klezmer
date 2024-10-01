@@ -1,0 +1,82 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140815_01
+!! NLB record number: 140815
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-e-]	*
+*B-:	*
+!! verse 0
+=1	=1
+{2b-	Kom
+4a	toch
+4a	en
+=2	=2
+4g	volg
+4g	mij
+4f;}	na
+!! verse 1
+{4f	En
+=3	=3
+4e-	zing
+4e-	met
+4d	mij
+4B-	de
+=4	=4
+4e-	ca-
+4f	-non
+2B-;}	dra!
+!! verse 2
+=5	=5
+{8B-	Hoor,
+8c	hoe
+8d	on-
+8e-	-ze
+4f	stem-
+4d	-men
+=6	=6
+4e-	sa-
+4c	-men
+4d	klin-
+4B-;}	-ken;
+!! verse 3
+=7	=7
+{8e-	Merk
+8f	hoe
+8g	ook
+8a	de
+4b-	der-
+4b-	-de
+=8	=8
+4.b-	nu
+8a	be-
+2b-;}	-gint!
+!! verse 4
+=9	=9
+{4.dd	Wel,
+8dd	zoo
+4cc	hoor
+4dd	toch
+=10	=10
+4.b-	al-
+8cc	-le-
+4a	-bei-
+4b-;}	-de,
+!! verse 5
+=11	=11
+{(8g	Hoe
+8a)	.
+(8b-	goed
+8cc)	.
+4f	on-
+4dd	-ze
+=12	=12
+4.cc	ca-
+8dd	-non
+2dd;}	klinkt!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

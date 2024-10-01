@@ -1,0 +1,55 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072332_01
+!! NLB record number: 72332
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{16d	Er
+16g	wa-
+16e	-ren
+=1	=1
+*M4/8	*
+8d	eens
+(16g	twee
+16f#)	.
+8e	boe-
+8d	-ren-
+=2	=2
+4e	-zoons
+16r;}	.
+!! verse 1
+{16g	Die
+16f#	in
+16g	het
+=3	=3
+*M3/8	*
+8a	veld
+(16a	ging
+16g)	.
+(16b	rei-
+16a)	.
+=4	=4
+*M2/8	*
+16d;}	-zen
+!! verse 2
+{16c	Die
+16B	in
+16c	het
+=5	=5
+8d	veld
+8d	ging
+=6	=6
+*M5/8	*
+(16e	rei-
+16f#)	.
+4g	-zen
+16r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

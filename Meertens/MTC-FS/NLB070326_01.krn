@@ -1,0 +1,72 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070326_01
+!! NLB record number: 70326
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8g	Rin-
+8b	-gel
+8dd	rei-
+8dd	-e
+8dd	die
+8ee	moet
+8dd	zeg-
+8b;}	-gen
+!! verse 1
+=2	=2
+{8g	Waar
+8b	ik
+8dd	de-
+8dd	-ze
+8dd	ring
+8ee	moet
+8dd	leg-
+8b;}	-gen
+!! verse 2
+=3	=3
+{8dd	Hij
+16dd	is
+16dd	niet
+4ee	hier
+8dd	hij
+16dd	is
+16dd	niet
+4ee;}	daar
+!! verse 3
+=4	=4
+{8dd	Hij
+8dd	is
+16dd	mid-
+16dd	-den
+16dd	in
+16dd	A-
+8b	-me-
+8a	-ri-
+4g;}	-ka
+!! verse 4
+=5	=5
+{8gx	Nu
+8gx	moet
+8gx	gij
+8gx	ra-
+8gx	-den
+8gx	wie
+8gx	de
+8gx	moo-
+=6	=6
+8gx	-ie
+8gx	ring
+8gx	be-
+8ddx	-ko-
+8gx	-men
+8gx;}	zal
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

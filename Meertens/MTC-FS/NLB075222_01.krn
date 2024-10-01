@@ -1,0 +1,80 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075222_01
+!! NLB record number: 75222
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{2dd	De
+4dd	val-
+4dd	-se
+=2	=2
+2.dd	lief-
+8dd	-de
+8dd	die
+=3	=3
+4ee	heeft
+4dd	zo-
+4cc	-ve-
+4b	-le
+=4	=4
+2b	zin-
+[2a	-nen
+=5	=5
+4a];}	.
+!! verse 1
+{4b	Die
+4b	brengt
+4b	zo
+=6	=6
+2.a	me-
+4dd	-nig-
+=7	=7
+4ee	-een
+4ee	al
+4.dd	in't
+8cc	ver-
+=8	=8
+[1b	-driet
+=9	=9
+4b];}	.
+!! verse 2
+{4b	Die
+4cc	door
+4dd	ge-
+=10	=10
+2.ee	-vlei
+4ee	zich
+=11	=11
+4ee	la-
+4ee	-ten
+4gg	o-
+4ff#	-ver-
+=12	=12
+2ee	-win-
+[2dd	-nen
+=13	=13
+4dd];}	.
+!! verse 3
+{4gg	En
+4gg	van
+4gg	de
+=14	=14
+2dd	min-
+2dd	-ne
+=15	=15
+4ee	zoe-
+4ee	-te
+4.dd	slaap
+8cc	ge-
+=16	=16
+1b;}	-niet
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

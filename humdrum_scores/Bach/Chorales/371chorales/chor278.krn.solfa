@@ -1,0 +1,116 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Wie sch&ouml;n leuchtet der Morgenstern
+!!!SCT:	BWV 436
+!!!PC#:	278
+!!!AGN:	chorale
+**solfa	**solfa	**solfa	**solfa
+*ICvox	*ICvox	*ICvox	*ICvox
+*Ibass	*Itenor	*Ialto	*Isoprn
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefG2	*clefG2
+*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]
+*E:	*E:	*E:	*E:
+*M4/4	*M4/4	*M4/4	*M4/4
+*met(C)	*met(C)	*met(C)	*met(C)
+*MM100	*MM100	*MM100	*MM100
+do	mi	so	do
+=1	=1	=1	=1
+ti	re	so	so
+do	do	so	mi
+.	re	.	.
+la	mi	la	do
+.	fi	.	.
+mi	so	ti	so
+=2	=2	=2	=2
+do	so	mi	la
+re	fi	re	la
+so	ti	re	so
+do	do	mi	so
+=3	=3	=3	=3
+fa	do	fa	la
+mi	re	fa	ti
+re	.	.	.
+mi	so	mi	do
+fi	.	.	.
+so	so	re	ti
+=4	=4	=4	=4
+re	so	re	la
+.	.	mi	.
+re	fi	re	la
+.	.	do	.
+so	so	ti	so
+do	so	do	mi
+=5	=5	=5	=5
+fa	fa	do	la
+.	mi	.	.
+so	re	ti	so
+la	la	do	fa
+ti	.	re	.
+do	so	mi	mi
+.	.	do	.
+=6	=6	=6	=6
+so	so	do	re
+.	.	ti	.
+.	fa	.	.
+do	mi	so	do
+=7:|!	=7:|!	=7:|!	=7:|!
+*>B	*>B	*>B	*>B
+ti	so	re	so
+do	so	do	mi
+=8	=8	=8	=8
+so	ti	re	so
+la	la	do	mi
+=9	=9	=9	=9
+re	la	re	fa
+mi	so	do	mi
+fa	so	ti	re
+mi	.	.	.
+re	so	do	mi
+do	.	.	.
+=10	=10	=10	=10
+ti	so	re	fa
+do	so	do	mi
+so	so	ti	re
+so	.	.	.
+fa	so	do	mi
+mi	.	.	.
+=11	=11	=11	=11
+re	la	re	fa
+.	ti	.	.
+la	do	do	mi
+so	.	ti	.
+fa	do	la	re
+.	la	.	.
+so	so	ti	.
+.	fa	.	.
+=12	=12	=12	=12
+do	mi	so	do
+la	la	mi	do
+.	so	.	.
+ti	fi	ri	ti
+=13	=13	=13	=13
+di	mi	mi	la
+ri	.	.	.
+mi	ti	mi	so
+.	.	re	.
+la	la	do	fa
+ti	.	.	.
+do	so	do	mi
+=14	=14	=14	=14
+fi	la	do	re
+so	so	ti	.
+.	fa	.	.
+do	mi	so	do
+==	==	==	==
+*-	*-	*-	*-
+!!!hum2abc: -Q ''
+!!!title: @{PC#}. @{OTL@@DE}
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c. 1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

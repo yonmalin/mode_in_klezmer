@@ -1,0 +1,107 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075236_01
+!! NLB record number: 75236
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8g	Komt
+4g	vrien-
+4b	-den,
+=1	=1
+*M3/2	*
+2dd	luis-
+2ee	-tert
+4dd	naar
+4cc	mijn
+=2	=2
+[2.b	lied
+8b];}	.
+!! verse 1
+{8g	Komt
+4g	vrien-
+4b	-den
+=3	=3
+*M4/2	*
+2dd	luis-
+2ee	-tert
+4dd	naar
+4cc	mijn
+4ee;}	lied
+!! verse 2
+{4dd	Van
+=4	=4
+*M4/4	*
+8.b	wat
+16b	er
+8b	op
+8b	de
+4b	Neer-
+4dd	-kant
+=5	=5
+4dd	is
+4b	ge-
+2cc;}	-schied
+!! verse 3
+=6	=6
+{8.a	Fal-
+16a	-de-
+8.a	-ral-
+16a	-de-
+8a	-rie-
+8a	-e
+8.dd	fal-
+16cc	-de-
+=7	=7
+8.b	-ra-
+16a	-tie-
+16b	-ra-
+16b	-la-
+8cc	-la-
+8.dd;}	-la
+!! verse 4
+{16cc	Tie-
+8b	-re-
+8a	-la
+=8	=8
+8.b	la
+16g	la
+8g	la
+8g	la
+4g;}	la
+!! verse 5
+{(8g	Van
+8a)	.
+=9	=9
+8.b	wat
+16b	er
+8b	op
+8b	de
+4b	Neer-
+4dd	-kant
+=10	=10
+4dd	is
+4b	ge-
+2cc;}	-schied
+!! verse 6
+=11	=11
+{8.a	Fal-
+16a	-de-
+8.a	-ra-
+16a	-de-
+8a	-rie-
+8a	-e
+8.dd	fal-
+16cc	-de-
+=12	=12
+*M3/2	*
+[2.b	-ra
+8.b];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

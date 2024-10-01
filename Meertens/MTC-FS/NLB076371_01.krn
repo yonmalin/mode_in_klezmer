@@ -1,0 +1,85 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB076371_01
+!! NLB record number: 76371
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8.b	 'k Ging
+16b	er
+8b	door
+8.b	ma-
+16a	-len
+8b	en
+=2	=2
+4.g	mei-
+4g;}	-len
+!! verse 1
+{8dd	 Door 't
+=3	=3
+8dd	lo-
+8ee	-ver
+8ff#	en
+(8ee	door
+8ff#)	.
+8ee	het
+=4	=4
+[4.dd	kruid
+4dd];}	.
+!! verse 2
+{8dd	Daar
+=5	=5
+8.cc	hoor-
+16cc	-de
+8cc	ik
+8.cc	vo-
+16cc	-gel-
+8cc	-tjes
+=6	=6
+(4b	flui-
+8dd)	.
+(8dd	-ten
+8cc);}	.
+!! verse 3
+{8b	De
+=7	=7
+4a	nach-
+8dd	-te-
+(8dd	-ga-
+8cc)	.
+8b	-len
+=8	=8
+4.a	bui-
+4g;}	-ten
+!! verse 4
+{8dd	En
+=9	=9
+(8dd	ie-
+8ee)	.
+8ff#	-der
+4ee	zong
+8ee	zijn
+=10	=10
+4.dd;}	taal
+!! verse 5
+{4cc	Uit-
+8cc	-ge-
+=11	=11
+8b	-no-
+8a	-men
+8b	de
+(8dd	nach-
+8b)	.
+8a	-te-
+=12	=12
+[4.g	-gaal
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

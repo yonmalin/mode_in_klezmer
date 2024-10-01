@@ -1,0 +1,91 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB111582_01
+!! NLB record number: 111582
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{8g	'k Liep
+16g	er-
+16g	-eis
+8g	door
+8g	een
+4g	straat-
+8cc	-je
+8r;}	.
+!! verse 1
+=2	=2
+{8e	'k Zag
+16e	er
+16e	een
+8d	boe-
+8d	-ren-
+4.c;}	-meid.
+!! verse 2
+{8e	Ze
+=3	=3
+8g	maak-
+16g	-te
+16g	met
+8g	mij
+8g	een
+4g	praat-
+8cc	-je
+8r;}	.
+!! verse 3
+=4	=4
+{8e	Raad
+16e	er-
+16e	-eis
+8d	wat
+8d	ze
+2c;}	zei:
+!! verse 4
+=5	=5
+{8g	Ot-
+8g	-ter-
+8g	-nooi-
+8g	-en
+8g	ot-
+8g	-ter-
+8g	-nooi-
+8g;}	-en,
+!! verse 5
+=6	=6
+{8g	al-
+8g	-le
+8g	men-
+8g	-schen
+8g	heb-
+8c	-ben
+8c	vlooi-
+8c;}	-en.
+!! verse 6
+=7	=7
+{8g	Ot-
+8g	-ter-
+8g	-nooi-
+8g	-en
+8g	ot-
+8g	-ter-
+8g	-nooi-
+8g;}	-en,
+!! verse 7
+=8	=8
+{8g	al-
+8g	-le
+8g	men-
+8g	-schen
+8g	heb-
+8c	-ben
+8c	vlooi-
+8c;}	-en.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

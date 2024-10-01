@@ -1,0 +1,110 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071002_01
+!! NLB record number: 71002
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4.g	Zie
+8d	daar
+8.g	ko-
+16g	-men
+8.a	on-
+16a	-ze
+=2	=2
+4b	broe-
+8.b	-der-
+16a	-tjes
+2g;}	aan
+!! verse 1
+=3	=3
+{4.b	Zie
+8a	daar
+8.b	ko-
+16b	-men
+8.cc	on-
+16cc	-ze
+=4	=4
+4dd	broe-
+8.dd	-der-
+16cc	-tjes
+4b;}	aan
+!! verse 2
+{8.dd	Ons
+16dd	ge-
+=5	=5
+4ee	-zel-
+4dd	-schap
+4cc	te
+4b	ver-
+=6	=6
+(4b	-ma-
+4a)	.
+4a;}	-ken
+!! verse 3
+{8.b	En
+16a	we
+=7	=7
+8.g	schei-
+16g	-den
+8.g	niet
+16g	van-
+4g;}	-een,
+!! verse 4
+{8.a	en
+16a	we
+=8	=8
+8.b	schei-
+16b	-den
+8.b	niet
+16b	van-
+4b;}	-een
+!! verse 5
+{8g	En
+8cc	komt
+=9	=9
+4.dd	laat
+8cc	ons
+8b	drin-
+8a;}	-ken
+!! verse 6
+{8b	en
+8cc	komt
+=10	=10
+4.dd	laat
+8cc	ons
+8b	klin-
+8a;}	-ken
+!! verse 7
+{8b	En
+8cc	komt
+=11	=11
+8dd	laat
+8cc	ons
+8b	vro-
+8a	-lijk
+8b	zijn
+16b	bij
+16b	de
+8b;}	meid,
+!! verse 8
+{8cc	komt
+=12	=12
+*M3/4	*
+8dd	laat
+8cc	ons
+4b	vro-
+4a	-lijk
+=13	=13
+*M4/4	*
+2g	zijn.
+2r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

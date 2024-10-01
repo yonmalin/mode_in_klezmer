@@ -1,0 +1,65 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB134462_01
+!! NLB record number: 134462
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{16a	En
+16a	een
+=1	=1
+8a	ko-
+8a	-ning
+8a	die
+8a	had
+8cc	er
+8cc	drie
+=2	=2
+8cc	doch-
+8b-	-ter-
+8a	-tjes
+(8a	schoon
+8g);}	.
+!! verse 1
+{16f	Maar
+16f	ze
+=3	=3
+8g	stier-
+8a	-ven
+8b-	er
+8b-	al-
+8a	-le
+8g	in
+=4	=4
+(8f	ee-
+8e)	.
+8d	-nen
+4c;}	nacht
+!! verse 2
+{16c	Maar
+16c	ze
+=5	=5
+4.f	stier-
+4g	-ven
+8g	er
+=6	=6
+(4a	al-
+8dd)	.
+4cc	-le
+8g	in
+=7	=7
+(4.f	ee-
+4g)	.
+8b-	-nen
+=8	=8
+[4.a	nacht
+4a]	.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

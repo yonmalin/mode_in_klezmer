@@ -1,0 +1,80 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074243_01
+!! NLB record number: 74243
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	'tWas
+=1	=1
+(8b	op
+8dd)	.
+8b	een
+(8a	don-
+8cc)	-der-
+8a	-dag-
+=2	=2
+4.g	-a-
+4d;}	-vond
+!! verse 1
+{8d	Stond
+=3	=3
+4cc	zij
+8cc	er
+4b	in
+8b	de
+=4	=4
+[4.a	deur,
+4a];}	.
+!! verse 2
+{8dd	Haar
+=5	=5
+4b	min-
+8b	-naar
+(8cc	op
+8b)	.
+8cc	te
+=6	=6
+4.dd	wach-
+8ee;}	-ten
+!! verse 3
+{8cc	Ge-
+8a	-lijk
+=7	=7
+4g	zij
+8d	ge-
+4b	-woon-
+8a	-lijk
+=8	=8
+[4.b	deed.
+4b];}	.
+!! verse 4
+{8dd	Haar
+=9	=9
+4b	min-
+8b	-naar
+(8cc	op
+8b)	.
+8cc	te
+=10	=10
+4.dd	wach-
+8ee;}	-ten
+!! verse 5
+{8cc	Ge-
+8a	-lijk
+=11	=11
+4g	zij
+8d	ge-
+4b	-woon-
+8a	-lijk
+=12	=12
+[4.g	deed.
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

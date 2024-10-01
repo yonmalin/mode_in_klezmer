@@ -1,0 +1,59 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB123704_01
+!! NLB record number: 123704
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8f	Looft
+=1	=1
+4a	God
+8b-	den
+4cc;}	Heer,
+!! verse 1
+{8b	Ghi
+=2	=2
+4cc	hey-
+8dd	-dens
+4ee;}	seer
+!! verse 2
+{8ff	groot
+=3	=3
+4ee	en-
+8dd	-de
+4cc;}	cleyn
+!! verse 3
+{8f	Int
+=4	=4
+4a	aart-
+8cc	-sche
+4b-;}	pleyn
+!! verse 4
+{8a	Ghi
+=5	=5
+(8g	al-
+8f#)	.
+8g	-ge-
+4d;}	-meyn
+!! verse 5
+{8f	Met
+=6	=6
+4a	her-
+8dd	-ten
+4cc;}	reyn,
+!! verse 6
+{8a	Looft
+=7	=7
+(8a	hem
+8f#	.
+16g)	.
+16e	al-
+4f;}	-leyn.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

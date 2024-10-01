@@ -1,0 +1,38 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB139142_01
+!! NLB record number: 139142
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+=1	=1
+{4f	Eén
+4..f	ôd,
+16g	twee
+=2	=2
+2.a	ôd,
+=3	=3
+12g	licht
+12f	hem
+12d	er
+2c;}	uit.
+!! verse 1
+=4	=4
+{4f	Eén
+4..f	ôd,
+16g	twee
+=5	=5
+2.a	ôd,
+=6	=6
+12g	dat
+12f	hij
+12d	niet
+2c;}	stuit.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

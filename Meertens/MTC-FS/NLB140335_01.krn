@@ -1,0 +1,98 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140335_01
+!! NLB record number: 140335
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8.d	Gil-
+16d	-de-
+=1	=1
+4g	-broe-
+4g	-ders,
+8.a	maakt
+16a	ple-
+=2	=2
+4b	-zie-
+4b;}	-ren
+!! verse 1
+{8.b	Met
+16a	mu-
+=3	=3
+4g	-ziek
+4cc	vroeg
+8.b	en-
+16b	-de
+=4	=4
+4a	laat.
+4r;}	.
+!! verse 2
+{8.d	Laat
+16d	ons
+=5	=5
+4g	nu
+4g	de
+8.a	jaar-
+16a	-feest
+=6	=6
+4b	vie-
+4b;}	-ren
+!! verse 3
+{8.b	Van
+16a	de
+=7	=7
+4g	Maagd
+4cc	Ce-
+8.b	-ci-
+16a	-li-
+=8	=8
+4g	-a.
+4r	.
+4r;}	.
+!! verse 4
+=9	=9
+*M2/4	*
+{4cc	Zingt,
+8.cc	speelt
+16b	ter
+=10	=10
+8.cc	ee-
+16b	-re
+8.a	van
+16g	dees
+=11	=11
+4a	ma-
+4a;}	-ged:
+!! verse 5
+=12	=12
+*M3/4	*
+{4b	La-
+8.a	-sol-
+16g	-fa-
+8.f#	-mi-
+16e	-re-
+=13	=13
+*M2/4	*
+4d	-ut,
+8g	la-
+8a	-sol-
+=14	=14
+4b;}	-fa
+!! verse 6
+{(8dd	Ce-
+8cc)	.
+=15	=15
+(4b	-ci-
+8.a)	.
+16g	-li-
+=16	=16
+4g	-a!
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

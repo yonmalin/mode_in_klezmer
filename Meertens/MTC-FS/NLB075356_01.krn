@@ -1,0 +1,65 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075356_01
+!! NLB record number: 75356
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Laatst
+8d	op
+=1	=1
+4.g	al-
+8g	-ler-
+4a	-zie-
+4a	-len-
+=2	=2
+2b	-dag
+8r;}	.
+!! verse 1
+{8g	Trok
+8g	er
+8b	veel
+=3	=3
+4dd	volk
+8dd	naar
+8dd	't
+4b	kerk-
+4g	-hof
+=4	=4
+2a	heen
+4r;}	.
+!! verse 2
+{(8a	Men
+8b)	.
+=5	=5
+4.cc	zag
+8cc	daar-
+8dd	-heen
+8cc	de
+8b	kro-
+8a	-nen
+=6	=6
+4b	dra-
+4b	-gen
+8r;}	.
+!! verse 3
+{8a	Om
+8g	te
+8f#	ver-
+=7	=7
+4e	-sie-
+(8f#	-ren
+8g)	.
+(4a	me-
+8b)	.
+8a	-nig
+=8	=8
+2.g;}	graf.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

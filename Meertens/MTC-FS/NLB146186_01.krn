@@ -1,0 +1,65 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB146186_01
+!! NLB record number: 146186
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{4g	Jan
+4g	van 't
+4g	land
+4cc	dee
+=2	=2
+4e	har
+4e	'n oald
+4e;}	peerd,
+!! verse 1
+{8g	En
+8g	dat
+=3	=3
+4c	was
+8c	nog
+8c	gin
+4d	tach-
+4d	-tig
+=4	=4
+4e	stu-
+4e	-wer
+4d;}	weerd,
+!! verse 2
+{4g	Hu
+=5	=5
+4g	hu,
+8g	fie-
+8g	-mel
+8g	die-
+8g	-ne
+8g	poe-
+8g	-se
+=6	=6
+4g	weg,
+4g	weg,
+4g;}	weg,
+!! verse 3
+{4a	Hu
+=7	=7
+4g	hu,
+8g	fie-
+8g	-mel
+8g	die-
+8g	-ne
+8f	poe-
+8f	-se
+=8	=8
+4e	weg,
+4d	weg,
+2c;}	weg.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

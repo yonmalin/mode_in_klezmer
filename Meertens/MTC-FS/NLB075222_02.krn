@@ -1,0 +1,81 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075222_02
+!! NLB record number: 75222
+!! NLB strophe/voice number: 2
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{2b	De
+4b	heer
+4b	Val-
+=2	=2
+2a	-to
+4.dd	was
+8dd	een
+=3	=3
+4ee	jonk-
+4dd	-man
+4cc	op
+4b	zijn
+=4	=4
+2b	ei-
+[2a	-gen
+=5	=5
+4a];}	.
+!! verse 1
+{4b	Die
+4b	werd
+4b	be-
+=6	=6
+2.a	-mind
+4dd	door
+=7	=7
+4ee	Di-
+4ee	-na
+4.dd	zij-
+8cc	-ne
+=8	=8
+[1b	meid
+=9	=9
+4b];}	.
+!! verse 2
+{4b	Kreeg
+4cc	door
+4dd	haar
+=10	=10
+2.ee	schoon-
+4ee	-heid
+=11	=11
+4ee	ve-
+4ee	-le
+4gg	lus-
+4ff#	-ten
+=12	=12
+2ee	krij-
+[2dd	-gen
+=13	=13
+4dd];}	.
+!! verse 3
+{8.gg	Maar
+16gg	de
+4gg	lief-
+4gg	-de
+=14	=14
+2dd	werd
+2dd	ook
+=15	=15
+4ee	tot
+4ee	een
+4.dd	schand
+8cc	ge-
+=16	=16
+1b;}	-leid
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,88 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072582_01
+!! NLB record number: 72582
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4g	Vrien-
+4d	-den
+4g	mag 'k
+4d	u
+=2	=2
+4g	e-
+4a	-ven
+4b	sto-
+4g;}	-ren?
+!! verse 1
+=3	=3
+{4g	En
+4b	wilt
+4a	u
+4g	mij
+=4	=4
+4f#	dan
+4e	aan-
+4f#	-ho-
+8d	-ren?
+16r;}	.
+!! verse 2
+{16d	't
+=5	=5
+4d	Is
+8.cc	van
+16cc	de
+4cc	mul-
+4cc	-der
+=6	=6
+4cc	die
+4cc	zijn
+4cc	vrouw
+4r;}	.
+!! verse 3
+=7	=7
+{4dd	aan
+4b	twee
+4b	koop-
+8.g	-lien
+16g	ver-
+=8	=8
+4g	-ko-
+4b	-pen
+4b	wou
+4r;}	.
+!! verse 4
+=9	=9
+{4cc	Maar
+4a	zij
+8a	kre-
+8a	-gen
+4a	het
+=10	=10
+4a	niet
+4b	ge-
+4a	-daan
+8r;}	.
+!! verse 5
+{8g	ze
+=11	=11
+4g	kwa-
+4g	-men
+4g	voor
+8g	't
+8g	ge-
+=12	=12
+4f#	-recht
+(8e	te
+8f#)	.
+4g	staan.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

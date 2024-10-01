@@ -1,0 +1,72 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070038_01
+!! NLB record number: 70038
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{2dd	Ik
+=1	=1
+4ee	zing
+4dd	Jan
+4a	Stof-
+4b	-fels
+=2	=2
+2g;}	lof
+!! verse 1
+{2dd	Ik
+=3	=3
+4ee	zing
+4dd	Jan
+4cc	Stof-
+4b	-fels
+=4	=4
+(4a	lof
+4b	.
+4a);}	.
+!! verse 2
+{4d	Zijn
+=5	=5
+4g	ij-
+4g	-ver
+4a	vlijt
+4a	en
+=6	=6
+4b	werk-
+4b	-zaam-
+4a;}	-heid
+!! verse 3
+{4a	is
+=7	=7
+4b	xxx
+4dd	xxx
+4cc#	xxx
+4ee	xxx
+=8	=8
+2dd	stof
+2r;}	.
+!! verse 4
+=9	=9
+{(4g	ja
+4a)	.
+(4b	ja
+4cc)	.
+=10	=10
+2.dd;}	ja
+!! verse 5
+{4b	is
+=11	=11
+4cc	dat
+4ee	Jan
+4dd	Stof-
+4dd	-fels
+=12	=12
+2g;}	stof
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

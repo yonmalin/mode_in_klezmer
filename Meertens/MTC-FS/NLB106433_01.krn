@@ -1,0 +1,52 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB106433_01
+!! NLB record number: 106433
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{4g	Onz'
+=1	=1
+4a	An-
+4g	-na
+4f	zat
+4d	op
+=2	=2
+4c	ma-
+4e	-jes-
+4e	-teit
+4r	.
+=3	=3
+4d	ma-
+4f	-jes-
+4f	-teit
+4r	.
+=4	=4
+4e	ma-
+4g	-jes-
+4g;}	-teit,
+!! verse 1
+{4g	Onz'
+=5	=5
+4a	An-
+4g	-na
+4f	zat
+4d	op
+=6	=6
+4c	ma-
+4e	-jes-
+4e	-teit,
+4r	.
+=7	=7
+2g	ma-
+2g	-jes-
+=8	=8
+2.e;}	-teit.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

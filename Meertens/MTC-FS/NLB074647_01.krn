@@ -1,0 +1,112 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074647_01
+!! NLB record number: 74647
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	't Was
+=1	=1
+4g	op
+8d	een
+8g	ou-
+8g	-de-
+8d	-jaars-
+=2	=2
+(4g	-a-
+8b)	.
+(8dd	-vond
+8cc);}	.
+!! verse 1
+{8b	't Was
+=3	=3
+4a	op
+8g	een
+8f#	ou-
+8f#	-de-
+8a	-jaars-
+=4	=4
+(4.d	-dag
+4e);}	.
+!! verse 2
+{8d	Ach
+=5	=5
+4g	't was
+8g	op
+8g	een
+8g	ou-
+8g	-de-
+=6	=6
+4g	-jaars-
+8b	-a-
+8dd;}	-vond
+!! verse 3
+{8cc	het
+8b	was
+=7	=7
+4a	op
+8g	een
+8f#	ou-
+8f#	-de-
+8a	-jaars-
+=8	=8
+4.d	-dag
+4r;}	.
+!! verse 4
+{8b	En
+=9	=9
+4cc	raad
+8cc	eens
+8cc	wat
+8b	er
+8cc	te
+=10	=10
+4cc	doe-
+8a	-ne
+4a;}	kwam
+!! verse 5
+{8a	Ja,
+=11	=11
+4dd	raad
+8dd	eens
+8dd	wat
+8dd	er
+8dd	te
+=12	=12
+4g	doe-
+8g	-ne
+4g;}	kwam
+!! verse 6
+{8b	Daar
+=13	=13
+4a	kwam
+8a	op-
+8e	-eens
+8e	een
+8f#	oud
+=14	=14
+4.g	wijf
+4.g	wijf
+=15	=15
+*M3/8	*
+4g;}	wijf
+!! verse 7
+{8b	Daar
+=16	=16
+*M6/8	*
+4a	kwam
+8a	op-
+8f#	-eens
+8f#	een
+8f#	oud
+=17	=17
+4.g	wijf
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

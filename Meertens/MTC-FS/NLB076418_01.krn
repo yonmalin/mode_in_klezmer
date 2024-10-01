@@ -1,0 +1,51 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB076418_01
+!! NLB record number: 76418
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Op
+=1	=1
+4.g	e-
+8d	-nen
+4B	mor-
+4d	-gen-
+=2	=2
+2.g;}	-stond
+!! verse 1
+{4b	Trok
+=3	=3
+4.a	ik
+8g	de
+4f#	veld-
+4g	-den
+=4	=4
+2.a;}	rond.
+!! verse 2
+{4b	Door
+=5	=5
+4dd	bos-
+4cc	-sen
+4b	en
+4a	door
+=6	=6
+2g	vel-
+4f#;}	-den
+!! verse 3
+{4e	Waar
+=7	=7
+4d	ik
+4cc	mijn
+4b	lief-
+4a	-ste
+=8	=8
+2.g;}	vond.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

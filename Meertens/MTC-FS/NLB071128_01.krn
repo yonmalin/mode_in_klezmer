@@ -1,0 +1,43 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071128_01
+!! NLB record number: 71128
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/2	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8g	Toen
+8a	de
+=1	=1
+4b	koe-
+4a	-koek
+4g	op
+4a	de
+=2	=2
+(4b	to-
+4ee)	.
+2dd	-ren
+=3	=3
+4cc	zat
+4cc	zat
+4cc;}	zat
+!! verse 1
+{8dd	Toen
+8cc	de
+=4	=4
+4b	koe-
+4a	-koek
+4g	op
+4a	de
+=5	=5
+2b	to-
+2a	-ren
+=6	=6
+2.g;}	zat.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

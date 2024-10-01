@@ -1,0 +1,89 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070733_01
+!! NLB record number: 70733
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM100	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Daar
+=1	=1
+4g	bui-
+4a	-ten
+4dd	in
+4dd	die
+=2	=2
+4b	vel-
+2a;}	-den,
+!! verse 1
+{4b	Daar
+=3	=3
+4cc	staat
+4dd	een
+4ee	her-
+4ee	-berg
+=4	=4
+*M2/4	*
+2dd;}	fijn,
+!! verse 2
+=5	=5
+*M4/4	*
+{2dd	Daar
+4ee	zo-
+8.ee	-ve-
+16ee	-le
+=6	=6
+*M2/4	*
+4dd	he-
+8.dd	-ren
+16cc	ver-
+=7	=7
+*M3/4	*
+4b	-ker-
+4g;}	-ren,
+!! verse 3
+{4dd	Daar
+=8	=8
+*M4/4	*
+4cc	zo-
+8.a	-ve-
+16g	-le
+4f#	he-
+4a	-ren
+=9	=9
+*M2/4	*
+2g;}	zijn.
+!! verse 4
+=10	=10
+*M4/4	*
+{2dd	Daar
+4ee	zo-
+8.ee	-ve-
+16ee	-le
+=11	=11
+*M2/4	*
+4dd	he-
+8.dd	-ren
+16cc	ver-
+=12	=12
+*M3/4	*
+4b	-ker-
+4g;}	-ren,
+!! verse 5
+{4dd	Daar
+=13	=13
+*M4/4	*
+4cc	zo-
+8.a	-ve-
+16g	-le
+4f#	he-
+4a	-ren
+=14	=14
+2.g;}	zijn.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,89 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB123140_01
+!! NLB record number: 123140
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#c#g#]	*
+*A:	*
+!! verse 0
+{8e	'k Kwam
+=1	=1
+4a	laetst-
+8a	-mael
+(8a	door
+8b)	.
+8cc#	een
+=2	=2
+4cc#	groe-
+8b	-ne
+4b	wei,
+8b	koe-
+=3	=3
+4.cc#	-koek,
+4r;}	.
+!! verse 1
+{8e	ik
+=4	=4
+4a	vond
+8a	den
+8a	nach-
+8b	-te-
+8cc#	-gael
+=5	=5
+4cc#	aen
+8b	d' een
+4b	zy
+8b	koe-
+=6	=6
+4.cc#	-koek,
+4r;}	.
+!! verse 2
+{8cc#	de
+=7	=7
+4ee	nach-
+8ee	-te-
+(8ee	-gael
+8ff#)	.
+8ee	zong
+=8	=8
+4ee	op
+8dd	zijn
+4dd;}	best,
+!! verse 3
+{8dd	de
+=9	=9
+4cc#	koe-
+8cc#	-koek
+(8cc#	riep
+8ee)	.
+8cc#	uit
+=10	=10
+4cc#	zij-
+8b	-nen
+4b;}	nest
+!! verse 4
+{8ee	koe-
+=11	=11
+4cc#	-koek,
+8cc#	koe-
+(8b	-koek,
+8a)	.
+8b	koe-
+=12	=12
+4.a;}	-koek,
+!! verse 5
+{8ee	koe-
+4cc#	-koek,
+=13	=13
+8cc#	koe-
+(8b	-koek,
+8a)	.
+8b	koe-
+4a;}	-koek.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

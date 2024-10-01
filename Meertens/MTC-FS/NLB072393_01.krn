@@ -1,0 +1,109 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072393_01
+!! NLB record number: 72393
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8b	Het
+=1	=1
+8dd	an-
+8dd	-der
+8dd	mooi
+4b	meis-
+8dd	-je
+=2	=2
+4cc	sprak:
+8a	Houd
+4g;}	moed,
+!! verse 1
+{8b	Ik
+=3	=3
+4dd	bleef
+8dd	hier
+8b	nog
+8b	eens
+8b	een
+=4	=4
+[4.a	jaar
+8a]	.
+8r;}	.
+!! verse 2
+{16dd	Want
+16dd	de
+=5	=5
+8dd	liefd'
+8dd	is
+8dd	nog
+8b	niet
+8b	tot
+8dd	de
+=6	=6
+4cc	we-
+8a	-reld
+4g;}	uit
+!! verse 3
+{8dd	Het
+=7	=7
+4dd	kan
+8dd	nog
+4b	draai-
+8b	-en
+=8	=8
+4a;}	raak
+!! verse 4
+{8a	er
+8a	zijn
+8a	er
+8a	zes
+=9	=9
+4dd	klip-
+8dd	-sels
+4ee	in
+8ee	een
+=10	=10
+4.dd;}	jaar
+!! verse 5
+{8a	vier
+8b	aan
+8cc#	de
+=11	=11
+4dd	zon,
+8dd	twee
+4ee	aan
+8ee	de
+=12	=12
+4.dd;}	maan
+!! verse 6
+{4b	En
+8dd	dan
+=13	=13
+8dd	is
+8cc	d'r
+8b	een
+4a	schrik-
+8a	-kel-
+=14	=14
+4.b;}	-jaar,
+!! verse 7
+{8g	dan
+8b	heb-
+8dd	-ben
+=15	=15
+4ee	wij
+8ee	nog
+(8dd	kans
+8cc)	.
+8a	voor-
+=16	=16
+[4.g	-waar
+8g]	.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

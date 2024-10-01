@@ -1,0 +1,97 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071015_01
+!! NLB record number: 71015
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Zeg
+=1	=1
+8.dd	buur-
+16dd	-vrouw
+8.dd	'k heb
+16dd	je
+=2	=2
+12ee	me-
+12ee	-re
+12ee	ge-
+8.dd	-zien
+16dd	en
+=3	=3
+12ee	mer-
+12ee	-re
+12ee	ge-
+8.dd;}	-zien
+!! verse 1
+{16b	En
+=4	=4
+8.b	daar-
+16b	-om
+8.a	wou
+16b	'k je
+=5	=5
+2dd	vra-
+=6h	=6h
+[4aH	-gen
+8.a];}	.
+!! verse 2
+{16a	Of
+=7	=7
+12.a	jij
+24a	er
+12a	is
+8.a	wilt,
+16a	of
+=8	=8
+12.a	jij
+24a	er
+12a	is
+8.a;}	wilt
+!! verse 3
+{16gg	van
+=9	=9
+*M3/4	*
+8.ff#	dril-
+16ff#	-de-
+8ff#	-rom,
+8.ee	dril-
+16ee	-de-
+8ee	-ro-
+=10	=10
+[2dd	-dril.
+8.dd];}	.
+!! verse 4
+{16a	Of
+=11	=11
+*M2/4	*
+12.a	jij
+24a	er
+12a	is
+8.a	wilt,
+16a	of
+=12	=12
+12.a	jij
+24a	er
+12a	is
+8.a;}	wilt
+!! verse 5
+{16gg	van
+=13	=13
+*M3/4	*
+8.ff#	dril-
+16ff#	-de-
+8ff#	-rom,
+8.ee	dril-
+16ee	-de-
+8ee	-ro-
+=14	=14
+[2dd	-dril.
+8dd];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

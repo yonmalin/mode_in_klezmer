@@ -1,0 +1,118 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073244_01
+!! NLB record number: 73244
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8b	een
+=1	=1
+4dd	boer
+8.dd	en
+16ee	een
+4dd	boer
+8.b	en
+16a	een
+=2	=2
+4g	e-
+8.g	-de-
+16g	-le
+4g;}	boer
+!! verse 1
+{8.a	En
+16a	een
+=3	=3
+4b	boer
+4cc	al
+4dd	van
+4ee	zijn
+=4	=4
+2dd	lan-
+4.b;}	-den
+!! verse 2
+{8b	een
+=5	=5
+4dd	boer
+8.dd	en
+16ee	een
+4dd	boer
+8.b	en
+16a	een
+=6	=6
+4g	e-
+8.g	-de-
+16g	-le
+4g;}	boer
+!! verse 3
+{8.a	En
+16a	een
+=7	=7
+4b	boer
+4cc	al
+4dd	van
+4ee	zijn
+=8	=8
+2dd	lan-
+4.b;}	-den
+!! verse 4
+{8b	Die
+=9	=9
+4a	had
+8.a	er
+16b	zijn
+4a	wa-
+8.b	-gen
+16a	met
+=10	=10
+4g	hout
+4a	be-
+4.b;}	-laan
+!! verse 5
+{8g	Die
+=11	=11
+4a	dacht
+4a	hij
+4a	zou
+(8.b	ver-
+16a)	.
+=12	=12
+4g	-ko-
+4a	-pen
+8.b;}	gaan
+!! verse 6
+{16a	En
+8.g	op
+16b	de
+=13	=13
+4dd	mar-
+8.gg	-rekt
+16ee	daar
+4dd	kwam
+8.b	hij
+16g	te
+=14	=14
+2a	lan-
+8.g;}	-den
+!! verse 7
+{16a	En
+8.b	op
+16cc	de
+=15	=15
+4dd	mar-
+8.gg	-rekt
+16ee	daar
+(8.dd	kwam
+16cc)	.
+8.b	hij
+16g	te
+=16	=16
+2a	lan-
+4.g;}	-den.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

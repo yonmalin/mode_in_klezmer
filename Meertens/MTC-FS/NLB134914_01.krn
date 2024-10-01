@@ -1,0 +1,96 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB134914_01
+!! NLB record number: 134914
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+=1	=1
+{4cc	Daer
+8.cc	was
+16cc	een
+=2	=2
+8cc	kwe-
+8ee	-zel-
+8dd	-tje
+8cc	die
+=3	=3
+4dd	't al
+8.dd	wil
+16dd	ver-
+=4	=4
+2dd;}	-staen
+!! verse 1
+=5	=5
+{4dd	Die
+8.dd	meen-
+16dd	-de
+=6	=6
+8dd	zacht-
+8ff	-jes
+8ee	in
+8dd	de
+=7	=7
+4ee	he-
+8.cc	-mel
+16cc	te
+=8	=8
+2cc;}	gaen,
+!! verse 2
+=9	=9
+{4cc	Op
+8.cc	ha-
+16b	-re
+=10	=10
+4a	zok-
+4g	-jes
+=11	=11
+8cc	schoet-
+8cc	-jes
+8cc	hou-
+8b	-ten
+=12	=12
+4a	blok-
+4g;}	-jes
+!! verse 3
+=13	=13
+{4cc	Maer
+8.cc	on-
+16dd	-zen
+=14	=14
+4ee	Hee-
+8.cc	-re
+16cc	die 't
+=15	=15
+8ff	al-
+8ff	-les
+8.ee	wel
+16dd	voor-
+=16	=16
+4.dd;}	-ziet
+!! verse 4
+{8dd	En
+=17	=17
+8ee	wil-
+8cc	-den
+8cc	de-
+8cc	-ze
+=18	=18
+8b	kwe-
+8a	-zel
+8.ff	in
+16ff	den
+=19	=19
+4ee	he-
+4dd	-mel
+=20	=20
+4cc	niet
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

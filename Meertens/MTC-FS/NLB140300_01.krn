@@ -1,0 +1,69 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140300_01
+!! NLB record number: 140300
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{4a	Van
+=1	=1
+4g	vrou-
+4f	-den
+4a	ons
+4cc	al-
+4cc	-le
+4cc	die
+=2	=2
+4dd	kin-
+4dd	-der-
+4b-	-kens
+4cc	zin-
+4cc;}	-gen
+!! verse 1
+{4cc	Des
+=3	=3
+4dd	a-
+4dd	-von-
+4dd	-des
+2cc	doe
+4a	si
+=4	=4
+2b-	heim-
+4g	-wert
+4a	gin-
+4a;}	-gen:
+!! verse 2
+{4cc	Dat
+=5	=5
+4b-	God
+4b-	on-
+4g	-sen
+4a	Hee-
+4a	-re
+4b-	ge-
+=6	=6
+2a	-bo-
+4g	-ren
+2f;}	wart,
+!! verse 3
+{4f	Op
+=7	=7
+4a	ee-
+4a	-nen
+4b-	wel
+4cc	hei-
+4cc	-li-
+4a	-gen
+=8	=8
+(4b-	ker-
+4a)	.
+4g	-stes-
+2a;}	-nacht
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

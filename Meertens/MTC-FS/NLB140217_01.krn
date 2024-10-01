@@ -1,0 +1,68 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140217_01
+!! NLB record number: 140217
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+=1	=1
+{16f	'k Kwam
+16f	Ce-
+16f	-ci-
+16f	-lia
+8f	te-
+8a	-gen
+=2	=2
+16d	langs
+16d	den
+16d	wa-
+16d	-ter-
+4f;}	-kant
+!! verse 1
+=3	=3
+{16f	schoo-
+16f	-ne
+16f	wit-
+16f	-te
+8f	schoen-
+8a	-tjes
+=4	=4
+16d	bloe-
+16d	-men
+16d	in
+16d	haar
+4f;}	hand
+!! verse 2
+=5	=5
+{4.f	O
+8e-	Ce-
+=6	=6
+8d	-ci-
+[8d	-lia
+8d]	.
+8f	wat
+=7	=7
+8.f	zijt
+16f	ge
+8.g	lief
+16f;}	en
+!! verse 3
+=8	=8
+{8f	won-
+8e-	-der-
+4e-	-schoon
+=9	=9
+4.e-	O
+8d	Ce-
+=10	=10
+8c	-ci-
+8c	-li-
+4c;}	-a,
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

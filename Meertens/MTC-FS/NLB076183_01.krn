@@ -1,0 +1,147 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB076183_01
+!! NLB record number: 76183
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8.d	In
+16d	de
+=1	=1
+4..g	he-
+16g	-mel
+8.g	hangt
+16g	een
+8.f#	gro-
+16g	-te
+=2	=2
+2.a;}	ham
+!! verse 1
+{8.a	Daar
+16b	moest
+=3	=3
+4.cc	el-
+16cc	-ke
+16cc	no-
+8.cc	-ta-
+16cc	-ris
+8.b	eens
+16a	van
+=4	=4
+4b	e-
+2g;}	-ten
+!! verse 2
+{4d	Voor-
+=5	=5
+4.d	-dat
+8g	hij
+8g	in
+8g	de
+8f#	he-
+8g	-mel
+=6	=6
+2.a;}	kwam,
+!! verse 3
+{8.a	Maar
+16b	daar
+=7	=7
+4.cc	was
+8cc	nog
+8.cc	nooit
+16cc	niet
+8.b	van
+16a	ge-
+=8	=8
+4b	-be-
+2g;}	-ten
+!! verse 4
+{4d	Dus
+=9	=9
+4.a	vrien-
+8g	-den
+8.a	luis-
+16g#	-ter
+8a	naar
+8cc	mijn
+=10	=10
+2.b;}	raad
+!! verse 5
+{4d	Voor-
+=11	=11
+4.a	-dat
+16g#	je
+16g#	naar
+8.a	een
+16g#	no-
+8a	-ta-
+8cc	-ris
+=12	=12
+[2b	gaat
+8b];}	.
+!! verse 6
+{8dd	Een
+8.dd	oud
+16dd	ge-
+=13	=13
+4.dd	-rucht
+8dd	dat
+8dd	is
+8dd	al
+8.cc	vaak
+16b	ver-
+=14	=14
+[2e	-teld
+8e];}	.
+!! verse 7
+{16cc	In
+16cc	een
+8cc	ou-
+8cc	-we
+=15	=15
+4b	sok
+8.b	stopt
+16g	de
+8.a	slim-
+16g	-me
+8.a	vos
+16a	zijn
+=16	=16
+[2b	geld
+8b];}	.
+!! verse 8
+{8dd	Een
+8.dd	oud
+16dd	ge-
+=17	=17
+4.dd	-rucht
+8dd	dat
+8dd	is
+8dd	al
+8.cc	vaak
+16b	ver-
+=18	=18
+[2e	-teld
+8e];}	.
+!! verse 9
+{16cc	In
+16cc	een
+8cc	ou-
+8cc	-we
+=19	=19
+4b	sok
+8.b	stopt
+16g	de
+8.a	slim-
+16a	-me
+8b	vos
+8a	zijn
+=20	=20
+2.g;}	geld
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

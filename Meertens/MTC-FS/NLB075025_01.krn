@@ -1,0 +1,68 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075025_01
+!! NLB record number: 75025
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Ach
+=1	=1
+4g	moe-
+4g	-der
+4g	had
+4b	ik
+=2	=2
+4.dd	maar
+8cc	een
+8b;}	man
+!! verse 1
+{8dd	Van
+8.dd	fi-
+16cc	-o-
+=3	=3
+4b	-lie,
+8.g	een
+16g	twee
+4..g;}	drie
+!! verse 2
+{16g	Ach
+=4	=4
+4ee	moe-
+4ee	-der
+4ff#	had
+4ee	ik
+=5	=5
+4dd	maar
+4dd	een
+4gg;}	man
+!! verse 3
+{8dd	Die
+8dd	de
+=6	=6
+4dd	kost
+4dd	voor
+4ee	mij
+4cc	ver-
+=7	=7
+4cc	-die-
+4b	-nen
+8dd;}	kan
+!! verse 4
+{8dd	van
+8g	fi-
+8g	-o-
+=8	=8
+4b	-lie
+4dd	van
+4a	fi-
+4dd	-o-
+=9	=9
+2.g;}	-la.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

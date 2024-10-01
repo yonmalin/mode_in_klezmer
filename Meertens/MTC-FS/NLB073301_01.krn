@@ -1,0 +1,93 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073301_01
+!! NLB record number: 73301
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	Hoort
+=1	=1
+4e	men-
+4d	-sen
+4B	hoort
+4d	een
+=2	=2
+2.g;}	lied
+!! verse 1
+{4g	het-
+=3	=3
+4.b	-geen
+8b	ik
+4.a	zal
+8a	ver-
+=4	=4
+2g	-tel-
+4f#;}	-len
+!! verse 2
+{8g	't
+8g	Is
+=5	=5
+4a	van
+4g	een
+4f#	boer
+4e	uit
+=6	=6
+*M2/4	*
+4d;}	Ees
+!! verse 3
+{8f#	En
+8f#	di
+=7	=7
+*M4/4	*
+4e	laat
+4d	eens
+4c	van
+4B	zich
+=8	=8
+2d	ho-
+4d;}	-ren
+!! verse 4
+{4d	't is
+=9	=9
+4e	voor
+4d	de
+4B	twee-
+4d	-de
+=10	=10
+2.g;}	keer
+!! verse 5
+{4g	Het-
+=11	=11
+4f#	-zelf-
+4e	-de
+4d	grap-
+4cc	-pie
+=12	=12
+(2b	weer
+4a);}	.
+!! verse 6
+{4b	't is
+=13	=13
+4cc	voor
+4b	de
+4a	twee-
+4g	-de
+=14	=14
+4e;}	keer
+!! verse 7
+{4a	het-
+4a	-zelf-
+4a	-de
+=15	=15
+2g	grap-
+2f#	-pie
+=16	=16
+2.g;}	weer
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

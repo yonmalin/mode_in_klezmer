@@ -1,0 +1,166 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075825_01
+!! NLB record number: 75825
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Er
+8g	kwam
+8b	er
+=1	=1
+8dd	eens
+8dd	een
+12dd	e-
+12dd	-de-
+12ee	-le
+8dd;}	heer
+!! verse 1
+{8dd	Die
+8a	bij
+8b	een
+=2	=2
+8.cc	schooi-
+16ee	-ster
+8dd	kwam
+8cc	ver-
+8dd	-ke-
+8g;}	-ren
+!! verse 2
+{8g	Hij
+8b	kwam
+=3	=3
+8dd	klop-
+8dd	-pen
+8dd	aan
+8ee	de
+4dd;}	deur
+!! verse 3
+{8a	Sprak
+8b	er
+=4	=4
+8cc	met
+8cc	een
+8b	droef
+8a	ge-
+8.g;}	-treur:
+!! verse 4
+{16g	Juf-
+8.g	-frouw
+16b	'k kom
+=5	=5
+*M3/4	*
+[4dd	u
+8.dd]	.
+16dd	een
+8.ee	woord-
+16ff#	-je
+=6	=6
+8gg	vra-
+[8gg	-gen
+4gg];}	.
+!! verse 5
+{8gg	Sta
+8gg	ik
+=7	=7
+8ee	bij
+4.ee	u
+8dd	in
+8cc	be-
+=8	=8
+(8b	-ha-
+8dd)	.
+8g;}	-gen?
+!! verse 6
+{8dd	Neen,
+8g	gij
+8b	een
+=9	=9
+*M4/4	*
+8.dd	heer
+16dd	zo
+8dd	hoog
+8ee	van
+8dd;}	staat
+!! verse 7
+{8dd	Die
+8a	mij
+8b	zo
+=10	=10
+8cc	ver
+8ee	te
+8dd	bo-
+8cc	-ven
+8b;}	gaat.
+!! verse 8
+{8dd	Neen,
+8g	gij
+8b	een
+=11	=11
+8.dd	heer
+16dd	zo
+8dd	hoog
+8ee	van
+8dd;}	staat
+!! verse 9
+{8dd	Die
+8a	mij
+8b	zo
+=12	=12
+8cc	ver
+8cc	te
+8b	bo-
+8a	-ven
+8g;}	gaat.
+!! verse 10
+{8dd	Ik
+16g	zal
+16g	u
+8b	om-
+=13	=13
+12dd	-hang-
+12dd	-en
+12dd	met
+8dd	di-
+8ee	-a-
+8dd;}	-mant
+!! verse 11
+{8dd	Gij
+8a	zijt
+8b	de
+=14	=14
+8cc	schoon-
+8ee	-ste
+8dd	van
+8cc	het
+8b;}	land
+!! verse 12
+{8dd	Ik
+16g	zal
+16g	u
+8b	om-
+=15	=15
+12dd	-hang-
+12dd	-en
+12dd	met
+8dd	di-
+8ee	-a-
+8dd;}	-mant
+!! verse 13
+{8dd	Gij
+8a	zijt
+8b	de
+=16	=16
+8cc	schoon-
+8cc	-ste
+8b	van
+8a	het
+8g;}	land
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

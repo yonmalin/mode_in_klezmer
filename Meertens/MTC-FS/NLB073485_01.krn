@@ -1,0 +1,98 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073485_01
+!! NLB record number: 73485
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Een
+=1	=1
+8dd	zee-
+8ee	-man
+8.dd	wou
+16cc	eens
+8b	wand'-
+8dd	-len
+8g;}	gaan
+!! verse 1
+{8b	Om
+=2	=2
+8cc	wat
+8b	ver-
+8a	-tier
+8dd	te
+(8cc	zoe-
+8b)	.
+8a;}	-ken,
+!! verse 2
+{8dd	Hij
+=3	=3
+8dd	zag
+8ee	toen
+8.dd	een
+16cc	mooi
+8b	meis-
+8dd	-je
+8g;}	staan,
+!! verse 3
+{16b	En
+16b	hij
+=4	=4
+8cc	greep
+8b	haar
+8a	bij
+8dd	haar
+(8cc	doe-
+8b)	.
+8a;}	-ken,
+!! verse 4
+{16dd	En
+16dd	hij
+=5	=5
+8.dd	sprak:
+16ee	Lief
+8.dd	meis-
+16cc	-je,
+8b	hoe
+8dd	is
+8g;}	dit,
+!! verse 5
+{8dd	Dat
+=6	=6
+8.dd	jij
+16ee	hier
+8.dd	zo
+16cc	al-
+8b	-le-
+8dd	-nig
+8g;}	zit?
+!! verse 6
+{8b	Hij
+=7	=7
+8cc	sprak:
+8b	lief
+4a	meis-
+4dd	-je,
+8ff#	meis-
+8ee	-je
+=8	=8
+8.dd;}	fijn,
+!! verse 7
+{16dd	Mag
+8ff#	ik
+8ee	van-
+4dd	-nacht
+4a	je
+=9	=9
+8b	bij-
+8cc#	-slaap
+4dd	zijn?
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

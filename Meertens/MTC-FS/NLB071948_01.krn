@@ -1,0 +1,101 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071948_01
+!! NLB record number: 71948
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8b	Ik
+=1	=1
+4dd	ben
+8dd	er
+4dd	laatst
+8b	al
+=2	=2
+4b	op
+8dd	een
+4.dd;}	keer
+!! verse 1
+=3	=3
+{8b	naar
+8b	mijn
+8b	zoet
+8b	lief-
+8dd	-je
+8b	ge-
+=4	=4
+4.a	-gaan
+4r;}	.
+!! verse 2
+{8a	Daar
+=5	=5
+4dd	deed
+8gg	ik
+4b	mijn
+8cc	be-
+=6	=6
+4dd	-klag
+8dd	zo
+4g;}	teer,
+!! verse 3
+{8b	om
+=7	=7
+4dd	troost
+8b	van
+8b	haar
+8dd	te
+8b	be-
+=8	=8
+4.a	-gaan
+4r;}	.
+!! verse 4
+{8a	doch
+=9	=9
+4dd	al
+8a	mijn
+8dd	kla-
+8ee	-gen
+8ff#	dat
+=10	=10
+4ff#	helpt
+8ee	mij
+8dd	niet
+8r;}	.
+!! verse 5
+{8a	Zij
+=11	=11
+4dd	liet
+8a	mij
+8dd	zit-
+8ee	-ten
+8ff#	in
+=12	=12
+4ff#	mijn
+8ee	ver-
+4.dd;}	-driet
+!! verse 6
+=13	=13
+{8b	hoe
+8.dd	kan
+16ee	het
+4.dd	zijn
+=14	=14
+8g	dat
+8b	jij
+8dd	mij
+8gg	la-
+8.ff#	-ten
+16ee	zou
+=15	=15
+(8dd	in
+8cc)	.
+8a	die
+4g;}	pijn.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

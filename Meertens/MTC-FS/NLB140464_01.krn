@@ -1,0 +1,104 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB140464_01
+!! NLB record number: 140464
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*g:dor	*
+!! verse 0
+{4g	Het
+=1	=1
+4g	viel
+4a	eens
+4b-	he-
+4cc	-mels
+=2	=2
+*M2/4	*
+4dd	dou-
+8b-;}	-we
+!! verse 1
+{8dd	Voor
+=3	=3
+*M4/4	*
+4cc	mijn
+4b-	liefs
+4.a	ven-
+8g	-ser-
+=4	=4
+2g	-kijn
+4r;}	.
+!! verse 2
+{4g	'k En
+=5	=5
+4g	weet
+4a	geen
+4b-	schoon-
+4cc	-der
+=6	=6
+*M2/4	*
+4dd	vrou-
+8b-;}	-we
+!! verse 3
+{8dd	Zij
+=7	=7
+*M4/4	*
+4cc	staat
+4b-	in 't
+4.a	her-
+8g	-te
+=8	=8
+2g	mijn:
+4r;}	.
+!! verse 4
+{4b-	Zij
+=9	=9
+4f	houdt
+4f	mijn
+4g	hert
+4g	be-
+=10	=10
+4f	-van-
+4d	-gen,
+4r;}	.
+!! verse 5
+{4f	'T welk
+=11	=11
+(8g	is
+8a)	.
+(8b-	zoo-
+8cc)	.
+4dd	-zeer
+4cc	door-
+=12	=12
+2b-	-wond:
+4r;}	.
+!! verse 6
+{4b-	Mocht
+=13	=13
+4f	ik
+4f	haar
+4g	troost
+4g	ont-
+=14	=14
+4f	-van-
+4d	-gen,
+4r;}	.
+!! verse 7
+{4d	Zoo
+=15	=15
+(8e	waar
+8f)	.
+(8g	ik
+8a)	.
+4b-	gans
+4a	ge-
+=16	=16
+2g	-zond.
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,90 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074857_01
+!! NLB record number: 74857
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Op
+=1	=1
+4.g	ho-
+8a	-ge
+8g	ber-
+8g	-gen
+8b	en
+8b	op
+=2	=2
+(4a	strooi-
+8.b)	.
+16b	-e
+8a	ber-
+8a;}	-gen
+!! verse 1
+{8g	En
+8a	daar
+=3	=3
+4b	ligt
+4dd	zo'n
+4cc	scho-
+4b	-ne
+=4	=4
+2.a;}	stad
+!! verse 2
+{8a	En
+8b	daar-
+=5	=5
+4cc	-on-
+4ee	-der
+4ee	ligt
+4ee	be-
+=6	=6
+(4dd	-gra-
+4b)	.
+4.g;}	-ven
+!! verse 3
+{8b	Zo
+=7	=7
+4a	me-
+8cc	-ni-
+8a	-ge
+4f#	bra-
+8e	-ve
+8f#	sol-
+=8	=8
+(8g	-daat
+8a	.
+8b	.
+8cc	.
+4.dd);}	.
+!! verse 4
+{8b	Daar-
+=9	=9
+4cc	-on-
+4ee	-der
+4ee	ligt
+4ee	be-
+=10	=10
+(4ee	-gra-
+4b)	.
+4g;}	-ven
+!! verse 5
+{8b	ja
+8b	zo
+=11	=11
+4a	me-
+8cc	-ni-
+8a	-ge
+4f#	bra-
+8e	-ve
+8f#	sol-
+=12	=12
+4.g	-daat
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

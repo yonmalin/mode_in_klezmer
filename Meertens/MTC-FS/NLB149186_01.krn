@@ -1,0 +1,77 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB149186_01
+!! NLB record number: 149186
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	Er
+=1	=1
+4f	wa-
+8f	-ren
+4f	drij
+8a	tam-
+=2	=2
+[4.cc	-boers
+4cc];}	.
+!! verse 1
+{8cc	Die
+=3	=3
+4dd	van
+8dd	den
+4b-	oor-
+8dd	-log
+=4	=4
+4.cc	kwa-
+4a;}	-men
+!! verse 2
+{8c	Er
+=5	=5
+4f	wa-
+8f	-ren
+4f	drij
+8a	tam-
+=6	=6
+[4.cc	-boers
+4cc];}	.
+!! verse 3
+{8cc	Die
+=7	=7
+4dd	van
+8dd	den
+4b-	oor-
+8dd	-log
+=8	=8
+4.cc	kwa-
+4a	-men
+8r;}	.
+!! verse 4
+=9	=9
+{4a	Ram
+8r	.
+4a	ram
+8r	.
+=10	=10
+8a	ra-
+8g	-pa-
+8f	-ta-
+4cc;}	-plan
+!! verse 5
+{8cc	Die
+=11	=11
+4dd	van
+8dd	den
+4b-	oor-
+8g	-log
+=12	=12
+4.cc	kwa-
+4f	-men
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

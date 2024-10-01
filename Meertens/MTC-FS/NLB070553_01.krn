@@ -1,0 +1,87 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070553_01
+!! NLB record number: 70553
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4dd	Ik
+=1	=1
+4b	ben
+4dd	ge-
+4b	-boren
+4dd	in
+=2	=2
+4ee	Frie-
+4dd	-se-
+2b	-land,
+=3	=3
+4cc	Frie-
+4b	-se-
+2a	-land,
+=4	=4
+4ee	Frie-
+4dd	-se-
+4b;}	-land
+!! verse 1
+{4dd	Ik
+=5	=5
+4b	ben
+4dd	ge-
+4b	-boren
+4dd	in
+=6	=6
+4ee	Frie-
+4dd	-se-
+4b	-land
+4b	en
+=7	=7
+4a	daar-
+4a	-om
+4b	ben
+4cc#	ik
+=8	=8
+2dd;}	hier
+!! verse 2
+{2dd	Van
+=9	=9
+4ee	jam-
+4dd	-pot
+4ee	jam-
+4dd	-pot
+=10	=10
+8ff#	lik-
+8ff#	-ke-
+8ff#	-lik-
+8ff#	-ke-
+4ff#;}	-lik
+!! verse 3
+{4dd	Van
+=11	=11
+4ee	jam-
+4dd	-pot
+4ee	jam-
+4dd	-pot
+=12	=12
+8ff#	lik-
+8ff#	-ke-
+8ff#	-lik-
+8ff#	-ke-
+4ff#;}	-lik
+!! verse 4
+{4dd	en
+=13	=13
+4ee	daar-
+4dd	-om
+4ee	ben
+4ff#	ik
+=14	=14
+2.gg;}	hier
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

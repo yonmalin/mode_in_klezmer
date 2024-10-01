@@ -1,0 +1,70 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB124611_01
+!! NLB record number: 124611
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4d	Wel
+4g	Bar-
+4g	-bel
+=2	=2
+2a	zei
+4dd	hij
+=3	=3
+(8cc	Bar-
+8b)	.
+4a;}	-bel
+!! verse 1
+{8b	en
+8a	waar-
+=4	=4
+(4g	-om
+4a)	.
+4b	en
+=5	=5
+4cc	zingt
+4.ee	gij
+8dd	niet
+=6	=6
+(4cc	meer
+4b)	.
+4r;}	.
+!! verse 2
+=7	=7
+{4g	Wel
+4cc	Jan
+8b	en
+8a	wat
+=8	=8
+2g	zou-
+8a	-de
+8g	ik
+=9	=9
+(8f	zin-
+8e)	.
+4d;}	-gen
+!! verse 3
+{8a	bij
+8b	drie
+=10	=10
+4a	da-
+4g	-gen
+(4a	en
+=11	=11
+4b)	.
+4cc	ziet
+4b	gij
+=12	=12
+4.a	mij
+8g	niet
+2.g;}	meer
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

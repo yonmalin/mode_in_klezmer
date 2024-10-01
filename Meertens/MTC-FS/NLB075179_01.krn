@@ -1,0 +1,90 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075179_01
+!! NLB record number: 75179
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{16dd	En
+16dd	er
+=1	=1
+8dd	wou
+8ee	eens
+8dd	een
+8b	ja-
+8b	-ger
+8dd	uit
+=2	=2
+(8dd	ja-
+8ee)	.
+8dd	-gen
+4b;}	gaan,
+!! verse 1
+{8dd	Uit
+=3	=3
+8dd	ja-
+8ee	-gen
+8dd	zo
+(8cc	wou
+8ee)	.
+8dd	hij
+=4	=4
+4.b;}	gaan.
+!! verse 2
+{4.dd	Wat
+=5	=5
+8b	vond
+8cc	hij
+8dd	al
+8b	on-
+8cc	-der
+8dd	zijn
+=6	=6
+4.ee	we-
+4ee;}	-gen
+!! verse 3
+{8cc	Een
+=7	=7
+8a	aar-
+8b	-dig
+8cc	lief
+8a	meis-
+8b	-je
+8ee	ter
+=8	=8
+(4dd	de-
+8cc)	.
+4b;}	-ge,
+!! verse 4
+{8dd	Zij
+=9	=9
+(8ee	was
+8dd)	.
+8cc	vrij
+4b	aan-
+8a	-ge-
+=10	=10
+*M9/8	*
+4b	-daan,
+8cc	ja-
+4dd;}	-ja,
+!! verse 5
+{8ff#	Zij
+(8ee	was
+8dd)	.
+8cc	vrij
+=11	=11
+*M6/8	*
+4.b	aan-
+4.a	-ge-
+=12	=12
+[4.g	-daan.
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

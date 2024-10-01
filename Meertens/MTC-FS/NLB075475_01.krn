@@ -1,0 +1,62 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB075475_01
+!! NLB record number: 75475
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	Het
+=1	=1
+(8b	ou-
+8dd)	.
+8b	-de
+(8a	jaar
+8b)	.
+8cc	is
+=2	=2
+4b	pas
+8g	ten
+4d;}	eind
+!! verse 1
+{8d	Hoort
+=3	=3
+4cc	men
+8cc	van
+(8b	al-
+8dd)	.
+8b	-le
+=4	=4
+[4.a	kant
+4a];}	.
+!! verse 2
+{8dd	Van
+=5	=5
+4b	vecht-
+8b	-par-
+(8cc	-tij
+8dd)	.
+8ee	en
+=6	=6
+4dd	o-
+8dd	-ve-
+(8ee	-ral
+8cc);}	.
+!! verse 3
+{8a	Door
+=7	=7
+4g	die
+8a	ver-
+(8b	-vloek-
+8dd)	.
+8a	-te
+=8	=8
+[4.g	drank
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,124 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB111731_01
+!! NLB record number: 111731
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{8c	Halt
+8.c	halt
+16c	ik
+=1	=1
+4.e	liep
+8g	haast
+8.g	in
+16g	de
+=2	=2
+*M4/4	*
+4ee	ba-
+4cc	-ren
+8r;}	.
+!! verse 1
+{8cc	Dat
+8b	is
+8cc	voor-
+=3	=3
+*M3/4	*
+4.dd	-waar
+8g	nog
+8.a	tijds
+16b	ge-
+=4	=4
+4.cc;}	-noeg
+!! verse 2
+{8c	Ge-
+8.c	-stoord
+16c	door
+=5	=5
+4.e	vrees
+8g	voor
+8.g	lijfs
+16g	ge-
+=6	=6
+*M4/4	*
+4ee	-va-
+4cc	-ren
+8r;}	.
+!! verse 3
+{8cc	Ver-
+8b	-scheen
+8cc	ik
+=7	=7
+*M3/4	*
+4.dd	hier
+8g	nog
+8.a	taam-
+16b	-lijk
+=8	=8
+4cc	vroeg
+8r;}	.
+!! verse 4
+{8g	Waar
+8f	heen!
+8e	waar
+=9	=9
+4e	heen!
+4cc	in
+8.g	mijn
+16f	el-
+=10	=10
+*M4/4	*
+(8e	-len-
+8g)	.
+4cc	-de
+8r;}	.
+!! verse 5
+{8g	Ik
+8f	zie
+8e	geen
+=11	=11
+*M3/4	*
+4d	sche-
+4cc	-pen
+8.g	op
+16f	de
+=12	=12
+*M4/4	*
+(4d	zee
+4e)	.
+8r;}	.
+!! verse 6
+{8c	'k Zal
+8.c	mij
+16c	om
+=13	=13
+*M3/4	*
+4.e	hulp
+8g	tot
+8.g	Eng-
+16g	-land
+=14	=14
+*M4/4	*
+4ee	wen-
+4cc	-den
+8r;}	.
+!! verse 7
+{8cc	Haal
+8b	o-
+8cc	-ver
+=15	=15
+*M3/4	*
+4.dd	hé!
+8ff	haal
+8ee	o-
+8dd	-ver,
+=16	=16
+4.cc;}	hé!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

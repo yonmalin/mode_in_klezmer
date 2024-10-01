@@ -1,0 +1,67 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB158933_01
+!! NLB record number: 158933
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/8	*
+*MM120	*
+*k[f#]	*
+*e:	*
+!! verse 0
+{8b	Daar
+=1	=1
+8b	lig-
+8b	-gen
+8b	drij
+=2	=2
+4dd	we-
+8b	-ge
+=3	=3
+8b	voor
+8a	het
+8a	ple-
+=4	=4
+4b	-zier
+8r;}	.
+!! verse 1
+=5	=5
+{8g	Ziet
+8g	dat
+8g	gij
+=6	=6
+(16e	daar
+16f#	.
+8g)	.
+8a	den
+=7	=7
+(16b	rech-
+16a)	.
+8g	-ten
+8f#	den
+=8	=8
+(16g	rech-
+16f#)	.
+8e	-ten
+8r;}	.
+!! verse 2
+=9	=9
+{8g	Ziet
+8g	dat
+8g	gij
+=10	=10
+(16e	daar
+16f#	.
+8g)	.
+8a	den
+=11	=11
+(16b	rech-
+16a)	.
+8g	-ten
+8f#	van
+=12	=12
+4e;}	kiest!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

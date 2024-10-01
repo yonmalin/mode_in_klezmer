@@ -1,0 +1,74 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071950_03
+!! NLB record number: 71950
+!! NLB strophe/voice number: 3
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	de
+8d	jonk-
+8d	-mans
+8d	die
+=1	=1
+*M9/8	*
+4.g	wa-
+4.b	-ren
+4d	d'r
+8d	zo
+=2	=2
+[4.g	gauw
+4g];}	.
+!! verse 1
+{8d	de
+8d	jonk-
+8d	-mans
+8d	die
+=3	=3
+*M9/8	*
+4.g	wa-
+4.b	-ren
+4d	d'r
+8d	zo
+=4	=4
+*M6/8	*
+[4.g	gauw
+4g];}	.
+!! verse 2
+{8b	tie-
+=5	=5
+4cc	-toe-
+8a	-ra
+4cc	fal-
+8ee	-de-
+=6	=6
+[4.dd	-ra
+8dd]	.
+8r;}	.
+!! verse 3
+{8dd	Ze
+=7	=7
+8dd	bon-
+8dd	-den
+8g	die
+4g	meis-
+8cc	-jes
+=8	=8
+4b	aan
+8a	een
+4a;}	touw
+!! verse 4
+{8cc	tie-
+=9	=9
+4.b	-roe-
+4.a	-ra-
+=10	=10
+[4.g	-ra
+8g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

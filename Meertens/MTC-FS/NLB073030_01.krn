@@ -1,0 +1,56 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073030_01
+!! NLB record number: 73030
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8a	Was
+8a	er
+=1	=1
+(8b	e-
+8a)	.
+8g	-ne
+(8b	koop-
+8a)	.
+8g	-mans-
+=2	=2
+[4.dd	-zoon
+4dd];}	.
+!! verse 1
+{8dd	Die
+=3	=3
+4ee	vrij-
+8ee	-de
+(8ee	met
+8ff#)	.
+8gg	een
+=4	=4
+(8ee	dienst-
+8ff#)	.
+8ee	-maagd
+4.dd;}	schoon
+!! verse 2
+=5	=5
+{(4g	Een
+8a)	.
+(8b	ma-
+8dd)	.
+8gg	-gie
+=6	=6
+(8ee	uit-
+8dd)	.
+8cc	-ver-
+(4b	-ko-
+8cc)	.
+=7	=7
+[4.a	-ren.
+4a];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

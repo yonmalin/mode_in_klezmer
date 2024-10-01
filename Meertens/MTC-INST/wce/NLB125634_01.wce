@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ExcelProcessingDefaults-beginSignatureRangeTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-beginSignatureScriptTextView</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-endSignatureRangeTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-endSignatureScriptTextView</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-fileNameTextField</key>
+	<string></string>
+	<key>ExcelProcessingDefaults-scoreLeftEdgeTextField</key>
+	<string>A1</string>
+	<key>ExcelProcessingDefaults-scoreRangeTextField</key>
+	<string>A1:Z100</string>
+	<key>ExcelProcessingDefaults-scoreScriptTextView</key>
+	<string></string>
+	<key>NLBController-incipitNormTextField</key>
+	<string></string>
+	<key>NLBController-melodyNormTextField</key>
+	<string></string>
+	<key>NLBController-recordIDTextField</key>
+	<string>125634</string>
+	<key>NLBController-tagsTextField</key>
+	<string></string>
+	<key>SignatureController-encoderNameTextField</key>
+	<string></string>
+	<key>SignatureController-footerTextView</key>
+	<string>\markup { \wordwrap-string #" 
+Baspartij niet getranscribeerd.
+
+1) Voorslag is naslag van vorige noot.
+"}</string>
+	<key>SignatureController-hasChangesWithRespectToTranscriptionSwitch</key>
+	<false/>
+	<key>SignatureController-headerTextView</key>
+	<string></string>
+	<key>SignatureController-isEachPhraseNewStaffSwitch</key>
+        <true/>
+	<key>SignatureController-isMeterInvisibleSwitch</key>
+	<false/>
+	<key>SignatureController-isMultiVoiceDocumentSwitch</key>
+	<false/>
+	<key>SignatureController-keyTextField</key>
+	<string>a \major</string>
+	<key>SignatureController-partialTextField</key>
+	<string></string>
+	<key>SignatureController-relativeTextField</key>
+	<string>g'</string>
+	<key>SignatureController-stropheNumberTextField</key>
+	<string>1</string>
+	<key>SignatureController-tempoTextField</key>
+	<string>4=120</string>
+	<key>SignatureController-timeTextField</key>
+	<string>3/4</string>
+	<key>SignatureController-titleTextField</key>
+	<string>22</string>
+	<key>SignatureController-updateTextViewsWhenFieldChangedSwitch</key>
+	<true/>
+	<key>TextProcessingDefaults-beginSignatureTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-commentTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-endSignatureTextView</key>
+	<string></string>
+	<key>TextProcessingDefaults-inputTextView</key>
+	<string>a2 a8 b16( cis) \grace {cis8} b2 b8 cis16 d \grace {d8} cis2 \sb d4^"+" \grace {cis16[^"1)" d]} e4 \grace {e8} d8 cis \grace {cis} b a \grace {a} gis2 \sb a4_"+" \grace {gis16[^"1)" a]} b8_\staccatissimo e( dis e) e,_\staccatissimo fis16( gis)
+
+\grace {gis8} a2 a8 b16 cis \grace {cis8} b2 b8 cis16( d) cis4( a') \grace {gis8} fis4 \grace {e8} dis2^"+" \sb e4 \times 2/3 {cis8 b a} \grace {gis} fis2_"+" e2. \bar ":|:"
+
+\times 2/3 {e'8 d cis} \grace {b} ais2 g'4 fis8 e d^\prallprall cis \times 2/3 {\grace {e} d cis b} b_\staccatissimo fis_\staccatissimo d_\staccatissimo b_\staccatissimo \sb \times 2/3 {d' cis b} \grace {a} gis2 fis'4 e8 d cis^\prallprall b \times 2/3 {\grace {d} cis b a} a_\staccatissimo e_\staccatissimo cis_\staccatissimo a_\staccatissimo
+
+c'4 c8 dis,(_\staccato dis_\staccato dis)_\staccato \grace {fis} e8(_\mordent dis) e gis b dis \times 2/3 {cis b a} \grace {cis8} b4 \grace {a8} gis4_"+" a a,2
+
+c'4 c8 dis,(_\staccato dis_\staccato dis)_\staccato \grace {fis} e8(_\mordent dis) e gis b dis \times 2/3 {cis b a} \grace {cis} b4 \grace {a8} gis4_"+" \grace {gis8} a2. \bar ":|:"</string>
+	<key>version</key>
+	<string>1.12</string>
+</dict>
+</plist>

@@ -1,0 +1,84 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB124590_01
+!! NLB record number: 124590
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4r	.
+8g	Wel,
+=1	=1
+4g	va-
+8b	-der,
+4dd	zei
+8dd	zij,
+=2	=2
+(4cc	va-
+8b)	.
+4a;}	-der,
+!! verse 1
+{8g	wel,
+=3	=3
+8a	va-
+8b	-der,
+8cc	'k heb
+8dd	pijn
+8cc	in
+8b	mijn
+=4	=4
+4.a	hoofd.
+4r;}	.
+!! verse 2
+{8cc	Mocht
+=5	=5
+4b	ik
+8a	mij
+4g	gaan
+8a	ver-
+=6	=6
+(4cc	-mei-
+8b)	.
+4a;}	-den
+!! verse 3
+{8cc	bui-
+=7	=7
+4b	-ten
+8a	langs
+4g	een
+8a	groen
+=8	=8
+(4cc	hei-
+8b)	.
+4a	-de
+8r;}	.
+!! verse 4
+=9	=9
+{4cc	langs
+8b	de
+8a	kan-
+8g	-ten
+8f	van
+=10	=10
+4.e	de
+4.a	roo
+=11	=11
+8g;}	zee
+!! verse 5
+{(8cc	Ach!
+8b)	.
+8a	va-
+8g	-der,
+8f	mijn
+=12	=12
+4.e	hoofd
+4.a	doet
+=13	=13
+4.g;}	zeer.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

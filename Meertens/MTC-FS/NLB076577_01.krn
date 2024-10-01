@@ -1,0 +1,82 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB076577_01
+!! NLB record number: 76577
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM80	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8b	Er
+=1	=1
+8b	was
+8dd	eens
+16dd	e-
+16dd	-ne
+8dd	klei-
+8b	-ne
+8b	man
+=2	=2
+4dd	ei
+8ee	joech
+4.dd;}	ei
+!! verse 1
+=3	=3
+{16.gg	en
+32gg	die
+8gg	had
+16gg	e-
+16gg	-ne
+8gg	groot-
+8cc	-se
+8cc;}	vrouw
+!! verse 2
+=4	=4
+{16ee	toe-
+16ee	-re-
+16ee	-loe-
+16ee	-re
+16ee	loe-
+16ee	-re
+8dd	boem-
+16.dd	-fal-
+32cc	-de-
+8b	-ra
+=5	=5
+8cc	hoe-
+8a	-sa-
+8dd	-sa-
+4.g;}	-sa
+!! verse 3
+=6	=6
+{16.gg	en
+32gg	die
+8gg	had
+16gg	e-
+16gg	-ne
+8gg	groot-
+8cc	-se
+8cc;}	vrouw
+!! verse 4
+=7	=7
+{16ee	toe-
+16ee	-re-
+16ee	-loe-
+16ee	-re
+16ee	loe-
+16ee	-re
+8dd	boem-
+16.dd	-fal-
+32cc	-de-
+8b	-ra
+=8	=8
+8cc	hoe-
+8a	-sa-
+8dd	-sa-
+4g;}	-sa
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,83 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071273_01
+!! NLB record number: 71273
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4g	Rij-
+8g	-e,
+8a	rij-
+8b	-e
+8a	naar
+=2	=2
+4g	O-
+8g	-pa
+4d	toe
+8r;}	.
+!! verse 1
+=3	=3
+{4g	O-
+8g	-pa
+8a	heeft
+8b	er
+8a	een
+=4	=4
+4g	bon-
+8g	-te
+8d;}	koe
+!! verse 2
+{8d	En
+8d	een
+=5	=5
+4g	bon-
+8g	-te
+4a	koe
+8a	met
+=6	=6
+4.g	ho-
+4d	-rens
+8r;}	.
+!! verse 3
+=7	=7
+{4g	Ker-
+8g	-ken
+4a	dra-
+8a	-gen
+=8	=8
+4.g	to-
+4d	-rens
+8r;}	.
+!! verse 4
+=9	=9
+{4cc	Dra-
+8cc	-gen
+4a	ker-
+8a	-ke
+=10	=10
+8cc	to-
+8cc	-rens
+8cc	niet
+4b	meer
+8r;}	.
+!! verse 5
+=11	=11
+{4d	Dan
+8d	 is 't
+4e	ook
+8f#	mijn
+=12	=12
+8a	kind-
+8a	-je
+8a	niet
+4g	meer.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

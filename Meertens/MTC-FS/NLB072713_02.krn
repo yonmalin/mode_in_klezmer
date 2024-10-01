@@ -1,0 +1,79 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072713_02
+!! NLB record number: 72713
+!! NLB strophe/voice number: 2
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{12r	.
+12d	Toch
+12d	be-
+=1	=1
+12g	-je-
+12g	-gen-
+12g	-den
+8g	mij
+8a	twee
+4g	meis-
+8a	-jes
+8b	met
+=2	=2
+4cc	ge-
+8b	-le
+8a	kruis
+(4g	haar
+8b);}	.
+!! verse 1
+{8b	be-
+=3	=3
+12a	-je-
+12a	-gen-
+12a	-den
+8a	mij
+8b	twee
+4a	meis-
+8b	-jes
+8cc	met
+=4	=4
+4dd	ge-
+8cc	-le
+8b	kruis
+2a;}	haar
+!! verse 2
+=5	=5
+{(4dd	Ik
+8ee	.
+8ff#)	.
+8ee	vroeg
+8dd	of
+8b	zij
+8a	nog
+=6	=6
+(4b	vrij-
+8a)	.
+8a	-ster
+4g	was
+4r;}	.
+!! verse 3
+=7	=7
+{(4dd	Ik
+8ee	.
+8ff#)	.
+8ee	vroeg
+8dd	of
+8b	zij
+8a	nog
+=8	=8
+(4b	vrij-
+8a)	.
+8a	-ster
+4g	was
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

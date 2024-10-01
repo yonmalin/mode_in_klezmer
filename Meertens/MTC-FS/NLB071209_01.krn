@@ -1,0 +1,52 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071209_01
+!! NLB record number: 71209
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{8dd	An-
+8dd	-na
+8dd	stond
+8dd	te
+=2	=2
+4ee	wach-
+8dd;}	-ten,
+!! verse 1
+{8dd	te
+=3	=3
+8gg	wach-
+8gg	-ten
+8ff#	op
+8ee	haar
+=4	=4
+4.ff#	man
+8r;}	.
+!! verse 2
+=5	=5
+{8a	's A-
+8a	-vonds
+8a	twa-
+8a	-lef
+=6	=6
+4ff#	u-
+8ee;}	-ren
+!! verse 3
+{8ee	dan
+=7	=7
+8ff#	kwam
+8ee	die
+8dd	smeer-
+8cc#	-lap
+=8	=8
+4.dd	an.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

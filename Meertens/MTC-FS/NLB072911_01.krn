@@ -1,0 +1,72 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072911_01
+!! NLB record number: 72911
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+=1	=1
+{4d	Hij
+8.g	sprak
+16g	wel
+4g	snij-
+8.a	-er
+16g	wel
+=2	=2
+4f#	snij-
+4a	-er
+2d;}	fijn
+!! verse 1
+=3	=3
+{4a	Kun
+4a	jij
+4a	ma-
+8.g	-ken
+16a	een
+=4	=4
+4b	palt-
+8.b	-rok
+16a	voor
+2g;}	mij
+!! verse 2
+=5	=5
+{4cc	Kun
+4cc	jij
+4cc	ma-
+8.dd	-ken
+16dd	een
+=6	=6
+4cc	palt-
+8.b	-rok-
+16b	-ke
+4a	liet:
+4a;}	so
+!! verse 3
+=7	=7
+{4a	liet-
+4a	-so
+4a	lie-
+4dd	-so
+=8	=8
+8.b	tie-
+16b	-re-
+8.b	-lie-
+16a	-re
+4g;}	lie
+!! verse 4
+{8g	Ja
+8a	een
+=9	=9
+2b	palt-
+4.a	-rok
+8a	voor
+=10	=10
+1g;}	mij
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

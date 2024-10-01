@@ -1,0 +1,111 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB147991_01
+!! NLB record number: 147991
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#c#g#]	*
+*A:	*
+!! verse 0
+{8cc#	En
+8cc#	ik
+=1	=1
+8a	klom-
+8a	-me-
+8b	-re
+8cc#	op
+=2	=2
+4dd	hoo-
+(8dd	-ge
+8ee)	.
+=3	=3
+(8dd	stei-
+8cc#)	.
+4b	-nen
+=4	=4
+4r;}	.
+!! verse 1
+{8cc#	En
+8cc#	ik
+=5	=5
+8a	kee-
+8a	-ke-
+8b	-re
+8cc#	ten
+=6	=6
+4dd	zee-
+(8dd	-waert
+8cc#)	.
+=7	=7
+(8b	in
+8dd);}	.
+!! verse 2
+{8cc#	En
+8b	ik
+=8	=8
+8a	kee-
+8a	-ke-
+8b	-re
+8cc#	ter
+=9	=9
+4dd	zee-
+(8dd	-waert
+8cc#)	.
+=10	=10
+4b;}	in:
+!! verse 3
+{8.b	En
+16cc#	daar
+=11	=11
+4dd	kwam-
+8cc#	-mer
+8b	een
+=12	=12
+4a	schuit-
+8.b	-je
+16a	ge-
+=13	=13
+(8a	-va-
+8g)	.
+8f#;}	-ren
+!! verse 4
+{8b	't Was
+=14	=14
+8dd	juf-
+8cc#	-frouw
+8b	Bar-
+8a#	-ba-
+=15	=15
+4b	-ra
+(8b	die
+8ee)	.
+=16	=16
+4dd	zat
+(8cc#	daar-
+8b)	.
+=17	=17
+4.a;}	-in
+!! verse 5
+{8cc#	't Was
+=18	=18
+8dd	juf-
+8cc#	-frouw
+8.b	Bar-
+16a#	-ba-
+=19	=19
+4b	-ra
+(8cc#	die
+8ee)	.
+=20	=20
+4dd	zat
+(8cc#	daar
+8b)	.
+=21	=21
+4a#	in
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,186 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB123783_01
+!! NLB record number: 123783
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	De
+=1	=1
+4g	boer-
+8a	-kens
+8b	smel-
+8cc	-ten
+8dd	van
+=2	=2
+8g	vreugd
+8g	en
+8g	ple-
+8g;}	-zier
+!! verse 1
+{8b	als
+8b	den
+=3	=3
+(8b	oogst
+8cc)	.
+8dd	is
+8dd	bin-
+8cc	-nen-
+8b	-ge-
+=4	=4
+4.a	-tre-
+4d;}	-den,
+!! verse 2
+{8d	Zy
+=5	=5
+4g	gaen
+8a	met
+8b	hun-
+8cc	-ne
+8dd	boe-
+=6	=6
+8g	-rin-
+8g	-nen
+8g	te
+8g;}	bier,
+!! verse 3
+{8dd	en
+8cc	zy
+=7	=7
+(8b	ma-
+8a)	.
+8g	-ken
+8d	zeer
+8e	goe-
+8f#	-den
+=8	=8
+4.g	cier.
+8r	.
+8r;}	.
+!! verse 4
+{8a	De
+=9	=9
+4b	be-
+8b	-sem
+4b	steekt
+8a	ten
+=10	=10
+4b	ven-
+8cc	-ster
+4dd;}	uit;
+!! verse 5
+{8g	men
+=11	=11
+8f#	danst
+8f#	er
+8e	men
+8f#	speelt
+8f#	er
+8e	al
+=12	=12
+4f#	op
+8g	de
+4a;}	fluit,
+!! verse 6
+{8a	op
+=13	=13
+8a	pot-
+8a	-ten
+8a	en
+8a	pan-
+8a	-nen,
+8a	op
+=14	=14
+8a	gla-
+8a	-zen
+8a	en
+8a	kan-
+8a;}	-nen,
+!! verse 7
+{8a	op
+=15	=15
+4b	al-
+8a	-ler-
+8g	-han-
+8e	-de
+8a	ge-
+=16	=16
+4.d	-luid,
+8r	.
+8r;}	.
+!! verse 8
+{8d	op
+=17	=17
+8g	mes-
+8g	-sen
+8g	op
+8g	schup
+8g	en
+8f#	op
+=18	=18
+4f#	zou-
+8e	-te
+4e;}	vat,
+!! verse 9
+{8e	op
+=19	=19
+8cc	han-
+8cc	-gel
+8cc	en
+8b	tan-
+8b	-gel
+8b	op
+=20	=20
+8a	dit
+8a	en
+8dd	op
+4dd;}	dat,
+!! verse 10
+{8b	op
+=21	=21
+8dd	't trom-
+8dd	-mel-
+8dd	-tje
+4cc	rom-
+8cc	-dom
+=22	=22
+8b	dom-
+8a	-me
+8b	dom
+4a;}	dom,
+!! verse 11
+{8b	op
+=23	=23
+8dd	ke-
+8dd	-tel-
+8dd	-tjes,
+8cc	le-
+8cc	-pel-
+8cc	-tjes
+=24	=24
+8b	tik-
+8a	-ke
+8b	tik,
+8a;}	tank,
+!! verse 12
+{8dd	en
+8cc	dat
+=25	=25
+8b	duert
+8a	er
+8g	den
+8d	hee-
+8e	-len
+8f#	nacht
+=26	=26
+4.g	lang.
+8r	.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

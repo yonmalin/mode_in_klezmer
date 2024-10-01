@@ -1,0 +1,93 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB141177_01
+!! NLB record number: 141177
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{4cc	De
+=1	=1
+4cc	priem,
+8cc	de
+8cc	se-
+8b	-cun-
+8b	-de
+4cc	de
+=2	=2
+4a	terts,
+4cc	de
+4g	kwart
+4cc	de
+=3	=3
+4f	kwint
+4cc	de
+4e	sext
+8cc	de
+8cc	sep-
+=4	=4
+4d	-tiem,
+8cc	het
+8cc	oc-
+[2c	-taaf
+=5	=5
+8c]	.
+8r;}	.
+!! verse 1
+{4c	Zoo
+4d	wordt
+4e	de
+=6	=6
+4f	ca-
+(8e	-non
+8d)	.
+4e	om-
+(8f	-ge-
+8g)	.
+=7	=7
+4a;}	-keerd
+!! verse 2
+{8g	En
+8f	de
+4g	in-
+(8a	-ter-
+8g)	.
+=8	=8
+4.f	-val-
+8f	-len
+8e	ook
+4g	goed
+8e	ge-
+=9	=9
+4c	-leerd!
+8r;}	.
+!! verse 3
+{8e	Nu
+4f	op-
+4g	-ge-
+=10	=10
+4a	-past:
+(8g	maak
+8f)	.
+4.cc	geen
+8b	a-
+=11	=11
+4dd	-buis!
+4r;}	.
+!! verse 4
+{8cc	Een
+4.c	duik
+=12	=12
+8cc	en
+8cc	we
+8b	zijn
+8a	al-
+8b	-weer
+4cc;}	thuis!
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

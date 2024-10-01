@@ -1,0 +1,107 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB163367_01
+!! NLB record number: 163367
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8c	Komt
+=1	=1
+4f	vrien-
+8e	-den!
+4f	hoort
+8g	naar
+=2	=2
+4a	het
+8cc	ge-
+(8cc	-val!
+8b-);}	.
+!! verse 1
+{8a	't Geen
+=3	=3
+4g	ik
+8g	u
+4b-	zal
+8a	ver-
+=4	=4
+4.g	-ha-
+4f;}	-len
+!! verse 2
+{8c	Hoe
+=5	=5
+4f	dat
+8e	de
+4f	boos-
+8g	-heid
+=6	=6
+4a	vaak
+8cc	niet
+(8cc	al
+8b-);}	.
+!! verse 3
+{8a	Het
+=7	=7
+4g	mens-
+8g	-lijk
+4b-	hart
+8a	doet
+=8	=8
+4.g	dwa-
+4f;}	-len
+!! verse 4
+{8f	Ja
+=9	=9
+8cc	vrien-
+8cc	-den!
+8cc	hoort
+8cc	nu
+8b-	naar
+8a	dit
+=10	=10
+4.g;}	lied
+!! verse 5
+{8b-	Zo
+8a	als
+8g	ik
+=11	=11
+(8f	zing
+8a)	.
+8cc	is
+(8cc	het
+8b-)	.
+8a	ge-
+=12	=12
+[4.g	-schied
+4g];}	.
+!! verse 6
+{8g	Hoe
+=13	=13
+4cc	boos-
+8cc	-heid
+(8cc	op
+8b-)	.
+8a	het
+=14	=14
+4.g;}	end
+!! verse 7
+{(8b-	Zich
+8a	.
+8g)	.
+=15	=15
+(8f	zelf
+8a	.
+8cc)	.
+8cc	stort
+8b-	in
+8g	el-
+=16	=16
+[4.f	-lend
+4f];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

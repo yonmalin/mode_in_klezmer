@@ -1,0 +1,73 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB112251_01
+!! NLB record number: 112251
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-e-a-]	*
+*E-:	*
+!! verse 0
+{8B-	'k Heb
+=1	=1
+4e-	een
+8f	ba-
+4e-	-ron
+8f	ge-
+=2	=2
+8g	-vree-
+[4g	-en
+4g];}	.
+!! verse 1
+{8f	Het
+=3	=3
+8g	mees-
+8a-	-te
+8b-	was
+4cc	om
+8b-	zijn
+=4	=4
+[4.a-	geld
+4a-];}	.
+!! verse 2
+{8b-	De
+=5	=5
+8a-	lief-
+8a-	-de
+8g	o
+4f	ja
+8e-	de
+=6	=6
+(4d	lief-
+8f)	.
+4b-;}	-de
+!! verse 3
+{8b-	Die
+=7	=7
+8b-	had
+8cc	mij
+8b-	zoo
+8a-	bit-
+8g	-ter
+8f	ge-
+=8	=8
+4e-	-kweld
+8cc	ja
+4b-;}	ja
+!! verse 4
+{8cc	Die
+=9	=9
+8b-	had
+8cc	mij
+8b-	zo
+8a-	bit-
+8g	-ter
+8f	ge-
+=10	=10
+[4.e-	-kweld.
+4e-];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

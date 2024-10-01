@@ -1,0 +1,89 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB070468_01
+!! NLB record number: 70468
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	De
+=1	=1
+4dd	kin-
+4dd	-dren
+8cc#	wor-
+8dd	-den
+=2	=2
+4ee	na-
+4.dd	-kend
+8cc	ge-
+=3	=3
+4b	-bo-
+4g	-ren
+4g	ping,
+=4	=4
+4g	ping
+4r;}	.
+!! verse 1
+{4dd	De
+=5	=5
+4dd	kleer-
+4cc#	-ma-
+4dd	-kers
+=6	=6
+4ee	moe-
+4dd	-ten
+4a	d'r
+=7	=7
+4b	zijn
+4r	.
+8r	.
+8dd	pot-
+=8	=8
+4b	-tog
+8r	.
+4r	.
+8dd	pe-
+=9	=9
+4b	-tog
+4r;}	.
+!! verse 2
+{4dd	En
+=10	=10
+4dd	kleer-
+4ee	-ma-
+4ff#	-kers
+=11	=11
+4gg	moe-
+4.aa	-ten
+8gg	d'r
+=12	=12
+4ff#	we-
+[2ee	-zen
+=13	=13
+4ee]	.
+4r;}	.
+!! verse 3
+{4a	En
+=14	=14
+4ff#	kleer-
+4ee	-ma-
+4dd	-kers
+=15	=15
+4cc	moe-
+4b	-ten
+4a	er
+=16	=16
+2.g	zijn
+=17	=17
+2r	.
+4r	.
+=18	=18
+4b-h	draai-
+4bb-H;}	-en
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

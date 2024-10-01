@@ -1,0 +1,55 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB112431_01
+!! NLB record number: 112431
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+=1	=1
+{4f	Bruid-
+8f	-je
+4a	bruid-
+8a	-je
+=2	=2
+4g	geef
+8g	me
+4f;}	wat
+!! verse 1
+{8c	al
+=3	=3
+4f	uit
+8f	het
+4a	vol-
+8a	-le
+=4	=4
+4.g	vaat-
+4.f;}	-je
+!! verse 2
+=5	=5
+{4f	'k Heb-
+8g	-nog
+8a	niets
+8a	uit
+8b-	de
+=6	=6
+4cc	pot
+8cc	ge-
+4.cc;}	-had
+!! verse 3
+=7	=7
+{4dd	Bruid-
+8cc	-je
+4b-	bruid-
+8a	-je
+=8	=8
+4g	geef
+8g	me
+4.f;}	wat
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

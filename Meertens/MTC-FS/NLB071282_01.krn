@@ -1,0 +1,100 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB071282_01
+!! NLB record number: 71282
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Va-
+8d	-der
+=1	=1
+4b	A-
+8b	-bram
+8d	had
+8d	ze-
+8d	-ven
+=2	=2
+4b	zo-
+4b;}	-nen,
+!! verse 1
+{8d	Va-
+8d	-der
+=3	=3
+4b	A-
+8b	-bram
+8dd	had
+8cc	ze-
+8b	-ven
+=4	=4
+4b	zo-
+4a;}	-nen
+!! verse 2
+{8d	En
+8d	ze
+=5	=5
+8.a	a-
+16a	-ten
+4a	niet
+8d	en
+8d	ze
+=6	=6
+8.a	dron-
+16a	-ken
+4a;}	niet
+!! verse 3
+{8a	En
+8b	ze
+=7	=7
+*M4/4	*
+4cc	zon-
+8cc	-gen
+8cc	maar
+4b	heel
+4a	den
+=8	=8
+4g	dag
+4r	.
+4r;}	.
+!! verse 4
+{8d	Lie-
+8d	-pen
+=9	=9
+4b	zij
+4dd	de
+8cc	Brou-
+8cc	-wers-
+8.b	-gracht
+16b	ten
+=10	=10
+4b	en-
+4a	-de
+4r;}	.
+!! verse 5
+{8d	En
+8d	de
+=11	=11
+8a	Brou-
+8a	-wers-
+4a	-gracht
+4r;}	.
+!! verse 6
+{8d	En
+8d	de
+=12	=12
+4a	hoek
+4a	om
+4r;}	.
+!! verse 7
+{4a	en
+=13	=13
+4.cc	weer,
+8b	weer-
+4g;}	-om.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

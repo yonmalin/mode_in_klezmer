@@ -1,0 +1,56 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB146649_01
+!! NLB record number: 146649
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[]	*
+*C:	*
+!! verse 0
+{8c	Al
+=1	=1
+4e	in
+8e	den
+4f	mor-
+8e	-gen-
+=2	=2
+4.d	-stond
+4r;}	.
+!! verse 1
+{8c	Trok
+=3	=3
+4e	ik
+8e	de
+4f	vel-
+8e	-den
+=4	=4
+4.d	rond
+4r;}	.
+!! verse 2
+{8c	Door
+=5	=5
+4e	bos-
+8g	-sen
+(8f	en
+8e)	.
+8d	door
+=6	=6
+4.g	groen-
+(8f	-ten
+8e);}	.
+!! verse 3
+{8d	Waar
+=7	=7
+4c	ik
+8c	mijn
+4e	lief-
+8d	-je
+=8	=8
+4.c	vond
+4r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,129 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB139364_01
+!! NLB record number: 139364
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+{8f	Gij
+=1	=1
+4f	schit-
+8f	-tren-
+8f	-de
+4a	kleu-
+8g	-ren
+8f	van
+=2	=2
+4e	Ne-
+8.g	-der-
+16g	-lands
+4.cc;}	vlag,
+!! verse 1
+{8b-	Wat
+=3	=3
+4a	wap-
+8b-	-pert
+8a	gij
+4g	fier
+8.cc	langs
+16cc	den
+=4	=4
+2f	vloed;
+4r;}	.
+!! verse 2
+{4c	Hoe
+=5	=5
+4f	klopt
+8.f	ons
+16a	het
+4cc	har-
+8cc	-te
+8cc	van
+=6	=6
+(8.b	vreugd
+16cc)	.
+8.dd	en
+16g	ont-
+4cc	-zag,
+8r;}	.
+!! verse 3
+{8g	Wan-
+=7	=7
+4cc	-neer
+8.ee	het
+16cc	uw
+4g	ba-
+8a	-nen
+8b	be-
+=8	=8
+4cc	-groet:
+4r	.
+4r;}	.
+!! verse 4
+{4cc	Ont-
+=9	=9
+4b-	-plooi
+8.cc	u,
+16b-	waai
+(8a	uit
+8g)	.
+8f	nu
+8e	bij
+=10	=10
+(8f	Nacht
+8g)	.
+8.a	en
+16b-	bij
+4cc	Dag,
+8r;}	.
+!! verse 5
+{8a	Gij
+=11	=11
+4b-	blijft
+8.g	ons
+16b-	het
+4a	tee-
+8f	-ken,
+8a	o
+=12	=12
+4cc	hei-
+8b-	-li-
+8a	-ge
+4g	vlag!
+8r;}	.
+!! verse 6
+{8f	Van
+=13	=13
+4f	Trouw
+8.f	en
+16a	van
+4cc	Vroom-
+8.cc	-heid,
+16a	van
+=14	=14
+4b-	Vroom-
+8.dd	-heid
+16dd	en
+4ff	Moed,
+8r;}	.
+!! verse 7
+{8dd	Van
+=15	=15
+4cc	Trouw
+8a	en
+8cc	van
+4cc	Vroom-
+8dd	-heid
+8ee	en
+=16	=16
+2ff	Moed.
+4r	.
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

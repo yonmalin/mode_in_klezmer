@@ -1,0 +1,130 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB151254_01
+!! NLB record number: 151254
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M4/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4d	xxx
+=1	=1
+4d	xxx
+4g	xxx
+4g	xxx
+4b	xxx
+=2	=2
+4b	xxx
+4g	xxx
+4r	.
+4d	xxx
+=3	=3
+4d	xxx
+4a	xxx
+4a	xxx
+4cc	xxx
+=4	=4
+4cc	xxx
+4d	xxx
+4r;}	.
+!! verse 1
+{4d	xxx
+=5	=5
+4d	xxx
+4b	xxx
+4b	xxx
+4b	xxx
+=6	=6
+4b	xxx
+4a	xxx
+4e	xxx
+4a	xxx
+=7	=7
+4g	xxx
+4f#	xxx
+4e	xxx
+4f#	xxx
+=8	=8
+2.g;}	xxx
+!! verse 2
+{4dd	De
+=9	=9
+4dd	do-
+4b	-me-
+4b	-né,
+4dd	de
+=10	=10
+4dd	do-
+4b	-me-
+4b	-né,
+4dd	de
+=11	=11
+4dd	do-
+4dd	-me-
+4ee	-né
+4dd	fan
+=12	=12
+2.cc;}	Boarn,
+!! verse 3
+{4cc	Dy
+=13	=13
+4cc	hat
+4a	hjir
+4a	mei
+4cc	syn
+=14	=14
+4cc	yn-
+4a	-tré-
+4a	-preek
+4cc	de
+=15	=15
+4cc	hie-
+4cc	-le-
+4dd	-boel
+4cc	bi-
+=16	=16
+2.b;}	-doarn,
+!! verse 4
+{4dd	De
+=17	=17
+4dd	do-
+4b	-me-
+4b	-né,
+4dd	de
+=18	=18
+4dd	do-
+4b	-me-
+4b	-né,
+4dd	de
+=19	=19
+4dd	do-
+4dd	-me-
+4ee	-né
+4dd	fan
+=20	=20
+2.cc;}	Boarn,
+!! verse 5
+{4cc	Dy
+=21	=21
+4cc	hat
+4a	hjir
+4a	mei
+4cc	syn
+=22	=22
+4cc	yn-
+4a	-tré-
+4a	-preek
+4dd	de
+=23	=23
+4dd	hie-
+4cc	-le-
+4b	-boel
+4a	bi-
+=24	=24
+2.g;}	-doarn,
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

@@ -1,0 +1,85 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB073239_01
+!! NLB record number: 73239
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M3/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{4g	Twee
+8f#	boer-
+8g	-tjes
+=1	=1
+4a	van
+4a	Ter-
+8g	-schell'-
+8a	-nger
+=2	=2
+4b;}	land
+!! verse 1
+{8.b	Trof-
+16b	-fen
+8cc	eens
+8dd	een
+=3	=3
+*M2/4	*
+4ee	bit-
+4ee	-ter
+=4	=4
+2dd;}	lot
+!! verse 2
+=5	=5
+{8.dd	Het
+16dd	ge-
+8ee	-he-
+8dd	-le
+=6	=6
+*M3/4	*
+4cc	ei-
+4ee	-land
+8.dd	wel-
+16cc	-be-
+=7	=7
+4b;}	-mand
+!! verse 3
+{4b	Drijft
+8b	hier-
+8a	-mee
+=8	=8
+*M2/4	*
+4cc	nog
+4f#	de
+=9	=9
+2g;}	spot
+!! verse 4
+=10	=10
+{8b	Het
+8dd	ge-
+8dd	-he-
+8cc	-le
+=11	=11
+*M3/4	*
+4cc	ei-
+4a	-land
+8cc	wel-
+8b	-be-
+=12	=12
+4b;}	-mand
+!! verse 5
+{(8g	Drijft
+8b)	.
+8b	hier-
+8a	-mee
+=13	=13
+*M2/4	*
+4cc	nog
+4f#	den
+=14	=14
+2g;}	spot
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

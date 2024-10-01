@@ -1,0 +1,104 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB072043_01
+!! NLB record number: 72043
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M2/4	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8dd	De
+=1	=1
+8dd	ro-
+16dd	-me
+16dd	die
+8dd	werd
+8cc	er
+=2	=2
+8b	in-
+8b	-ge-
+8b	-go-
+16a;}	-ten
+!! verse 1
+{16a	en
+=3	=3
+8g	Peer
+8b	die
+8ee	werd
+8dd	er
+=4	=4
+8dd	uit-
+8cc	-ge-
+8cc	-scho-
+8cc;}	-ten
+!! verse 2
+=5	=5
+{8.a	met
+16a	de
+8.a	ro-
+16b	-me
+=6	=6
+8a	op
+8b	zijn
+8a;}	huid
+!! verse 3
+{8dd	liep
+=7	=7
+8dd	hij
+8dd	de
+8cc	stal-
+8cc	-deur
+=8	=8
+4b	uit
+4r;}	.
+!! verse 4
+=9	=9
+{16dd	Su-
+16dd	-ri-
+8dd	-a
+16dd	su-
+16dd	-ri-
+8cc	-a
+=10	=10
+8b	hop-
+8b	-sa-
+4b;}	-sa
+!! verse 5
+=11	=11
+{16g	su-
+16g	-ri-
+8b	-a
+8ee	su-
+16ee	-ri-
+16dd	-a
+=12	=12
+8dd	fal-
+8cc	-de-
+4cc;}	-ra
+!! verse 6
+=13	=13
+{16a	vrij
+16a	op
+8a	de
+8.a	straat
+16b	en
+=14	=14
+8a	in
+8a	de
+8a;}	zon
+!! verse 7
+{8dd	maar
+=15	=15
+8dd	in
+8dd	geen
+8cc	kar-
+8cc	-ren-
+=16	=16
+4b	-ton
+8r;}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

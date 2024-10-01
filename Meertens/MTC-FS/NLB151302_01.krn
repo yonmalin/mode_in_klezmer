@@ -1,0 +1,102 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB151302_01
+!! NLB record number: 151302
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[b-]	*
+*F:	*
+!! verse 0
+=1	=1
+{4.a	Schoen-
+8a	-lap-
+8g	-per-
+8f	-tje
+=2	=2
+4.g	Vet-
+4.c	-leer,
+=3	=3
+4b-	't smeer
+8b-	loopt
+(8b-	langs
+8a)	.
+8g	je
+=4	=4
+4a	bek-
+8g	-je
+4f	neer;
+8r;}	.
+!! verse 1
+=5	=5
+{4f	Lap
+8c	ze,
+4f	lap
+8c	ze,
+=6	=6
+4f	lap
+8g	ze
+4a	net,
+8r;}	.
+!! verse 2
+=7	=7
+{4a	Dat
+8a	'k ze
+4a	aan
+8g	je
+=8	=8
+(8g	voet-
+8f)	.
+8e	-jes
+4d	zet!
+8r;}	.
+!! verse 3
+=9	=9
+{4cc	Zo
+8cc	haalt
+8cc	hij
+8b	er
+8a	dat
+=10	=10
+4.b	draad-
+4e	-je,
+8r;}	.
+!! verse 4
+=11	=11
+{4cc	Zo
+8cc	haalt
+8cc	hij
+8b	er
+8a	dat
+=12	=12
+4.b	naald-
+4e	-je!
+8r;}	.
+!! verse 5
+=13	=13
+{4cc	Zo
+8g	slaat
+4cc	hij
+8g	de
+=14	=14
+4cc	pen,
+8dd	de
+4ee	pen!
+8r;}	.
+!! verse 6
+=15	=15
+{4ee	Denk-
+8ee	-je
+8ee	dat
+8dd	ik
+8cc	niet
+=16	=16
+(8b	lap-
+8cc)	.
+8b	-pen
+4.a;}	ken?
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

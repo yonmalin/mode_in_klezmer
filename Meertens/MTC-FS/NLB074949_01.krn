@@ -1,0 +1,76 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! NLB identifier: NLB074949_01
+!! NLB record number: 74949
+!! NLB strophe/voice number: 1
+**kern	**text
+*staff1	*staff1
+*M6/8	*
+*MM120	*
+*k[f#]	*
+*G:	*
+!! verse 0
+{8d	Ik
+=1	=1
+8e	wou
+8f#	d'r
+8g	van
+(8g	de-
+8f#)	.
+8e	-ze
+=2	=2
+4.a	a-
+4d;}	-vond
+!! verse 1
+{8d	Nog
+=3	=3
+4g	eens
+8b	uit
+4a	vrij-
+8cc	-en
+=4	=4
+[4.b	gaan
+4.b];}	.
+!! verse 2
+=5	=5
+*M9/8	*
+{(4b	Ik
+8dd)	.
+(8dd	vrij-
+8cc)	.
+8b	-de
+8a	zo
+8g	de
+8a	ge-
+=6	=6
+*M6/8	*
+4b	-he-
+8a	-le
+4g;}	nacht,
+!! verse 3
+{8a	Ge-
+=7	=7
+4b	-he-
+8g	-le
+8g	nacht
+8f#	en
+8e	ge-
+=8	=8
+4a	-he-
+8a	-le
+4d;}	nacht
+!! verse 4
+{16cc	To
+16cc	de
+=9	=9
+8b	lich-
+8b	-te
+8dd	schoon
+4a	dag
+8d	brak
+=10	=10
+[4.g	aan
+4g];}	.
+==|!	==|!
+*-	*-
+!! produced by wce2krn 1.64 (released on 7 June 2014)

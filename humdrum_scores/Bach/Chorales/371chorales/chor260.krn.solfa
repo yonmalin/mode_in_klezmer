@@ -1,0 +1,107 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Es ist gewi&szlig;lich an der Zeit
+!!!SCT:	BWV 307
+!!!PC#:	260
+!!!AGN:	chorale
+**solfa	**solfa	**solfa	**solfa
+*ICvox	*ICvox	*ICvox	*ICvox
+*Ibass	*Itenor	*Ialto	*Isoprn
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefG2	*clefG2
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*B-:	*B-:	*B-:	*B-:
+*M4/4	*M4/4	*M4/4	*M4/4
+*met(C)	*met(C)	*met(C)	*met(C)
+*MM100	*MM100	*MM100	*MM100
+do	mi	so	do
+re	re	fa	.
+=1	=1	=1	=1
+mi	do	so	do
+.	.	.	re
+re	so	do	mi
+do	.	.	.
+so	so	ti	re
+.	fa	.	.
+la	mi	la	do
+so	.	.	.
+=2	=2	=2	=2
+fa	re	la	re
+.	do	.	.
+so	do	so	re
+.	ti	.	.
+do	do	so	mi
+do	mi	so	do
+.	fa	.	re
+=3	=3	=3	=3
+do	so	do	mi
+ti	la	do	fa
+la	.	.	.
+ti	so	re	so
+.	.	.	fa
+do	so	do	mi
+=4	=4	=4	=4
+fa	la	do	re
+so	so	ti	.
+.	fa	.	.
+do	mi	so	do
+=:|!	=:|!	=:|!	=:|!
+*>B	*>B	*>B	*>B
+do	do	so	mi
+re	.	.	.
+=5	=5	=5	=5
+mi	do	so	mi
+fa	.	.	.
+so	ti	so	re
+.	.	fa	.
+la	do	mi	do
+.	.	la	.
+ti	re	la	ti
+.	.	si	.
+=6	=6	=6	=6
+la	mi	la	do
+.	fa	ti	re
+mi	so	do	mi
+fa	.	.	.
+so	so	ti	re
+si	mi	ti	re
+=7	=7	=7	=7
+la	mi	ti	do
+.	.	la	.
+mi	mi	la	ti
+.	.	si	.
+la	mi	la	do
+ti	.	.	.
+do	mi	mi	so
+ti	re	.	.
+=8	=8	=8	=8
+la	do	mi	do
+so	ti	.	.
+fa	la	la	re
+mi	ti	si	mi
+la	la	mi	do
+.	ti	.	re
+=9	=9	=9	=9
+la	do	la	mi
+so	do	la	fa
+fa	.	.	.
+mi	do	so	so
+re	.	.	fa
+do	do	so	mi
+=10	=10	=10	=10
+fa	do	la	re
+so	ti	so	.
+.	.	fa	.
+do	so	mi	do
+==	==	==	==
+*-	*-	*-	*-
+!!!hum2abc: -Q ''
+!!!title: @{PC#}. @{OTL@@DE}
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c. 1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22
