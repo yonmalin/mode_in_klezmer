@@ -1,7 +1,7 @@
 !!!Genre:	Zhok
 !!!Mode:	Minor
 !!!Listening/dance:	dance
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
 *I"P1
 *clefG2
@@ -101,6 +101,8 @@
 4cc
 16ccLL
 16ccJJ
+*>bM
+*B-:
 =13
 8ccL
 8b-J
@@ -121,6 +123,8 @@
 4b-
 *>B
 8b-
+*>eM
+*g:
 =17!|:
 8b-L
 (8qb-/
