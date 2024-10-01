@@ -1,7 +1,7 @@
 !!!Genre:	Sher
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	dance
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
 *I"P1
 *clefG2
@@ -86,6 +86,8 @@
 =17:|!
 2g
 =18!|:
+*>bM
+*B-:
 *>B
 8r
 8dL
@@ -128,6 +130,8 @@
 16b-LL
 16aJ
 8gJ
+*>eM
+*g:dor
 =27
 4dd
 16ffLL

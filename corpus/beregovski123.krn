@@ -1,7 +1,7 @@
 !!!Genre:	Skotshne
 !!!Mode:	Minor
 !!!Listening/dance:	dance
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
 *I"P1
 *clefG2
@@ -99,6 +99,8 @@
 =17:|!
 8gL
 *>C
+*>bM
+*B-:
 8f
 8g
 8aJ
@@ -158,6 +160,8 @@
 8b-
 8a
 8gJ
+*>eM
+*g:
 =30
 8gL
 16ccL

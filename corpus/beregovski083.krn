@@ -1,7 +1,7 @@
 !!!Genre:	Zay gezunt
 !!!Mode:	Minor
 !!!Listening/dance:	listening
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
 *I"P1
 *clefG2
@@ -9,6 +9,8 @@
 *g:
 *M2/4
 *>A
+*>bM
+*B-:
 =1
 16b-LL
 16dd
@@ -52,6 +54,8 @@
 (16ee-L
 16ddJJ)
 4cc
+*>eM
+*g:
 =7
 8gL
 16aL
@@ -63,6 +67,8 @@
 =8
 2g
 =9:|!|:
+*>bM
+*B-:
 *>B
 16aLL
 16b-JJ
@@ -101,6 +107,8 @@
 8ddtL
 16ccL
 16b-JJ
+*>eM
+*g:
 =15
 16aLL
 16b-
@@ -133,6 +141,8 @@
 32ee-k
 16dd
 16ccJJ
+*>bM
+*B-:
 =19
 8gL
 16aL
@@ -147,6 +157,8 @@
 8f
 8d
 8B-J
+*>eM
+*g:
 =21
 16ggLL
 16gg
