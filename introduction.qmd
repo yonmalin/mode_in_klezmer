@@ -28,16 +28,9 @@ Beregovski also notated the tunes with G<sub>4</sub> as the main tonic and our p
 
 ##  Analysis
 
-The full methodology behind the mode analysis is provided in the article by Malin and Shanahan (in progress). We summarize four main criteria for the purposes of this website:
-
-1. We identify mode by section, when possible; 
-2. We document shifts at cadences when there is a return to a primary mode;
-3. However, when two modes in a section share the same pitch collection and cadence in the primary mode (e.g., Bb major to G minor), we use the cadence as the guide;
-4. We include modal shifts within a section when they are between secondary modes with no single mode taking obvious precedent.
-
-Criteria no. 1 in particular means that if a section begins in one mode, departs briefly to another mode, and returns to the first mode, the digression is not included in the analysis. Further examples and explanations are provided in the article.
-
 Malin’s analysis relies on a basic classification of four modes in klezmer music. The names given here are _freygish_, raised fourth, minor, and major. These same modes are sometimes known by other names, which reference Jewish prayer modes or the Church mode: _freygish_ = ahavah rabbah; raised fourth = altered Dorian or _misheberakh_; minor = _magen avot_; major = _adonai malakh_. Furthermore, while there are elements of Western European tonality, the “major” and “minor” modes in klezmer should not be taken as equivalent to major and minor keys in the European tradition. An introduction to the modes is provided in the article by Malin and Shanahan. Additional sources can be found in Beregovski 2015; Slobin 1980; Sokolow 1987; Horowitz 1993; Netsky 2015; Feldman 2016; and Rubin 2020. (See full citations in the references section.) 
+
+For the purposes of this study, Malin tagged mode changes that align with phrases of four bars or longer (see, for instance, the Dobranoch no. 11). Malin also tagged mode changes that occur at cadences leading into new sections (see, for instance, section B from the Freylekhs no. 87). Malin chose not to tag other brief modal shifts, less than a phrase or four measures long. Thus, musical passages used to extract the pitch profile for G minor include brief moments of C minor, Bb major, C freygish, and other modes, which we feel is appropriate. The data for individual modes shows subtle ways in which they interact with each other; the modes are not treated as hermetic entities. The mode analysis page shows Malin’s parsing for all the tunes in the corpus with further notes. 
 
 Malin’s mode analysis answers three basic questions: What is the pitch profile of each mode? What are characteristic melodic tendencies of each mode? And what are characteristic modulation pathways? These questions can be explored with the data in this website; they are addressed directly in the article by Malin and Shanahan. The article and this website may also serve as the basis for comparison with adjacent repertoires from both Jewish and non-Jewish traditions. 
 
