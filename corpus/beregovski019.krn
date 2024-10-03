@@ -1,6 +1,6 @@
 !!!Genre: Khtsos
 !!!Mode: Minor
-!!!One Mode: yes
+!!!One Mode: no
 !!!Orig_tonic: Ab
 **kern
 !!pagebreak:original
@@ -253,6 +253,8 @@
 4g
 4gg
 =36:|!|:
+*>bM
+*B-:
 *>D
 16b-LL
 16cc
@@ -320,6 +322,8 @@
 4.b-
 8cc
 !!linebreak:original
+*>eM
+*g:
 =44
 16dd-XLL
 16cc
@@ -349,6 +353,8 @@
 4gg
 8.ggL
 16ffJk
+*>bM
+*B-:
 =48
 16aa-XLL
 16gg
@@ -381,6 +387,8 @@
 8qdd/
 16ccLL
 16b-JJ
+*>eM
+*g:
 =52
 *>B2
 16aLL

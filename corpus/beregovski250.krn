@@ -1,7 +1,7 @@
 !!!Genre:	Olandre (lyondre)
 !!!Mode:	Minor
 !!!Listening/dance:	dance
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
 *I"P1
 *clefG2
@@ -41,6 +41,8 @@
 24a
 24gJJ
 =5:|!|:
+*>bM
+*F:
 *>B
 16f'LL
 (16a
@@ -72,6 +74,8 @@
 24gJJ
 8f
 =9:|!
+*>eM
+*g:
 (16b-LL
 16aJJ)
 24b-LL

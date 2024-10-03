@@ -1,7 +1,7 @@
 !!!Genre:	Freylekhs
 !!!Mode:	Freygish
 !!!Listening/dance:	dance
-!!!:	*c:dor
+!!!:	*G:frey
 !!!One_Mode:	no
 **kern
 *I"P1
@@ -47,8 +47,6 @@
 4..cc
 *>B
 16cc
-*>eM
-*G:frey
 =10||
 *k[b-e-a-]
 16bnLL
@@ -79,6 +77,8 @@
 16dd)
 (16dd
 16ccJJ)
+*>eM
+*G:frey
 =14
 16bnLL
 16ccJJ
@@ -90,6 +90,8 @@
 8ddJ
 8.ccL
 16ccJk
+*>eM
+*G:frey
 =16
 16bnLL
 16cc

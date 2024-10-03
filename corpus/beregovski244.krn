@@ -1,7 +1,7 @@
 !!!Genre:	Zhok
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	dance
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
 *I"P1
 *clefG2
@@ -140,6 +140,8 @@
 =31
 4dd
 8r
+*>bM
+*d:dor
 =32
 8eeL
 8ffJ
@@ -156,6 +158,8 @@
 =35
 4dd]
 8r
+*>eM
+*g:dor
 =36
 8.ggL
 16ddJk

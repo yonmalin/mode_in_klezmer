@@ -1,7 +1,7 @@
 !!!Genre:	Lomir zikh iberbetn
 !!!Mode:	Freygish
 !!!Listening/dance:	dance
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
 *I"P1
 *clefG2
@@ -33,6 +33,8 @@
 16bJJ
 8a-L
 8gJ
+*>bM
+*c:
 =5
 8ccL
 8g
@@ -47,6 +49,8 @@
 8ddJ
 =8
 2cc
+*>eM
+*G:frey
 =9!|:
 *>B
 16bnLL

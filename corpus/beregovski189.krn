@@ -1,7 +1,7 @@
 !!!Genre:	Sher
 !!!Mode:	Minor
 !!!Listening/dance:	dance
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
 *I"P1
 *clefG2
@@ -9,6 +9,8 @@
 *g:
 *M2/4
 *>A
+*>bM
+*B-:
 8b-
 =1
 (16b-LL
@@ -70,6 +72,8 @@
 =12
 4b-
 4r
+*>eM
+*g:
 =13
 8fL
 24b-L
@@ -94,6 +98,8 @@
 =17:|!
 2g
 =18||
+*>bM
+*B-:
 *>B
 8ddL
 16ffL
@@ -116,6 +122,9 @@
 8b-
 8cc
 8b-J
+*>eM
+*>bM
+*C:frey
 =22
 8ddL
 8ff
@@ -133,6 +142,8 @@
 8dd-J
 =25
 2ccT
+*>eM
+*g:
 =26
 8b-L
 8a
