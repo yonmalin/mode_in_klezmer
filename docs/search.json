@@ -89,5 +89,33 @@
     "title": "Pitch Histograms",
     "section": "Minor",
     "text": "Minor\n\nBag of NotesPercentageCumulative Duration"
+  },
+  {
+    "objectID": "corpus_download.html",
+    "href": "corpus_download.html",
+    "title": "Downloadable Corpus",
+    "section": "",
+    "text": "The full corpus can be found here.\nIf you would like to see more, including the data broken into mode and the scripts for analysis, you can view them on our github site."
+  },
+  {
+    "objectID": "corpus_download.html#the-link-to-the-corpus",
+    "href": "corpus_download.html#the-link-to-the-corpus",
+    "title": "Downloadable Corpus",
+    "section": "",
+    "text": "The full corpus can be found here.\nIf you would like to see more, including the data broken into mode and the scripts for analysis, you can view them on our github site."
+  },
+  {
+    "objectID": "corpus_download.html#how-the-corpus-was-assembled.",
+    "href": "corpus_download.html#how-the-corpus-was-assembled.",
+    "title": "Downloadable Corpus",
+    "section": "How the corpus was assembled.",
+    "text": "How the corpus was assembled.\nThe dataset is collected from Beregovski’s Jewish Instrumental Folk Music (see the introduction page for a description of this). The corpus was digitized from the second English edition by Research Assistants Rebecca Hamel and Izzy Fincher with funding from the Center for Humanities & the Arts and Program in Jewish Studies at the University of Colorado Boulder. Daniel Shanahan converted xml files to the **kern format. Research Assistant Laine Gruver assisted with data entry for the website.\nMore information can be found on the introduction page."
+  },
+  {
+    "objectID": "corpus_download.html#how-to-cite",
+    "href": "corpus_download.html#how-to-cite",
+    "title": "Downloadable Corpus",
+    "section": "How to Cite",
+    "text": "How to Cite\nPlease cite the following work when using this corpus:\nMalin, Y. and Shanahan, D. (under review). Modes in Klezmer Music: A Corpus Study Based on Beregovski’s Jewish Instrumental Folk Music."
   }
 ]
