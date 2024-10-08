@@ -8,7 +8,7 @@ visualizations from the [pitch histogram page](pitch_histograms.qmd), or can be 
 
 ## G Freygish
 
-```{r, echo=F, warnings=FALSE, message=FALSE}
+```{r, echo=F, warning=FALSE, message=FALSE}
 library(DT)
 library(humdrumR)
 library(tidyverse)
@@ -23,7 +23,7 @@ freygish |>
 
 ## G "Raised Fourth"
 
-```{r, echo=F, warnings=FALSE, message=FALSE}
+```{r, echo=F, warning=FALSE, message=FALSE}
 raised <- readHumdrum('corpus/extracts/raised_four/*.krn')
 raised |> 
     pitch(simple = FALSE) |>
@@ -35,7 +35,7 @@ raised |>
 
 ## G Major
 
-```{r, echo=F, warnings=FALSE, message=FALSE}
+```{r, echo=F, warning=FALSE, message=FALSE}
 
 major <- readHumdrum('corpus/extracts/major/*.krn')
 major <- major |> 
@@ -48,7 +48,7 @@ major |> count() |> as_tibble() |>
 
 ## G Minor
 
-```{r, echo=F, warnings=FALSE, message=FALSE}
+```{r, echo=F, warning=FALSE, message=FALSE}
 minor <- readHumdrum('corpus/extracts/minor/*.krn')
 minor |> 
     pitch(simple = FALSE) |>

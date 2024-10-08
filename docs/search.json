@@ -46,28 +46,28 @@
     "href": "pitch_counts.html#g-freygish",
     "title": "Pitch Counts",
     "section": "G Freygish",
-    "text": "G Freygish\n\n\nWarning in class(x) &lt;- tibble_class: Setting class(x) to multiple strings\n(\"tbl_df\", \"tbl\", ...); result will no longer be an S4 object"
+    "text": "G Freygish"
   },
   {
     "objectID": "pitch_counts.html#g-raised-fourth",
     "href": "pitch_counts.html#g-raised-fourth",
     "title": "Pitch Counts",
     "section": "G “Raised Fourth”",
-    "text": "G “Raised Fourth”\n\n\nWarning in class(x) &lt;- tibble_class: Setting class(x) to multiple strings\n(\"tbl_df\", \"tbl\", ...); result will no longer be an S4 object"
+    "text": "G “Raised Fourth”"
   },
   {
     "objectID": "pitch_counts.html#g-major",
     "href": "pitch_counts.html#g-major",
     "title": "Pitch Counts",
     "section": "G Major",
-    "text": "G Major\n\n\nWarning in class(x) &lt;- tibble_class: Setting class(x) to multiple strings\n(\"tbl_df\", \"tbl\", ...); result will no longer be an S4 object"
+    "text": "G Major"
   },
   {
     "objectID": "pitch_counts.html#g-minor",
     "href": "pitch_counts.html#g-minor",
     "title": "Pitch Counts",
     "section": "G Minor",
-    "text": "G Minor\n\n\nWarning in class(x) &lt;- tibble_class: Setting class(x) to multiple strings\n(\"tbl_df\", \"tbl\", ...); result will no longer be an S4 object"
+    "text": "G Minor"
   },
   {
     "objectID": "pitch_histograms.html",
