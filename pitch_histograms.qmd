@@ -46,13 +46,14 @@ ordered_pitches <- c("D4","E4","F4","F#4","G4",
 ordered_pitches <- factor(ordered_pitches, ordered=TRUE)
 
 ####percentages
-x <-  pitches |> 
+percentage <-  pitches |> 
     pitch(simple = FALSE) |>
-    humdrumR::tally() 
-     
-percentage <- x/sum(x) * 100
-percentage <- as_tibble(percentage)
-percentage$Pitch <- percentage$`pitch(pitches)` 
+    count() |> 
+    as.data.frame() |> 
+    mutate(percentage = n/sum(n) * 100) 
+
+
+percentage$Pitch <- percentage$`pitch(pitches, simple = FALSE)`
 percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)   
 percentage <- percentage |> 
     filter(!grepl("[CDEFG].*3", Pitch)) |> 
@@ -62,6 +63,7 @@ percentage <- percentage |>
     filter(!grepl("G#6", Pitch)) |> 
     filter(!is.na(Pitch))
 
+percentage <- percentage |> select(Pitch, n, percentage)
 
 ```
 
@@ -142,21 +144,24 @@ ordered_pitches <- c("D4","E4","F4","F#4","G4",
 ordered_pitches <- factor(ordered_pitches, ordered=TRUE)
 
 ####percentages
-x <-  pitches |> 
+raised_four_percentage <-  pitches |> 
     pitch(simple = FALSE) |>
-    humdrumR::tally() 
-     
-percentage <- x/sum(x) * 100
-percentage <- as_tibble(percentage)
-percentage$Pitch <- percentage$`pitch(pitches)` 
-percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)   
-percentage <- percentage |> 
-    filter(!grepl("[CDEF].*3", Pitch)) |> 
+    count() |> 
+    as.data.frame() |> 
+    mutate(percentage = n/sum(n) * 100) 
+
+
+raised_four_percentage$Pitch <- raised_four_percentage$`pitch(pitches, simple = FALSE)`
+raised_four_percentage$Pitch <- factor(raised_four_percentage$Pitch, levels = raised_four_percentage$Pitch)   
+raised_four_percentage <- raised_four_percentage |> 
+    filter(!grepl("[CDEFG].*3", Pitch)) |> 
     filter(!grepl("[789]", Pitch)) |> 
     filter(!grepl("[3]", Pitch)) |> 
     filter(!grepl("[A|B|D|E].*6", Pitch)) |>
     filter(!grepl("G#6", Pitch)) |> 
     filter(!is.na(Pitch))
+
+raised_four_percentage <- raised_four_percentage |> select(Pitch, n, percentage)
     
 ```
 
@@ -178,7 +183,7 @@ ggplot(data=subset(raised_four_pitches, !is.na(pitches)),
  
 ```{r, raised_four-histograms-percentage, echo=F, warnings=FALSE, message=FALSE}
 
-ggplot(percentage, aes(x=Pitch, y=n)) +
+ggplot(raised_four_percentage, aes(x=Pitch, y=n)) +
     geom_bar(stat="identity") + theme_bw() +
     labs(y="percentage") +
     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
@@ -251,16 +256,19 @@ major_ordered_pitches <- factor(major_ordered_pitches, ordered=TRUE)
 
 
 ```{r major-percentagese, echo=F, warnings=FALSE, message=FALSE}
+
+
 ####percentages
-x <-  pitches |> 
+percentage <-  pitches |> 
     pitch(simple = FALSE) |>
-    humdrumR::tally() 
-     
-major_percentage <- x/sum(x) * 100
-major_percentage <- as_tibble(major_percentage)
-major_percentage$Pitch <- major_percentage$`pitch(pitches)` 
-major_percentage$Pitch <- factor(major_percentage$Pitch, levels = major_percentage$Pitch)   
-major_percentage <- major_percentage |> 
+    count() |> 
+    as.data.frame() |> 
+    mutate(percentage = n/sum(n) * 100) 
+
+
+percentage$Pitch <- percentage$`pitch(pitches, simple = FALSE)`
+percentage$Pitch <- factor(percentage$Pitch, levels = percentage$Pitch)   
+percentage <- percentage |> 
     filter(!grepl("[CDEFG].*3", Pitch)) |> 
     filter(!grepl("[789]", Pitch)) |> 
     filter(!grepl("[3]", Pitch)) |> 
@@ -268,6 +276,7 @@ major_percentage <- major_percentage |>
     filter(!grepl("G#6", Pitch)) |> 
     filter(!is.na(Pitch))
 
+percentage <- percentage |> select(Pitch, n, percentage)
 ```
 
 
@@ -342,6 +351,8 @@ minor_pitches <- minor_1 |> group_by(minor_pitches) |>
                 summarise(n = n())
 minor_duration <- minor_1 |> group_by(minor_pitches) |> summarise(cumulative = sum(minor_durations))
 
+```
+
 ```{r, minor-e-checka, echo=F, warnings=FALSE, message=FALSE}
 
 ordered_pitches <- c("D4","E4","F4","F#4","G4",
@@ -358,11 +369,13 @@ ordered_pitches <- factor(ordered_pitches, ordered=TRUE)
 
 ```{r, minor-e-check3, echo=F, warnings=FALSE, message=FALSE}
 ####percentages
-x <-  minor_pitches 
-     
-minor_pitches$percentage <- minor_pitches$n/sum(minor_pitches$n) * 100
-minor_percentage <- as_tibble(minor_pitches)
-minor_percentage$Pitch <- factor(minor_percentage$minor_pitches, levels = minor_percentage$minor_pitches)   
+minor_percentage <-  minor_pitches |> 
+    as.data.frame() |> 
+    mutate(percentage = n/sum(n) * 100) 
+
+
+minor_percentage$Pitch <- minor_percentage$minor_pitches
+minor_percentage$Pitch <- factor(minor_percentage$Pitch, levels = minor_percentage$Pitch)   
 minor_percentage <- minor_percentage |> 
     filter(!grepl("[CDEFG].*3", Pitch)) |> 
     filter(!grepl("[789]", Pitch)) |> 
@@ -370,6 +383,9 @@ minor_percentage <- minor_percentage |>
     filter(!grepl("[A|B|D|E].*6", Pitch)) |>
     filter(!grepl("G#6", Pitch)) |> 
     filter(!is.na(Pitch))
+
+minor_percentage <- minor_percentage |> select(Pitch, n, percentage)
+    
 
 ```
 

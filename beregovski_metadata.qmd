@@ -10,7 +10,7 @@ library(janitor)
 library(DT)
 df <- read.csv("data/beregovski-metadata.tsv", sep="\t", header=TRUE)
 df <- df |> clean_names()
-df <- df |>  select(!c(mode, secondary_modes, modulation_measures, one_mode, mode_notes, modulation_criteria, additional_notes))
+df <- df |>  select(!c(mode, modulation_pathway, modulation_measures, one_mode, mode_notes))
 df |>          
     datatable(filter="top", rownames=FALSE)
 

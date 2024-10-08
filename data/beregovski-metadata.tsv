@@ -1,166 +1,166 @@
-Tune	Genre	Mode	Listening/dance	Source	Source type	Source instrument or voice	Location	Date	Original location	Main Region from Appendix B	Subregion from Appendix B	Original tonality	Original tonality directional	Modulation pathway	Modulation measures	One_Mode	Mode notes
+Tune	Genre	Mode	Listening/dance	Source	Source type	Source instrument or voice	Location	Date	Original location	Main Region from Appendix B	Subregion from Appendix B	Original tonality	Original tonality directional	modulation_pathway	Modulation measures	One_Mode	Mode notes
 1	Dobriden	G minor	listening	Gurevich	recording	Voice	Odessa	1930	Bobruisk			D	Up P5		All minor	yes	
 2	Dobriden	G freygish	listening	"Bergelson, D."	transcription (Beregovski)	-	Kyiv	1937	Uman'			-	-		All freygish	yes	
-3	Dobriden	G freygish	listening	"Barkagan, G."	transcription (Barkagan)	Clarinet	Kalinindorf	1936	-			-		C minor (iv); G minor	9Ð12	no	
-4	Dobriden	G freygish	listening	"Sakhnovsky, B."	manuscript notation	Violin	-	-	-			E	Down m3	C major (IV); G freygish (I)	17Ð24	no	
+3	Dobriden	G freygish	listening	"Barkagan, G."	transcription (Barkagan)	Clarinet	Kalinindorf	1936	-			-		C minor (iv); G minor	9ï¿½12	no	
+4	Dobriden	G freygish	listening	"Sakhnovsky, B."	manuscript notation	Violin	-	-	-			E	Down m3	C major (IV); G freygish (I)	17ï¿½24	no	
 5	Dobriden	G minor	listening	"Barkagan, G"	transcription (Barkagan)	Clarinet	Kalinindorf	-	-			E	Down m3		All minor	yes	
-6	Dobranotsh	G minor	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	C	Down P5	Bb major (III); G minor	18Ð26	no	
-7	Dobranotsh	G minor	listening	"Sakhonsky, B."	manuscript notation	Violin	Kalinindorf	-	-			G	-	"C freygish (IV), G minor (i), Bb major (III), G minor (i), Bb major (III); G minor (i)"	"9Ð12; 13Ð16, 17Ð20; 21Ð24; 25Ð44"	no	"I identify the cadences on C in the opening eight bars and temporary stopping points, not full arrivals. There are ambiguities and other possible readings."
-8	Mazltov (Dobranotsh)	G minor	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-			G	-	Bb major (III); G minor (i)	18Ð30	no	
+6	Dobranotsh	G minor	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	C	Down P5	Bb major (III); G minor	18ï¿½26	no	
+7	Dobranotsh	G minor	listening	"Sakhonsky, B."	manuscript notation	Violin	Kalinindorf	-	-			G	-	"C freygish (IV), G minor (i), Bb major (III), G minor (i), Bb major (III); G minor (i)"	"9ï¿½12; 13ï¿½16, 17ï¿½20; 21ï¿½24; 25ï¿½44"	no	"I identify the cadences on C in the opening eight bars and temporary stopping points, not full arrivals. There are ambiguities and other possible readings."
+8	Mazltov (Dobranotsh)	G minor	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-			G	-	Bb major (III); G minor (i)	18ï¿½30	no	
 10	Dobranotsh (mazltov)	G raised fourth	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	G	-		All raised fourth	yes	
-11	Dobranotsh	G minor	listening	Anonymous	transcription	-	-	-	-	-	-	A	Up M2	Bb major (III); C minor (iv); Bb major (III); C freygish (IV); G minor (i); Bb major (III); C freygish (IV); G minor (i)	9Ð16; 17Ð20; 21Ð24; 25Ð28; 29Ð33; 34Ð41; 42Ð45	no	
-12	Dobridyen'	G freygish	listening	"Barkagan, G"	transcription	Clarinet	Kalinindorf	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5	C minor (iv); G freygish (I); C minor (iv); G fregyish (I)	1Ð12; 13Ð16; 17Ð24	no	
-15	Freylekhs (tsu der khupe)	G freygish	listening	"Slobodskoi, M."	recording	Clarinet	"Brusilov, Kyiv"	1935		Kyiv	Brusilov	C	Up P4	C major (IV); G freygish (I)	37Ð54	no	
-16	Freylekhs (fun der khupe)	G minor	listening	"Barkagan, G"	transcription	Clarinet	Kalinindorf	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	G	-		All minor	yes	Measures 17Ð24 could be heard in Bb major (III). We analyzed them with the rest of the section in G minor (criteria 1 and 3). 
-19	Khtsos	G minor	listening	Anonymous	transcription	Violin	-	-	-	-	-	F#	Down m2	Bb major (III); G minor (i); Bb major (III); G minor (i)	36Ð43; 44Ð47; 48Ð51	no	"This is only the latter section of the piece with a 2/4 time signature. The opening is in ""Tempo rubato"" with frequent fermatas."
-20	Taksim	G raised fourth	listening	"Dulitsky, B."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	G major (I); G raised fourth (i)	41Ð46	no	"This is only the latter section of the piece with a 2/4 time signature (marked Allegro). The opening is marked ""Rubato"" and does not have a time signature."
-21	Doyne	G freygish	listening	"Gulerman, Z."	recording	Flute	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	C raised fourth (iv); G freygish (I)	16Ð27	no	"This is only the latter section of the piece with a 2/4 time signature (marked Allegro). The opening is marked ""Rubato"" and does not have a time signature."
+11	Dobranotsh	G minor	listening	Anonymous	transcription	-	-	-	-	-	-	A	Up M2	Bb major (III); C minor (iv); Bb major (III); C freygish (IV); G minor (i); Bb major (III); C freygish (IV); G minor (i)	9ï¿½16; 17ï¿½20; 21ï¿½24; 25ï¿½28; 29ï¿½33; 34ï¿½41; 42ï¿½45	no	
+12	Dobridyen'	G freygish	listening	"Barkagan, G"	transcription	Clarinet	Kalinindorf	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5	C minor (iv); G freygish (I); C minor (iv); G fregyish (I)	1ï¿½12; 13ï¿½16; 17ï¿½24	no	
+15	Freylekhs (tsu der khupe)	G freygish	listening	"Slobodskoi, M."	recording	Clarinet	"Brusilov, Kyiv"	1935		Kyiv	Brusilov	C	Up P4	C major (IV); G freygish (I)	37ï¿½54	no	
+16	Freylekhs (fun der khupe)	G minor	listening	"Barkagan, G"	transcription	Clarinet	Kalinindorf	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	G	-		All minor	yes	Measures 17ï¿½24 could be heard in Bb major (III). We analyzed them with the rest of the section in G minor (criteria 1 and 3). 
+19	Khtsos	G minor	listening	Anonymous	transcription	Violin	-	-	-	-	-	F#	Down m2	Bb major (III); G minor (i); Bb major (III); G minor (i)	36ï¿½43; 44ï¿½47; 48ï¿½51	no	"This is only the latter section of the piece with a 2/4 time signature. The opening is in ""Tempo rubato"" with frequent fermatas."
+20	Taksim	G raised fourth	listening	"Dulitsky, B."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	G major (I); G raised fourth (i)	41ï¿½46	no	"This is only the latter section of the piece with a 2/4 time signature (marked Allegro). The opening is marked ""Rubato"" and does not have a time signature."
+21	Doyne	G freygish	listening	"Gulerman, Z."	recording	Flute	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	C raised fourth (iv); G freygish (I)	16ï¿½27	no	"This is only the latter section of the piece with a 2/4 time signature (marked Allegro). The opening is marked ""Rubato"" and does not have a time signature."
 22	Doyne	G raised fourth	listening	"Gulerman, Z."	recording	Flute	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-		All raised fourth	yes	"This is only the latter section of the piece with a 2/4 time signature (marked Allegro). The opening is marked ""Rubato"" and does not have a time signature."
 23	Skotshne	G freygish	listening	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	-	-		All freygish	yes	
 24	Skotshne	G freygish	listening	"Bergelson, D."	recording	Voice	Kyiv	1931	Uman'	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-		All freygish	yes	
-25	Skotshne	G freygish	listening	"Roitenberg, D."	transcription	Violin	Moscow	1926	Belarus	-	-	-	-	C minor (iv); Bb major (III); G minor (i)	6Ð13; 14Ð17; 18Ð25	no	"Section B (mm. 6Ð13) identified as C minor (iv) based on measured melodic descent from G (m. 6) to C (m. 12). There is a brief shift to D freygish (V) at the cadence in mm. 12Ð13, but I kept these bars with the rest of the section (criterion 1)."
-26	Skotshne	G freygish	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	C minor (iv)	28Ð42	no	"Measures 38Ð40 briefly imply G freygish. The section begins with a C minor fanfare, and ends with a C minor cadenceÐÐwe thus identified the section as a whole as C minor (iv) (criterion 1). "
-27	Skotshne	G freygish	listening	"Shteingart, Ia."	recording	Clarinet	"Podolia, Bogopol"	1913	-	Podolia	Bogopol	-	-	C minor (iv); Bb major (III); C minor (iv); Bb major (III); G freygish (I)	18Ð21; 22Ð25; 26Ð29; 30Ð33	no	
-28	Freylekhs	G freygish	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	C	Up P4	C minor (iv); G frey (I); C major (IV); C minor (iv)	10Ð13; 14Ð25; 26Ð37; 38Ð42	no	
+25	Skotshne	G freygish	listening	"Roitenberg, D."	transcription	Violin	Moscow	1926	Belarus	-	-	-	-	C minor (iv); Bb major (III); G minor (i)	6ï¿½13; 14ï¿½17; 18ï¿½25	no	"Section B (mm. 6ï¿½13) identified as C minor (iv) based on measured melodic descent from G (m. 6) to C (m. 12). There is a brief shift to D freygish (V) at the cadence in mm. 12ï¿½13, but I kept these bars with the rest of the section (criterion 1)."
+26	Skotshne	G freygish	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	C minor (iv)	28ï¿½42	no	"Measures 38ï¿½40 briefly imply G freygish. The section begins with a C minor fanfare, and ends with a C minor cadenceï¿½ï¿½we thus identified the section as a whole as C minor (iv) (criterion 1). "
+27	Skotshne	G freygish	listening	"Shteingart, Ia."	recording	Clarinet	"Podolia, Bogopol"	1913	-	Podolia	Bogopol	-	-	C minor (iv); Bb major (III); C minor (iv); Bb major (III); G freygish (I)	18ï¿½21; 22ï¿½25; 26ï¿½29; 30ï¿½33	no	
+28	Freylekhs	G freygish	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	C	Up P4	C minor (iv); G frey (I); C major (IV); C minor (iv)	10ï¿½13; 14ï¿½25; 26ï¿½37; 38ï¿½42	no	
 29	Skotshne	G freygish	listening	Anonymous	transcription	-	-	-	-	-	-	G	-		All freygish	yes	
-30	Freylekhs	G freygish	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	C minor (iv); Bb major (III); G freygish (I)	10Ð13; 14Ð18	no	
-31	Freylekhs	G freygish	listening	"Slobodskoi, M."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	C	Up P4	C minor (iv); F major (VII)	10Ð17; 18Ð23	no	Section B (mm. 10Ð17) includes elements of both G freygish and C minor (iv). The section is identified as C minor (iv) because of the emphasis on C at the beginning and the cadence on C.
-32	Skotshne	G freygish	listening	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	E	Down m3	C major (IV); D freygish (V)	18Ð21; 22Ð26	no	
+30	Freylekhs	G freygish	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	C minor (iv); Bb major (III); G freygish (I)	10ï¿½13; 14ï¿½18	no	
+31	Freylekhs	G freygish	listening	"Slobodskoi, M."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	C	Up P4	C minor (iv); F major (VII)	10ï¿½17; 18ï¿½23	no	Section B (mm. 10ï¿½17) includes elements of both G freygish and C minor (iv). The section is identified as C minor (iv) because of the emphasis on C at the beginning and the cadence on C.
+32	Skotshne	G freygish	listening	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	E	Down m3	C major (IV); D freygish (V)	18ï¿½21; 22ï¿½26	no	
 33	Lekhaim	G freygish	listening	"Magaziner, Ia. S."	transcription	Violin	Kyiv	1937	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-		All freygish	yes	
-34	Skotshne	G freygish	listening	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	-	-	C minor (iv); G freygish	12Ð19	no	
-35	Freylekhs	G freygish	listening	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	E	Down m3	C minor (iv); G freygish (I)	18Ð25	no	
+34	Skotshne	G freygish	listening	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	-	-	C minor (iv); G freygish	12ï¿½19	no	
+35	Freylekhs	G freygish	listening	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	E	Down m3	C minor (iv); G freygish (I)	18ï¿½25	no	
 36	Freylekhs	G freygish	listening	"Gulerman, Z."	recording	Flute	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-		All freygish	yes	
-37	Nign	G freygish	listening	"Komendant, M. G. "	transcription	-	Kremenets	1885	-	-	-	-	-	C minor (iv); Eb major (VI); C minor (iv)	9Ð12; 13Ð24; 25Ð36	no	
+37	Nign	G freygish	listening	"Komendant, M. G. "	transcription	-	Kremenets	1885	-	-	-	-	-	C minor (iv); Eb major (VI); C minor (iv)	9ï¿½12; 13ï¿½24; 25ï¿½36	no	
 38	Nign	G minor	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	D	Up P5		All minor	yes	
 39	Skotshne	G minor	listening	"Magaziner, Ia. S."	transcription	Violin	Kyiv	1937	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	E	Down m3		All minor	yes	"There is a lot of C minor material and a pause on Bb at the end of section B, but the  only definitive cadences are in G minor. "
-40	Skotshne	G minor	listening	Knaifel	transcription	Bass	Vinnitsa	1937	-	Vinnitsa	-	A	Up M2	Bb major (III); G minor (i)	18Ð28	no	
+40	Skotshne	G minor	listening	Knaifel	transcription	Bass	Vinnitsa	1937	-	Vinnitsa	-	A	Up M2	Bb major (III); G minor (i)	18ï¿½28	no	
 41	Freylekhs	G minor	listening	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	G	-		All minor	yes	
-42	Skotshne	G minor	listening	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	A	Up M2	Bb major (III); G minor (i); D freygish (V); G minor (i)	29Ð36; 37Ð40; 41-44	no	
-43	Skotshne	G minor	listening	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	D	Up P5	Bb major (III); G minor	13Ð18	no	
+42	Skotshne	G minor	listening	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	A	Up M2	Bb major (III); G minor (i); D freygish (V); G minor (i)	29ï¿½36; 37ï¿½40; 41-44	no	
+43	Skotshne	G minor	listening	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	D	Up P5	Bb major (III); G minor	13ï¿½18	no	
 44	Skotshne	G minor	listening	"Ziserman, V."	transcription	Bass	Vinnitsa	1932	-	Vinnitsa	-	G	-		All minor	yes	
-45	Skotshne	G minor	listening	"Slobodskoi, M."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	G	-	G freygish (I); G minor (i); Bb major (III); G minor (i)	10Ð17; 18Ð21; 22Ð26	no	
-46	Skotshne	G minor	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	Bb major (III); G minor (i)	10Ð13	no	
-47	Skotshne	G raised fourth	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	D	Up P5	G major (I); G raised fourth	13Ð20	no	"Beregovski groups this with a set of minor tunes, but the opening and closing both imply G raised fourth with prominent C#s and E naturals. "
-48	Skotshne	G minor	listening	Anonymous	transcription	Violin	Kyiv	1929	-	Unknown	-	-	-	Bb major (III); G minor (i)	18Ð25	no	
-49	Freylekhs	G minor	listening	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	G	-	Bb major (III)	25Ð31	no	
-50	Skotshne	G minor	listening	"Gershfeld, G."	transcription	-	Tiraspol	1937	-	Kyiv	Berdichev	-	-	Bb major (III); G minor (i)	9Ð17	no	
-51	Skotshne	G minor	listening		transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	-	-	Bb major (III); G minor (i); Bb major (III); G minor (i)	22Ð27; 28Ð29; 30Ð31	no	
-52	Skotshne	G minor	listening		transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	-	-	Bb major (III); G minor	13Ð18	no	
-53	Skotshne	G minor	listening	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	G	-	Bb major (III)	9Ð16	no	
-54	Skotshne	G raised fourth	listening	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	G	-	G major (I); G raised fourth (i); G major (I)	18Ð26; 27Ð54; 55Ð72	no	
-55	Skotshne	G raised fourth	listening	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	G	-	G freygish (I); C major (IV); G freygish (I)	15Ð23; 24Ð31; 32Ð39	no	
-56	Skotshne	G raised fourth	listening	"Altman, L. "	transcription	Viola	Tiraspol	1936	-	Kyiv	Berdichev	-	-	G minor (i)	1Ð8	no	
-57	Skotshne	G raised fourth	listening	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	G	-	G major (I); G raised fourth (i); G major (I); G raised fourth (i); G major (I); G raised fourth (i)	10Ð25; 26Ð37; 38Ð53; 54Ð73; 74Ð89	no	
-58	Freylekhs (fun der khupe)	G raised fourth	listening	"Gulerman, Z."	recording	Flute	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	G	-	G minor (i); G raised fourth (i)	17Ð27	no	
+45	Skotshne	G minor	listening	"Slobodskoi, M."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	G	-	G freygish (I); G minor (i); Bb major (III); G minor (i)	10ï¿½17; 18ï¿½21; 22ï¿½26	no	
+46	Skotshne	G minor	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	Bb major (III); G minor (i)	10ï¿½13	no	
+47	Skotshne	G raised fourth	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	D	Up P5	G major (I); G raised fourth	13ï¿½20	no	"Beregovski groups this with a set of minor tunes, but the opening and closing both imply G raised fourth with prominent C#s and E naturals. "
+48	Skotshne	G minor	listening	Anonymous	transcription	Violin	Kyiv	1929	-	Unknown	-	-	-	Bb major (III); G minor (i)	18ï¿½25	no	
+49	Freylekhs	G minor	listening	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	G	-	Bb major (III)	25ï¿½31	no	
+50	Skotshne	G minor	listening	"Gershfeld, G."	transcription	-	Tiraspol	1937	-	Kyiv	Berdichev	-	-	Bb major (III); G minor (i)	9ï¿½17	no	
+51	Skotshne	G minor	listening		transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	-	-	Bb major (III); G minor (i); Bb major (III); G minor (i)	22ï¿½27; 28ï¿½29; 30ï¿½31	no	
+52	Skotshne	G minor	listening		transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	-	-	Bb major (III); G minor	13ï¿½18	no	
+53	Skotshne	G minor	listening	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	G	-	Bb major (III)	9ï¿½16	no	
+54	Skotshne	G raised fourth	listening	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	G	-	G major (I); G raised fourth (i); G major (I)	18ï¿½26; 27ï¿½54; 55ï¿½72	no	
+55	Skotshne	G raised fourth	listening	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	G	-	G freygish (I); C major (IV); G freygish (I)	15ï¿½23; 24ï¿½31; 32ï¿½39	no	
+56	Skotshne	G raised fourth	listening	"Altman, L. "	transcription	Viola	Tiraspol	1936	-	Kyiv	Berdichev	-	-	G minor (i)	1ï¿½8	no	
+57	Skotshne	G raised fourth	listening	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	G	-	G major (I); G raised fourth (i); G major (I); G raised fourth (i); G major (I); G raised fourth (i)	10ï¿½25; 26ï¿½37; 38ï¿½53; 54ï¿½73; 74ï¿½89	no	
+58	Freylekhs (fun der khupe)	G raised fourth	listening	"Gulerman, Z."	recording	Flute	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	G	-	G minor (i); G raised fourth (i)	17ï¿½27	no	
 59	Skotshne	G raised fourth	listening	Anonymous	transcription	-	-	-	-	Unknown	-	D	Up P5		All raised fourth	yes	
-60	Skotshne	G raised fourth	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	G minor (i)	13Ð20	no	
-61	Gas-nign	G freygish	listening	"Barkagan, G."	recording	Clarinet	"Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	C minor (iv); G freygish (I)	1Ð8	no	
-62	Gas-nign	G freygish	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	F major (VII); G freygish (I)	20Ð27	no	
-63	Gas-nign	G freygish	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	F major (VII); G freygish (I)	17Ð22	no	
-64	Gas-nign	G freygish	listening	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	G	-	C major (IV); C minor (iv); G freygish (I)	17Ð20; 21Ð24	no	
-65	Gas-nign	G freygish	listening	"Beliavsky, F."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	G	-	F major (VII); G freygish (I); F major (VII); G freygish (I)	17Ð22; 23Ð24; 25Ð30	no	Meausres 23Ð24 are analogous to mm. 31Ð32; both are cadences that introduce a new pitch collection.
+60	Skotshne	G raised fourth	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	G minor (i)	13ï¿½20	no	
+61	Gas-nign	G freygish	listening	"Barkagan, G."	recording	Clarinet	"Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	C minor (iv); G freygish (I)	1ï¿½8	no	
+62	Gas-nign	G freygish	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	F major (VII); G freygish (I)	20ï¿½27	no	
+63	Gas-nign	G freygish	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	F major (VII); G freygish (I)	17ï¿½22	no	
+64	Gas-nign	G freygish	listening	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	G	-	C major (IV); C minor (iv); G freygish (I)	17ï¿½20; 21ï¿½24	no	
+65	Gas-nign	G freygish	listening	"Beliavsky, F."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	G	-	F major (VII); G freygish (I); F major (VII); G freygish (I)	17ï¿½22; 23ï¿½24; 25ï¿½30	no	Meausres 23ï¿½24 are analogous to mm. 31ï¿½32; both are cadences that introduce a new pitch collection.
 66	Gas-nign	G freygish	listening	"Diamant, M."	recording	-	Kyiv	1932	Warsaw	-	-	A	Up M2		All freygish	yes	
-67	Gas-nign	G freygish	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	C minor (iv); G freygish (I)	17Ð25	no	
+67	Gas-nign	G freygish	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	C minor (iv); G freygish (I)	17ï¿½25	no	
 68	Gas-nign	G freygish	listening	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	D	Up P5		All freygish	yes	
-69	Gas-nign	G freygish	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	C raised fourth (iv)	18Ð25	no	"Passages throughout the tune focus on the upper pentachord <D, Eb, F#, G, A>. Section C (mm. 18Ð25), however, focuses more on this upper range and extends at a key moment down to C. We have therefore identified it as C raised fourth. Horowitz (1993, 20Ð23) identifies the mode of this section as C raised fourth, while also noting that it could be analyzed as D freygish. "
-70	Gas-nign	G freygish	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	C minor (iv); G freygish (I); C major (IV)	21Ð24; 25Ð32; 33Ð48	no	
-71	Gas-nign	G minor	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	C	Up P4	Bb major (III); G minor (i); Bb major (III); G minor (i)	1Ð8; 9Ð16; 17Ð24	no	
-72	Gas-nign	G minor	listening	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	D	Up P5	Bb major (III); G minor (i)	9Ð16	no	
-73	Gas-nign	G minor	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	B	Up M3	Bb major (III); G minor (i)	20Ð27	no	
-74	Gas-nign	G minor	listening	"Cherniavsky, B."	recording	Clarinet	Belaia	1935	-	Kyiv	Belaia Tserkov	A	Up M2	Bb major (III); G minor (i)	17Ð28	no	
-75	Gas-nign	G minor	listening	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	A	Up M2	C minor (iv); Bb major (III);  G minor (i)	18Ð24; 25Ð38	no	
+69	Gas-nign	G freygish	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	C raised fourth (iv)	18ï¿½25	no	"Passages throughout the tune focus on the upper pentachord <D, Eb, F#, G, A>. Section C (mm. 18ï¿½25), however, focuses more on this upper range and extends at a key moment down to C. We have therefore identified it as C raised fourth. Horowitz (1993, 20ï¿½23) identifies the mode of this section as C raised fourth, while also noting that it could be analyzed as D freygish. "
+70	Gas-nign	G freygish	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	C minor (iv); G freygish (I); C major (IV)	21ï¿½24; 25ï¿½32; 33ï¿½48	no	
+71	Gas-nign	G minor	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	C	Up P4	Bb major (III); G minor (i); Bb major (III); G minor (i)	1ï¿½8; 9ï¿½16; 17ï¿½24	no	
+72	Gas-nign	G minor	listening	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	D	Up P5	Bb major (III); G minor (i)	9ï¿½16	no	
+73	Gas-nign	G minor	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	B	Up M3	Bb major (III); G minor (i)	20ï¿½27	no	
+74	Gas-nign	G minor	listening	"Cherniavsky, B."	recording	Clarinet	Belaia	1935	-	Kyiv	Belaia Tserkov	A	Up M2	Bb major (III); G minor (i)	17ï¿½28	no	
+75	Gas-nign	G minor	listening	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	A	Up M2	C minor (iv); Bb major (III);  G minor (i)	18ï¿½24; 25ï¿½38	no	
 76	Gas-nign	G minor	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	D	Up P5		All minor	yes	
-77	Gas-nign	G minor	listening	"Melamed, R."	recording	Voice	"Novo-Zlatopol, Dnepropetrovsk"	1937	-	Old Jewish Agricultural Colonies	Novozlatopol	-	-	C minor (iv); Bb major (III); G minor (i)	1Ð4; 5Ð8	no	
-78	Gas-nign	G minor	listening	"Karlyk, Ia."	recording	-	"Dzhelal, Crimea"	1937	"Boguslav, Kyiv"	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	Bb major (III)	8Ð15	no	
+77	Gas-nign	G minor	listening	"Melamed, R."	recording	Voice	"Novo-Zlatopol, Dnepropetrovsk"	1937	-	Old Jewish Agricultural Colonies	Novozlatopol	-	-	C minor (iv); Bb major (III); G minor (i)	1ï¿½4; 5ï¿½8	no	
+78	Gas-nign	G minor	listening	"Karlyk, Ia."	recording	-	"Dzhelal, Crimea"	1937	"Boguslav, Kyiv"	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	Bb major (III)	8ï¿½15	no	
 79	A gute nakht	G freygish	listening	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	D	Up P5		All freygish	yes	Section B begins with two bar segments of C raised fourth and Bb major. I interpret these as local gestures in the context of the full eight-bar phrase. 
 80	A gute nakht	G minor	listening	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	D	Up P5		All minor	yes	
 81	Zay gezunt	G freygish	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	G	-		All freygish	yes	
-82	Zay gezunt	G freygish	listening	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	G	-	C minor (iv)	9Ð16	no	
-83	Zay gezunt	G minor	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	D	Up P5	Bb major (III); G minor (i); Bb major (III); G minor (i); Bb major (III); G minor (i)	1Ð6; 7Ð8; 9Ð14; 15Ð18; 19Ð20; 21Ð24	no	I have tagged two-bar shifts at cadences throughoout. 
+82	Zay gezunt	G freygish	listening	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	G	-	C minor (iv)	9ï¿½16	no	
+83	Zay gezunt	G minor	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	D	Up P5	Bb major (III); G minor (i); Bb major (III); G minor (i); Bb major (III); G minor (i)	1ï¿½6; 7ï¿½8; 9ï¿½14; 15ï¿½18; 19ï¿½20; 21ï¿½24	no	I have tagged two-bar shifts at cadences throughoout. 
 84	Zay gezunt	G minor	listening	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	D	Up P5		All minor	yes	There are amibiguities between the minor and raised fourth modes. One could identify both sections in eithe mode. Beregovski groups this with other minor tunes; I have tagged it accordingly.
 85	Redl	G freygish	dance	Anonymous	transcription	-	Liubavichi	1913	-	Various Cities and Towns	-	-	-		All freygish	yes	
 86	Freylekhs	G freygish	dance	"Slobodskoi, M."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	A	Up M2		All freygish	yes	
-87	Freylekhs	G freygish	dance	"Slobodskoi, M."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	F major (VII); G freygish	10Ð14	no	
-88	Freylekhs	G freygish	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	A	Up M2	Eb major; C raised fourth (iv); G freygish (I)	"14Ð17, 18Ð22"	no	"Measures 14Ð17 could be identified as C minor (iv), a typical move. Here we identify them as Eb major (VI) because there is no C. See the same analysis in Horowitz 1993, 39. "
+87	Freylekhs	G freygish	dance	"Slobodskoi, M."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	F major (VII); G freygish	10ï¿½14	no	
+88	Freylekhs	G freygish	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	A	Up M2	Eb major; C raised fourth (iv); G freygish (I)	"14ï¿½17, 18ï¿½22"	no	"Measures 14ï¿½17 could be identified as C minor (iv), a typical move. Here we identify them as Eb major (VI) because there is no C. See the same analysis in Horowitz 1993, 39. "
 89	Tants	G freygish	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5		All freygish	yes	
-90	Freylekhs	G freygish	dance	"Grudsky, L."	transcription	Violin	Kherson	1933	-	Old Jewish Agricultural Colonies	-	D	Up P5	C major (IV); D freygish (V); G freygish (I)	17Ð20; 21Ð24	no	
+90	Freylekhs	G freygish	dance	"Grudsky, L."	transcription	Violin	Kherson	1933	-	Old Jewish Agricultural Colonies	-	D	Up P5	C major (IV); D freygish (V); G freygish (I)	17ï¿½20; 21ï¿½24	no	
 91	Freylekhs	G freygish	dance	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	D	Up P5		All freygish	yes	
 92	Freylekhs	G freygish	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	D	Up P5		All freygish	yes	
 93	Skotshne	G freygish	dance	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	A	Up M2		All freygish	yes	
 94	Freylekhs	G freygish	dance	"Pivovarov, M."	recording	-	"Bobrovyi, Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-		All freygish	yes	
-95	Freylekhs	G freygish	dance	"Dulitsky, B."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	A	Up M2	C minor (iv); G freygish (I)	10Ð18	no	
+95	Freylekhs	G freygish	dance	"Dulitsky, B."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	A	Up M2	C minor (iv); G freygish (I)	10ï¿½18	no	
 96	Freylekhs	G freygish	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	A	Up M2		All freygish	yes	
-97	Freylekhs	G freygish	dance	"Slobodskoi, M."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	G	-	C minor (iv)	10Ð17	no	Section B (mm. 10Ð17) emphasize F but then settle on C in both halves of the phrase. The section is thus identified as C minor (iv).
+97	Freylekhs	G freygish	dance	"Slobodskoi, M."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	G	-	C minor (iv)	10ï¿½17	no	Section B (mm. 10ï¿½17) emphasize F but then settle on C in both halves of the phrase. The section is thus identified as C minor (iv).
 98	Freylekhs	G freygish	dance	Anonymous	transcription	-	-	-	-	Unknown	-	D	Up P5		All freygish	yes	
 99	Hopke	G freygish	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	C	Up P4		All freygish	yes	
 100	Freylekhs	G freygish	dance	"Mesman, V."	transcription	-	-	-	-	Unknown	-	G	-		All freygish	yes	
-101	Skotshne	G minor	dance	Anonymous	transcription	-	-	-	-	Kyiv	"Khabno, Korosten', and Radomysl'"	-	-	G major (I); G minor (i)	1Ð9	no	
-102	Hopke	G freygish	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	F major (VII); G freygish (I); C major (IV); D freygish (V); G freygish (I)	10Ð15; 16Ð18; 19Ð25; 26Ð28	no	
-103	Freylekhs	G freygish	dance	"Svitelsky, F."	transcription	Violin	Kyiv	1933	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	F major (VII); G freygish (I); F major (VII)	5Ð10; 11Ð12; 13Ð24	no	
-104	Freylekhs	G freygish	dance	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	A	Up M2	Bb major (III); G freygish	11Ð16	no	
+101	Skotshne	G minor	dance	Anonymous	transcription	-	-	-	-	Kyiv	"Khabno, Korosten', and Radomysl'"	-	-	G major (I); G minor (i)	1ï¿½9	no	
+102	Hopke	G freygish	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	F major (VII); G freygish (I); C major (IV); D freygish (V); G freygish (I)	10ï¿½15; 16ï¿½18; 19ï¿½25; 26ï¿½28	no	
+103	Freylekhs	G freygish	dance	"Svitelsky, F."	transcription	Violin	Kyiv	1933	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	F major (VII); G freygish (I); F major (VII)	5ï¿½10; 11ï¿½12; 13ï¿½24	no	
+104	Freylekhs	G freygish	dance	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	A	Up M2	Bb major (III); G freygish	11ï¿½16	no	
 105	Skotshne	G raised fourth	dance	"Ziserman, V."	transcription	Bass	Vinnitsa	1932	-	Vinnitsa	-	G	-		All raised fourth	yes	
 106	Freylekhs	G raised fourth	dance	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	G	-		All raised fourth	yes	
 107	Karahod	G raised fourth	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	C	Up P4		All raised fourth	yes	
 108	Freylekhs	G raised fourth	dance	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	B	Up M3		All raised fourth	yes	
 109	Skotshne	G raised fourth	dance	"Dulitsky, B."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	B	Up M3		All raised fourth	yes	
 110	Freylekhs	G raised fourth	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	E	Up M6		All raised fourth	yes	
-111	Freylekhs	G raised fourth	dance	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	G	-	Bb major (III)	19Ð28	no	
-112	Freylekhs	G raised fourth	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	G	-	G major (I)	10Ð17	no	
-113	Skotshne	G raised fourth	dance	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	G	-	G major (I); G raised fourth (i)	25Ð48	no	
-114	Freylekhs	G raised fourth	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	G	-	G minor (i); G raised fourth (i); G major (I); G minor (i)	1Ð6; 7Ð39; 40Ð52; 53Ð60	no	
-115	Skotshne	G raised fourth	dance	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	C	Up P4	G major (I); G raised fourth (i)	22Ð27	no	
-116	Skotshne	G raised fourth	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	G	-	G major (I); G raised fourth (i)	18Ð23	no	
-117	Freylekhs	G raised fourth	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	D	Up P5	G major (I); G raised fourth (i)	9Ð13	no	
-118	Freylekhs	G raised fourth	dance	"Berezin, Ia."	transcription	Clarinet	Tiraspol	1937	-	Various Cities and Towns	-	C	Up P4	G major (I); G raised fourth (i)	9Ð16	no	
-119	Freylekhs	G raised fourth	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	G major (I)	14Ð22	no	
+111	Freylekhs	G raised fourth	dance	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	G	-	Bb major (III)	19ï¿½28	no	
+112	Freylekhs	G raised fourth	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	G	-	G major (I)	10ï¿½17	no	
+113	Skotshne	G raised fourth	dance	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	G	-	G major (I); G raised fourth (i)	25ï¿½48	no	
+114	Freylekhs	G raised fourth	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	G	-	G minor (i); G raised fourth (i); G major (I); G minor (i)	1ï¿½6; 7ï¿½39; 40ï¿½52; 53ï¿½60	no	
+115	Skotshne	G raised fourth	dance	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	C	Up P4	G major (I); G raised fourth (i)	22ï¿½27	no	
+116	Skotshne	G raised fourth	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	G	-	G major (I); G raised fourth (i)	18ï¿½23	no	
+117	Freylekhs	G raised fourth	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	D	Up P5	G major (I); G raised fourth (i)	9ï¿½13	no	
+118	Freylekhs	G raised fourth	dance	"Berezin, Ia."	transcription	Clarinet	Tiraspol	1937	-	Various Cities and Towns	-	C	Up P4	G major (I); G raised fourth (i)	9ï¿½16	no	
+119	Freylekhs	G raised fourth	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	G major (I)	14ï¿½22	no	
 120	Freylekhs	G raised fourth	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5		All raised fourth	yes	
-121	Freylekhs (Karahod)	G minor	dance	"Rabinovich, I. S."	transcription	Piano	Kyiv	1937	"Pereiaslav, Poltava"	Various Cities and Towns	-	-	-	Bb major (III); G minor (i); Bb major (III)	1Ð6; 7Ð12; 13Ð22	no	
+121	Freylekhs (Karahod)	G minor	dance	"Rabinovich, I. S."	transcription	Piano	Kyiv	1937	"Pereiaslav, Poltava"	Various Cities and Towns	-	-	-	Bb major (III); G minor (i); Bb major (III)	1ï¿½6; 7ï¿½12; 13ï¿½22	no	
 122	Freylekhs	G minor	dance	Knaifel	transcription	Bass	Vinnitsa	1937	-	Vinnitsa	-	D	Up P5		All minor	yes	
-123	Skotshne	G minor	dance	"Ziserman, V."	transcription	Bass	Vinnitsa	1932	-	Vinnitsa	-	D	Up P5	Bb major (III); G minor (i)	18Ð29	no	G minor is identified starting in m. 30; this is part of a phrase that leads towards the strong cadence in G minor.
-124	Skotshne	G minor	dance	Anonymous	transcription	-	-	-	-	Unknown	-	A	Up M2	C minor (iv);  Bb major (III); G minor (i)	21Ð28; 29Ð40	no	
+123	Skotshne	G minor	dance	"Ziserman, V."	transcription	Bass	Vinnitsa	1932	-	Vinnitsa	-	D	Up P5	Bb major (III); G minor (i)	18ï¿½29	no	G minor is identified starting in m. 30; this is part of a phrase that leads towards the strong cadence in G minor.
+124	Skotshne	G minor	dance	Anonymous	transcription	-	-	-	-	Unknown	-	A	Up M2	C minor (iv);  Bb major (III); G minor (i)	21ï¿½28; 29ï¿½40	no	
 125	Freylekhs	G minor	dance	"Svitelsky, F."	transcription	Violin	Kyiv	1933	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-		All minor	yes	
-126	Freylekhs	G freygish	dance	"Pulver, L. M."	recording	Violin	Kyiv	1929	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	D	Down P4	C raised fourth (iv); G freygish (I)	1Ð13	no	
-127	Freylekh	G minor	dance	Mazover	recording	Voice	Kalnindorf	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	Bb major (III); G raised fourth (I)	10Ð18; 19Ð27	no	"Section C (mm. 19Ð27) alternates C# and C natural. The C#s are quite prominent, however, so this is identified as G raised fourth. C natural occasionally alternates with C# in the raised fourth mode (see Beregovski 1982, 551). "
+126	Freylekhs	G freygish	dance	"Pulver, L. M."	recording	Violin	Kyiv	1929	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	D	Down P4	C raised fourth (iv); G freygish (I)	1ï¿½13	no	
+127	Freylekh	G minor	dance	Mazover	recording	Voice	Kalnindorf	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	Bb major (III); G raised fourth (I)	10ï¿½18; 19ï¿½27	no	"Section C (mm. 19ï¿½27) alternates C# and C natural. The C#s are quite prominent, however, so this is identified as G raised fourth. C natural occasionally alternates with C# in the raised fourth mode (see Beregovski 1982, 551). "
 128	Freylekhs	G minor	dance	"Dulitsky, B."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	G	-		All minor	yes	
-129	Freylekhs	G minor	dance	Anonymous	transcription	-	-	-	-	Unknown	-	D	Up P5	G raised fourth (i); Bb major (III); G minor (i)	9Ð16; 17Ð30	no	"Section B (mm. 9Ð16) has C#, but it also has Eb which is not characteristic of G raised fourth. We still identified it as G raise fourth because the C#s are prominent. The manuscript in Beregovski 2013 has E naturals pencilled in."
+129	Freylekhs	G minor	dance	Anonymous	transcription	-	-	-	-	Unknown	-	D	Up P5	G raised fourth (i); Bb major (III); G minor (i)	9ï¿½16; 17ï¿½30	no	"Section B (mm. 9ï¿½16) has C#, but it also has Eb which is not characteristic of G raised fourth. We still identified it as G raise fourth because the C#s are prominent. The manuscript in Beregovski 2013 has E naturals pencilled in."
 130	Freylekhs	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	A	Up M2		All minor	yes	
-131	Freylekhs	G minor	dance	"Dulitsky, B."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	G	-	G raised fourth (i); G minor (i)	14Ð21	no	
-132	Freylekhs	G minor	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	A	Up M2	Bb major (III); G minor (i)	1Ð12	no	
-133	Freylekhs	G minor	dance	Anonymous	transcription	-	-	-	-	Unknown	-	D	Up P5	Bb major (III); G minor (i)	1Ð8	no	
+131	Freylekhs	G minor	dance	"Dulitsky, B."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	G	-	G raised fourth (i); G minor (i)	14ï¿½21	no	
+132	Freylekhs	G minor	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	A	Up M2	Bb major (III); G minor (i)	1ï¿½12	no	
+133	Freylekhs	G minor	dance	Anonymous	transcription	-	-	-	-	Unknown	-	D	Up P5	Bb major (III); G minor (i)	1ï¿½8	no	
 134	Skotshne	G minor	dance	"Slobodskoi, M."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	C	Up P4		All minor	yes	
-135	Freylekhs	G minor	dance	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	Bb	Up m3	G freygish (I)	19Ð48	no	
-136	Freylekhs	G minor	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	-	-	Bb major (III); G minor (i)	5Ð8	no	
+135	Freylekhs	G minor	dance	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1935	-	Kyiv	Belaia Tserkov	Bb	Up m3	G freygish (I)	19ï¿½48	no	
+136	Freylekhs	G minor	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	-	-	Bb major (III); G minor (i)	5ï¿½8	no	
 137	Vol'ner (Freylekhs)	G minor	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	-	-		All minor	yes	
-138	Freylekhs	G minor	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	-	-	Bb major (III); G minor (i)	17Ð20	no	
-139	Freylekhs	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	1935	-	Old Jewish Agricultural Colonies	Kalinindorf	G	-		All minor	yes	"Bb is implied in mm. 9Ð12, but there isn't a cadence until the end of the section."
+138	Freylekhs	G minor	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	-	-	Bb major (III); G minor (i)	17ï¿½20	no	
+139	Freylekhs	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	1935	-	Old Jewish Agricultural Colonies	Kalinindorf	G	-		All minor	yes	"Bb is implied in mm. 9ï¿½12, but there isn't a cadence until the end of the section."
 140	Freylekhs	G minor	dance	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	D	Up P5		All minor	yes	
 141	Freylekhs	G minor	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	D	Up P5		All minor	yes	
-142	Freylekhs	G minor	dance	Anonymous	-	-	-	-	-	Unknown	-	A	Up M2	Bb major (III); G minor (i)	15Ð18	no	
+142	Freylekhs	G minor	dance	Anonymous	-	-	-	-	-	Unknown	-	A	Up M2	Bb major (III); G minor (i)	15ï¿½18	no	
 143	Freylekhs	G minor	dance	"Berezin, Ia."	transcription	Clarinet	Tiraspol	1936	-	Various Cities and Towns	-	G	-		All minor	yes	
-144	Freylekhs	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	1935	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5	Bb major (III)	10Ð17	no	
+144	Freylekhs	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	1935	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5	Bb major (III)	10ï¿½17	no	
 145	Freylekhs	G minor	dance	Anonymous	transcription	-	-	-	-	-	-	A	Up M2		All minor	yes	
-146	Freylekhs	G minor	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	A	Up M2	Bb major (III); G minor (i)	9Ð12	no	
-147	Freylekhs	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	1935	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5		All minor	yes	"Section C (mm. 17Ð24) cadences on Bb, but the cadence is brief and it doesn't introduce a new pitch collection. I haven't tagged it as such. "
-148	Freylekhs	G minor	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	G	-	Bb major (III); G minor (i)	9Ð14	no	
-149	Skotshne	G minor	dance	"Ziserman, V."	transcription	Bass	Vinnitsa	1932	-	Vinnitsa	-	D	Up P5	Bb major (III); G minor (i)	17Ð20	no	
-150	Freylekhs	G major	dance	"Dulitsky, B."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	G raised fourth (i)	9Ð27	no	
-151	Freylekhs	G major	dance	"Dulitsky, B."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	G raised fourth (i)	9Ð25	no	
-152	Skotshne	G major	dance	"Magaziner, Ia. S."	transcription	Violin	Kyiv	1936	"Zvenigorodka, Kyiv"	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	G raised fourth (i); G major (I)	10Ð17	no	
-153	Freylekhs	G major	dance	"Slobodskoi, M."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	G	-	G raised fourth (i); G major (I)	5Ð8	no	
-154	Freylekhs	G major	dance	"Slobodskoi, M."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	E	Down m3	G raised fourth (i); G freygish (I)	10Ð25; 26Ð41	no	
-155	Freylekhs	G major	dance	"Berezin, Ia."	transcription	Clarinet	Tiraspol	1936	-	Various Cities and Towns	-	-	-	G raised fourth (k); G major (I)	11Ð24	no	
-156	Freylekhs	G major	dance	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1936	-	Kyiv	Belaia Tserkov	-	-	G raised fourth (i); G major (I)	19Ð29	no	
+146	Freylekhs	G minor	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	A	Up M2	Bb major (III); G minor (i)	9ï¿½12	no	
+147	Freylekhs	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	1935	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5		All minor	yes	"Section C (mm. 17ï¿½24) cadences on Bb, but the cadence is brief and it doesn't introduce a new pitch collection. I haven't tagged it as such. "
+148	Freylekhs	G minor	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	G	-	Bb major (III); G minor (i)	9ï¿½14	no	
+149	Skotshne	G minor	dance	"Ziserman, V."	transcription	Bass	Vinnitsa	1932	-	Vinnitsa	-	D	Up P5	Bb major (III); G minor (i)	17ï¿½20	no	
+150	Freylekhs	G major	dance	"Dulitsky, B."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	G raised fourth (i)	9ï¿½27	no	
+151	Freylekhs	G major	dance	"Dulitsky, B."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	G raised fourth (i)	9ï¿½25	no	
+152	Skotshne	G major	dance	"Magaziner, Ia. S."	transcription	Violin	Kyiv	1936	"Zvenigorodka, Kyiv"	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	G raised fourth (i); G major (I)	10ï¿½17	no	
+153	Freylekhs	G major	dance	"Slobodskoi, M."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	G	-	G raised fourth (i); G major (I)	5ï¿½8	no	
+154	Freylekhs	G major	dance	"Slobodskoi, M."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	E	Down m3	G raised fourth (i); G freygish (I)	10ï¿½25; 26ï¿½41	no	
+155	Freylekhs	G major	dance	"Berezin, Ia."	transcription	Clarinet	Tiraspol	1936	-	Various Cities and Towns	-	-	-	G raised fourth (k); G major (I)	11ï¿½24	no	
+156	Freylekhs	G major	dance	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1936	-	Kyiv	Belaia Tserkov	-	-	G raised fourth (i); G major (I)	19ï¿½29	no	
 157	Hopke	G major	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	D	Up P5		All major	yes	
-158	Freylekhs	G major	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5	C major (IV)	17Ð24	no	
+158	Freylekhs	G major	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5	C major (IV)	17ï¿½24	no	
 159	Freylekhs	G major	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno				All major	yes	
-160	Skotshne	G major	dance	Anonymous	transcription	-	-	-	-	Unknown	-	-	-	D major (V); G major (I)	10Ð18	no	
+160	Skotshne	G major	dance	Anonymous	transcription	-	-	-	-	Unknown	-	-	-	D major (V); G major (I)	10ï¿½18	no	
 161	Freylekhs	G major	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5		All major	yes	
 162	Hopke	G major	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	G	-		All major	yes	
 163	Skotshne	G major	dance	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1936	-	Kyiv	Belaia Tserkov	-	-		All major	yes	
 164	Skotshne	G major	dance	"Shteingart, Ia."	recording	Clarinet	"Bogopol, Podolia"	1913	-	Podolia	Bogopol	-	-		All major	yes	
-165	Freylekhs	G major	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	-	-	D	Up P5	D major (V); G major (I)	9Ð16	no	
-166	Freylekhs	G major	dance	"Marshak, A."	recording	Voice	Odessa	1930	-	Various Cities and Towns	Odessa	-	-	G minor (i); G raised fourth (i)	6Ð17; 18Ð21	no	"The last four measures imply a local D minor (v) or a G raised fourth mode. We have designated them as G raised fourth because the C#-F tetrachord is used in other places to pivot from G raised fourth to G major, or the reverse. "
-167	Freylekhs	G major	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	C	Up P4	G minor (i); G major (I)	9Ð12	no	
+165	Freylekhs	G major	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	-	-	D	Up P5	D major (V); G major (I)	9ï¿½16	no	
+166	Freylekhs	G major	dance	"Marshak, A."	recording	Voice	Odessa	1930	-	Various Cities and Towns	Odessa	-	-	G minor (i); G raised fourth (i)	6ï¿½17; 18ï¿½21	no	"The last four measures imply a local D minor (v) or a G raised fourth mode. We have designated them as G raised fourth because the C#-F tetrachord is used in other places to pivot from G raised fourth to G major, or the reverse. "
+167	Freylekhs	G major	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	C	Up P4	G minor (i); G major (I)	9ï¿½12	no	
 168	Freylekhs	G major	dance	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	C	Up P4		All major	yes	
 169	Freylekhs	G major	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5		All major	yes	
 170	Freylekhs	G major	dance	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	D	Up P5		All major	yes	
@@ -168,83 +168,83 @@ Tune	Genre	Mode	Listening/dance	Source	Source type	Source instrument or voice	Lo
 172	Freylekhs	G major	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5		All major	yes	
 173	Freylekhs	G major	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-		All major	yes	
 174	Freylekhs	G major	dance	"Rabinovich, M. I."	transcription	Violin	Kyiv	1937	-	Kyiv	Berdichev	-	-		All major	yes	
-175	Freylekhs	G major	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	G raised fourth (i)	9Ð21	no	
+175	Freylekhs	G major	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	G raised fourth (i)	9ï¿½21	no	
 176	Skotshne	G major	dance	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1936	-	Kyiv	Belaia Tserkov	A	Up M2		All major	yes	
-177	Sher	G freygish	dance	"Ozyriansky, M."	recording	Voice	"Bobrovyi Kut, Kalinindorf, Nikolaev"	1936	Kalinindorf	Old Jewish Agricultural Colonies	Kalinindorf	-	-	C minor (iv); G freygish (I); C minor (iv); G fregyish (I)	17Ð20; 21Ð24; 25Ð28	no	
+177	Sher	G freygish	dance	"Ozyriansky, M."	recording	Voice	"Bobrovyi Kut, Kalinindorf, Nikolaev"	1936	Kalinindorf	Old Jewish Agricultural Colonies	Kalinindorf	-	-	C minor (iv); G freygish (I); C minor (iv); G fregyish (I)	17ï¿½20; 21ï¿½24; 25ï¿½28	no	
 178	Sher	G freygish	dance	"Liasko, M."	transcription	-	"Fraidorf, Crimea"	1937	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-		All freygish	yes	
 179	Sher	G freygish	dance	"Dulitsky, B."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	G	-		All freygish	yes	
-180	Sher	G freygish	dance	"Mesman, V."	transcription	-	-	1912	-	Unknown	-	C	Up P4	C major (IV); D: freygish (V); G freygish (I)	17Ð28; 29Ð32	no	
-181	Sher	G freygish	dance	"Gulerman, Z."	recording	Flute	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	C minor (iv); G freygish (I); C minor (iv); G freygish (I); F major (VII); G freygish (I)	5Ð8; 9Ð22; 23Ð26; 27Ð40; 41Ð48	no	
-182	Sher	G freygish	dance	"Ozyriansky, M."	recording	Voice	"Bobrovyi Kut, Kalinindorf, Nikolaev"	1936	Kalinindorf	Old Jewish Agricultural Colonies	Kalinindorf	-	-	C minor (iv); G freygish (I)	9Ð16	no	
-183	Sher	G freygish	dance	"Dobrushin, I."	transcription	-	Kyiv	1937	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	C minor (iv); G freygish (I)	9Ð16	no	
-184	Sher	G raised fourth	dance	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1936	-	Kyiv	Belaia Tserkov	Bb	Up m3			yes	"Beregovski provides a G minor key signature for section B (mm. 11Ð18), but we identify the section as G raised fourth (no modulation). Section B begins with melodic motion from Eb to C, implying C minor (iv). This is a typical move within G raised fourth. Compare with no. 58 and see Beregovsk 1982, 551. "
-185	Sher	G raised fourth	dance	"Laderman, I."	recording	Voice	Fastov	1929	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	G major (I); G raised fourth (i)	18Ð29	no	
-186	Sher	G raised fourth	dance	"Slobodskoi, M."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	Eb	Down M3	Bb major (III)	18Ð26	no	
-187	Sher	G minor	dance	"Avrutin, A."	recording	Voice	"Bobrovyi Kut, Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	-	-	-	Bb major (III); G minor (i)	16Ð28	no	
-188	Sher	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	G raised fourth (i)	9Ð29	no	
-189	Sher	G minor	dance	"Dulitsky, B."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	Bb major (III); G minor (i); Bb major (III); C freygish (IV); G minor (i)	1Ð12; 13Ð17; 18Ð21; 22Ð25	no	
-190	Sher	G minor	dance	"Bergelson, D."	recording	Voice	Kyiv	1931	Uman'	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	G raised fourth (i)	15Ð31	no	
-191	Sher	G minor	dance	"Azriel, G."	recording	Voice	"Naidarovka, Novo-Zlatopolsk, Dnepropetrovsk"	1936	-	Old Jewish Agricultural Colonies	-	-	-	Bb major (III)	10Ð18	no	
-192	Sher	G minor	dance	"Cherniavsky, I."	recording	Voice	Kyiv	1935	-	Kyiv	Belaia Tserkov	-	-	Bb major (III); G minor (i); Bb major (III); G minor (i)	1Ð8; 9Ð16; 17Ð28	no	
-193	Sher	G minor	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	D	Up P5	Bb major (III); G minor (i)	28Ð35	no	
-194	Sher	G minor	dance	"Kabatskaia, G."	recording	Voice	"Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	Bb major (III); G minor (i)	11Ð18	no	
-195	Sher	G minor	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	-	-	Bb major (III); G minor (i)	9Ð16	no	
-196	Sher	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5	Bb major (III); G minor (i)	5Ð8	no	
+180	Sher	G freygish	dance	"Mesman, V."	transcription	-	-	1912	-	Unknown	-	C	Up P4	C major (IV); D: freygish (V); G freygish (I)	17ï¿½28; 29ï¿½32	no	
+181	Sher	G freygish	dance	"Gulerman, Z."	recording	Flute	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	C minor (iv); G freygish (I); C minor (iv); G freygish (I); F major (VII); G freygish (I)	5ï¿½8; 9ï¿½22; 23ï¿½26; 27ï¿½40; 41ï¿½48	no	
+182	Sher	G freygish	dance	"Ozyriansky, M."	recording	Voice	"Bobrovyi Kut, Kalinindorf, Nikolaev"	1936	Kalinindorf	Old Jewish Agricultural Colonies	Kalinindorf	-	-	C minor (iv); G freygish (I)	9ï¿½16	no	
+183	Sher	G freygish	dance	"Dobrushin, I."	transcription	-	Kyiv	1937	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	C minor (iv); G freygish (I)	9ï¿½16	no	
+184	Sher	G raised fourth	dance	"Cherniavsky, B."	recording	Clarinet	Belaia Tserkov	1936	-	Kyiv	Belaia Tserkov	Bb	Up m3			yes	"Beregovski provides a G minor key signature for section B (mm. 11ï¿½18), but we identify the section as G raised fourth (no modulation). Section B begins with melodic motion from Eb to C, implying C minor (iv). This is a typical move within G raised fourth. Compare with no. 58 and see Beregovsk 1982, 551. "
+185	Sher	G raised fourth	dance	"Laderman, I."	recording	Voice	Fastov	1929	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	G major (I); G raised fourth (i)	18ï¿½29	no	
+186	Sher	G raised fourth	dance	"Slobodskoi, M."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	Eb	Down M3	Bb major (III)	18ï¿½26	no	
+187	Sher	G minor	dance	"Avrutin, A."	recording	Voice	"Bobrovyi Kut, Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	-	-	-	Bb major (III); G minor (i)	16ï¿½28	no	
+188	Sher	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	G raised fourth (i)	9ï¿½29	no	
+189	Sher	G minor	dance	"Dulitsky, B."	recording	Clarinet	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	Bb major (III); G minor (i); Bb major (III); C freygish (IV); G minor (i)	1ï¿½12; 13ï¿½17; 18ï¿½21; 22ï¿½25	no	
+190	Sher	G minor	dance	"Bergelson, D."	recording	Voice	Kyiv	1931	Uman'	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	G raised fourth (i)	15ï¿½31	no	
+191	Sher	G minor	dance	"Azriel, G."	recording	Voice	"Naidarovka, Novo-Zlatopolsk, Dnepropetrovsk"	1936	-	Old Jewish Agricultural Colonies	-	-	-	Bb major (III)	10ï¿½18	no	
+192	Sher	G minor	dance	"Cherniavsky, I."	recording	Voice	Kyiv	1935	-	Kyiv	Belaia Tserkov	-	-	Bb major (III); G minor (i); Bb major (III); G minor (i)	1ï¿½8; 9ï¿½16; 17ï¿½28	no	
+193	Sher	G minor	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	D	Up P5	Bb major (III); G minor (i)	28ï¿½35	no	
+194	Sher	G minor	dance	"Kabatskaia, G."	recording	Voice	"Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	Bb major (III); G minor (i)	11ï¿½18	no	
+195	Sher	G minor	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	-	-	Bb major (III); G minor (i)	9ï¿½16	no	
+196	Sher	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5	Bb major (III); G minor (i)	5ï¿½8	no	
 197	Sher	G minor	dance	Anonymous	transcription	-	-	-	-	Unknown	-	A	Up M2		All minor	yes	
 198	Sher	G minor	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	D	Up P5		All minor	yes	
-199	Sher	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	A	Up M2	Bb major (III); G minor (i)	10Ð26	no	
-200	Sher	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	A	Up M2	Bb major (III); G minor (i)	6Ð14	no	
-201	Sher	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5	Bb major (III); G minor (i)	10Ð13	no	
-202	Sher	G minor	dance	"Altman, L. "	transcription	Viola	Tiraspol	1936	-	Kyiv	Berdichev	D	Up P5	Bb major (III); G minor (i)	10Ð21	no	
-203	Sher	G major	dance	"Triplik, I."	recording	Flute	"Slavuta, Khmelnitsky"	1929	-	-	-	-	-	G raised fourth (i)	41Ð55	no	
+199	Sher	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	A	Up M2	Bb major (III); G minor (i)	10ï¿½26	no	
+200	Sher	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	A	Up M2	Bb major (III); G minor (i)	6ï¿½14	no	
+201	Sher	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5	Bb major (III); G minor (i)	10ï¿½13	no	
+202	Sher	G minor	dance	"Altman, L. "	transcription	Viola	Tiraspol	1936	-	Kyiv	Berdichev	D	Up P5	Bb major (III); G minor (i)	10ï¿½21	no	
+203	Sher	G major	dance	"Triplik, I."	recording	Flute	"Slavuta, Khmelnitsky"	1929	-	-	-	-	-	G raised fourth (i)	41ï¿½55	no	
 204	Sher	G major	dance	"Krasnyshevsky, A."	recording	Voice	"Bobrovyi Kut, Kalinindorf, Nikolaev"	1936	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-		All major	yes	
 205	Sher	G major	dance	"Bendas, D."	transcription	-	Kyiv	1938	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-		All major	yes	
 206	Plyeskun	G minor	dance	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	D	Up P5		All minor	yes	
-207	Plyeskun	G raised fourth	dance	Anonymous	transcription	-	-	-	-	Unknown	-	D	Up P5	G minor (i); G raised fourth (i)	6Ð11	no	
-208	Plyeskun	G freygish	dance	"Mesman, V."	transcription	-	-	1912	-	Unknown	-	D	Up P5	C minor (iv); Bb major (III); G freygish (I)	10Ð15; 16Ð19	no	
+207	Plyeskun	G raised fourth	dance	Anonymous	transcription	-	-	-	-	Unknown	-	D	Up P5	G minor (i); G raised fourth (i)	6ï¿½11	no	
+208	Plyeskun	G freygish	dance	"Mesman, V."	transcription	-	-	1912	-	Unknown	-	D	Up P5	C minor (iv); Bb major (III); G freygish (I)	10ï¿½15; 16ï¿½19	no	
 209	Plyeskun	G major	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	D	Up P5		All major	yes	
 210	Plyeskun	G major	dance	Knaifel	transcription	Bass	Vinnitsa	1937	-	Vinnitsa	-	D	Up P5		All major	yes	
 211	Beygele	G freygish	dance	"Mesman, V."	transcription	-	-	1912	-	-	-	G	-		All freygish	yes	
 212	Beygele	G minor	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2		All minor	yes	
-213	Bolgarish	G freygish	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	-	-	C major (IV); G fregyish (I)	33Ð48	no	
-214	Bolgarish	G minor	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	D	Up P5	Bb major (III); G minor (i)	5Ð8	no	Section A plays with ambiguity and rapid shifts between G minor and Bb major. I have tagged the first phrase as G minor and the second as Bb major based on the cadences. 
-215	Bolgarish	G minor	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	-	-	Bb major (III); G minor (i)	17Ð24	no	
-216	Bulgar	G major	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	G raised fourth (i)	9Ð19	no	
+213	Bolgarish	G freygish	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	-	-	C major (IV); G fregyish (I)	33ï¿½48	no	
+214	Bolgarish	G minor	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	D	Up P5	Bb major (III); G minor (i)	5ï¿½8	no	Section A plays with ambiguity and rapid shifts between G minor and Bb major. I have tagged the first phrase as G minor and the second as Bb major based on the cadences. 
+215	Bolgarish	G minor	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	-	-	Bb major (III); G minor (i)	17ï¿½24	no	
+216	Bulgar	G major	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	G raised fourth (i)	9ï¿½19	no	
 217	Bulgar	G major	dance	Anonymous	transcription	-	-	-	-	Unknown	-	-	-		All major	yes	
-218	Khosid	G minor	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	Bb major (III)	9Ð16	no	
+218	Khosid	G minor	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	A	Up M2	Bb major (III)	9ï¿½16	no	
 219	Khosid	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	A	Up M3		All minor	yes	
-220	Khosidl	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	A	Up M4	Bb major (III); G minor (i); Bb major (III)	1Ð5; 6Ð10; 11Ð15	no	"The first section (mm. 1Ð5) mixes Bb major (III) and Bb raised fourth (iii). It is designated as Bb major because the raised fourth elements are brief, at the cadence. "
-221	Khosid	G minor	dance	Anonymous	transcription	-	-	-	-	Unknown	-	D	Up P5	Bb major (III); G minor (i)	9Ð24	no	
+220	Khosidl	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	A	Up M4	Bb major (III); G minor (i); Bb major (III)	1ï¿½5; 6ï¿½10; 11ï¿½15	no	"The first section (mm. 1ï¿½5) mixes Bb major (III) and Bb raised fourth (iii). It is designated as Bb major because the raised fourth elements are brief, at the cadence. "
+221	Khosid	G minor	dance	Anonymous	transcription	-	-	-	-	Unknown	-	D	Up P5	Bb major (III); G minor (i)	9ï¿½24	no	
 222	Khosid	G minor	dance	Knaifel	trasncription	Bass	Vinnitsa	1937	-	Vinnitsa	-	A	Up M2		All minor	yes	
 223	Khosid	G major	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5		All major	yes	
-224	Khosid	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5	Bb major (III); G minor (i)	11Ð23	no	
-225	Shtok	G minor	dance	"Gulerman, Z."	recording	Flute	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	Bb major (III); G minor (i)	5Ð8	no	
+224	Khosid	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5	Bb major (III); G minor (i)	11ï¿½23	no	
+225	Shtok	G minor	dance	"Gulerman, Z."	recording	Flute	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	Bb major (III); G minor (i)	5ï¿½8	no	
 226	Shtok	G major	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	D	Up P5		All major	yes	
-227	Ange	G minor	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	A	Up M2	Bb major (III); G freygish (I)	5Ð17; 18Ð20	no	
-228	Ange	G major	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	-	-	C major (IV)	13Ð20	no	
-229	Ot azoy	G minor	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	D	Up P5	G freygish (I)	9Ð16	no	
-230	Lomir zikh iberbetn	G freygish	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	C minor (iv)	5Ð8	no	
+227	Ange	G minor	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	A	Up M2	Bb major (III); G freygish (I)	5ï¿½17; 18ï¿½20	no	
+228	Ange	G major	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	-	-	C major (IV)	13ï¿½20	no	
+229	Ot azoy	G minor	dance	"Gershfeld, G."	transcription	Violin	Tiraspol	1937	-	Kyiv	Berdichev	D	Up P5	G freygish (I)	9ï¿½16	no	
+230	Lomir zikh iberbetn	G freygish	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	C minor (iv)	5ï¿½8	no	
 231	Broyges-tants	G freygish	dance	"Mesman, V."	transcription	-	-	1912	-	Unknown	-	-	-		All freygish	yes	"Much of the tune can be heard as F raised fourth, until the G cadences. We treat F raised fourth as a pre-cadential gesture (here extended) within G fregyish. "
 232	Alter yidisher tants	G minor	dance	"Mesman, V."	transcription	-	-	1912	-	Unknown	-	-	-		All minor	yes	
 233	Shuster	G minor	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	D	Up P5		All minor	yes	
 234	Shuster	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	A	Up M2		All minor	yes	
 235	Kozatshke	G major	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	-	-		All major	yes	
-236	Kozatshke	G major	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	-	-	E minor (vi)	6Ð10	no	
-237	Kozatshke	G major	dance	"Slobodskoi, M."	recording	Clarinet	Kyiv	1936	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	E minor (vi)	18Ð25	no	
-238	Kozatshke	G minor	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	-	-	Bb major (III); G minor (i)	10Ð18	no	
+236	Kozatshke	G major	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	-	-	E minor (vi)	6ï¿½10	no	
+237	Kozatshke	G major	dance	"Slobodskoi, M."	recording	Clarinet	Kyiv	1936	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	E minor (vi)	18ï¿½25	no	
+238	Kozatshke	G minor	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	-	-	Bb major (III); G minor (i)	10ï¿½18	no	
 239	Kozatshke (yidishe)	G major	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	-	-		All major	yes	
 240	Bitshok	G major	dance	Knaifel	transcription	Bass	Vinnitsa	1937	-	Vinnitsa	-	-	-		All major	yes	
-241	Zhok	G freygish	dance	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	A	Up M2	F major (VII); G freygish (i)	19Ð27	no	
-242	Zhok	G freygish	dance	Knaifel	transcription	Bass	Vinnitsa	1937	-	Vinnitsa	-	-	-	C minor (iv); C raised fourth (iv); G freygish	10Ð15; 16Ð19	no	
-243	Zhok	G raised fourth	dance	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	A	Up M2	Bb major (III); G freygish (I)	17Ð28; 29Ð42	no	
-244	Zhok	G raised fourth	dance	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	D raised fourth (v); G raised fourth (i)	32Ð35	no	
-245	Zhok	G minor	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	D	Up P5	Bb major (III); G minor (i)	13Ð16	no	
-246	Zhok	G minor	dance	"Gulerman, Z."	recording	Flute	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	Bb major (III); G minor (i)	1Ð10	no	
-247	Olandre (lyondre)	G minor	dance	Knaifel	transcription	Bass	Vinnitsa	1937	-	Vinnitsa	-	A	Up M2	G raised fourth (i)	9Ð14	no	
-248	Olandre (lyondre)	G minor	dance	"Marshak, A."	recording	Voice	Odessa	1930	-	Various Cities and Towns	Odessa	-	-	Bb major (III); G minor (i)	1Ð8	no	
-249	Olandre (lyondre)	G minor	dance	"Gulerman, Z."	recording	Flute	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	Bb major (III); G minor (i)	1Ð8	no	
-250	Olandre (lyondre)	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	Bb	Up m3	F major (VII); G minor (i)	5Ð8	no	
-251	Volekh	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	G raised fourth (i)	5Ð8	no	
-252	Volekh	G minor	dance	"Komendant, M. G."	transcription	-	Kremenets	1885	-	Unknown	-	E or Eb	Down m/M3	G raised fourth (i); G major (I)	21Ð45; 46Ð61	no	
-253	Volekh	G major	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	G raised fourth (i)	18Ð25	no	
+241	Zhok	G freygish	dance	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	A	Up M2	F major (VII); G freygish (i)	19ï¿½27	no	
+242	Zhok	G freygish	dance	Knaifel	transcription	Bass	Vinnitsa	1937	-	Vinnitsa	-	-	-	C minor (iv); C raised fourth (iv); G freygish	10ï¿½15; 16ï¿½19	no	
+243	Zhok	G raised fourth	dance	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	A	Up M2	Bb major (III); G freygish (I)	17ï¿½28; 29ï¿½42	no	
+244	Zhok	G raised fourth	dance	"Sakhnovsky, B."	transcription	Violin	-	-	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	D raised fourth (v); G raised fourth (i)	32ï¿½35	no	
+245	Zhok	G minor	dance	"Makonovetsky, A. E. "	transcription (Makonovetsky)	Violin	Khabno	-	-	Kyiv	Khabno	D	Up P5	Bb major (III); G minor (i)	13ï¿½16	no	
+246	Zhok	G minor	dance	"Gulerman, Z."	recording	Flute	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	Bb major (III); G minor (i)	1ï¿½10	no	
+247	Olandre (lyondre)	G minor	dance	Knaifel	transcription	Bass	Vinnitsa	1937	-	Vinnitsa	-	A	Up M2	G raised fourth (i)	9ï¿½14	no	
+248	Olandre (lyondre)	G minor	dance	"Marshak, A."	recording	Voice	Odessa	1930	-	Various Cities and Towns	Odessa	-	-	Bb major (III); G minor (i)	1ï¿½8	no	
+249	Olandre (lyondre)	G minor	dance	"Gulerman, Z."	recording	Flute	Kyiv	1935	-	Kyiv	"Boguslav, Brusilov, Zvenigorodka, Korostyshev, Makarov, Uman', or Fastov"	-	-	Bb major (III); G minor (i)	1ï¿½8	no	
+250	Olandre (lyondre)	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	Bb	Up m3	F major (VII); G minor (i)	5ï¿½8	no	
+251	Volekh	G minor	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	G raised fourth (i)	5ï¿½8	no	
+252	Volekh	G minor	dance	"Komendant, M. G."	transcription	-	Kremenets	1885	-	Unknown	-	E or Eb	Down m/M3	G raised fourth (i); G major (I)	21ï¿½45; 46ï¿½61	no	
+253	Volekh	G major	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	-	-	G raised fourth (i)	18ï¿½25	no	
 254	Volekh	G raised fourth	dance	"Barkagan, G."	transcription	Clarinet	"Kalinindorf, Nikolaev"	-	-	Old Jewish Agricultural Colonies	Kalinindorf	D	Up P5		All raised fourth	yes	

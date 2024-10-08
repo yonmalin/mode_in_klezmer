@@ -15,7 +15,7 @@ library(tidyverse)
 freygish <- readHumdrum('corpus/extracts/freygish/*.krn')
 freygish |> 
     pitch(simple = FALSE) |>
-    humdrumR::tally() |> 
+    count()|> 
     as_tibble() |> 
     arrange(desc(n)) |>
     datatable(filter="top")
@@ -27,7 +27,7 @@ freygish |>
 raised <- readHumdrum('corpus/extracts/raised_four/*.krn')
 raised |> 
     pitch(simple = FALSE) |>
-    humdrumR::tally() |> 
+    count() |> 
     as_tibble() |> 
     arrange(desc(n)) |>
     datatable(filter="top")
@@ -41,7 +41,7 @@ major <- readHumdrum('corpus/extracts/major/*.krn')
 major <- major |> 
     pitch(simple = FALSE) 
 
-major |> humdrumR::tally() |> as_tibble() |> 
+major |> count() |> as_tibble() |> 
     arrange(desc(n)) |> 
     datatable(filter="top")
 ```
@@ -52,7 +52,7 @@ major |> humdrumR::tally() |> as_tibble() |>
 minor <- readHumdrum('corpus/extracts/minor/*.krn')
 minor |> 
     pitch(simple = FALSE) |>
-    humdrumR::tally() |> 
+    count() |> 
     as_tibble() |> 
     arrange(desc(n)) |>
     datatable(filter="top")
