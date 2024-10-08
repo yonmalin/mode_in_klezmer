@@ -30,7 +30,7 @@ bigram_table <- function(mode){
   
   y |> dplyr::count(bigram) |>
     arrange(desc(n)) |> 
-    mutate(proportion = signif(n / sum(n), digits=3)) |>
+    mutate(percentage = signif(n / sum(n) * 100, digits=3)) |>
     datatable()
   
   
