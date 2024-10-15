@@ -1,5 +1,6 @@
 ---
 title: Beregovkski's Metadata
+from: markdown-smart
 ---
 
 In order to search for specific items, use quotation marks. For example, searching for C major will give you anything that has both C and major, but searching for "C major" will return results that are explicitly in C major.
