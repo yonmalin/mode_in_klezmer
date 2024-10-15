@@ -1,6 +1,5 @@
 --- 
 title: Mode Analysis
-from: markdown-smart
 ---
 
 ```{r, echo=F, warnings=FALSE, message=FALSE}
