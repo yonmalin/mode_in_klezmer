@@ -33,8 +33,6 @@ bigram_table <- function(mode){
     mutate(percentage = signif(n / sum(n) * 100, digits=3)) |>
     datatable()
   
-  
-  
 }
 ```
 
@@ -106,6 +104,7 @@ bigram_bar <- function(mode){
 ```{r, freygish-bigram-table, echo=F, warnings=FALSE, message=FALSE}
 
 bigram_table(freygish)
+
 ```
 
 
