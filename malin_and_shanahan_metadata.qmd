@@ -1,5 +1,6 @@
 --- 
 title: Mode Analysis
+from: markdown-smart
 ---
 
 ```{r, echo=F, warnings=FALSE, message=FALSE}
@@ -11,6 +12,7 @@ df <- df |> clean_names()
 df <- df |>  select(c(tune, genre, mode, modulation_pathway, modulation_measures, one_mode, mode_notes))
 df |>          
     datatable(filter="top", rownames=FALSE)
+
 
 ## to-do
 ## make spacing of columns wider for the text.
