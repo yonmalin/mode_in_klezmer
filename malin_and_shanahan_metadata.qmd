@@ -8,12 +8,7 @@ library(DT)
 library(janitor)
 df <- read.csv("data/beregovski-metadata.tsv", sep="\t", header=TRUE)
 df <- df |> clean_names()
-df <- df |>  select(c(tune, genre, mode, modulation_pathway, modulation_measures, one_mode, mode_notes))
+df <- df |>  select(tune, genre, mode, modulation_pathway, modulation_measures, one_mode, mode_notes)
 df |>          
     datatable(filter="top", rownames=FALSE)
-
-
-## to-do
-## make spacing of columns wider for the text.
-
 ```

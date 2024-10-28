@@ -10,7 +10,7 @@ library(humdrumR)
 
 ### B-Flat Major
 
-```{r, b-flat-major-histogram, echo=F, warnings=FALSE, message=FALSE}
+```{r, b-flat-major-histogram, echo=F, warnings=FALSE, message=FALSE, eval=FALSE}
 major <- readHumdrum('corpus/extracts/major/b-flat/*.krn')
 major_1 <- major |> 
     pitch(simple = FALSE) |>
@@ -31,7 +31,7 @@ ggplot(major_1, aes(x=Pitch, y=n)) +
 
 And as a percentage:
 
-```{r, b-flat-major-percentage, echo=F, warnings=FALSE, message=FALSE}
+```{r, b-flat-major-percentage, echo=F, warnings=FALSE, message=FALSE, eval=FALSE}
 x <-  major |> 
     pitch(simple = FALSE) |>
     humdrumR::tally() 
@@ -53,7 +53,7 @@ ggplot(percentage, aes(x=Pitch, y=n)) +
 
 ### C Major
 
-```{r, c-major-histogram, echo=F, warnings=FALSE, message=FALSE}
+```{r, c-major-histogram, echo=F, warnings=FALSE, message=FALSE}, eval=FALSE
 major <- readHumdrum('corpus/extracts/major/c-major/*.krn')
 major_1 <- major |> 
     pitch(simple = FALSE) |>
@@ -73,7 +73,7 @@ ggplot(major_1, aes(x=Pitch, y=n)) +
 
 As a percentage:
 
-```{r, c-major-percentage, echo=F, warnings=FALSE, message=FALSE}
+```{r, c-major-percentage, echo=F, warnings=FALSE, message=FALSE, eval=FALSE}
 x <-  major |> 
     pitch(simple = FALSE) |>
     humdrumR::tally() 
@@ -95,7 +95,7 @@ ggplot(percentage, aes(x=Pitch, y=n)) +
 
 ### F Major
 
-```{r, f-major-histogram, echo=F, warnings=FALSE, message=FALSE}
+```{r, f-major-histogram, echo=F, warnings=FALSE, message=FALSE, eval=FALSE}
 major <- readHumdrum('corpus/extracts/major/f-major/*.krn')
 major_1 <- major |> 
     pitch(simple = FALSE) |>
@@ -115,7 +115,7 @@ ggplot(major_1, aes(x=Pitch, y=n)) +
 
 As a percentage:
 
-```{r, f-major-percentage, echo=F, warnings=FALSE, message=FALSE}
+```{r, f-major-percentage, echo=F, warnings=FALSE, message=FALSE, eval=FALSE}
 x <-  major |> 
     pitch(simple = FALSE) |>
     humdrumR::tally() 

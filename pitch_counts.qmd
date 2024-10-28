@@ -12,6 +12,10 @@ visualizations from the [pitch histogram page](pitch_histograms.qmd), or can be 
 library(DT)
 library(humdrumR)
 library(tidyverse)
+```
+
+
+```{r, echo=F, warning=FALSE, message=FALSE, eval=FALSE}
 freygish <- readHumdrum('corpus/extracts/freygish/*.krn')
 freygish |> 
     pitch(simple = FALSE) |>
