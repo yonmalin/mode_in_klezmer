@@ -252,47 +252,81 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 </header>
 
-<section id="pitch-histograms-in-freygish" class="level3">
-<h3 class="anchored" data-anchor-id="pitch-histograms-in-freygish">Pitch Histograms in Freygish</h3>
+<section id="freygish" class="level2">
+<h2 class="anchored" data-anchor-id="freygish">Freygish</h2>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">Observable</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">Bag of Notes</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false">Percentage</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-4-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-4" role="tab" aria-controls="tabset-1-4" aria-selected="false">Cumulative Duration</a></li></ul>
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">Count Data</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">Percentage</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false">Cumulative Duration</a></li></ul>
 <div class="tab-content">
 <div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
 <div class="cell">
-<div class="sourceCode cell-code" id="cb1" data-startfrom="73" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 72;"><span id="cb1-73"><a href="#cb1-73" aria-hidden="true" tabindex="-1"></a>data <span class="op">=</span> <span class="fu">FileAttachment</span>(<span class="st">"freygish_1.csv"</span>)<span class="op">.</span><span class="fu">csv</span>({<span class="dt">typed</span><span class="op">:</span> <span class="kw">true</span>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code hidden" id="cb1" data-startfrom="18" data-source-offset="-1"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 17;"><span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>data <span class="op">=</span> <span class="fu">FileAttachment</span>(<span class="st">"freygish_1.csv"</span>)<span class="op">.</span><span class="fu">csv</span>({<span class="dt">typed</span><span class="op">:</span> <span class="kw">true</span>})</span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>Plot<span class="op">.</span><span class="fu">plot</span>({</span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marginBottom</span><span class="op">:</span> <span class="dv">100</span><span class="op">,</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>  <span class="dt">y</span><span class="op">:</span> {<span class="dt">grid</span><span class="op">:</span> <span class="kw">true</span>}<span class="op">,</span></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>  <span class="dt">x</span><span class="op">:</span> {</span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>    <span class="dt">label</span><span class="op">:</span> <span class="kw">null</span><span class="op">,</span></span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>    <span class="dt">tickRotate</span><span class="op">:</span> <span class="dv">90</span><span class="op">,</span></span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>    <span class="dt">domain</span><span class="op">:</span> [</span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>       <span class="st">"G3"</span><span class="op">,</span><span class="st">"Ab3"</span><span class="op">,</span><span class="st">"A3"</span><span class="op">,</span><span class="st">"Bb3"</span><span class="op">,</span><span class="st">"B3"</span><span class="op">,</span><span class="st">"C4"</span><span class="op">,</span><span class="st">"C#4"</span><span class="op">,</span><span class="st">"D4"</span><span class="op">,</span><span class="st">"D#4"</span><span class="op">,</span> <span class="st">"Eb5"</span><span class="op">,</span>    </span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E4"</span><span class="op">,</span><span class="st">"F4"</span><span class="op">,</span><span class="st">"F#4"</span><span class="op">,</span><span class="st">"G4"</span><span class="op">,</span></span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"G#4"</span><span class="op">,</span> <span class="st">"A4"</span><span class="op">,</span> <span class="st">"A#4"</span><span class="op">,</span> <span class="st">"Bb4"</span><span class="op">,</span><span class="st">"B4"</span><span class="op">,</span></span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"C5"</span><span class="op">,</span><span class="st">"C#5"</span><span class="op">,</span><span class="st">"Db5"</span><span class="op">,</span> <span class="st">"D5"</span><span class="op">,</span><span class="st">"Eb5"</span><span class="op">,</span></span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E5"</span><span class="op">,</span><span class="st">"F5"</span><span class="op">,</span><span class="st">"F#5"</span><span class="op">,</span><span class="st">"Gb5"</span><span class="op">,</span><span class="st">"G5"</span><span class="op">,</span><span class="st">"G#5"</span><span class="op">,</span></span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"Ab5"</span><span class="op">,</span><span class="st">"A5"</span><span class="op">,</span> <span class="st">"A#5"</span><span class="op">,</span> <span class="st">"Bb5"</span><span class="op">,</span></span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"B5"</span><span class="op">,</span><span class="st">"C6"</span><span class="op">,</span> <span class="st">"C#6"</span><span class="op">,</span> <span class="st">"Db6"</span><span class="op">,</span><span class="st">"D6"</span>]</span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marks</span><span class="op">:</span> [</span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">barY</span>(data<span class="op">,</span></span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>        Plot<span class="op">.</span><span class="fu">groupX</span>(</span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">y</span><span class="op">:</span> <span class="st">"count"</span>}<span class="op">,</span> </span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">x</span><span class="op">:</span> <span class="st">"pitches"</span>}<span class="op">,</span></span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a>                               ))<span class="op">,</span></span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">ruleY</span>([<span class="dv">0</span>])<span class="op">,</span></span>
+<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a>  ]</span>
+<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
-<div id="ojs-cell-1" data-nodetype="declaration">
+<div>
+<div id="ojs-cell-1-1" data-nodetype="declaration">
 
 </div>
 </div>
 </div>
+<div class="cell-output cell-output-display">
+<div>
+<div id="ojs-cell-1-2" data-nodetype="expression">
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
 <div class="cell">
-<div class="sourceCode cell-code" id="cb2" data-startfrom="78" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 77;"><span id="cb2-78"><a href="#cb2-78" aria-hidden="true" tabindex="-1"></a>Plot<span class="op">.</span><span class="fu">plot</span>({</span>
-<span id="cb2-79"><a href="#cb2-79" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marginBottom</span><span class="op">:</span> <span class="dv">100</span><span class="op">,</span></span>
-<span id="cb2-80"><a href="#cb2-80" aria-hidden="true" tabindex="-1"></a>  <span class="dt">y</span><span class="op">:</span> {<span class="dt">grid</span><span class="op">:</span> <span class="kw">true</span>}<span class="op">,</span></span>
-<span id="cb2-81"><a href="#cb2-81" aria-hidden="true" tabindex="-1"></a>  <span class="dt">x</span><span class="op">:</span> {</span>
-<span id="cb2-82"><a href="#cb2-82" aria-hidden="true" tabindex="-1"></a>    <span class="dt">label</span><span class="op">:</span> <span class="kw">null</span><span class="op">,</span></span>
-<span id="cb2-83"><a href="#cb2-83" aria-hidden="true" tabindex="-1"></a>    <span class="dt">tickRotate</span><span class="op">:</span> <span class="dv">90</span><span class="op">,</span></span>
-<span id="cb2-84"><a href="#cb2-84" aria-hidden="true" tabindex="-1"></a>    <span class="dt">domain</span><span class="op">:</span> [</span>
-<span id="cb2-85"><a href="#cb2-85" aria-hidden="true" tabindex="-1"></a>       <span class="st">"C4"</span><span class="op">,</span><span class="st">"C#4"</span><span class="op">,</span><span class="st">"D4"</span><span class="op">,</span><span class="st">"D#4"</span><span class="op">,</span> <span class="st">"Eb5"</span><span class="op">,</span>    </span>
-<span id="cb2-86"><a href="#cb2-86" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E4"</span><span class="op">,</span><span class="st">"F4"</span><span class="op">,</span><span class="st">"F#4"</span><span class="op">,</span><span class="st">"G4"</span><span class="op">,</span></span>
-<span id="cb2-87"><a href="#cb2-87" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"G#4"</span><span class="op">,</span> <span class="st">"A4"</span><span class="op">,</span> <span class="st">"A#4"</span><span class="op">,</span> <span class="st">"Bb4"</span><span class="op">,</span><span class="st">"B4"</span><span class="op">,</span></span>
-<span id="cb2-88"><a href="#cb2-88" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"C5"</span><span class="op">,</span><span class="st">"C#5"</span><span class="op">,</span><span class="st">"Db5"</span><span class="op">,</span> <span class="st">"D5"</span><span class="op">,</span><span class="st">"Eb5"</span><span class="op">,</span></span>
-<span id="cb2-89"><a href="#cb2-89" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E5"</span><span class="op">,</span><span class="st">"F5"</span><span class="op">,</span><span class="st">"F#5"</span><span class="op">,</span><span class="st">"Gb5"</span><span class="op">,</span><span class="st">"G5"</span><span class="op">,</span><span class="st">"G#5"</span><span class="op">,</span></span>
-<span id="cb2-90"><a href="#cb2-90" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"Ab5"</span><span class="op">,</span><span class="st">"A5"</span><span class="op">,</span> <span class="st">"A#5"</span><span class="op">,</span> <span class="st">"Bb5"</span><span class="op">,</span></span>
-<span id="cb2-91"><a href="#cb2-91" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"B5"</span><span class="op">,</span><span class="st">"C6"</span><span class="op">,</span> <span class="st">"C#6"</span><span class="op">,</span> <span class="st">"Db6"</span><span class="op">,</span><span class="st">"D6"</span><span class="op">,</span> </span>
-<span id="cb2-92"><a href="#cb2-92" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"D#6"</span><span class="op">,</span><span class="st">"Eb6"</span><span class="op">,</span><span class="st">"E6"</span><span class="op">,</span><span class="st">"F6"</span><span class="op">,</span><span class="st">"F#6"</span><span class="op">,</span><span class="st">"Gb6"</span><span class="op">,</span><span class="st">"G6"</span>]</span>
-<span id="cb2-93"><a href="#cb2-93" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
-<span id="cb2-94"><a href="#cb2-94" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-95"><a href="#cb2-95" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marks</span><span class="op">:</span> [</span>
-<span id="cb2-96"><a href="#cb2-96" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">barY</span>(data<span class="op">,</span></span>
-<span id="cb2-97"><a href="#cb2-97" aria-hidden="true" tabindex="-1"></a>        Plot<span class="op">.</span><span class="fu">groupX</span>(</span>
-<span id="cb2-98"><a href="#cb2-98" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">y</span><span class="op">:</span> <span class="st">"count"</span>}<span class="op">,</span> </span>
-<span id="cb2-99"><a href="#cb2-99" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">x</span><span class="op">:</span> <span class="st">"pitches"</span>}<span class="op">,</span></span>
-<span id="cb2-100"><a href="#cb2-100" aria-hidden="true" tabindex="-1"></a>                               ))<span class="op">,</span></span>
-<span id="cb2-101"><a href="#cb2-101" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">ruleY</span>([<span class="dv">0</span>])<span class="op">,</span></span>
-<span id="cb2-102"><a href="#cb2-102" aria-hidden="true" tabindex="-1"></a>  ]</span>
-<span id="cb2-103"><a href="#cb2-103" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code hidden" id="cb2" data-startfrom="50" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 49;"><span id="cb2-50"><a href="#cb2-50" aria-hidden="true" tabindex="-1"></a>Plot<span class="op">.</span><span class="fu">plot</span>({</span>
+<span id="cb2-51"><a href="#cb2-51" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marginBottom</span><span class="op">:</span> <span class="dv">100</span><span class="op">,</span></span>
+<span id="cb2-52"><a href="#cb2-52" aria-hidden="true" tabindex="-1"></a>  <span class="dt">y</span><span class="op">:</span> {<span class="dt">grid</span><span class="op">:</span> <span class="kw">true</span>}<span class="op">,</span></span>
+<span id="cb2-53"><a href="#cb2-53" aria-hidden="true" tabindex="-1"></a>  <span class="dt">x</span><span class="op">:</span> {</span>
+<span id="cb2-54"><a href="#cb2-54" aria-hidden="true" tabindex="-1"></a>    <span class="dt">label</span><span class="op">:</span> <span class="kw">null</span><span class="op">,</span></span>
+<span id="cb2-55"><a href="#cb2-55" aria-hidden="true" tabindex="-1"></a>    <span class="dt">tickRotate</span><span class="op">:</span> <span class="dv">90</span><span class="op">,</span></span>
+<span id="cb2-56"><a href="#cb2-56" aria-hidden="true" tabindex="-1"></a>    <span class="dt">domain</span><span class="op">:</span> [</span>
+<span id="cb2-57"><a href="#cb2-57" aria-hidden="true" tabindex="-1"></a>       <span class="st">"G3"</span><span class="op">,</span><span class="st">"Ab3"</span><span class="op">,</span><span class="st">"A3"</span><span class="op">,</span><span class="st">"Bb3"</span><span class="op">,</span><span class="st">"B3"</span><span class="op">,</span><span class="st">"C4"</span><span class="op">,</span><span class="st">"C#4"</span><span class="op">,</span><span class="st">"D4"</span><span class="op">,</span><span class="st">"D#4"</span><span class="op">,</span> <span class="st">"Eb5"</span><span class="op">,</span>    </span>
+<span id="cb2-58"><a href="#cb2-58" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E4"</span><span class="op">,</span><span class="st">"F4"</span><span class="op">,</span><span class="st">"F#4"</span><span class="op">,</span><span class="st">"G4"</span><span class="op">,</span></span>
+<span id="cb2-59"><a href="#cb2-59" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"G#4"</span><span class="op">,</span> <span class="st">"A4"</span><span class="op">,</span> <span class="st">"A#4"</span><span class="op">,</span> <span class="st">"Bb4"</span><span class="op">,</span><span class="st">"B4"</span><span class="op">,</span></span>
+<span id="cb2-60"><a href="#cb2-60" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"C5"</span><span class="op">,</span><span class="st">"C#5"</span><span class="op">,</span><span class="st">"Db5"</span><span class="op">,</span> <span class="st">"D5"</span><span class="op">,</span><span class="st">"Eb5"</span><span class="op">,</span></span>
+<span id="cb2-61"><a href="#cb2-61" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E5"</span><span class="op">,</span><span class="st">"F5"</span><span class="op">,</span><span class="st">"F#5"</span><span class="op">,</span><span class="st">"Gb5"</span><span class="op">,</span><span class="st">"G5"</span><span class="op">,</span><span class="st">"G#5"</span><span class="op">,</span></span>
+<span id="cb2-62"><a href="#cb2-62" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"Ab5"</span><span class="op">,</span><span class="st">"A5"</span><span class="op">,</span> <span class="st">"A#5"</span><span class="op">,</span> <span class="st">"Bb5"</span><span class="op">,</span></span>
+<span id="cb2-63"><a href="#cb2-63" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"B5"</span><span class="op">,</span><span class="st">"C6"</span><span class="op">,</span> <span class="st">"C#6"</span><span class="op">,</span> <span class="st">"Db6"</span><span class="op">,</span><span class="st">"D6"</span>]</span>
+<span id="cb2-64"><a href="#cb2-64" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
+<span id="cb2-65"><a href="#cb2-65" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marks</span><span class="op">:</span> [</span>
+<span id="cb2-66"><a href="#cb2-66" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">barY</span>(data<span class="op">,</span> </span>
+<span id="cb2-67"><a href="#cb2-67" aria-hidden="true" tabindex="-1"></a>        Plot<span class="op">.</span><span class="fu">groupX</span>(</span>
+<span id="cb2-68"><a href="#cb2-68" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">y</span><span class="op">:</span> <span class="st">"proportion"</span>}<span class="op">,</span> </span>
+<span id="cb2-69"><a href="#cb2-69" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">x</span><span class="op">:</span> <span class="st">"pitches"</span>}<span class="op">,</span></span>
+<span id="cb2-70"><a href="#cb2-70" aria-hidden="true" tabindex="-1"></a>                               ))<span class="op">,</span></span>
+<span id="cb2-71"><a href="#cb2-71" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">ruleY</span>([<span class="dv">0</span>])<span class="op">,</span></span>
+<span id="cb2-72"><a href="#cb2-72" aria-hidden="true" tabindex="-1"></a>  ]</span>
+<span id="cb2-73"><a href="#cb2-73" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <div id="ojs-cell-2" data-nodetype="expression">
 
@@ -300,187 +334,406 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
 </div>
 </div>
-<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/unnamed-chunk-4-1.png" class="img-fluid" width="672"></p>
-</div>
-</div>
-</div>
 <div id="tabset-1-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-3-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/freygish-histograms-percentage-1.png" class="img-fluid" width="672"></p>
+<div class="cell">
+<div class="sourceCode cell-code hidden" id="cb3" data-startfrom="79" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 78;"><span id="cb3-79"><a href="#cb3-79" aria-hidden="true" tabindex="-1"></a>Plot<span class="op">.</span><span class="fu">plot</span>({</span>
+<span id="cb3-80"><a href="#cb3-80" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marginBottom</span><span class="op">:</span> <span class="dv">100</span><span class="op">,</span></span>
+<span id="cb3-81"><a href="#cb3-81" aria-hidden="true" tabindex="-1"></a>  <span class="dt">y</span><span class="op">:</span> {<span class="dt">grid</span><span class="op">:</span> <span class="kw">true</span>}<span class="op">,</span></span>
+<span id="cb3-82"><a href="#cb3-82" aria-hidden="true" tabindex="-1"></a>  <span class="dt">x</span><span class="op">:</span> {</span>
+<span id="cb3-83"><a href="#cb3-83" aria-hidden="true" tabindex="-1"></a>    <span class="dt">label</span><span class="op">:</span> <span class="kw">null</span><span class="op">,</span></span>
+<span id="cb3-84"><a href="#cb3-84" aria-hidden="true" tabindex="-1"></a>    <span class="dt">tickRotate</span><span class="op">:</span> <span class="dv">90</span><span class="op">,</span></span>
+<span id="cb3-85"><a href="#cb3-85" aria-hidden="true" tabindex="-1"></a>    <span class="dt">domain</span><span class="op">:</span> [</span>
+<span id="cb3-86"><a href="#cb3-86" aria-hidden="true" tabindex="-1"></a>       <span class="st">"G3"</span><span class="op">,</span><span class="st">"Ab3"</span><span class="op">,</span><span class="st">"A3"</span><span class="op">,</span><span class="st">"Bb3"</span><span class="op">,</span><span class="st">"B3"</span><span class="op">,</span><span class="st">"C4"</span><span class="op">,</span><span class="st">"C#4"</span><span class="op">,</span><span class="st">"D4"</span><span class="op">,</span><span class="st">"D#4"</span><span class="op">,</span> <span class="st">"Eb5"</span><span class="op">,</span>    </span>
+<span id="cb3-87"><a href="#cb3-87" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E4"</span><span class="op">,</span><span class="st">"F4"</span><span class="op">,</span><span class="st">"F#4"</span><span class="op">,</span><span class="st">"G4"</span><span class="op">,</span></span>
+<span id="cb3-88"><a href="#cb3-88" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"G#4"</span><span class="op">,</span> <span class="st">"A4"</span><span class="op">,</span> <span class="st">"A#4"</span><span class="op">,</span> <span class="st">"Bb4"</span><span class="op">,</span><span class="st">"B4"</span><span class="op">,</span></span>
+<span id="cb3-89"><a href="#cb3-89" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"C5"</span><span class="op">,</span><span class="st">"C#5"</span><span class="op">,</span><span class="st">"Db5"</span><span class="op">,</span> <span class="st">"D5"</span><span class="op">,</span><span class="st">"Eb5"</span><span class="op">,</span></span>
+<span id="cb3-90"><a href="#cb3-90" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E5"</span><span class="op">,</span><span class="st">"F5"</span><span class="op">,</span><span class="st">"F#5"</span><span class="op">,</span><span class="st">"Gb5"</span><span class="op">,</span><span class="st">"G5"</span><span class="op">,</span><span class="st">"G#5"</span><span class="op">,</span></span>
+<span id="cb3-91"><a href="#cb3-91" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"Ab5"</span><span class="op">,</span><span class="st">"A5"</span><span class="op">,</span> <span class="st">"A#5"</span><span class="op">,</span> <span class="st">"Bb5"</span><span class="op">,</span></span>
+<span id="cb3-92"><a href="#cb3-92" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"B5"</span><span class="op">,</span><span class="st">"C6"</span><span class="op">,</span> <span class="st">"C#6"</span><span class="op">,</span> <span class="st">"Db6"</span><span class="op">,</span><span class="st">"D6"</span>]</span>
+<span id="cb3-93"><a href="#cb3-93" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
+<span id="cb3-94"><a href="#cb3-94" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marks</span><span class="op">:</span> [</span>
+<span id="cb3-95"><a href="#cb3-95" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">barY</span>(data<span class="op">,</span> </span>
+<span id="cb3-96"><a href="#cb3-96" aria-hidden="true" tabindex="-1"></a>        Plot<span class="op">.</span><span class="fu">groupX</span>(</span>
+<span id="cb3-97"><a href="#cb3-97" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">y</span><span class="op">:</span> <span class="st">"sum"</span>}<span class="op">,</span> </span>
+<span id="cb3-98"><a href="#cb3-98" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">x</span><span class="op">:</span> <span class="st">"pitches"</span><span class="op">,</span> <span class="dt">y</span><span class="op">:</span> <span class="st">"durations"</span>}<span class="op">,</span></span>
+<span id="cb3-99"><a href="#cb3-99" aria-hidden="true" tabindex="-1"></a>                               ))<span class="op">,</span></span>
+<span id="cb3-100"><a href="#cb3-100" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">ruleY</span>([<span class="dv">0</span>])<span class="op">,</span></span>
+<span id="cb3-101"><a href="#cb3-101" aria-hidden="true" tabindex="-1"></a>  ]</span>
+<span id="cb3-102"><a href="#cb3-102" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<div id="ojs-cell-3" data-nodetype="expression">
+
 </div>
 </div>
 </div>
-<div id="tabset-1-4" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-4-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/unnamed-chunk-5-1.png" class="img-fluid" width="672"></p>
 </div>
 </div>
 </div>
-</div>
-</div>
+<p>Data can be found <a href="freygish_1.csv">here</a></p>
 </section>
-<section id="pitch-histograms-for-the-raised-fourth-mode." class="level3">
-<h3 class="anchored" data-anchor-id="pitch-histograms-for-the-raised-fourth-mode.">Pitch Histograms for the Raised Fourth Mode.</h3>
+<section id="major" class="level2">
+<h2 class="anchored" data-anchor-id="major">Major</h2>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" role="tab" aria-controls="tabset-2-1" aria-selected="true">Bag of Notes</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" role="tab" aria-controls="tabset-2-2" aria-selected="false">Percentage</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-3" role="tab" aria-controls="tabset-2-3" aria-selected="false">Cumulative Duration</a></li></ul>
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" role="tab" aria-controls="tabset-2-1" aria-selected="true">Count Data</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" role="tab" aria-controls="tabset-2-2" aria-selected="false">Percentage</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-3" role="tab" aria-controls="tabset-2-3" aria-selected="false">Cumulative Duration</a></li></ul>
 <div class="tab-content">
 <div id="tabset-2-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-2-1-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/raised_fourth_bag-1.png" class="img-fluid" width="672"></p>
+<div class="cell">
+<div class="sourceCode cell-code hidden" id="cb4" data-startfrom="119" data-source-offset="-1"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 118;"><span id="cb4-119"><a href="#cb4-119" aria-hidden="true" tabindex="-1"></a>major_data <span class="op">=</span> <span class="fu">FileAttachment</span>(<span class="st">"major_1.csv"</span>)<span class="op">.</span><span class="fu">csv</span>({<span class="dt">typed</span><span class="op">:</span> <span class="kw">true</span>})</span>
+<span id="cb4-120"><a href="#cb4-120" aria-hidden="true" tabindex="-1"></a>Plot<span class="op">.</span><span class="fu">plot</span>({</span>
+<span id="cb4-121"><a href="#cb4-121" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marginBottom</span><span class="op">:</span> <span class="dv">100</span><span class="op">,</span></span>
+<span id="cb4-122"><a href="#cb4-122" aria-hidden="true" tabindex="-1"></a>  <span class="dt">y</span><span class="op">:</span> {<span class="dt">grid</span><span class="op">:</span> <span class="kw">true</span>}<span class="op">,</span></span>
+<span id="cb4-123"><a href="#cb4-123" aria-hidden="true" tabindex="-1"></a>  <span class="dt">x</span><span class="op">:</span> {</span>
+<span id="cb4-124"><a href="#cb4-124" aria-hidden="true" tabindex="-1"></a>    <span class="dt">label</span><span class="op">:</span> <span class="kw">null</span><span class="op">,</span></span>
+<span id="cb4-125"><a href="#cb4-125" aria-hidden="true" tabindex="-1"></a>    <span class="dt">tickRotate</span><span class="op">:</span> <span class="dv">90</span><span class="op">,</span></span>
+<span id="cb4-126"><a href="#cb4-126" aria-hidden="true" tabindex="-1"></a>    <span class="dt">domain</span><span class="op">:</span> [</span>
+<span id="cb4-127"><a href="#cb4-127" aria-hidden="true" tabindex="-1"></a>       <span class="st">"G3"</span><span class="op">,</span><span class="st">"Ab3"</span><span class="op">,</span><span class="st">"A3"</span><span class="op">,</span><span class="st">"Bb3"</span><span class="op">,</span><span class="st">"B3"</span><span class="op">,</span><span class="st">"C4"</span><span class="op">,</span><span class="st">"C#4"</span><span class="op">,</span><span class="st">"D4"</span><span class="op">,</span><span class="st">"D#4"</span><span class="op">,</span> <span class="st">"Eb5"</span><span class="op">,</span>    </span>
+<span id="cb4-128"><a href="#cb4-128" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E4"</span><span class="op">,</span><span class="st">"F4"</span><span class="op">,</span><span class="st">"F#4"</span><span class="op">,</span><span class="st">"G4"</span><span class="op">,</span></span>
+<span id="cb4-129"><a href="#cb4-129" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"G#4"</span><span class="op">,</span> <span class="st">"A4"</span><span class="op">,</span> <span class="st">"A#4"</span><span class="op">,</span> <span class="st">"Bb4"</span><span class="op">,</span><span class="st">"B4"</span><span class="op">,</span></span>
+<span id="cb4-130"><a href="#cb4-130" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"C5"</span><span class="op">,</span><span class="st">"C#5"</span><span class="op">,</span><span class="st">"Db5"</span><span class="op">,</span> <span class="st">"D5"</span><span class="op">,</span><span class="st">"Eb5"</span><span class="op">,</span></span>
+<span id="cb4-131"><a href="#cb4-131" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E5"</span><span class="op">,</span><span class="st">"F5"</span><span class="op">,</span><span class="st">"F#5"</span><span class="op">,</span><span class="st">"Gb5"</span><span class="op">,</span><span class="st">"G5"</span><span class="op">,</span><span class="st">"G#5"</span><span class="op">,</span></span>
+<span id="cb4-132"><a href="#cb4-132" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"Ab5"</span><span class="op">,</span><span class="st">"A5"</span><span class="op">,</span> <span class="st">"A#5"</span><span class="op">,</span> <span class="st">"Bb5"</span><span class="op">,</span></span>
+<span id="cb4-133"><a href="#cb4-133" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"B5"</span><span class="op">,</span><span class="st">"C6"</span><span class="op">,</span> <span class="st">"C#6"</span><span class="op">,</span> <span class="st">"Db6"</span><span class="op">,</span><span class="st">"D6"</span>]</span>
+<span id="cb4-134"><a href="#cb4-134" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
+<span id="cb4-135"><a href="#cb4-135" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-136"><a href="#cb4-136" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marks</span><span class="op">:</span> [</span>
+<span id="cb4-137"><a href="#cb4-137" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">barY</span>(major_data<span class="op">,</span></span>
+<span id="cb4-138"><a href="#cb4-138" aria-hidden="true" tabindex="-1"></a>        Plot<span class="op">.</span><span class="fu">groupX</span>(</span>
+<span id="cb4-139"><a href="#cb4-139" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">y</span><span class="op">:</span> <span class="st">"count"</span>}<span class="op">,</span> </span>
+<span id="cb4-140"><a href="#cb4-140" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">x</span><span class="op">:</span> <span class="st">"pitches"</span>}<span class="op">,</span></span>
+<span id="cb4-141"><a href="#cb4-141" aria-hidden="true" tabindex="-1"></a>                               ))<span class="op">,</span></span>
+<span id="cb4-142"><a href="#cb4-142" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">ruleY</span>([<span class="dv">0</span>])<span class="op">,</span></span>
+<span id="cb4-143"><a href="#cb4-143" aria-hidden="true" tabindex="-1"></a>  ]</span>
+<span id="cb4-144"><a href="#cb4-144" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<div>
+<div id="ojs-cell-4-1" data-nodetype="declaration">
+
+</div>
+</div>
+</div>
+<div class="cell-output cell-output-display">
+<div>
+<div id="ojs-cell-4-2" data-nodetype="expression">
+
+</div>
+</div>
 </div>
 </div>
 </div>
 <div id="tabset-2-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-2-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/raised_four-histograms-percentage-1.png" class="img-fluid" width="672"></p>
+<div class="cell">
+<div class="sourceCode cell-code hidden" id="cb5" data-startfrom="151" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 150;"><span id="cb5-151"><a href="#cb5-151" aria-hidden="true" tabindex="-1"></a>Plot<span class="op">.</span><span class="fu">plot</span>({</span>
+<span id="cb5-152"><a href="#cb5-152" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marginBottom</span><span class="op">:</span> <span class="dv">100</span><span class="op">,</span></span>
+<span id="cb5-153"><a href="#cb5-153" aria-hidden="true" tabindex="-1"></a>  <span class="dt">y</span><span class="op">:</span> {<span class="dt">grid</span><span class="op">:</span> <span class="kw">true</span>}<span class="op">,</span></span>
+<span id="cb5-154"><a href="#cb5-154" aria-hidden="true" tabindex="-1"></a>  <span class="dt">x</span><span class="op">:</span> {</span>
+<span id="cb5-155"><a href="#cb5-155" aria-hidden="true" tabindex="-1"></a>    <span class="dt">label</span><span class="op">:</span> <span class="kw">null</span><span class="op">,</span></span>
+<span id="cb5-156"><a href="#cb5-156" aria-hidden="true" tabindex="-1"></a>    <span class="dt">tickRotate</span><span class="op">:</span> <span class="dv">90</span><span class="op">,</span></span>
+<span id="cb5-157"><a href="#cb5-157" aria-hidden="true" tabindex="-1"></a>    <span class="dt">domain</span><span class="op">:</span> [</span>
+<span id="cb5-158"><a href="#cb5-158" aria-hidden="true" tabindex="-1"></a>       <span class="st">"G3"</span><span class="op">,</span><span class="st">"Ab3"</span><span class="op">,</span><span class="st">"A3"</span><span class="op">,</span><span class="st">"Bb3"</span><span class="op">,</span><span class="st">"B3"</span><span class="op">,</span><span class="st">"C4"</span><span class="op">,</span><span class="st">"C#4"</span><span class="op">,</span><span class="st">"D4"</span><span class="op">,</span><span class="st">"D#4"</span><span class="op">,</span> <span class="st">"Eb5"</span><span class="op">,</span>    </span>
+<span id="cb5-159"><a href="#cb5-159" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E4"</span><span class="op">,</span><span class="st">"F4"</span><span class="op">,</span><span class="st">"F#4"</span><span class="op">,</span><span class="st">"G4"</span><span class="op">,</span></span>
+<span id="cb5-160"><a href="#cb5-160" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"G#4"</span><span class="op">,</span> <span class="st">"A4"</span><span class="op">,</span> <span class="st">"A#4"</span><span class="op">,</span> <span class="st">"Bb4"</span><span class="op">,</span><span class="st">"B4"</span><span class="op">,</span></span>
+<span id="cb5-161"><a href="#cb5-161" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"C5"</span><span class="op">,</span><span class="st">"C#5"</span><span class="op">,</span><span class="st">"Db5"</span><span class="op">,</span> <span class="st">"D5"</span><span class="op">,</span><span class="st">"Eb5"</span><span class="op">,</span></span>
+<span id="cb5-162"><a href="#cb5-162" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E5"</span><span class="op">,</span><span class="st">"F5"</span><span class="op">,</span><span class="st">"F#5"</span><span class="op">,</span><span class="st">"Gb5"</span><span class="op">,</span><span class="st">"G5"</span><span class="op">,</span><span class="st">"G#5"</span><span class="op">,</span></span>
+<span id="cb5-163"><a href="#cb5-163" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"Ab5"</span><span class="op">,</span><span class="st">"A5"</span><span class="op">,</span> <span class="st">"A#5"</span><span class="op">,</span> <span class="st">"Bb5"</span><span class="op">,</span></span>
+<span id="cb5-164"><a href="#cb5-164" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"B5"</span><span class="op">,</span><span class="st">"C6"</span><span class="op">,</span> <span class="st">"C#6"</span><span class="op">,</span> <span class="st">"Db6"</span><span class="op">,</span><span class="st">"D6"</span>]</span>
+<span id="cb5-165"><a href="#cb5-165" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
+<span id="cb5-166"><a href="#cb5-166" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marks</span><span class="op">:</span> [</span>
+<span id="cb5-167"><a href="#cb5-167" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">barY</span>(major_data<span class="op">,</span> </span>
+<span id="cb5-168"><a href="#cb5-168" aria-hidden="true" tabindex="-1"></a>        Plot<span class="op">.</span><span class="fu">groupX</span>(</span>
+<span id="cb5-169"><a href="#cb5-169" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">y</span><span class="op">:</span> <span class="st">"proportion"</span>}<span class="op">,</span> </span>
+<span id="cb5-170"><a href="#cb5-170" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">x</span><span class="op">:</span> <span class="st">"pitches"</span>}<span class="op">,</span></span>
+<span id="cb5-171"><a href="#cb5-171" aria-hidden="true" tabindex="-1"></a>                               ))<span class="op">,</span></span>
+<span id="cb5-172"><a href="#cb5-172" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">ruleY</span>([<span class="dv">0</span>])<span class="op">,</span></span>
+<span id="cb5-173"><a href="#cb5-173" aria-hidden="true" tabindex="-1"></a>  ]</span>
+<span id="cb5-174"><a href="#cb5-174" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<div id="ojs-cell-5" data-nodetype="expression">
+
+</div>
 </div>
 </div>
 </div>
 <div id="tabset-2-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-3-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/raised_four_duration-1.png" class="img-fluid" width="672"></p>
+<div class="cell">
+<div class="sourceCode cell-code hidden" id="cb6" data-startfrom="180" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 179;"><span id="cb6-180"><a href="#cb6-180" aria-hidden="true" tabindex="-1"></a>Plot<span class="op">.</span><span class="fu">plot</span>({</span>
+<span id="cb6-181"><a href="#cb6-181" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marginBottom</span><span class="op">:</span> <span class="dv">100</span><span class="op">,</span></span>
+<span id="cb6-182"><a href="#cb6-182" aria-hidden="true" tabindex="-1"></a>  <span class="dt">y</span><span class="op">:</span> {<span class="dt">grid</span><span class="op">:</span> <span class="kw">true</span>}<span class="op">,</span></span>
+<span id="cb6-183"><a href="#cb6-183" aria-hidden="true" tabindex="-1"></a>  <span class="dt">x</span><span class="op">:</span> {</span>
+<span id="cb6-184"><a href="#cb6-184" aria-hidden="true" tabindex="-1"></a>    <span class="dt">label</span><span class="op">:</span> <span class="kw">null</span><span class="op">,</span></span>
+<span id="cb6-185"><a href="#cb6-185" aria-hidden="true" tabindex="-1"></a>    <span class="dt">tickRotate</span><span class="op">:</span> <span class="dv">90</span><span class="op">,</span></span>
+<span id="cb6-186"><a href="#cb6-186" aria-hidden="true" tabindex="-1"></a>    <span class="dt">domain</span><span class="op">:</span> [</span>
+<span id="cb6-187"><a href="#cb6-187" aria-hidden="true" tabindex="-1"></a>       <span class="st">"G3"</span><span class="op">,</span><span class="st">"Ab3"</span><span class="op">,</span><span class="st">"A3"</span><span class="op">,</span><span class="st">"Bb3"</span><span class="op">,</span><span class="st">"B3"</span><span class="op">,</span><span class="st">"C4"</span><span class="op">,</span><span class="st">"C#4"</span><span class="op">,</span><span class="st">"D4"</span><span class="op">,</span><span class="st">"D#4"</span><span class="op">,</span> <span class="st">"Eb5"</span><span class="op">,</span>    </span>
+<span id="cb6-188"><a href="#cb6-188" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E4"</span><span class="op">,</span><span class="st">"F4"</span><span class="op">,</span><span class="st">"F#4"</span><span class="op">,</span><span class="st">"G4"</span><span class="op">,</span></span>
+<span id="cb6-189"><a href="#cb6-189" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"G#4"</span><span class="op">,</span> <span class="st">"A4"</span><span class="op">,</span> <span class="st">"A#4"</span><span class="op">,</span> <span class="st">"Bb4"</span><span class="op">,</span><span class="st">"B4"</span><span class="op">,</span></span>
+<span id="cb6-190"><a href="#cb6-190" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"C5"</span><span class="op">,</span><span class="st">"C#5"</span><span class="op">,</span><span class="st">"Db5"</span><span class="op">,</span> <span class="st">"D5"</span><span class="op">,</span><span class="st">"Eb5"</span><span class="op">,</span></span>
+<span id="cb6-191"><a href="#cb6-191" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E5"</span><span class="op">,</span><span class="st">"F5"</span><span class="op">,</span><span class="st">"F#5"</span><span class="op">,</span><span class="st">"Gb5"</span><span class="op">,</span><span class="st">"G5"</span><span class="op">,</span><span class="st">"G#5"</span><span class="op">,</span></span>
+<span id="cb6-192"><a href="#cb6-192" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"Ab5"</span><span class="op">,</span><span class="st">"A5"</span><span class="op">,</span> <span class="st">"A#5"</span><span class="op">,</span> <span class="st">"Bb5"</span><span class="op">,</span></span>
+<span id="cb6-193"><a href="#cb6-193" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"B5"</span><span class="op">,</span><span class="st">"C6"</span><span class="op">,</span> <span class="st">"C#6"</span><span class="op">,</span> <span class="st">"Db6"</span><span class="op">,</span><span class="st">"D6"</span>]</span>
+<span id="cb6-194"><a href="#cb6-194" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
+<span id="cb6-195"><a href="#cb6-195" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marks</span><span class="op">:</span> [</span>
+<span id="cb6-196"><a href="#cb6-196" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">barY</span>(major_data<span class="op">,</span> </span>
+<span id="cb6-197"><a href="#cb6-197" aria-hidden="true" tabindex="-1"></a>        Plot<span class="op">.</span><span class="fu">groupX</span>(</span>
+<span id="cb6-198"><a href="#cb6-198" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">y</span><span class="op">:</span> <span class="st">"sum"</span>}<span class="op">,</span> </span>
+<span id="cb6-199"><a href="#cb6-199" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">x</span><span class="op">:</span> <span class="st">"pitches"</span><span class="op">,</span> <span class="dt">y</span><span class="op">:</span> <span class="st">"durations"</span>}<span class="op">,</span></span>
+<span id="cb6-200"><a href="#cb6-200" aria-hidden="true" tabindex="-1"></a>                               ))<span class="op">,</span></span>
+<span id="cb6-201"><a href="#cb6-201" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">ruleY</span>([<span class="dv">0</span>])<span class="op">,</span></span>
+<span id="cb6-202"><a href="#cb6-202" aria-hidden="true" tabindex="-1"></a> ]</span>
+<span id="cb6-203"><a href="#cb6-203" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<div id="ojs-cell-6" data-nodetype="expression">
+
 </div>
 </div>
 </div>
 </div>
 </div>
-</section>
-<section id="pitch-histograms-for-the-major-mode." class="level3">
-<h3 class="anchored" data-anchor-id="pitch-histograms-for-the-major-mode.">Pitch histograms for the Major mode.</h3>
-<div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-3-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-1" role="tab" aria-controls="tabset-3-1" aria-selected="true">Bag of Notes</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-3-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-2" role="tab" aria-controls="tabset-3-2" aria-selected="false">Percentage</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-3-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-3" role="tab" aria-controls="tabset-3-3" aria-selected="false">Cumulative Duration</a></li></ul>
-<div class="tab-content">
-<div id="tabset-3-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-3-1-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/unnamed-chunk-6-1.png" class="img-fluid" width="672"></p>
 </div>
-</div>
-</div>
-<div id="tabset-3-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-3-2-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/major-histograms-percentage1-1.png" class="img-fluid" width="672"></p>
-</div>
-</div>
-</div>
-<div id="tabset-3-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-3-3-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/major-cumulative-1.png" class="img-fluid" width="672"></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<p>Looking at this as a percentage of total pitches might be more useful. The numbers on the y-axis represent the percentage of pitches used in a given mode.</p>
-<p>Note: Other major keys can be found <a href="./other_major_keys.html">here</a>.</p>
-</section>
-<section id="pitch-histograms-for-the-minor-mode." class="level3">
-<h3 class="anchored" data-anchor-id="pitch-histograms-for-the-minor-mode.">Pitch histograms for the minor mode.</h3>
-<div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-4-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-1" role="tab" aria-controls="tabset-4-1" aria-selected="true">Bag of Notes</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-2" role="tab" aria-controls="tabset-4-2" aria-selected="false">Percentage</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-3" role="tab" aria-controls="tabset-4-3" aria-selected="false">Cumulative Duration</a></li></ul>
-<div class="tab-content">
-<div id="tabset-4-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-4-1-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/minor-bag-of-notes2-1.png" class="img-fluid" width="672"></p>
-</div>
-</div>
-</div>
-<div id="tabset-4-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-4-2-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/minor-histograms-percentage-1.png" class="img-fluid" width="672"></p>
-</div>
-</div>
-</div>
-<div id="tabset-4-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-4-3-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/minor-cumulative-1.png" class="img-fluid" width="672"></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section id="the-meertens-tune-collection-of-dutch-folksongs" class="level1">
-<h1>The Meertens Tune Collection of Dutch Folksongs</h1>
-<p>For comparison, here we have the pitch distributions of the major and minor modes from the Meertens Tune Collection of Dutch Folksongs.</p>
-<section id="major" class="level2">
-<h2 class="anchored" data-anchor-id="major">Major</h2>
-<div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-5-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-5-1" role="tab" aria-controls="tabset-5-1" aria-selected="true">Bag of Notes</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-5-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-5-2" role="tab" aria-controls="tabset-5-2" aria-selected="false">Percentage</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-5-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-5-3" role="tab" aria-controls="tabset-5-3" aria-selected="false">Cumulative Duration</a></li></ul>
-<div class="tab-content">
-<div id="tabset-5-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-5-1-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/meertens-major-bag-of-notes-1.png" class="img-fluid" width="672"></p>
-</div>
-</div>
-</div>
-<div id="tabset-5-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-5-2-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/major-histograms-percentage-1.png" class="img-fluid" width="672"></p>
-</div>
-</div>
-</div>
-<div id="tabset-5-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-5-3-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/meertens-major-cumulative2-1.png" class="img-fluid" width="672"></p>
-</div>
-</div>
-</div>
-</div>
-</div>
+<p>Data can be found <a href="major_1.csv">here</a></p>
 </section>
 <section id="minor" class="level2">
 <h2 class="anchored" data-anchor-id="minor">Minor</h2>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-6-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-6-1" role="tab" aria-controls="tabset-6-1" aria-selected="true">Bag of Notes</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-6-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-6-2" role="tab" aria-controls="tabset-6-2" aria-selected="false">Percentage</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-6-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-6-3" role="tab" aria-controls="tabset-6-3" aria-selected="false">Cumulative Duration</a></li></ul>
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-3-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-1" role="tab" aria-controls="tabset-3-1" aria-selected="true">Count Data</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-3-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-2" role="tab" aria-controls="tabset-3-2" aria-selected="false">Percentage</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-3-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-3" role="tab" aria-controls="tabset-3-3" aria-selected="false">Cumulative Duration</a></li></ul>
 <div class="tab-content">
-<div id="tabset-6-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-6-1-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/minor-bag-of-notes-1.png" class="img-fluid" width="672"></p>
-</div>
-</div>
-</div>
-<div id="tabset-6-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-6-2-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/meertens-minor-histograms-percentage-1.png" class="img-fluid" width="672"></p>
-</div>
-</div>
-</div>
-<div id="tabset-6-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-6-3-tab">
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="pitch_histograms_files/figure-html/meertens-minor-cumulative-1.png" class="img-fluid" width="672"></p>
-</div>
-</div>
-</div>
-</div>
-</div>
+<div id="tabset-3-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-3-1-tab">
+<div class="cell">
+<div class="sourceCode cell-code hidden" id="cb7" data-startfrom="218" data-source-offset="-1"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 217;"><span id="cb7-218"><a href="#cb7-218" aria-hidden="true" tabindex="-1"></a>minor_data <span class="op">=</span> <span class="fu">FileAttachment</span>(<span class="st">"minor.csv"</span>)<span class="op">.</span><span class="fu">csv</span>({<span class="dt">typed</span><span class="op">:</span> <span class="kw">true</span>})</span>
+<span id="cb7-219"><a href="#cb7-219" aria-hidden="true" tabindex="-1"></a>Plot<span class="op">.</span><span class="fu">plot</span>({</span>
+<span id="cb7-220"><a href="#cb7-220" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marginBottom</span><span class="op">:</span> <span class="dv">100</span><span class="op">,</span></span>
+<span id="cb7-221"><a href="#cb7-221" aria-hidden="true" tabindex="-1"></a>  <span class="dt">y</span><span class="op">:</span> {<span class="dt">grid</span><span class="op">:</span> <span class="kw">true</span>}<span class="op">,</span></span>
+<span id="cb7-222"><a href="#cb7-222" aria-hidden="true" tabindex="-1"></a>  <span class="dt">x</span><span class="op">:</span> {</span>
+<span id="cb7-223"><a href="#cb7-223" aria-hidden="true" tabindex="-1"></a>    <span class="dt">label</span><span class="op">:</span> <span class="kw">null</span><span class="op">,</span></span>
+<span id="cb7-224"><a href="#cb7-224" aria-hidden="true" tabindex="-1"></a>    <span class="dt">tickRotate</span><span class="op">:</span> <span class="dv">90</span><span class="op">,</span></span>
+<span id="cb7-225"><a href="#cb7-225" aria-hidden="true" tabindex="-1"></a>    <span class="dt">domain</span><span class="op">:</span> [</span>
+<span id="cb7-226"><a href="#cb7-226" aria-hidden="true" tabindex="-1"></a>       <span class="st">"G3"</span><span class="op">,</span><span class="st">"Ab3"</span><span class="op">,</span><span class="st">"A3"</span><span class="op">,</span><span class="st">"Bb3"</span><span class="op">,</span><span class="st">"B3"</span><span class="op">,</span><span class="st">"C4"</span><span class="op">,</span><span class="st">"C#4"</span><span class="op">,</span><span class="st">"D4"</span><span class="op">,</span><span class="st">"D#4"</span><span class="op">,</span> <span class="st">"Eb5"</span><span class="op">,</span>    </span>
+<span id="cb7-227"><a href="#cb7-227" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E4"</span><span class="op">,</span><span class="st">"F4"</span><span class="op">,</span><span class="st">"F#4"</span><span class="op">,</span><span class="st">"G4"</span><span class="op">,</span></span>
+<span id="cb7-228"><a href="#cb7-228" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"G#4"</span><span class="op">,</span> <span class="st">"A4"</span><span class="op">,</span> <span class="st">"A#4"</span><span class="op">,</span> <span class="st">"Bb4"</span><span class="op">,</span><span class="st">"B4"</span><span class="op">,</span></span>
+<span id="cb7-229"><a href="#cb7-229" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"C5"</span><span class="op">,</span><span class="st">"C#5"</span><span class="op">,</span><span class="st">"Db5"</span><span class="op">,</span> <span class="st">"D5"</span><span class="op">,</span><span class="st">"Eb5"</span><span class="op">,</span></span>
+<span id="cb7-230"><a href="#cb7-230" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E5"</span><span class="op">,</span><span class="st">"F5"</span><span class="op">,</span><span class="st">"F#5"</span><span class="op">,</span><span class="st">"Gb5"</span><span class="op">,</span><span class="st">"G5"</span><span class="op">,</span><span class="st">"G#5"</span><span class="op">,</span></span>
+<span id="cb7-231"><a href="#cb7-231" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"Ab5"</span><span class="op">,</span><span class="st">"A5"</span><span class="op">,</span> <span class="st">"A#5"</span><span class="op">,</span> <span class="st">"Bb5"</span><span class="op">,</span></span>
+<span id="cb7-232"><a href="#cb7-232" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"B5"</span><span class="op">,</span><span class="st">"C6"</span><span class="op">,</span> <span class="st">"C#6"</span><span class="op">,</span> <span class="st">"Db6"</span><span class="op">,</span><span class="st">"D6"</span>]</span>
+<span id="cb7-233"><a href="#cb7-233" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
+<span id="cb7-234"><a href="#cb7-234" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-235"><a href="#cb7-235" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marks</span><span class="op">:</span> [</span>
+<span id="cb7-236"><a href="#cb7-236" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">barY</span>(minor_data<span class="op">,</span></span>
+<span id="cb7-237"><a href="#cb7-237" aria-hidden="true" tabindex="-1"></a>        Plot<span class="op">.</span><span class="fu">groupX</span>(</span>
+<span id="cb7-238"><a href="#cb7-238" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">y</span><span class="op">:</span> <span class="st">"count"</span>}<span class="op">,</span> </span>
+<span id="cb7-239"><a href="#cb7-239" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">x</span><span class="op">:</span> <span class="st">"pitches"</span>}<span class="op">,</span></span>
+<span id="cb7-240"><a href="#cb7-240" aria-hidden="true" tabindex="-1"></a>                               ))<span class="op">,</span></span>
+<span id="cb7-241"><a href="#cb7-241" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">ruleY</span>([<span class="dv">0</span>])<span class="op">,</span></span>
+<span id="cb7-242"><a href="#cb7-242" aria-hidden="true" tabindex="-1"></a>  ]</span>
+<span id="cb7-243"><a href="#cb7-243" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<div>
+<div id="ojs-cell-7-1" data-nodetype="declaration">
 
+</div>
+</div>
+</div>
+<div class="cell-output cell-output-display">
+<div>
+<div id="ojs-cell-7-2" data-nodetype="expression">
 
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="tabset-3-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-3-2-tab">
+<div class="cell">
+<div class="sourceCode cell-code hidden" id="cb8" data-startfrom="250" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 249;"><span id="cb8-250"><a href="#cb8-250" aria-hidden="true" tabindex="-1"></a>Plot<span class="op">.</span><span class="fu">plot</span>({</span>
+<span id="cb8-251"><a href="#cb8-251" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marginBottom</span><span class="op">:</span> <span class="dv">100</span><span class="op">,</span></span>
+<span id="cb8-252"><a href="#cb8-252" aria-hidden="true" tabindex="-1"></a>  <span class="dt">y</span><span class="op">:</span> {<span class="dt">grid</span><span class="op">:</span> <span class="kw">true</span>}<span class="op">,</span></span>
+<span id="cb8-253"><a href="#cb8-253" aria-hidden="true" tabindex="-1"></a>  <span class="dt">x</span><span class="op">:</span> {</span>
+<span id="cb8-254"><a href="#cb8-254" aria-hidden="true" tabindex="-1"></a>    <span class="dt">label</span><span class="op">:</span> <span class="kw">null</span><span class="op">,</span></span>
+<span id="cb8-255"><a href="#cb8-255" aria-hidden="true" tabindex="-1"></a>    <span class="dt">tickRotate</span><span class="op">:</span> <span class="dv">90</span><span class="op">,</span></span>
+<span id="cb8-256"><a href="#cb8-256" aria-hidden="true" tabindex="-1"></a>    <span class="dt">domain</span><span class="op">:</span> [</span>
+<span id="cb8-257"><a href="#cb8-257" aria-hidden="true" tabindex="-1"></a>       <span class="st">"G3"</span><span class="op">,</span><span class="st">"Ab3"</span><span class="op">,</span><span class="st">"A3"</span><span class="op">,</span><span class="st">"Bb3"</span><span class="op">,</span><span class="st">"B3"</span><span class="op">,</span><span class="st">"C4"</span><span class="op">,</span><span class="st">"C#4"</span><span class="op">,</span><span class="st">"D4"</span><span class="op">,</span><span class="st">"D#4"</span><span class="op">,</span> <span class="st">"Eb5"</span><span class="op">,</span>    </span>
+<span id="cb8-258"><a href="#cb8-258" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E4"</span><span class="op">,</span><span class="st">"F4"</span><span class="op">,</span><span class="st">"F#4"</span><span class="op">,</span><span class="st">"G4"</span><span class="op">,</span></span>
+<span id="cb8-259"><a href="#cb8-259" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"G#4"</span><span class="op">,</span> <span class="st">"A4"</span><span class="op">,</span> <span class="st">"A#4"</span><span class="op">,</span> <span class="st">"Bb4"</span><span class="op">,</span><span class="st">"B4"</span><span class="op">,</span></span>
+<span id="cb8-260"><a href="#cb8-260" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"C5"</span><span class="op">,</span><span class="st">"C#5"</span><span class="op">,</span><span class="st">"Db5"</span><span class="op">,</span> <span class="st">"D5"</span><span class="op">,</span><span class="st">"Eb5"</span><span class="op">,</span></span>
+<span id="cb8-261"><a href="#cb8-261" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E5"</span><span class="op">,</span><span class="st">"F5"</span><span class="op">,</span><span class="st">"F#5"</span><span class="op">,</span><span class="st">"Gb5"</span><span class="op">,</span><span class="st">"G5"</span><span class="op">,</span><span class="st">"G#5"</span><span class="op">,</span></span>
+<span id="cb8-262"><a href="#cb8-262" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"Ab5"</span><span class="op">,</span><span class="st">"A5"</span><span class="op">,</span> <span class="st">"A#5"</span><span class="op">,</span> <span class="st">"Bb5"</span><span class="op">,</span></span>
+<span id="cb8-263"><a href="#cb8-263" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"B5"</span><span class="op">,</span><span class="st">"C6"</span><span class="op">,</span> <span class="st">"C#6"</span><span class="op">,</span> <span class="st">"Db6"</span><span class="op">,</span><span class="st">"D6"</span>]</span>
+<span id="cb8-264"><a href="#cb8-264" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
+<span id="cb8-265"><a href="#cb8-265" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marks</span><span class="op">:</span> [</span>
+<span id="cb8-266"><a href="#cb8-266" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">barY</span>(minor_data<span class="op">,</span> </span>
+<span id="cb8-267"><a href="#cb8-267" aria-hidden="true" tabindex="-1"></a>        Plot<span class="op">.</span><span class="fu">groupX</span>(</span>
+<span id="cb8-268"><a href="#cb8-268" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">y</span><span class="op">:</span> <span class="st">"proportion"</span>}<span class="op">,</span> </span>
+<span id="cb8-269"><a href="#cb8-269" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">x</span><span class="op">:</span> <span class="st">"pitches"</span>}<span class="op">,</span></span>
+<span id="cb8-270"><a href="#cb8-270" aria-hidden="true" tabindex="-1"></a>                               ))<span class="op">,</span></span>
+<span id="cb8-271"><a href="#cb8-271" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">ruleY</span>([<span class="dv">0</span>])<span class="op">,</span></span>
+<span id="cb8-272"><a href="#cb8-272" aria-hidden="true" tabindex="-1"></a>  ]</span>
+<span id="cb8-273"><a href="#cb8-273" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<div id="ojs-cell-8" data-nodetype="expression">
+
+</div>
+</div>
+</div>
+</div>
+<div id="tabset-3-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-3-3-tab">
+<div class="cell">
+<div class="sourceCode cell-code hidden" id="cb9" data-startfrom="279" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 278;"><span id="cb9-279"><a href="#cb9-279" aria-hidden="true" tabindex="-1"></a>Plot<span class="op">.</span><span class="fu">plot</span>({</span>
+<span id="cb9-280"><a href="#cb9-280" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marginBottom</span><span class="op">:</span> <span class="dv">100</span><span class="op">,</span></span>
+<span id="cb9-281"><a href="#cb9-281" aria-hidden="true" tabindex="-1"></a>  <span class="dt">y</span><span class="op">:</span> {<span class="dt">grid</span><span class="op">:</span> <span class="kw">true</span>}<span class="op">,</span></span>
+<span id="cb9-282"><a href="#cb9-282" aria-hidden="true" tabindex="-1"></a>  <span class="dt">x</span><span class="op">:</span> {</span>
+<span id="cb9-283"><a href="#cb9-283" aria-hidden="true" tabindex="-1"></a>    <span class="dt">label</span><span class="op">:</span> <span class="kw">null</span><span class="op">,</span></span>
+<span id="cb9-284"><a href="#cb9-284" aria-hidden="true" tabindex="-1"></a>    <span class="dt">tickRotate</span><span class="op">:</span> <span class="dv">90</span><span class="op">,</span></span>
+<span id="cb9-285"><a href="#cb9-285" aria-hidden="true" tabindex="-1"></a>    <span class="dt">domain</span><span class="op">:</span> [</span>
+<span id="cb9-286"><a href="#cb9-286" aria-hidden="true" tabindex="-1"></a>       <span class="st">"G3"</span><span class="op">,</span><span class="st">"Ab3"</span><span class="op">,</span><span class="st">"A3"</span><span class="op">,</span><span class="st">"Bb3"</span><span class="op">,</span><span class="st">"B3"</span><span class="op">,</span><span class="st">"C4"</span><span class="op">,</span><span class="st">"C#4"</span><span class="op">,</span><span class="st">"D4"</span><span class="op">,</span><span class="st">"D#4"</span><span class="op">,</span> <span class="st">"Eb5"</span><span class="op">,</span>    </span>
+<span id="cb9-287"><a href="#cb9-287" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E4"</span><span class="op">,</span><span class="st">"F4"</span><span class="op">,</span><span class="st">"F#4"</span><span class="op">,</span><span class="st">"G4"</span><span class="op">,</span></span>
+<span id="cb9-288"><a href="#cb9-288" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"G#4"</span><span class="op">,</span> <span class="st">"A4"</span><span class="op">,</span> <span class="st">"A#4"</span><span class="op">,</span> <span class="st">"Bb4"</span><span class="op">,</span><span class="st">"B4"</span><span class="op">,</span></span>
+<span id="cb9-289"><a href="#cb9-289" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"C5"</span><span class="op">,</span><span class="st">"C#5"</span><span class="op">,</span><span class="st">"Db5"</span><span class="op">,</span> <span class="st">"D5"</span><span class="op">,</span><span class="st">"Eb5"</span><span class="op">,</span></span>
+<span id="cb9-290"><a href="#cb9-290" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E5"</span><span class="op">,</span><span class="st">"F5"</span><span class="op">,</span><span class="st">"F#5"</span><span class="op">,</span><span class="st">"Gb5"</span><span class="op">,</span><span class="st">"G5"</span><span class="op">,</span><span class="st">"G#5"</span><span class="op">,</span></span>
+<span id="cb9-291"><a href="#cb9-291" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"Ab5"</span><span class="op">,</span><span class="st">"A5"</span><span class="op">,</span> <span class="st">"A#5"</span><span class="op">,</span> <span class="st">"Bb5"</span><span class="op">,</span></span>
+<span id="cb9-292"><a href="#cb9-292" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"B5"</span><span class="op">,</span><span class="st">"C6"</span><span class="op">,</span> <span class="st">"C#6"</span><span class="op">,</span> <span class="st">"Db6"</span><span class="op">,</span><span class="st">"D6"</span>]</span>
+<span id="cb9-293"><a href="#cb9-293" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
+<span id="cb9-294"><a href="#cb9-294" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marks</span><span class="op">:</span> [</span>
+<span id="cb9-295"><a href="#cb9-295" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">barY</span>(minor_data<span class="op">,</span> </span>
+<span id="cb9-296"><a href="#cb9-296" aria-hidden="true" tabindex="-1"></a>        Plot<span class="op">.</span><span class="fu">groupX</span>(</span>
+<span id="cb9-297"><a href="#cb9-297" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">y</span><span class="op">:</span> <span class="st">"sum"</span>}<span class="op">,</span> </span>
+<span id="cb9-298"><a href="#cb9-298" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">x</span><span class="op">:</span> <span class="st">"pitches"</span><span class="op">,</span> <span class="dt">y</span><span class="op">:</span> <span class="st">"durations"</span>}<span class="op">,</span></span>
+<span id="cb9-299"><a href="#cb9-299" aria-hidden="true" tabindex="-1"></a>                               ))<span class="op">,</span></span>
+<span id="cb9-300"><a href="#cb9-300" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">ruleY</span>([<span class="dv">0</span>])<span class="op">,</span></span>
+<span id="cb9-301"><a href="#cb9-301" aria-hidden="true" tabindex="-1"></a>  ]</span>
+<span id="cb9-302"><a href="#cb9-302" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<div id="ojs-cell-9" data-nodetype="expression">
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Data can be found <a href="raised_fourth.csv">here</a></p>
 </section>
+<section id="raised-fourth" class="level2">
+<h2 class="anchored" data-anchor-id="raised-fourth">Raised Fourth</h2>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-4-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-1" role="tab" aria-controls="tabset-4-1" aria-selected="true">Count Data</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-2" role="tab" aria-controls="tabset-4-2" aria-selected="false">Percentage</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-3" role="tab" aria-controls="tabset-4-3" aria-selected="false">Cumulative Duration</a></li></ul>
+<div class="tab-content">
+<div id="tabset-4-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-4-1-tab">
+<div class="cell">
+<div class="sourceCode cell-code hidden" id="cb10" data-startfrom="317" data-source-offset="-1"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 316;"><span id="cb10-317"><a href="#cb10-317" aria-hidden="true" tabindex="-1"></a>raised_fourth_data <span class="op">=</span> <span class="fu">FileAttachment</span>(<span class="st">"raised_fourth.csv"</span>)<span class="op">.</span><span class="fu">csv</span>({<span class="dt">typed</span><span class="op">:</span> <span class="kw">true</span>})</span>
+<span id="cb10-318"><a href="#cb10-318" aria-hidden="true" tabindex="-1"></a>Plot<span class="op">.</span><span class="fu">plot</span>({</span>
+<span id="cb10-319"><a href="#cb10-319" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marginBottom</span><span class="op">:</span> <span class="dv">100</span><span class="op">,</span></span>
+<span id="cb10-320"><a href="#cb10-320" aria-hidden="true" tabindex="-1"></a>  <span class="dt">y</span><span class="op">:</span> {<span class="dt">grid</span><span class="op">:</span> <span class="kw">true</span>}<span class="op">,</span></span>
+<span id="cb10-321"><a href="#cb10-321" aria-hidden="true" tabindex="-1"></a>  <span class="dt">x</span><span class="op">:</span> {</span>
+<span id="cb10-322"><a href="#cb10-322" aria-hidden="true" tabindex="-1"></a>    <span class="dt">label</span><span class="op">:</span> <span class="kw">null</span><span class="op">,</span></span>
+<span id="cb10-323"><a href="#cb10-323" aria-hidden="true" tabindex="-1"></a>    <span class="dt">tickRotate</span><span class="op">:</span> <span class="dv">90</span><span class="op">,</span></span>
+<span id="cb10-324"><a href="#cb10-324" aria-hidden="true" tabindex="-1"></a>    <span class="dt">domain</span><span class="op">:</span> [</span>
+<span id="cb10-325"><a href="#cb10-325" aria-hidden="true" tabindex="-1"></a>       <span class="st">"G3"</span><span class="op">,</span><span class="st">"Ab3"</span><span class="op">,</span><span class="st">"A3"</span><span class="op">,</span><span class="st">"Bb3"</span><span class="op">,</span><span class="st">"B3"</span><span class="op">,</span><span class="st">"C4"</span><span class="op">,</span><span class="st">"C#4"</span><span class="op">,</span><span class="st">"D4"</span><span class="op">,</span><span class="st">"D#4"</span><span class="op">,</span> <span class="st">"Eb5"</span><span class="op">,</span>    </span>
+<span id="cb10-326"><a href="#cb10-326" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E4"</span><span class="op">,</span><span class="st">"F4"</span><span class="op">,</span><span class="st">"F#4"</span><span class="op">,</span><span class="st">"G4"</span><span class="op">,</span></span>
+<span id="cb10-327"><a href="#cb10-327" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"G#4"</span><span class="op">,</span> <span class="st">"A4"</span><span class="op">,</span> <span class="st">"A#4"</span><span class="op">,</span> <span class="st">"Bb4"</span><span class="op">,</span><span class="st">"B4"</span><span class="op">,</span></span>
+<span id="cb10-328"><a href="#cb10-328" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"C5"</span><span class="op">,</span><span class="st">"C#5"</span><span class="op">,</span><span class="st">"Db5"</span><span class="op">,</span> <span class="st">"D5"</span><span class="op">,</span><span class="st">"Eb5"</span><span class="op">,</span></span>
+<span id="cb10-329"><a href="#cb10-329" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E5"</span><span class="op">,</span><span class="st">"F5"</span><span class="op">,</span><span class="st">"F#5"</span><span class="op">,</span><span class="st">"Gb5"</span><span class="op">,</span><span class="st">"G5"</span><span class="op">,</span><span class="st">"G#5"</span><span class="op">,</span></span>
+<span id="cb10-330"><a href="#cb10-330" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"Ab5"</span><span class="op">,</span><span class="st">"A5"</span><span class="op">,</span> <span class="st">"A#5"</span><span class="op">,</span> <span class="st">"Bb5"</span><span class="op">,</span></span>
+<span id="cb10-331"><a href="#cb10-331" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"B5"</span><span class="op">,</span><span class="st">"C6"</span><span class="op">,</span> <span class="st">"C#6"</span><span class="op">,</span> <span class="st">"Db6"</span><span class="op">,</span><span class="st">"D6"</span>]</span>
+<span id="cb10-332"><a href="#cb10-332" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
+<span id="cb10-333"><a href="#cb10-333" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-334"><a href="#cb10-334" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marks</span><span class="op">:</span> [</span>
+<span id="cb10-335"><a href="#cb10-335" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">barY</span>(raised_fourth_data<span class="op">,</span></span>
+<span id="cb10-336"><a href="#cb10-336" aria-hidden="true" tabindex="-1"></a>        Plot<span class="op">.</span><span class="fu">groupX</span>(</span>
+<span id="cb10-337"><a href="#cb10-337" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">y</span><span class="op">:</span> <span class="st">"count"</span>}<span class="op">,</span> </span>
+<span id="cb10-338"><a href="#cb10-338" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">x</span><span class="op">:</span> <span class="st">"pitches"</span>}<span class="op">,</span></span>
+<span id="cb10-339"><a href="#cb10-339" aria-hidden="true" tabindex="-1"></a>                               ))<span class="op">,</span></span>
+<span id="cb10-340"><a href="#cb10-340" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">ruleY</span>([<span class="dv">0</span>])<span class="op">,</span></span>
+<span id="cb10-341"><a href="#cb10-341" aria-hidden="true" tabindex="-1"></a>  ]</span>
+<span id="cb10-342"><a href="#cb10-342" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<div>
+<div id="ojs-cell-10-1" data-nodetype="declaration">
+
+</div>
+</div>
+</div>
+<div class="cell-output cell-output-display">
+<div>
+<div id="ojs-cell-10-2" data-nodetype="expression">
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="tabset-4-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-4-2-tab">
+<div class="cell">
+<div class="sourceCode cell-code hidden" id="cb11" data-startfrom="349" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 348;"><span id="cb11-349"><a href="#cb11-349" aria-hidden="true" tabindex="-1"></a>Plot<span class="op">.</span><span class="fu">plot</span>({</span>
+<span id="cb11-350"><a href="#cb11-350" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marginBottom</span><span class="op">:</span> <span class="dv">100</span><span class="op">,</span></span>
+<span id="cb11-351"><a href="#cb11-351" aria-hidden="true" tabindex="-1"></a>  <span class="dt">y</span><span class="op">:</span> {<span class="dt">grid</span><span class="op">:</span> <span class="kw">true</span>}<span class="op">,</span></span>
+<span id="cb11-352"><a href="#cb11-352" aria-hidden="true" tabindex="-1"></a>  <span class="dt">x</span><span class="op">:</span> {</span>
+<span id="cb11-353"><a href="#cb11-353" aria-hidden="true" tabindex="-1"></a>    <span class="dt">label</span><span class="op">:</span> <span class="kw">null</span><span class="op">,</span></span>
+<span id="cb11-354"><a href="#cb11-354" aria-hidden="true" tabindex="-1"></a>    <span class="dt">tickRotate</span><span class="op">:</span> <span class="dv">90</span><span class="op">,</span></span>
+<span id="cb11-355"><a href="#cb11-355" aria-hidden="true" tabindex="-1"></a>    <span class="dt">domain</span><span class="op">:</span> [</span>
+<span id="cb11-356"><a href="#cb11-356" aria-hidden="true" tabindex="-1"></a>       <span class="st">"G3"</span><span class="op">,</span><span class="st">"Ab3"</span><span class="op">,</span><span class="st">"A3"</span><span class="op">,</span><span class="st">"Bb3"</span><span class="op">,</span><span class="st">"B3"</span><span class="op">,</span><span class="st">"C4"</span><span class="op">,</span><span class="st">"C#4"</span><span class="op">,</span><span class="st">"D4"</span><span class="op">,</span><span class="st">"D#4"</span><span class="op">,</span> <span class="st">"Eb5"</span><span class="op">,</span>    </span>
+<span id="cb11-357"><a href="#cb11-357" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E4"</span><span class="op">,</span><span class="st">"F4"</span><span class="op">,</span><span class="st">"F#4"</span><span class="op">,</span><span class="st">"G4"</span><span class="op">,</span></span>
+<span id="cb11-358"><a href="#cb11-358" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"G#4"</span><span class="op">,</span> <span class="st">"A4"</span><span class="op">,</span> <span class="st">"A#4"</span><span class="op">,</span> <span class="st">"Bb4"</span><span class="op">,</span><span class="st">"B4"</span><span class="op">,</span></span>
+<span id="cb11-359"><a href="#cb11-359" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"C5"</span><span class="op">,</span><span class="st">"C#5"</span><span class="op">,</span><span class="st">"Db5"</span><span class="op">,</span> <span class="st">"D5"</span><span class="op">,</span><span class="st">"Eb5"</span><span class="op">,</span></span>
+<span id="cb11-360"><a href="#cb11-360" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E5"</span><span class="op">,</span><span class="st">"F5"</span><span class="op">,</span><span class="st">"F#5"</span><span class="op">,</span><span class="st">"Gb5"</span><span class="op">,</span><span class="st">"G5"</span><span class="op">,</span><span class="st">"G#5"</span><span class="op">,</span></span>
+<span id="cb11-361"><a href="#cb11-361" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"Ab5"</span><span class="op">,</span><span class="st">"A5"</span><span class="op">,</span> <span class="st">"A#5"</span><span class="op">,</span> <span class="st">"Bb5"</span><span class="op">,</span></span>
+<span id="cb11-362"><a href="#cb11-362" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"B5"</span><span class="op">,</span><span class="st">"C6"</span><span class="op">,</span> <span class="st">"C#6"</span><span class="op">,</span> <span class="st">"Db6"</span><span class="op">,</span><span class="st">"D6"</span>]</span>
+<span id="cb11-363"><a href="#cb11-363" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
+<span id="cb11-364"><a href="#cb11-364" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marks</span><span class="op">:</span> [</span>
+<span id="cb11-365"><a href="#cb11-365" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">barY</span>(raised_fourth_data<span class="op">,</span> </span>
+<span id="cb11-366"><a href="#cb11-366" aria-hidden="true" tabindex="-1"></a>        Plot<span class="op">.</span><span class="fu">groupX</span>(</span>
+<span id="cb11-367"><a href="#cb11-367" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">y</span><span class="op">:</span> <span class="st">"proportion"</span>}<span class="op">,</span> </span>
+<span id="cb11-368"><a href="#cb11-368" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">x</span><span class="op">:</span> <span class="st">"pitches"</span>}<span class="op">,</span></span>
+<span id="cb11-369"><a href="#cb11-369" aria-hidden="true" tabindex="-1"></a>                               ))<span class="op">,</span></span>
+<span id="cb11-370"><a href="#cb11-370" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">ruleY</span>([<span class="dv">0</span>])<span class="op">,</span></span>
+<span id="cb11-371"><a href="#cb11-371" aria-hidden="true" tabindex="-1"></a>  ]</span>
+<span id="cb11-372"><a href="#cb11-372" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<div id="ojs-cell-11" data-nodetype="expression">
+
+</div>
+</div>
+</div>
+</div>
+<div id="tabset-4-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-4-3-tab">
+<div class="cell">
+<div class="sourceCode cell-code hidden" id="cb12" data-startfrom="378" data-source-offset="0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 377;"><span id="cb12-378"><a href="#cb12-378" aria-hidden="true" tabindex="-1"></a>Plot<span class="op">.</span><span class="fu">plot</span>({</span>
+<span id="cb12-379"><a href="#cb12-379" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marginBottom</span><span class="op">:</span> <span class="dv">100</span><span class="op">,</span></span>
+<span id="cb12-380"><a href="#cb12-380" aria-hidden="true" tabindex="-1"></a>  <span class="dt">y</span><span class="op">:</span> {<span class="dt">grid</span><span class="op">:</span> <span class="kw">true</span>}<span class="op">,</span></span>
+<span id="cb12-381"><a href="#cb12-381" aria-hidden="true" tabindex="-1"></a>  <span class="dt">x</span><span class="op">:</span> {</span>
+<span id="cb12-382"><a href="#cb12-382" aria-hidden="true" tabindex="-1"></a>    <span class="dt">label</span><span class="op">:</span> <span class="kw">null</span><span class="op">,</span></span>
+<span id="cb12-383"><a href="#cb12-383" aria-hidden="true" tabindex="-1"></a>    <span class="dt">tickRotate</span><span class="op">:</span> <span class="dv">90</span><span class="op">,</span></span>
+<span id="cb12-384"><a href="#cb12-384" aria-hidden="true" tabindex="-1"></a>    <span class="dt">domain</span><span class="op">:</span> [</span>
+<span id="cb12-385"><a href="#cb12-385" aria-hidden="true" tabindex="-1"></a>       <span class="st">"G3"</span><span class="op">,</span><span class="st">"Ab3"</span><span class="op">,</span><span class="st">"A3"</span><span class="op">,</span><span class="st">"Bb3"</span><span class="op">,</span><span class="st">"B3"</span><span class="op">,</span><span class="st">"C4"</span><span class="op">,</span><span class="st">"C#4"</span><span class="op">,</span><span class="st">"D4"</span><span class="op">,</span><span class="st">"D#4"</span><span class="op">,</span> <span class="st">"Eb5"</span><span class="op">,</span>    </span>
+<span id="cb12-386"><a href="#cb12-386" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E4"</span><span class="op">,</span><span class="st">"F4"</span><span class="op">,</span><span class="st">"F#4"</span><span class="op">,</span><span class="st">"G4"</span><span class="op">,</span></span>
+<span id="cb12-387"><a href="#cb12-387" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"G#4"</span><span class="op">,</span> <span class="st">"A4"</span><span class="op">,</span> <span class="st">"A#4"</span><span class="op">,</span> <span class="st">"Bb4"</span><span class="op">,</span><span class="st">"B4"</span><span class="op">,</span></span>
+<span id="cb12-388"><a href="#cb12-388" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"C5"</span><span class="op">,</span><span class="st">"C#5"</span><span class="op">,</span><span class="st">"Db5"</span><span class="op">,</span> <span class="st">"D5"</span><span class="op">,</span><span class="st">"Eb5"</span><span class="op">,</span></span>
+<span id="cb12-389"><a href="#cb12-389" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"E5"</span><span class="op">,</span><span class="st">"F5"</span><span class="op">,</span><span class="st">"F#5"</span><span class="op">,</span><span class="st">"Gb5"</span><span class="op">,</span><span class="st">"G5"</span><span class="op">,</span><span class="st">"G#5"</span><span class="op">,</span></span>
+<span id="cb12-390"><a href="#cb12-390" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"Ab5"</span><span class="op">,</span><span class="st">"A5"</span><span class="op">,</span> <span class="st">"A#5"</span><span class="op">,</span> <span class="st">"Bb5"</span><span class="op">,</span></span>
+<span id="cb12-391"><a href="#cb12-391" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"B5"</span><span class="op">,</span><span class="st">"C6"</span><span class="op">,</span> <span class="st">"C#6"</span><span class="op">,</span> <span class="st">"Db6"</span><span class="op">,</span><span class="st">"D6"</span>]</span>
+<span id="cb12-392"><a href="#cb12-392" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
+<span id="cb12-393"><a href="#cb12-393" aria-hidden="true" tabindex="-1"></a>  <span class="dt">marks</span><span class="op">:</span> [</span>
+<span id="cb12-394"><a href="#cb12-394" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">barY</span>(raised_fourth_data<span class="op">,</span> </span>
+<span id="cb12-395"><a href="#cb12-395" aria-hidden="true" tabindex="-1"></a>        Plot<span class="op">.</span><span class="fu">groupX</span>(</span>
+<span id="cb12-396"><a href="#cb12-396" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">y</span><span class="op">:</span> <span class="st">"sum"</span>}<span class="op">,</span> </span>
+<span id="cb12-397"><a href="#cb12-397" aria-hidden="true" tabindex="-1"></a>          {<span class="dt">x</span><span class="op">:</span> <span class="st">"pitches"</span><span class="op">,</span> <span class="dt">y</span><span class="op">:</span> <span class="st">"durations"</span>}<span class="op">,</span></span>
+<span id="cb12-398"><a href="#cb12-398" aria-hidden="true" tabindex="-1"></a>                               ))<span class="op">,</span></span>
+<span id="cb12-399"><a href="#cb12-399" aria-hidden="true" tabindex="-1"></a>    Plot<span class="op">.</span><span class="fu">ruleY</span>([<span class="dv">0</span>])<span class="op">,</span></span>
+<span id="cb12-400"><a href="#cb12-400" aria-hidden="true" tabindex="-1"></a>  ]</span>
+<span id="cb12-401"><a href="#cb12-401" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<div id="ojs-cell-12" data-nodetype="expression">
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Data can be found <a href="raised_fourth.csv">here</a></p>
+
+
 </section>
 
 </main> <!-- /main -->
 <script type="ojs-module-contents">
-{"contents":[{"methodName":"interpret","cellName":"ojs-cell-1","inline":false,"source":"data = FileAttachment(\"freygish_1.csv\").csv({typed: true})\n"},{"methodName":"interpret","cellName":"ojs-cell-2","inline":false,"source":"Plot.plot({\n  marginBottom: 100,\n  y: {grid: true},\n  x: {\n    label: null,\n    tickRotate: 90,\n    domain: [\n       \"C4\",\"C#4\",\"D4\",\"D#4\", \"Eb5\",    \n                    \"E4\",\"F4\",\"F#4\",\"G4\",\n                    \"G#4\", \"A4\", \"A#4\", \"Bb4\",\"B4\",\n                    \"C5\",\"C#5\",\"Db5\", \"D5\",\"Eb5\",\n                    \"E5\",\"F5\",\"F#5\",\"Gb5\",\"G5\",\"G#5\",\n                    \"Ab5\",\"A5\", \"A#5\", \"Bb5\",\n                    \"B5\",\"C6\", \"C#6\", \"Db6\",\"D6\", \n                    \"D#6\",\"Eb6\",\"E6\",\"F6\",\"F#6\",\"Gb6\",\"G6\"]\n  },\n\n  marks: [\n    Plot.barY(data,\n        Plot.groupX(\n          {y: \"count\"}, \n          {x: \"pitches\"},\n                               )),\n    Plot.ruleY([0]),\n  ]\n})\n\n"}]}
+{"contents":[{"methodName":"interpret","cellName":"ojs-cell-1","inline":false,"source":"\ndata = FileAttachment(\"freygish_1.csv\").csv({typed: true})\nPlot.plot({\n  marginBottom: 100,\n  y: {grid: true},\n  x: {\n    label: null,\n    tickRotate: 90,\n    domain: [\n       \"G3\",\"Ab3\",\"A3\",\"Bb3\",\"B3\",\"C4\",\"C#4\",\"D4\",\"D#4\", \"Eb5\",    \n                    \"E4\",\"F4\",\"F#4\",\"G4\",\n                    \"G#4\", \"A4\", \"A#4\", \"Bb4\",\"B4\",\n                    \"C5\",\"C#5\",\"Db5\", \"D5\",\"Eb5\",\n                    \"E5\",\"F5\",\"F#5\",\"Gb5\",\"G5\",\"G#5\",\n                    \"Ab5\",\"A5\", \"A#5\", \"Bb5\",\n                    \"B5\",\"C6\", \"C#6\", \"Db6\",\"D6\"]\n  },\n\n  marks: [\n    Plot.barY(data,\n        Plot.groupX(\n          {y: \"count\"}, \n          {x: \"pitches\"},\n                               )),\n    Plot.ruleY([0]),\n  ]\n})\n\n"},{"methodName":"interpret","cellName":"ojs-cell-2","inline":false,"source":"Plot.plot({\n  marginBottom: 100,\n  y: {grid: true},\n  x: {\n    label: null,\n    tickRotate: 90,\n    domain: [\n       \"G3\",\"Ab3\",\"A3\",\"Bb3\",\"B3\",\"C4\",\"C#4\",\"D4\",\"D#4\", \"Eb5\",    \n                    \"E4\",\"F4\",\"F#4\",\"G4\",\n                    \"G#4\", \"A4\", \"A#4\", \"Bb4\",\"B4\",\n                    \"C5\",\"C#5\",\"Db5\", \"D5\",\"Eb5\",\n                    \"E5\",\"F5\",\"F#5\",\"Gb5\",\"G5\",\"G#5\",\n                    \"Ab5\",\"A5\", \"A#5\", \"Bb5\",\n                    \"B5\",\"C6\", \"C#6\", \"Db6\",\"D6\"]\n  },\n  marks: [\n    Plot.barY(data, \n        Plot.groupX(\n          {y: \"proportion\"}, \n          {x: \"pitches\"},\n                               )),\n    Plot.ruleY([0]),\n  ]\n})\n"},{"methodName":"interpret","cellName":"ojs-cell-3","inline":false,"source":"Plot.plot({\n  marginBottom: 100,\n  y: {grid: true},\n  x: {\n    label: null,\n    tickRotate: 90,\n    domain: [\n       \"G3\",\"Ab3\",\"A3\",\"Bb3\",\"B3\",\"C4\",\"C#4\",\"D4\",\"D#4\", \"Eb5\",    \n                    \"E4\",\"F4\",\"F#4\",\"G4\",\n                    \"G#4\", \"A4\", \"A#4\", \"Bb4\",\"B4\",\n                    \"C5\",\"C#5\",\"Db5\", \"D5\",\"Eb5\",\n                    \"E5\",\"F5\",\"F#5\",\"Gb5\",\"G5\",\"G#5\",\n                    \"Ab5\",\"A5\", \"A#5\", \"Bb5\",\n                    \"B5\",\"C6\", \"C#6\", \"Db6\",\"D6\"]\n  },\n  marks: [\n    Plot.barY(data, \n        Plot.groupX(\n          {y: \"sum\"}, \n          {x: \"pitches\", y: \"durations\"},\n                               )),\n    Plot.ruleY([0]),\n  ]\n})\n"},{"methodName":"interpret","cellName":"ojs-cell-4","inline":false,"source":"\nmajor_data = FileAttachment(\"major_1.csv\").csv({typed: true})\nPlot.plot({\n  marginBottom: 100,\n  y: {grid: true},\n  x: {\n    label: null,\n    tickRotate: 90,\n    domain: [\n       \"G3\",\"Ab3\",\"A3\",\"Bb3\",\"B3\",\"C4\",\"C#4\",\"D4\",\"D#4\", \"Eb5\",    \n                    \"E4\",\"F4\",\"F#4\",\"G4\",\n                    \"G#4\", \"A4\", \"A#4\", \"Bb4\",\"B4\",\n                    \"C5\",\"C#5\",\"Db5\", \"D5\",\"Eb5\",\n                    \"E5\",\"F5\",\"F#5\",\"Gb5\",\"G5\",\"G#5\",\n                    \"Ab5\",\"A5\", \"A#5\", \"Bb5\",\n                    \"B5\",\"C6\", \"C#6\", \"Db6\",\"D6\"]\n  },\n\n  marks: [\n    Plot.barY(major_data,\n        Plot.groupX(\n          {y: \"count\"}, \n          {x: \"pitches\"},\n                               )),\n    Plot.ruleY([0]),\n  ]\n})\n\n"},{"methodName":"interpret","cellName":"ojs-cell-5","inline":false,"source":"Plot.plot({\n  marginBottom: 100,\n  y: {grid: true},\n  x: {\n    label: null,\n    tickRotate: 90,\n    domain: [\n       \"G3\",\"Ab3\",\"A3\",\"Bb3\",\"B3\",\"C4\",\"C#4\",\"D4\",\"D#4\", \"Eb5\",    \n                    \"E4\",\"F4\",\"F#4\",\"G4\",\n                    \"G#4\", \"A4\", \"A#4\", \"Bb4\",\"B4\",\n                    \"C5\",\"C#5\",\"Db5\", \"D5\",\"Eb5\",\n                    \"E5\",\"F5\",\"F#5\",\"Gb5\",\"G5\",\"G#5\",\n                    \"Ab5\",\"A5\", \"A#5\", \"Bb5\",\n                    \"B5\",\"C6\", \"C#6\", \"Db6\",\"D6\"]\n  },\n  marks: [\n    Plot.barY(major_data, \n        Plot.groupX(\n          {y: \"proportion\"}, \n          {x: \"pitches\"},\n                               )),\n    Plot.ruleY([0]),\n  ]\n})\n"},{"methodName":"interpret","cellName":"ojs-cell-6","inline":false,"source":"Plot.plot({\n  marginBottom: 100,\n  y: {grid: true},\n  x: {\n    label: null,\n    tickRotate: 90,\n    domain: [\n       \"G3\",\"Ab3\",\"A3\",\"Bb3\",\"B3\",\"C4\",\"C#4\",\"D4\",\"D#4\", \"Eb5\",    \n                    \"E4\",\"F4\",\"F#4\",\"G4\",\n                    \"G#4\", \"A4\", \"A#4\", \"Bb4\",\"B4\",\n                    \"C5\",\"C#5\",\"Db5\", \"D5\",\"Eb5\",\n                    \"E5\",\"F5\",\"F#5\",\"Gb5\",\"G5\",\"G#5\",\n                    \"Ab5\",\"A5\", \"A#5\", \"Bb5\",\n                    \"B5\",\"C6\", \"C#6\", \"Db6\",\"D6\"]\n  },\n  marks: [\n    Plot.barY(major_data, \n        Plot.groupX(\n          {y: \"sum\"}, \n          {x: \"pitches\", y: \"durations\"},\n                               )),\n    Plot.ruleY([0]),\n ]\n})\n"},{"methodName":"interpret","cellName":"ojs-cell-7","inline":false,"source":"\nminor_data = FileAttachment(\"minor.csv\").csv({typed: true})\nPlot.plot({\n  marginBottom: 100,\n  y: {grid: true},\n  x: {\n    label: null,\n    tickRotate: 90,\n    domain: [\n       \"G3\",\"Ab3\",\"A3\",\"Bb3\",\"B3\",\"C4\",\"C#4\",\"D4\",\"D#4\", \"Eb5\",    \n                    \"E4\",\"F4\",\"F#4\",\"G4\",\n                    \"G#4\", \"A4\", \"A#4\", \"Bb4\",\"B4\",\n                    \"C5\",\"C#5\",\"Db5\", \"D5\",\"Eb5\",\n                    \"E5\",\"F5\",\"F#5\",\"Gb5\",\"G5\",\"G#5\",\n                    \"Ab5\",\"A5\", \"A#5\", \"Bb5\",\n                    \"B5\",\"C6\", \"C#6\", \"Db6\",\"D6\"]\n  },\n\n  marks: [\n    Plot.barY(minor_data,\n        Plot.groupX(\n          {y: \"count\"}, \n          {x: \"pitches\"},\n                               )),\n    Plot.ruleY([0]),\n  ]\n})\n\n"},{"methodName":"interpret","cellName":"ojs-cell-8","inline":false,"source":"Plot.plot({\n  marginBottom: 100,\n  y: {grid: true},\n  x: {\n    label: null,\n    tickRotate: 90,\n    domain: [\n       \"G3\",\"Ab3\",\"A3\",\"Bb3\",\"B3\",\"C4\",\"C#4\",\"D4\",\"D#4\", \"Eb5\",    \n                    \"E4\",\"F4\",\"F#4\",\"G4\",\n                    \"G#4\", \"A4\", \"A#4\", \"Bb4\",\"B4\",\n                    \"C5\",\"C#5\",\"Db5\", \"D5\",\"Eb5\",\n                    \"E5\",\"F5\",\"F#5\",\"Gb5\",\"G5\",\"G#5\",\n                    \"Ab5\",\"A5\", \"A#5\", \"Bb5\",\n                    \"B5\",\"C6\", \"C#6\", \"Db6\",\"D6\"]\n  },\n  marks: [\n    Plot.barY(minor_data, \n        Plot.groupX(\n          {y: \"proportion\"}, \n          {x: \"pitches\"},\n                               )),\n    Plot.ruleY([0]),\n  ]\n})\n"},{"methodName":"interpret","cellName":"ojs-cell-9","inline":false,"source":"Plot.plot({\n  marginBottom: 100,\n  y: {grid: true},\n  x: {\n    label: null,\n    tickRotate: 90,\n    domain: [\n       \"G3\",\"Ab3\",\"A3\",\"Bb3\",\"B3\",\"C4\",\"C#4\",\"D4\",\"D#4\", \"Eb5\",    \n                    \"E4\",\"F4\",\"F#4\",\"G4\",\n                    \"G#4\", \"A4\", \"A#4\", \"Bb4\",\"B4\",\n                    \"C5\",\"C#5\",\"Db5\", \"D5\",\"Eb5\",\n                    \"E5\",\"F5\",\"F#5\",\"Gb5\",\"G5\",\"G#5\",\n                    \"Ab5\",\"A5\", \"A#5\", \"Bb5\",\n                    \"B5\",\"C6\", \"C#6\", \"Db6\",\"D6\"]\n  },\n  marks: [\n    Plot.barY(minor_data, \n        Plot.groupX(\n          {y: \"sum\"}, \n          {x: \"pitches\", y: \"durations\"},\n                               )),\n    Plot.ruleY([0]),\n  ]\n})\n"},{"methodName":"interpret","cellName":"ojs-cell-10","inline":false,"source":"\nraised_fourth_data = FileAttachment(\"raised_fourth.csv\").csv({typed: true})\nPlot.plot({\n  marginBottom: 100,\n  y: {grid: true},\n  x: {\n    label: null,\n    tickRotate: 90,\n    domain: [\n       \"G3\",\"Ab3\",\"A3\",\"Bb3\",\"B3\",\"C4\",\"C#4\",\"D4\",\"D#4\", \"Eb5\",    \n                    \"E4\",\"F4\",\"F#4\",\"G4\",\n                    \"G#4\", \"A4\", \"A#4\", \"Bb4\",\"B4\",\n                    \"C5\",\"C#5\",\"Db5\", \"D5\",\"Eb5\",\n                    \"E5\",\"F5\",\"F#5\",\"Gb5\",\"G5\",\"G#5\",\n                    \"Ab5\",\"A5\", \"A#5\", \"Bb5\",\n                    \"B5\",\"C6\", \"C#6\", \"Db6\",\"D6\"]\n  },\n\n  marks: [\n    Plot.barY(raised_fourth_data,\n        Plot.groupX(\n          {y: \"count\"}, \n          {x: \"pitches\"},\n                               )),\n    Plot.ruleY([0]),\n  ]\n})\n\n"},{"methodName":"interpret","cellName":"ojs-cell-11","inline":false,"source":"Plot.plot({\n  marginBottom: 100,\n  y: {grid: true},\n  x: {\n    label: null,\n    tickRotate: 90,\n    domain: [\n       \"G3\",\"Ab3\",\"A3\",\"Bb3\",\"B3\",\"C4\",\"C#4\",\"D4\",\"D#4\", \"Eb5\",    \n                    \"E4\",\"F4\",\"F#4\",\"G4\",\n                    \"G#4\", \"A4\", \"A#4\", \"Bb4\",\"B4\",\n                    \"C5\",\"C#5\",\"Db5\", \"D5\",\"Eb5\",\n                    \"E5\",\"F5\",\"F#5\",\"Gb5\",\"G5\",\"G#5\",\n                    \"Ab5\",\"A5\", \"A#5\", \"Bb5\",\n                    \"B5\",\"C6\", \"C#6\", \"Db6\",\"D6\"]\n  },\n  marks: [\n    Plot.barY(raised_fourth_data, \n        Plot.groupX(\n          {y: \"proportion\"}, \n          {x: \"pitches\"},\n                               )),\n    Plot.ruleY([0]),\n  ]\n})\n"},{"methodName":"interpret","cellName":"ojs-cell-12","inline":false,"source":"Plot.plot({\n  marginBottom: 100,\n  y: {grid: true},\n  x: {\n    label: null,\n    tickRotate: 90,\n    domain: [\n       \"G3\",\"Ab3\",\"A3\",\"Bb3\",\"B3\",\"C4\",\"C#4\",\"D4\",\"D#4\", \"Eb5\",    \n                    \"E4\",\"F4\",\"F#4\",\"G4\",\n                    \"G#4\", \"A4\", \"A#4\", \"Bb4\",\"B4\",\n                    \"C5\",\"C#5\",\"Db5\", \"D5\",\"Eb5\",\n                    \"E5\",\"F5\",\"F#5\",\"Gb5\",\"G5\",\"G#5\",\n                    \"Ab5\",\"A5\", \"A#5\", \"Bb5\",\n                    \"B5\",\"C6\", \"C#6\", \"Db6\",\"D6\"]\n  },\n  marks: [\n    Plot.barY(raised_fourth_data, \n        Plot.groupX(\n          {y: \"sum\"}, \n          {x: \"pitches\", y: \"durations\"},\n                               )),\n    Plot.ruleY([0]),\n  ]\n})\n"}]}
 </script>
 <script type="module">
 if (window.location.protocol === "file:") { alert("The OJS runtime does not work with file:// URLs. Please use a web server to view this document."); }
