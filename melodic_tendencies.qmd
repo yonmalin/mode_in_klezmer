@@ -105,6 +105,7 @@ bigram_bar <- function(mode){
 
 bigram_table(freygish)
 
+
 ```
 
 

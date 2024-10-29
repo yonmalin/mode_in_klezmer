@@ -10,5 +10,5 @@ df <- read.csv("data/beregovski-metadata.tsv", sep="\t", header=TRUE)
 df <- df |> clean_names()
 df <- df |>  select(tune, genre, mode, modulation_pathway, modulation_measures, one_mode, mode_notes)
 df |>          
-    datatable(filter="top", rownames=FALSE)
+    datatable(filter="top", rownames=FALSE, escape=FALSE)
 ```
