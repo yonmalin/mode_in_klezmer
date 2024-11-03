@@ -15,7 +15,7 @@ library(tidyverse)
 ```
 
 
-```{r, echo=F, warning=FALSE, message=FALSE, eval=FALSE}
+```{r, echo=F, warning=FALSE, message=FALSE}
 freygish <- readHumdrum('corpus/extracts/freygish/*.krn')
 freygish |> 
     pitch(simple = FALSE) |>
