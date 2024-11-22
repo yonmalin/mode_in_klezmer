@@ -8,9 +8,10 @@
 *k[b-e-]
 *g:
 *M2/4
-*>A
 *>bM
 *B-:
+*>A
+!LO:TX:a:i:t=Bb-major
 8dd
 =1
 (16ddLL
@@ -29,6 +30,7 @@
 (8ddL
 16ccL
 16b-JJ)
+*>A1
 =3
 8.ccL
 16b-Jk
@@ -38,6 +40,7 @@
 16ee-JJ
 =4
 4.dd
+*>A2
 =5:|!
 8.ccLL
 16b-JJ
@@ -50,6 +53,7 @@
 *>eM
 *g:
 *>B
+!LO:TX:a:i:t=G-minor
 8a
 =7!|:
 8gL
@@ -71,6 +75,7 @@
 16a)
 (16a
 16gJJ)
+*>B1
 =9
 8gL
 16aL
@@ -82,6 +87,7 @@
 =10
 8cc
 4.dd
+*>B2
 =11:|!
 8.b-L
 16aJk
@@ -95,6 +101,7 @@
 *B-:
 ==12
 *>C
+!LO:TX:a:i:t=Bb-major
 8fn
 =13
 4.ff

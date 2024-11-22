@@ -84,6 +84,7 @@
 *k[b-e-]
 *>bM
 *B-:
+!LO:TX:a:i:t=Bb-major
 4f
 4b-
 8ddL
@@ -138,6 +139,7 @@
 *>eM
 *>bM
 *G:frey
+!LO:TX:a:i:t=G-freygish
 =29
 4bn
 4dd
@@ -188,10 +190,12 @@
 12ccL
 12bn
 12a-J
+*>C1
 =39
 2.g
 =40
 2.gg
+*>C2
 =41:|!
 (8gL
 8a-J)

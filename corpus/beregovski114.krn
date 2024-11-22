@@ -13,6 +13,7 @@
 *M2/4
 =1-
 *>A
+!LO:TX:a:i:t=G-minor
 (>8qd/
 *^
 8gL)	2G
@@ -56,6 +57,7 @@
 =7:|!|:
 *>B
 *k[b-]
+!LO:TX:a:i:t=G-dorian
 (>16aLL
 16b-
 16cc#X
@@ -106,8 +108,10 @@
 8cc#L
 16b-L
 16aJJ
+*>B1
 =14
 2g
+*>B2
 =15:|!
 4.g
 8cc#X
@@ -248,6 +252,7 @@
 =40:|!|:
 *>D
 *k[f#]
+!LO:TX:a:i:t=G-major
 4.bn
 16ddLL
 16ccJJ
@@ -288,6 +293,7 @@
 16a)
 (<16a
 16gJJ)
+*>D1
 =47
 16aLL
 16bJ
@@ -296,11 +302,13 @@
 16d
 16g
 16aJJ
+*>D2
 =48:|!
 16aLL
 16bJJ
 4g
 8dd
+*>E
 =49!|:
 16ffnLL
 16ee
@@ -330,6 +338,7 @@
 *g:
 =53:|!
 *k[b-e-]
+!LO:TX:a:i:t=G-minor
 4d
 16f#XLL
 16d

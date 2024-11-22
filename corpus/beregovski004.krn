@@ -78,6 +78,7 @@
 2.g
 *>bM
 *C:
+!LO:TX:a:i:t=C-major
 =17!|:
 *>B
 *k[]
@@ -115,6 +116,7 @@
 2.gg
 *>eM
 *G:frey
+!LO:TX:a:i:t=G-freygish
 =25:|!
 *>C
 *k[b-e-a-]
@@ -149,10 +151,12 @@
 4a-
 (8gL
 8fJ)
+*>C1
 =31
 2.g
 =32
 2.gg
+*>C2
 =33:|!
 4g
 (8qa-/

@@ -4,7 +4,9 @@
 *k[f#]
 *G:
 *M2/4
+*>A
 =1
+!LO:TX:a:i:t=G-major
 8dL
 8g
 8f#
@@ -35,6 +37,7 @@
 8g
 8f#
 8aJ
+*>A1
 =8
 (8gL
 16aL
@@ -42,11 +45,14 @@
 8f#L
 8eJ
 !!linebreak:original
+*>A2
 =9:|!
 2g
+*>B
 =10!|:
 *k[b-e-]
 *g:
+!LO:TX:a:i:t=G-minor
 4a
 4a
 =11
@@ -71,6 +77,7 @@
 16ccJJ
 4b-)
 8a
+*>B1
 =16
 8gL
 8b-
@@ -79,6 +86,7 @@
 =17
 2dd
 !!linebreak:original
+*>B2
 =18:|!
 8gL
 8b-
@@ -87,6 +95,7 @@
 =19
 !LO:TX:b:i:t=Fine
 2g
+*>C
 =20!|:
 2dd
 =21
@@ -130,11 +139,13 @@
 8ccn
 8b-
 8aJ
+*>C1
 =31
 8gL
 8a
 8b-
 8cc#XJ
+*>C2
 =32:|!
 !LO:TX:b:i:t=D.S. [al Fine]
 2g

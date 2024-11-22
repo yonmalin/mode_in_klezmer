@@ -10,6 +10,7 @@
 *g:
 *M3/4
 =1
+!LO:TX:a:i:t=G-minor
 4gg
 4gg
 4gg
@@ -43,6 +44,7 @@
 8aJ)
 *>bM
 *C:frey
+!LO:TX:a:i:t=C-freygish
 =9
 4b-
 4a
@@ -63,6 +65,7 @@
 8aJ
 *>eM
 *g:
+!LO:TX:a:i:t=G-minor
 =13
 4b-
 4ddn
@@ -87,6 +90,7 @@
 *>bM
 *B-:
 *>B
+!LO:TX:a:i:t=Bb-major
 24fLL
 24g
 24aJJ
@@ -111,6 +115,7 @@
 4dd
 *>eM
 *g:
+!LO:TX:a:i:t=G-minor
 =21
 4gg
 4gg
@@ -129,6 +134,7 @@
 2.dd
 *>bM
 *B-:
+!LO:TX:a:i:t=Bb-major
 =25
 4cc
 4cc
@@ -169,6 +175,7 @@
 4r
 *>eM
 *g:
+!LO:TX:a:i:t=G-minor
 =33||
 *>C
 (8qb-/

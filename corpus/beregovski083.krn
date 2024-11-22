@@ -12,6 +12,7 @@
 *>bM
 *B-:
 =1
+!LO:TX:a:i:t=Bb-major
 16b-LL
 16dd
 16dd
@@ -56,6 +57,7 @@
 4cc
 *>eM
 *g:
+!LO:TX:a:i:t=G-minor
 =7
 8gL
 16aL
@@ -70,6 +72,7 @@
 *>bM
 *B-:
 *>B
+!LO:TX:a:i:t=Bb-minor
 16aLL
 16b-JJ
 4cc
@@ -109,6 +112,7 @@
 16b-JJ
 *>eM
 *g:
+!LO:TX:a:i:t=G-minor
 =15
 16aLL
 16b-
@@ -143,6 +147,7 @@
 16ccJJ
 *>bM
 *B-:
+!LO:TX:a:i:t=Bb-major
 =19
 8gL
 16aL
@@ -159,6 +164,7 @@
 8B-J
 *>eM
 *g:
+!LO:TX:a:i:t=G-minor
 =21
 16ggLL
 16gg

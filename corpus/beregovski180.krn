@@ -79,6 +79,7 @@
 *k[]
 *>bM
 *C:
+!LO:TX:a:i:t=C-major
 8ccL
 8dd
 8ee
@@ -139,6 +140,7 @@
 *>eM
 *>bM
 *D:frey
+!LO:TX:a:i:t=D-freygish
 =29
 8.ee-XL
 16ddk
@@ -159,6 +161,7 @@
 =33||
 *>C
 *k[b-e-a-]
+!LO:TX:a:i:t=G-freygish
 8.ee-L
 16ddJk
 12ee-L

@@ -82,6 +82,7 @@
 *k[f#]
 *>bM
 *G:
+!LO:TX:a:i:t=G-major
 2b
 =18
 2cc
@@ -127,6 +128,7 @@
 4g
 *>eM
 *g:dor
+!LO:TX:a:i:t=G-dorian
 =30
 4a
 4b-X
@@ -160,6 +162,7 @@
 8gJ
 8aL
 8b-J
+*>C1
 =38
 8dd
 4dd
@@ -174,6 +177,7 @@
 8cc#XJ)
 8dd)
 8r
+*>C2
 =41:|!
 8cc#XL
 8ddJ

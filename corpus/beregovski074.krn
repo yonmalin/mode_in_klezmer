@@ -102,6 +102,7 @@
 *>bM
 *B-:
 *>B
+!LO:TX:a:i:t=Bb-major
 2f
 8b-L
 8ccJ
@@ -169,6 +170,7 @@
 8aL)
 8gJ
 *g:
+!LO:TX:a:i:t=G-minor
 =29
 (4.dd
 16b-LL
@@ -186,8 +188,10 @@
 4dd
 8b-L
 8ddJ
+*>B1
 =32
 2.g
+*>B2
 =:|!
 2g
 =33||

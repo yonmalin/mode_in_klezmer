@@ -66,6 +66,7 @@
 8g
 *>bM
 *c:
+!LO:TX:a:i:t=C-minor
 =9!|:
 8gL
 8cc
@@ -92,6 +93,7 @@
 *>eM
 *>bM
 *E-:
+!LO:TX:a:i:t=Eb-major
 =13
 8b-L
 8ee-
@@ -166,6 +168,7 @@
 *>eM
 *>bM
 *c:
+!LO:TX:a:i:t=C-minor
 =25||
 8ggL
 8ggJ
@@ -193,6 +196,7 @@
 16ee-
 16dd
 16ccJJ
+*>bM1
 =30
 4.ee-
 8cc
@@ -208,6 +212,7 @@
 8bn
 8cc
 8ddJ
+*>bM2
 =33:|!
 4.ee-
 (24ggLL

@@ -80,6 +80,7 @@
 2.g
 *>bM
 *C:
+!LO:TX:a:i:t=C-major
 =17||
 *>B
 4g
@@ -101,6 +102,7 @@
 *>eM
 *>bM
 *c:
+!LO:TX:a:i:t=C-minor
 =21
 4g
 4ee-X
@@ -121,6 +123,7 @@
 2.dd)
 *>eM
 *G:frey
+!LO:TX:a:i:t=G-freygish
 =25
 (4gg
 4dd)
