@@ -50,12 +50,14 @@
 8ee-
 8dd
 8ccJ
+*>A1
 =8
 16bnLL
 16cc
 16b
 16ccJJ
 4dd
+*>A2
 =9:|!
 (16bnLL
 16cc)
@@ -64,6 +66,7 @@
 4g
 *>bM
 *c:
+!LO:TX:a:i:t=C-minor
 =10!|:
 *>B
 8g
@@ -88,6 +91,7 @@
 8ccJ
 *>eM
 *G:frey
+!LO:TX:a:i:t=G-freygish
 =14
 8cc
 4ff
@@ -163,6 +167,7 @@
 2g
 *>bM
 *C:
+!LO:TX:a:i:t=C-major
 =26||
 *>D
 *k[]
@@ -222,6 +227,7 @@
 *>eM
 *>bM
 *c:
+!LO:TX:a:i:t=C-minor
 =38!|:
 *>E
 *k[b-e-a-]
@@ -247,6 +253,7 @@
 8ff
 8ee-
 8ddJ
+*>E1
 =41
 (16ddLL
 16gg)
@@ -256,6 +263,7 @@
 16gg)
 16gg
 16ggJJ
+*>E2
 =42:|!
 2cc
 *>eM

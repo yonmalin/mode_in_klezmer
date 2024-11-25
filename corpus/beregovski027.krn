@@ -62,6 +62,7 @@
 16cc
 16b
 16a-JJ
+*>A1
 =8
 (16a-LL
 16gJ)
@@ -71,6 +72,7 @@
 32a-
 32g
 32a-JJJ)
+*>A2
 =:|!
 (16a-LL
 16gJ)
@@ -140,6 +142,7 @@
 24gJJ
 *>bM
 *c:
+!LO:TX:a:i:t=C-minor
 =18||
 *k[b-e-]
 =18||
@@ -166,6 +169,7 @@
 *>eM
 *>bM
 *B-:
+!LO:TX:a:i:t=Bb-major
 =22
 4.b-X
 16ccLL
@@ -190,6 +194,7 @@
 *>eM
 *>bM
 *c:
+!LO:TX:a:i:t=C-minor
 =26
 (4.cc
 16ddLL)
@@ -215,6 +220,7 @@
 *>eM
 *>bM
 *B-:
+!LO:TX:a:i:t=Bb-major
 =30
 4.b-X
 16ccLL
@@ -233,10 +239,11 @@
 =33
 8b-X
 8r
-*>D
 *>eM
 *G:frey
+!LO:TX:a:i:t=G-freygish
 4bn
+*>D
 =34!|:
 (16bnLL
 16ddJ
@@ -288,9 +295,11 @@
 16g
 16a-
 16fJJ
+*>D1
 =41
 4g
 4gg
+*>D2
 =42:|!
 4g
 8r

@@ -118,6 +118,7 @@
 *>B
 *k[b-]
 *F:
+!LO:TX:a:i:t=F-major
 (8qc/
 4f)
 4a
@@ -165,6 +166,7 @@
 8ddJ
 *>eM
 *G:frey
+!LO:TX:a:i:t=G-freygish
 =23
 (8qcc/
 2bn)
@@ -176,6 +178,7 @@
 2.g)
 *>bM
 *F:
+!LO:TX:a:i:t=F-major
 =25
 (8qc/
 8f)
@@ -219,6 +222,7 @@
 8ccJ)
 *>eM
 *G:frey
+!LO:TX:a:i:t=G-freygish
 =31
 2bn
 16a-XLL

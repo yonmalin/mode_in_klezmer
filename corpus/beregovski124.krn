@@ -117,6 +117,7 @@
 *c:
 =21||
 *>B
+!LO:TX:a:i:t=C-minor
 4gg
 4dd
 =22
@@ -162,6 +163,7 @@
 *>eM
 *>bM
 *B-:
+!LO:TX:a:i:t=Bb-major
 =29
 4ff
 4cc
@@ -227,6 +229,7 @@
 4cc
 *>eM
 *g:
+!LO:TX:a:i:t=G-minor
 =41
 8b-
 4ee-
@@ -240,10 +243,12 @@
 4cc
 16b-LL
 16aJJ
+*>eM1
 =44
 8gL
 8aJ
 4f
+*>eM2
 =45:|!
 2g
 ==

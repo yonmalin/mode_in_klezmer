@@ -69,6 +69,7 @@
 *>bM
 *c:
 *>B
+!LO:TX:a:i:t=C-minor
 4ff
 4gg
 4aa-
@@ -99,13 +100,16 @@
 4ee-
 =23
 2.dd
+*>B1
 =24
 2.gg
+*>B2
 =25:|!
 2gg
 4g
 *>eM
 *G:frey
+!LO:TX:a:i:t=G-freygish
 =26!|:
 *>C
 4f

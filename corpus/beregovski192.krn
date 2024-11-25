@@ -11,6 +11,7 @@
 *>bM
 *B-:
 *>A
+!LO:TX:a:i:t=Bb-major
 8ff
 =1
 8ffL
@@ -44,6 +45,7 @@
 4r
 *>eM
 *g:
+!LO:TX:a:i:t=G-minor
 =9
 8ffL
 8ggJ
@@ -79,6 +81,7 @@
 *>B
 *>bM
 *B-:
+!LO:TX:a:i:t=Bb-major
 8f
 =17
 8fL
@@ -135,6 +138,7 @@
 4cc
 *>eM
 *g:
+!LO:TX:a:i:t=G-minor
 =29
 8ddL
 8ccJ

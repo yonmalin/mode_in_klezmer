@@ -13,6 +13,7 @@
 *>bM
 *c:
 =1
+!LO:TX:a:i:t=C-minor
 4g
 4cc
 4ee-
@@ -58,6 +59,7 @@
 4g
 *>eM
 *G:frey
+!LO:TX:a:i:t=G-freygish
 =13
 4bn
 4dd
@@ -76,6 +78,7 @@
 2.g
 *>bM
 *c:
+!LO:TX:a:i:t=C-minor
 =17||
 *>B
 4gg
@@ -113,6 +116,7 @@
 4dd
 *>eM
 *G:frey
+!LO:TX:a:i:t=G-freygish
 =25
 8ffL
 8gg

@@ -11,6 +11,7 @@
 *g:
 *M4/4
 *>A
+!LO:TX:a:i:t=G-major
 8f
 =1!|:
 (4f
@@ -77,6 +78,7 @@
 16a
 16g
 16aJJ)
+!LO:TX:a:i:t=Bb-major
 =8
 8b-L
 (8qcc/
@@ -90,6 +92,7 @@
 *g:
 =9:|!|:
 *>B
+!LO:TX:a:i:t=G-minor
 4gg
 4dd
 4cc
@@ -167,6 +170,7 @@
 2g
 *>bM
 *B-:
+!LO:TX:a:i:t=Bb-major
 =17:|!|:
 *>C
 (16qqf/LL
@@ -260,6 +264,7 @@
 2b-)
 *>eM
 *g:
+!LO:TX:a:i:t=G-minor
 =25:|!|:
 *>D
 (16qqg\LL

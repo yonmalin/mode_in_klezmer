@@ -65,9 +65,11 @@
 16cc
 16b
 16a-JJ
+*>A1
 =8
 4g
 4gg
+*>A2
 =9:|!
 [4g
 8gL]
@@ -78,6 +80,7 @@
 =10!|:
 *k[b-]
 *>B
+!LO:TX:a:i:t=F-major
 4cc
 8b-L
 16aL
@@ -118,6 +121,7 @@
 16gJJ
 *>eM
 *G:frey
+!LO:TX:a:i:t=G-freygish
 =16
 16fLL
 16bn
@@ -125,12 +129,14 @@
 16ccJJ
 8.bL
 16a-XJk
+*>eM1
 =17
 (<16a-XLL
 16gJJ)
 4g
 16fLL
 16anJJ
+*>eM2
 =18:|!
 (16a-XLL
 16gJJ)
@@ -141,6 +147,7 @@
 =19!|:
 *>C
 *k[]
+!LO:TX:a:i:t=C-major
 (>4.ccT
 8g)
 =20
@@ -190,6 +197,7 @@
 *>eM
 *>bM
 *D:frey
+!LO:TX:a:i:t=D-freygish
 16ff#XLL
 16dd
 16aa
@@ -208,6 +216,7 @@
 *G:frey
 *>D
 *k[b-e-a-]
+!LO:TX:a:i:t=G-freygish
 4gg
 16ffLL
 16ee-

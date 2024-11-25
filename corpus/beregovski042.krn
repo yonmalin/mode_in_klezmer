@@ -186,6 +186,7 @@
 4gg
 *:>bM
 *B-:
+!LO:TX:a:i:t=Bb-major
 =29||
 *>D
 8fL
@@ -244,6 +245,7 @@
 *>eM
 *g:
 *>E
+!LO:TX:a:i:t=G-minor
 8dd
 =37
 (8.bb-L
@@ -268,6 +270,7 @@
 8r
 *>bM
 *D:frey
+!LO:TX:a:i:t=D-freygish
 8ff#
 =41
 (16ff#XLL
@@ -299,10 +302,11 @@
 16ddJ
 8ddJ
 8r
-*>F
 *>eM
 *g:
+!LO:TX:a:i:t=G-minor
 8dd
+*>F
 =45!|:
 (8.bb-L
 16aaJk)
@@ -351,12 +355,14 @@
 16cc
 16b-
 16aJJ
+*>F1
 =52
 16aLL
 16b-J
 8gJ
 8r
 8dd
+*>F2
 =53:|!
 (16aLL
 16b-J)

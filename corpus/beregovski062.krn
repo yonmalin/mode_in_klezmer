@@ -99,6 +99,7 @@
 *>B
 *k[b-]
 *F:
+!LO:TX:a:i:t=F-major
 8fL
 8aJ
 4cc
@@ -135,6 +136,7 @@
 4f
 *>eM
 *G:frey
+!LO:TX:a:i:t=G-freygish
 =28||
 *>C
 *k[b-e-a-]
@@ -168,9 +170,11 @@
 8a-J
 =34
 2g
+*>C1
 =35
 4.g
 8c
+*>C2
 =36:|!
 4.g
 8bn
@@ -262,12 +266,14 @@
 16ccLL
 16bnJ
 8a-J
+*>D1
 =59
 (4.g
 8gg)
 =60
 4.g
 8c
+*>D2
 =61:|!
 2g
 =62

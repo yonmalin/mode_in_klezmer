@@ -60,8 +60,10 @@
 24ccLL
 24b
 24a-JJ
+*>A1
 =8
 4g
+*>A2
 =9:|!
 4g
 8g
@@ -69,6 +71,7 @@
 *>bM
 *c:
 *>B
+!LO:TX:a:i:t=C-minor
 16ccLL
 16cc
 16cc
@@ -115,6 +118,7 @@
 *>eM
 *>bM
 *c:dor
+!LO:TX:a:i:t=C-dorian
 =16
 16ff#XLL
 16aanJJ
@@ -136,6 +140,7 @@
 *>eM
 *G:frey
 *>C
+!LO:TX:a:i:t=G-freygish
 4ffn
 8ee-
 =21
@@ -208,9 +213,11 @@
 16a-JJ
 =34
 4.g
+*>C1
 =35
 4gg
 8gg
+*>C2
 =36:|!
 8G 8d 8bn 8gg
 8r

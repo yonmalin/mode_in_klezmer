@@ -129,6 +129,7 @@
 24ccc#X
 24bb-J
 8dddJ
+*>B1
 =16
 32dddLLL
 32ccc#XJ
@@ -138,6 +139,7 @@
 16ggJJ
 8..ggL
 32ddJkk
+*>B2
 =:|!
 32dddLLL
 32ccc#XJ
@@ -147,12 +149,13 @@
 16ggJJ
 16r
 =17||
-*>C
 *>bM
 *B-:
+!LO:TX:a:i:t=Bb-major
 16fLL
 16b-
 16ddJJ
+*>C
 =18!|:
 [4ff
 16ffLL]
@@ -250,6 +253,7 @@
 16ff)
 (16a
 16ccJJ)
+*>C1
 =29
 (16ccLL
 16b-J)
@@ -258,6 +262,7 @@
 16f
 16b-
 16ddJJ
+*>C2
 =30:|!|:
 (16ccLL
 16b-JJ)
@@ -265,6 +270,7 @@
 8cc
 *>eM
 *g:
+!LO:TX:a:i:t=G-minor
 =31
 *>D
 (16dd-XLL
@@ -333,9 +339,11 @@
 24b-L
 24a
 24gJJ)
+*>D1
 =38
 4.g
 8ccn
+*>D2
 =39:|!
 8g
 8d 8cc 8ff#X

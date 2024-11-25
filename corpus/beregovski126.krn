@@ -12,6 +12,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=C-dorian
 8r
 8gL
 8cc
@@ -41,8 +42,10 @@
 12ee-L
 12dd
 12ccJ
+*>A1
 =8
 2dd
+*>A2
 =9:|!
 4..cc
 *>B
@@ -79,6 +82,7 @@
 16ccJJ)
 *>eM
 *G:frey
+!LO:TX:a:i:t=G-freygish
 =14
 16bnLL
 16ccJJ
@@ -90,8 +94,6 @@
 8ddJ
 8.ccL
 16ccJk
-*>eM
-*G:frey
 =16
 16bnLL
 16cc

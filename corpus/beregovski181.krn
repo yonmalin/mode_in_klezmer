@@ -36,6 +36,7 @@
 4.g
 *>bM
 *c:
+!LO:TX:a:i:t=C-minor
 8g
 =5
 4.cc
@@ -54,6 +55,7 @@
 8r
 *>eM
 *G:frey
+!LO:TX:a:i:t=G-freygish
 8cc
 =9!|:
 *>B
@@ -83,11 +85,13 @@
 8gJ
 (8qb/
 8a-J)
+*>B1
 =15
 2g
 =16
 4.gg
 8gg
+*>B2
 =17:|!
 2g
 =18
@@ -116,6 +120,7 @@
 4g
 *>bM
 *c:
+!LO:TX:a:i:t=C-minor
 8g
 =23
 8ccL
@@ -144,6 +149,7 @@
 8r
 *>eM
 *G:frey
+!LO:TX:a:i:t=G-freygish
 8dd
 =27
 (16ddLL
@@ -194,6 +200,7 @@ B1
 8gJ
 (8qb/
 8a-J)
+*>eM1
 =37
 4g
 (8bnL
@@ -205,6 +212,7 @@ B1
 16ddJJ
 (8.ggL)
 16ffJk)
+*>eM2
 =39:|!
 2g
 =
@@ -214,6 +222,7 @@ B1
 *>bM
 *F:
 *>D
+!LO:TX:a:i:t=F-major
 24gLL
 24a
 24gJJ
@@ -260,6 +269,7 @@ B1
 8fJ
 *>eM
 *G:frey
+!LO:TX:a:i:t=G-freygish
 =49
 8gL
 8bn
@@ -293,11 +303,13 @@ B1
 16a-X
 16g
 16fJJ
+*>eM1
 =55
 2g
 =56
 4.gg
 8r
+*>eM2
 =57:|!
 2g
 =58

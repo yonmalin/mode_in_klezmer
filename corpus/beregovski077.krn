@@ -10,6 +10,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=C-minor
 16gLL
 16gJ
 8gJ
@@ -33,6 +34,7 @@
 8ggJ
 =4
 2cc
+!LO:TX:a:i:t=Bb-major
 =5
 16ccLL
 16cc
@@ -59,6 +61,7 @@
 =8
 4.b-
 8r
+!LO:TX:a:i:t=G-minor
 =9:|!
 4.b-
 16r
