@@ -8,7 +8,7 @@ library(DT)
 library(janitor)
 df <- read.csv("data/beregovski-metadata.tsv", sep="\t", header=TRUE)
 df <- df |> clean_names()
-df <- df |>  select(tune, genre, mode, modulation_pathway, source, source_type, modulation_measures, one_mode, mode_notes)
+df <- df |>  select(tune, genre, mode, modulation_pathway, source, source_type, source_instrument_or_voice, modulation_measures, one_mode, mode_notes)
 df |>          
     datatable(filter="top", rownames=FALSE, escape=FALSE)
 ```

@@ -99,7 +99,7 @@ bigram_bar <- function(mode){
 
 
 
-## Freygish
+## G Freygish
 
 ```{r, freygish-bigram-table, echo=F, warnings=FALSE, message=FALSE}
 
@@ -115,7 +115,7 @@ bigram_bar(freygish)
 ```
 
 
-## Raised Fourth
+## G Raised Fourth
 
 ```{r, raised-fourth-bigram-table, echo=F, warnings=FALSE, message=FALSE}
 
@@ -130,7 +130,7 @@ bigram_bar(raised_four)
 ```
 
 
-## Major
+## G Major
 
 
 
@@ -145,7 +145,7 @@ bigram_bar(major)
 
 
 
-## Minor
+## G Minor
 ```{r, minor-bigram-table, echo=F, warnings=FALSE, message=FALSE}
 
 bigram_table(minor)
