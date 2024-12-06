@@ -6,6 +6,7 @@
 !!!Orig_tonic: C
 **kern
 *clefG2
+*>[A,A1,A,A2,B,B1,B,B2,C]
 *k[b-e-]
 *g:
 *M3/4
