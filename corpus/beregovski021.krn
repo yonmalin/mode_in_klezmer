@@ -1,3 +1,4 @@
+!!!OTL: 21. Doyne, metric section only
 !!!Genre:	Doyne
 !!!Mode:	Freygish
 !!!Listening/dance:	listening
@@ -11,6 +12,7 @@
 *G:frey
 *M2/4
 *>A
+!LO:TX:a:i:t=G-freygish
 =1
 8gL
 16dL
@@ -70,9 +72,9 @@
 16ee-)
 (16ee-
 16ddJJ)
-((16qqdd/LL
+(16qqdd/LL
 16qqee-/JJ
-16ddLL)
+(16ddLL)
 16cc)
 (16cc
 16bnJJ)
