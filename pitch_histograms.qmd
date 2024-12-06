@@ -17,7 +17,7 @@ library(humdrumR)
 
 data = FileAttachment("freygish_1.csv").csv({typed: true})
 Plot.plot({
-  width: 900,
+  width: 800,
   marginBottom: 100,
   y: {grid: true},
   x: {
@@ -51,7 +51,7 @@ Plot.plot({
  
 ```{ojs, echo=FALSE}
 Plot.plot({
-  width: 900,
+  width: 800,
   marginBottom: 100,
   y: {grid: true},
   x: {
@@ -83,7 +83,7 @@ Plot.plot({
 Please note that the durations are calculated here based on quarter notes.
 ```{ojs, echo=FALSE}
 Plot.plot({
-  width: 900,
+  width: 800,
   marginBottom: 100,
   y: {grid: true},
   x: {
@@ -125,7 +125,7 @@ Data can be found [here](freygish_1.csv)
 
 raised_fourth_data = FileAttachment("raised_fourth.csv").csv({typed: true})
 Plot.plot({
-  width: 900,
+  width: 800,
   marginBottom: 100,
   y: {grid: true},
   x: {
@@ -159,7 +159,7 @@ Plot.plot({
  
 ```{ojs, echo=FALSE}
 Plot.plot({
-  width: 900,
+  width: 800,
   marginBottom: 100,
   y: {grid: true},
   x: {
@@ -191,7 +191,7 @@ Plot.plot({
 Please note that the durations are calculated here based on quarter notes.
 ```{ojs, echo=FALSE}
 Plot.plot({
-  width: 900,
+  width: 800,
   marginBottom: 100,
   y: {grid: true},
   x: {
@@ -233,7 +233,7 @@ Data can be found [here](raised_fourth.csv)
 
 major_data = FileAttachment("major_1.csv").csv({typed: true})
 Plot.plot({
-  width: 900,
+  width: 800,
   marginBottom: 100,
   y: {grid: true},
   x: {
@@ -267,7 +267,7 @@ Plot.plot({
  
 ```{ojs, echo=FALSE}
 Plot.plot({
-  width: 900,
+  width: 800,
   marginBottom: 100,
   y: {grid: true},
   x: {
@@ -298,7 +298,7 @@ Plot.plot({
 Please note that the durations are calculated here based on quarter notes.
 ```{ojs, echo=FALSE}
 Plot.plot({
-  width: 900,
+  width: 800,
   marginBottom: 100,
   y: {grid: true},
   x: {
@@ -338,7 +338,7 @@ Data can be found [here](major_1.csv)
 
 minor_data = FileAttachment("minor.csv").csv({typed: true})
 Plot.plot({
-  width: 900,
+  width: 800,
   marginBottom: 100,
   y: {grid: true},
   x: {
@@ -372,7 +372,7 @@ Plot.plot({
  
 ```{ojs, echo=FALSE}
 Plot.plot({
-  width: 900,
+  width: 800,
   marginBottom: 100,
   y: {grid: true},
   x: {
@@ -405,7 +405,7 @@ Please note that the durations are calculated here based on quarter notes.
 
 ```{ojs, echo=FALSE}
 Plot.plot({
-  width: 900,
+  width: 800,
   marginBottom: 100,
   y: {grid: true},
   x: {
