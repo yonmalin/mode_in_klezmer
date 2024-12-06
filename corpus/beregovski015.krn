@@ -11,7 +11,7 @@
 *k[b-e-a-]
 *G:frey
 *M2/4
-*>[A,A1,A,A2,B,B1,B,B2,C1,C2,D,D1,D,D2,A,A1]
+*>[A,A1,A,A2,B,B1,B,B2,C,C1,C,C2,D,D1,D,D2,A,A1]
 *>A
 !LO:TX:a:i:t=G-freygish
 8g
@@ -224,13 +224,13 @@
 8gL]
 *>bM
 *C:
+*>C
 !LO:TX:a:i:t=C-major
 8gJ
 8ccL
 8ddJ
 =37||
 *k[]
-*>C
 2ee
 8qqee/L
 8qqee/
