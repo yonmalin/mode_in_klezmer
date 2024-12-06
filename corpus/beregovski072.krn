@@ -10,8 +10,8 @@
 *g:
 *M3/4
 *>A
-!LO:TX:a:i:t=G-minor
 =1
+!LO:TX:a:i:t=G-minor
 4d
 4g
 4a
@@ -91,7 +91,7 @@
 4r
 *>eM
 *g:
-!LO:TX:a:i:t=G-major
+!LO:TX:a:i:t=G-minor
 =17!|:
 *>C
 4b-
