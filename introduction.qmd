@@ -32,7 +32,9 @@ Malin’s analysis relies on a basic classification of four modes in klezmer mus
 
 For the purposes of this study, Malin tagged mode changes that align with phrases of four bars or longer (see, for instance, the Dobranoch no. 11). Malin also tagged mode changes that occur at cadences leading into new sections (see, for instance, section B from the Freylekhs no. 87). Malin chose not to tag other brief modal shifts, less than a phrase or four measures long. Thus, musical passages used to extract the pitch profile for G minor include brief moments of C minor, Bb major, C freygish, and other modes, which we feel is appropriate. The data for individual modes shows subtle ways in which they interact with each other; the modes are not treated as hermetic entities. The mode analysis page shows Malin’s parsing for all the tunes in the corpus with further notes. 
 
-Malin’s mode analysis answers three basic questions: What is the pitch profile of each mode? What are characteristic melodic tendencies of each mode? And what are characteristic modulation pathways? These questions can be explored with the data in this website; they are addressed directly in the article by Malin and Shanahan. The article and this website may also serve as the basis for comparison with adjacent repertoires from both Jewish and non-Jewish traditions. 
+Malin’s mode analysis answers three basic questions: What is the pitch profile of each mode? What are characteristic melodic tendencies of each mode? And what are characteristic modulation pathways? These questions can be explored with the data in this website; they are addressed directly in the article by Malin and Shanahan. The article and this website may also serve as the basis for comparison with adjacent repertoires from both Jewish and non-Jewish traditions.
+
+We thank Alicia Svigals and Joshua Horowitz for their input on the analysis of selected tunes and the anonymous reviewers of our manuscript for input on the methodology. 
 
 
 ## Additional Details
